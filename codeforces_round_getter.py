@@ -12,12 +12,10 @@ def cf_api_test():
     headers = {'User-Agent': user_agent}
     url_get = requests.get(url, headers=headers, timeout=10)
     url_get_par = json.loads(url_get.text)
-    pattern = "%Y-%m-%d %H:%M:%S"
     res = []
     n = 100
     now = time.localtime()
     now = time.mktime(now)
-    diff = 60 * 60 * 24 * 31
     for i in range(1, n):
         name = url_get_par["result"][i]["name"]
         stime = url_get_par["result"][i]["startTimeSeconds"]
