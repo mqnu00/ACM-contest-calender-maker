@@ -1,3 +1,7 @@
+import datetime
+import pprint
+
+import pytz
 import requests
 import os
 import json
@@ -15,7 +19,10 @@ class Contest:
         self.link = link
 
     def __str__(self):
-        return json.dumps(self.__dict__, ensure_ascii=False)
+        return json.dumps(self.__dict__, ensure_ascii=False, indent=4)
+
+    def __repr__(self):
+        return json.dumps(self.__dict__, ensure_ascii=False, indent=4)
 
 
 def fetch_cf_contest() -> list[Contest]:
@@ -70,7 +77,15 @@ def fetch_luogu_contest() -> list[Contest]:
 
 
 if __name__ == '__main__':
-    # for each in fetch_cf_contest():
-    #     print(each)
-    for each in fetch_luogu_contest():
-        print(each)
+    res = []
+    res = res + fetch_luogu_contest()
+    res = res + fetch_cf_contest()
+    for i in range(0, len(res)):
+        res[i] = res[i].__dict__
+    res = {
+        "refreshTimeStamp": time.time(),
+        "refreshTimeCH": datetime.datetime.utcfromtimestamp(time.time()).replace(tzinfo=pytz.utc).astimezone(pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S'),
+        "contests": res
+    }
+    with open('contest.json', 'w', encoding='utf-8') as f:
+        f.write(json.dumps(res, ensure_ascii=False, indent=4))
