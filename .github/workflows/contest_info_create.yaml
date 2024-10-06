@@ -30,7 +30,7 @@ jobs:
       - name: commit
         env:
           TZ: 'CST-8'
-          emails: ${{ secrets.GITHUB_TOKEN }}
+          emails: ${{ secrets.GITHUB_EMAIL }}
         run: |
           sudo timedatectl set-timezone Asia/Shanghai
           git config --global user.email emails
