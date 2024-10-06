@@ -1,4 +1,4 @@
-from codeforces_round_getter import cf_api_test
+from codeforces_round_getter import fetch_cf_contest
 from icalendar import Calendar, Event
 import datetime
 from pathlib import Path
@@ -50,4 +50,4 @@ def calender_maker(contest_method, calendar_name):
 
 
 if __name__ == '__main__':
-    calender_maker(cf_api_test, 'codeforces-round')
+    calender_maker(fetch_cf_contest, 'codeforces-round')
