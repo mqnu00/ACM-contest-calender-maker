@@ -1,0 +1,86 @@
+{
+    "refreshTimeStamp": 1728250746.4755142,
+    "refreshTimeCH": "2024-10-07 05:39:06",
+    "contests": [
+        {
+            "oj": "luogu",
+            "name": "【LGR-201-Div.3】SCP 2024 第二轮（复赛 J 组）模拟",
+            "stime": 1728779400,
+            "etime": 1728792000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/200686"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-202-Div.2】SCP 2024 第二轮（复赛 S 组）模拟 &「KDOI」Round 10",
+            "stime": 1728801000,
+            "etime": 1728815400,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/200849"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J8】梦熊 CSP-J 2024 模拟赛（同步赛）",
+            "stime": 1729297800,
+            "etime": 1729310400,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/203481"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-S4】梦熊 CSP-S 2024 模拟赛（同步赛）",
+            "stime": 1729319400,
+            "etime": 1729333800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/203482"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1728837300,
+            "etime": 1728844500,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2022"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Educational Codeforces Round 170 (Rated for Div. 2)",
+            "stime": 1728916500,
+            "etime": 1728923700,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2025"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 1)",
+            "stime": 1729415100,
+            "etime": 1729422300,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2023"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1729415100,
+            "etime": 1729422300,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2024"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1729953300,
+            "etime": 1729960500,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2027"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Educational Codeforces Round 171 (Rated for Div. 2)",
+            "stime": 1730126100,
+            "etime": 1730133300,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2026"
+        }
+    ]
+}
