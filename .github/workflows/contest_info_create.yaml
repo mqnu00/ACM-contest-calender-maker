@@ -1,0 +1,47 @@
+name: 'GitHub Actions Contest Info'
+ 
+on:
+  push:
+  schedule:
+  # 定时任务，在每天的22点生成比赛信息
+    - cron: '0 22 * * *'
+  watch:
+    types: [started]
+  workflow_dispatch:
+
+jobs:
+  contest:
+    runs-on: ubuntu-latest
+    steps:
+      # 首先copy git仓库到虚拟机上
+      - name: Checkout codes
+        uses: actions/checkout@v2
+      - name: install python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+      - name: install requirements
+        run: pip3 install -r requirements.txt
+      - name: main
+        run: python3 contest_getter.py
+      # 获取格式化的日期并存入GitHub内置的环境变量中
+      - name: 'Get Date'
+        run: echo "REPORT_DATE=$(TZ=':Asia/Shanghai' date '+%Y-%m-%d %T')" >> $GITHUB_ENV
+      - name: commit
+        env:
+          TZ: 'CST-8'
+          emails: ${{ secrets.EMAIL }}
+        run: |
+          sudo timedatectl set-timezone Asia/Shanghai
+          git config --global user.email emails
+          git config --global user.name GithubActionBot
+          datime=$(date "+%Y年%m月%d日 %H:%M")
+          echo "git commit: push something, $datime"
+          if [ -n "$(git status -s)" ];then
+              git add .
+              git commit -m "make:action push $datime" -a
+          fi
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.TOKEN }}
