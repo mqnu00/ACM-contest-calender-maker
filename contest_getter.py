@@ -6,11 +6,13 @@ import requests
 import os
 import json
 import time
+from bs4 import BeautifulSoup
 
 
 class Contest:
 
-    def __init__(self, oj: str, name: str, stime: str, etime: str, dtime: str, link):
+    def __init__(self, oj: str = None, name: str = None, stime: str = None, etime: str = None, dtime: str = None,
+                 link: str = None):
         self.oj = oj
         self.name = name
         self.stime = stime
@@ -72,20 +74,69 @@ def fetch_luogu_contest() -> list[Contest]:
             link=f'https://www.luogu.com.cn/contest/{i["id"]}'
         )
         res.append(contest)
-    res.sort(key=lambda x:x.stime)
+    res.sort(key=lambda x: x.stime)
+    return res
+
+
+def fetch_atcoder_contest() -> list[Contest]:
+    # url = 'https://atcoder.jp/contests/'
+    # response = requests.get(url)
+    with open('check.html', 'r', encoding='utf-8') as f:
+        content = f.read()
+    content = BeautifulSoup(content, 'html.parser')
+    content = content.find('div', id='contest-table-upcoming')
+    res: list[Contest] = []
+    check = True
+    for row in content.find_all('tr'):
+        if check:
+            check = False
+            continue
+        contest = Contest(oj='atcoder')
+        cells = row.find_all('td')
+        for i in range(0, len(cells)):
+            if i == 0:
+
+                datetime_str = cells[i].find('time').text
+                # 将字符串转换为datetime对象
+                # 注意：+0900表示UTC+9:00时区，需要转换为UTC时间
+                dt = datetime.datetime.strptime(datetime_str, "%Y-%m-%d %H:%M:%S%z")
+
+                # 转换为UTC时间
+                dt_utc = dt.astimezone(datetime.timezone.utc)
+
+                # 将datetime对象转换为时间戳
+                timestamp = int(time.mktime(dt_utc.timetuple()))
+
+                contest.stime = timestamp
+
+            elif i == 1:
+
+                link = 'https://atcoder.jp' + cells[i].find('a').get('href')
+                contest.link = link
+                contest.name = cells[i].find('a').text
+
+            elif i == 2:
+
+                nums = [int(num) for num in cells[i].text.split(':')]
+                contest.dtime = nums[0] * 3600 + nums[1] * 60
+                contest.etime = contest.stime + contest.dtime
+        res.append(contest)
+
+    res.sort(key=lambda x: x.stime)
     return res
 
 
 if __name__ == '__main__':
-    res = []
-    res = res + fetch_luogu_contest()
-    res = res + fetch_cf_contest()
+    res = fetch_atcoder_contest() + fetch_luogu_contest() + fetch_cf_contest()
+    res.sort(key=lambda x: x.stime)
     for i in range(0, len(res)):
         res[i] = res[i].__dict__
     res = {
-        "refreshTimeStamp": time.time(),
-        "refreshTimeCH": datetime.datetime.utcfromtimestamp(time.time()).replace(tzinfo=pytz.utc).astimezone(pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S'),
+        "refreshTimeStamp": int(time.time()),
+        "refreshTimeCH": datetime.datetime.utcfromtimestamp(time.time()).replace(tzinfo=pytz.utc).astimezone(
+            pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S'),
         "contests": res
     }
+    # pprint.pprint(res)
     with open('contest.json', 'w', encoding='utf-8') as f:
         f.write(json.dumps(res, ensure_ascii=False, indent=4))
