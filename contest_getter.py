@@ -79,11 +79,9 @@ def fetch_luogu_contest() -> list[Contest]:
 
 
 def fetch_atcoder_contest() -> list[Contest]:
-    # url = 'https://atcoder.jp/contests/'
-    # response = requests.get(url)
-    with open('check.html', 'r', encoding='utf-8') as f:
-        content = f.read()
-    content = BeautifulSoup(content, 'html.parser')
+    url = 'https://atcoder.jp/contests/'
+    response = requests.get(url).text
+    content = BeautifulSoup(response, 'html.parser')
     content = content.find('div', id='contest-table-upcoming')
     res: list[Contest] = []
     check = True
