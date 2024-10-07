@@ -1,7 +1,15 @@
 {
-    "refreshTimeStamp": 1728252923.779231,
-    "refreshTimeCH": "2024-10-07 06:15:23",
+    "refreshTimeStamp": 1728289204,
+    "refreshTimeCH": "2024-10-07 16:20:04",
     "contests": [
+        {
+            "oj": "atcoder",
+            "name": "Panasonic Programming Contest 2024（AtCoder Beginner Contest 375）",
+            "stime": 1728734400,
+            "etime": 1728740400,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc375"
+        },
         {
             "oj": "luogu",
             "name": "【LGR-201-Div.3】SCP 2024 第二轮（复赛 J 组）模拟",
@@ -19,20 +27,12 @@
             "link": "https://www.luogu.com.cn/contest/200849"
         },
         {
-            "oj": "luogu",
-            "name": "【MX-J8】梦熊 CSP-J 2024 模拟赛（同步赛）",
-            "stime": 1729297800,
-            "etime": 1729310400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/203481"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-S4】梦熊 CSP-S 2024 模拟赛（同步赛）",
-            "stime": 1729319400,
-            "etime": 1729333800,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/203482"
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest 185",
+            "stime": 1728820800,
+            "etime": 1728828000,
+            "dtime": 7200,
+            "link": "https://atcoder.jp/contests/arc185"
         },
         {
             "oj": "codeforces",
@@ -51,6 +51,38 @@
             "link": "https://codeforces.com/contest/2025"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-203-Div.4】洛谷入门赛 #28",
+            "stime": 1729249200,
+            "etime": 1729256400,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/203942"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J8】梦熊 CSP-J 2024 模拟赛（同步赛）",
+            "stime": 1729297800,
+            "etime": 1729310400,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/203481"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-S4】梦熊 CSP-S 2024 模拟赛（同步赛）",
+            "stime": 1729319400,
+            "etime": 1729333800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/203482"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 376",
+            "stime": 1729339200,
+            "etime": 1729345200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc376"
+        },
+        {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 1)",
             "stime": 1729415100,
@@ -67,6 +99,14 @@
             "link": "https://codeforces.com/contest/2024"
         },
         {
+            "oj": "atcoder",
+            "name": "TOYOTA SYSTEMS Programming Contest 2024（AtCoder Beginner Contest 377)",
+            "stime": 1729944000,
+            "etime": 1729950000,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc377"
+        },
+        {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 2)",
             "stime": 1729953300,
@@ -75,12 +115,44 @@
             "link": "https://codeforces.com/contest/2027"
         },
         {
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest 186",
+            "stime": 1730030400,
+            "etime": 1730037600,
+            "dtime": 7200,
+            "link": "https://atcoder.jp/contests/arc186"
+        },
+        {
             "oj": "codeforces",
             "name": "Educational Codeforces Round 171 (Rated for Div. 2)",
             "stime": 1730126100,
             "etime": 1730133300,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2026"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Grand Contest 069",
+            "stime": 1730635200,
+            "etime": 1730646000,
+            "dtime": 10800,
+            "link": "https://atcoder.jp/contests/agc069"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Daiwa Securities Co. Ltd. Programming Contest 2024（AtCoder Beginner Contest 383）",
+            "stime": 1733572800,
+            "etime": 1733578800,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc383"
+        },
+        {
+            "oj": "atcoder",
+            "name": "The 2nd Masters Championship-qual-",
+            "stime": 1740888000,
+            "etime": 1740909600,
+            "dtime": 21600,
+            "link": "https://atcoder.jp/contests/masters2025-qual"
         }
     ]
 }
