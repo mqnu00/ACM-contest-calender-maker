@@ -1,4 +1,5 @@
 import datetime
+import html
 import pprint
 
 import pytz
@@ -11,7 +12,7 @@ from bs4 import BeautifulSoup
 
 class Contest:
 
-    def __init__(self, oj: str = None, name: str = None, stime: str = None, etime: str = None, dtime: str = None,
+    def __init__(self, oj: str = None, name: str = None, stime: int = None, etime: int = None, dtime: int = None,
                  link: str = None):
         self.oj = oj
         self.name = name
@@ -105,7 +106,7 @@ def fetch_atcoder_contest() -> list[Contest]:
                 # 将datetime对象转换为时间戳
                 timestamp = int(time.mktime(dt_utc.timetuple()))
 
-                contest.stime = timestamp
+                contest.stime = timestamp + 8 * 60 * 60
 
             elif i == 1:
 
@@ -124,8 +125,29 @@ def fetch_atcoder_contest() -> list[Contest]:
     return res
 
 
+def fetch_nowcoder_contest() -> list[Contest]:
+    url = 'https://ac.nowcoder.com/acm/contest/vip-index?topCategoryFilter=13'
+    response = requests.get(url)
+    content = BeautifulSoup(response.text, 'html.parser')
+    content = content.find('div', class_='platform-mod js-current')
+
+    res = []
+    for info in content.find_all('div', class_='platform-item js-item'):
+        info = json.loads(html.unescape(info.get('data-json')))
+        contest = Contest(oj='nowcoder')
+        contest.dtime = int(info['contestDuration'] / 1000)
+        contest.stime = int(info['contestStartTime'] / 1000)
+        contest.etime = int(info['contestEndTime'] / 1000)
+        contest.name = info['contestName']
+        contest.link = f'https://ac.nowcoder.com/acm/contest/{info["contestId"]}'
+        res.append(contest)
+
+    res.sort(key=lambda x:x.stime)
+    return res
+
+
 if __name__ == '__main__':
-    res = fetch_atcoder_contest() + fetch_luogu_contest() + fetch_cf_contest()
+    res = fetch_atcoder_contest() + fetch_luogu_contest() + fetch_cf_contest() + fetch_nowcoder_contest()
     res.sort(key=lambda x: x.stime)
     for i in range(0, len(res)):
         res[i] = res[i].__dict__
@@ -133,8 +155,12 @@ if __name__ == '__main__':
         "refreshTimeStamp": int(time.time()),
         "refreshTimeCH": datetime.datetime.utcfromtimestamp(time.time()).replace(tzinfo=pytz.utc).astimezone(
             pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S'),
+        "timezone": "utc+8",
+        "OJType": ['codeforces', 'atcoder', 'luogu', 'nowcoder'],
         "contests": res
     }
+    # for i in res['contests']:
+    #     print(datetime.datetime.fromtimestamp(i['stime']), i['name'])
     # pprint.pprint(res)
     with open('contest.json', 'w', encoding='utf-8') as f:
         f.write(json.dumps(res, ensure_ascii=False, indent=4))
