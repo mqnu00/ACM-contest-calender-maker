@@ -54,10 +54,10 @@ def calender_maker(contest_method, calendar_name):
 if __name__ == '__main__':
     try:
         calender_maker(contest_getter.fetch_cf_contest, 'codeforces-contest')
-        calender_maker(contest_getter.fetch_luogu_contest(), 'luogu-contest')
-        calender_maker(contest_getter.fetch_atcoder_contest(), 'atcoder-contest')
-        calender_maker(contest_getter.fetch_nowcoder_contest(), 'nowcoder-contest')
-        calender_maker(contest_getter.fetch_leetcode_contest(), 'leetcode-contest')
+        calender_maker(contest_getter.fetch_luogu_contest, 'luogu-contest')
+        calender_maker(contest_getter.fetch_atcoder_contest, 'atcoder-contest')
+        calender_maker(contest_getter.fetch_nowcoder_contest, 'nowcoder-contest')
+        calender_maker(contest_getter.fetch_leetcode_contest, 'leetcode-contest')
     except Exception as e:
         traceback.print_exc()
     finally:
