@@ -1,12 +1,43 @@
 {
-    "refreshTimeStamp": 1728339439,
-    "refreshTimeCH": "2024-10-08 06:17:19",
+    "refreshTimeStamp": 1728363174,
+    "refreshTimeCH": "2024-10-08 12:52:54",
+    "timezone": "utc+8",
+    "OJType": [
+        "codeforces",
+        "atcoder",
+        "luogu",
+        "nowcoder"
+    ],
     "contests": [
+        {
+            "oj": "nowcoder",
+            "name": "2024牛客OI赛前集训营-提高组（第三场）",
+            "stime": 1728468000,
+            "etime": 1728482400,
+            "dtime": 14400,
+            "link": "https://ac.nowcoder.com/acm/contest/90640"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2024牛客OI赛前集训营-普及组（第三场）",
+            "stime": 1728469800,
+            "etime": 1728482400,
+            "dtime": 12600,
+            "link": "https://ac.nowcoder.com/acm/contest/90632"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛102",
+            "stime": 1728644400,
+            "etime": 1728651600,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/91355"
+        },
         {
             "oj": "atcoder",
             "name": "Panasonic Programming Contest 2024（AtCoder Beginner Contest 375）",
-            "stime": 1728734400,
-            "etime": 1728740400,
+            "stime": 1728763200,
+            "etime": 1728769200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc375"
         },
@@ -27,12 +58,12 @@
             "link": "https://www.luogu.com.cn/contest/200849"
         },
         {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 185",
-            "stime": 1728820800,
-            "etime": 1728828000,
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 63",
+            "stime": 1728817200,
+            "etime": 1728824400,
             "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc185"
+            "link": "https://ac.nowcoder.com/acm/contest/91592"
         },
         {
             "oj": "codeforces",
@@ -41,6 +72,14 @@
             "etime": 1728844500,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2022"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest 185",
+            "stime": 1728849600,
+            "etime": 1728856800,
+            "dtime": 7200,
+            "link": "https://atcoder.jp/contests/arc185"
         },
         {
             "oj": "codeforces",
@@ -77,8 +116,8 @@
         {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 376",
-            "stime": 1729339200,
-            "etime": 1729345200,
+            "stime": 1729368000,
+            "etime": 1729374000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc376"
         },
@@ -99,12 +138,12 @@
             "link": "https://codeforces.com/contest/2024"
         },
         {
-            "oj": "atcoder",
-            "name": "TOYOTA SYSTEMS Programming Contest 2024（AtCoder Beginner Contest 377)",
-            "stime": 1729944000,
-            "etime": 1729950000,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc377"
+            "oj": "nowcoder",
+            "name": "牛客2024年1024程序员节娱乐赛",
+            "stime": 1729767600,
+            "etime": 1729774800,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/90505"
         },
         {
             "oj": "codeforces",
@@ -116,9 +155,17 @@
         },
         {
             "oj": "atcoder",
+            "name": "TOYOTA SYSTEMS Programming Contest 2024（AtCoder Beginner Contest 377)",
+            "stime": 1729972800,
+            "etime": 1729978800,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc377"
+        },
+        {
+            "oj": "atcoder",
             "name": "AtCoder Regular Contest 186",
-            "stime": 1730030400,
-            "etime": 1730037600,
+            "stime": 1730059200,
+            "etime": 1730066400,
             "dtime": 7200,
             "link": "https://atcoder.jp/contests/arc186"
         },
@@ -132,9 +179,17 @@
         },
         {
             "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 378",
+            "stime": 1730577600,
+            "etime": 1730583600,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc378"
+        },
+        {
+            "oj": "atcoder",
             "name": "AtCoder Grand Contest 069",
-            "stime": 1730635200,
-            "etime": 1730646000,
+            "stime": 1730664000,
+            "etime": 1730674800,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc069"
         },
@@ -148,17 +203,25 @@
         },
         {
             "oj": "atcoder",
+            "name": "Toyota Programming Contest 2024#11（AtCoder Beginner Contest 379）",
+            "stime": 1731182400,
+            "etime": 1731188400,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc379"
+        },
+        {
+            "oj": "atcoder",
             "name": "Daiwa Securities Co. Ltd. Programming Contest 2024（AtCoder Beginner Contest 383）",
-            "stime": 1733572800,
-            "etime": 1733578800,
+            "stime": 1733601600,
+            "etime": 1733607600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc383"
         },
         {
             "oj": "atcoder",
             "name": "The 2nd Masters Championship-qual-",
-            "stime": 1740888000,
-            "etime": 1740909600,
+            "stime": 1740916800,
+            "etime": 1740938400,
             "dtime": 21600,
             "link": "https://atcoder.jp/contests/masters2025-qual"
         }
