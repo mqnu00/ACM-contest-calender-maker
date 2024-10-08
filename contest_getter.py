@@ -1,6 +1,7 @@
 import datetime
 import html
 import pprint
+import traceback
 
 import pytz
 import requests
@@ -191,20 +192,25 @@ def fetch_leetcode_contest() -> list[Contest]:
 
 
 if __name__ == '__main__':
-    res = fetch_atcoder_contest() + fetch_luogu_contest() + fetch_cf_contest() + fetch_nowcoder_contest()
-    res.sort(key=lambda x: x.stime)
-    for i in range(0, len(res)):
-        res[i] = res[i].__dict__
-    res = {
-        "refreshTimeStamp": int(time.time()),
-        "refreshTimeCH": datetime.datetime.utcfromtimestamp(time.time()).replace(tzinfo=pytz.utc).astimezone(
-            pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S'),
-        "timezone": "utc+8",
-        "OJType": ['codeforces', 'atcoder', 'luogu', 'nowcoder', 'leetcode'],
-        "contests": res
-    }
-    # for i in res['contests']:
-    #     print(datetime.datetime.fromtimestamp(i['stime']), i['name'])
-    # pprint.pprint(res)
-    with open('contest.json', 'w', encoding='utf-8') as f:
-        f.write(json.dumps(res, ensure_ascii=False, indent=4))
+    try:
+        res = fetch_atcoder_contest() + fetch_luogu_contest() + fetch_cf_contest() + fetch_nowcoder_contest()
+        res.sort(key=lambda x: x.stime)
+        for i in range(0, len(res)):
+            res[i] = res[i].__dict__
+        res = {
+            "refreshTimeStamp": int(time.time()),
+            "refreshTimeCH": datetime.datetime.utcfromtimestamp(time.time()).replace(tzinfo=pytz.utc).astimezone(
+                pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S'),
+            "timezone": "utc+8",
+            "OJType": ['codeforces', 'atcoder', 'luogu', 'nowcoder', 'leetcode'],
+            "contests": res
+        }
+        # for i in res['contests']:
+        #     print(datetime.datetime.fromtimestamp(i['stime']), i['name'])
+        # pprint.pprint(res)
+        with open('contest.json', 'w', encoding='utf-8') as f:
+            f.write(json.dumps(res, ensure_ascii=False, indent=4))
+    except Exception as e:
+        traceback.print_exc()
+    finally:
+        pass
