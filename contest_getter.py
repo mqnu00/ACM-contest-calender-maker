@@ -142,7 +142,51 @@ def fetch_nowcoder_contest() -> list[Contest]:
         contest.link = f'https://ac.nowcoder.com/acm/contest/{info["contestId"]}'
         res.append(contest)
 
-    res.sort(key=lambda x:x.stime)
+    res.sort(key=lambda x: x.stime)
+    return res
+
+
+def fetch_leetcode_contest() -> list[Contest]:
+    url = 'https://leetcode.com/graphql'
+    headers = {
+        'Referer': 'https://leetcode.cn/',
+        'Content-Type': 'application/json',
+    }
+    data = {
+        'operationName': None,
+        'variables': {},
+        'query': '''
+        {
+            allContests {
+                title
+                titleSlug
+                startTime
+                duration
+                isVirtual
+            }
+        }
+        '''
+    }
+    response = requests.post(url, headers=headers, data=json.dumps(data))
+
+    contests = json.loads(response.text)["data"]["allContests"]
+    res = []
+    for info in contests:
+
+        if info["isVirtual"]:
+            continue
+        elif info["startTime"] + info["duration"] < time.time():
+            continue
+
+        contest = Contest(oj='leetcode')
+        contest.dtime = info["duration"]
+        contest.stime = info["startTime"]
+        contest.etime = contest.stime + contest.dtime
+        contest.name = info["title"]
+        contest.link = 'https://leetcode.cn/contest/' + info["titleSlug"]
+        res.append(contest)
+
+    res.sort(key=lambda x: x.stime)
     return res
 
 
@@ -156,7 +200,7 @@ if __name__ == '__main__':
         "refreshTimeCH": datetime.datetime.utcfromtimestamp(time.time()).replace(tzinfo=pytz.utc).astimezone(
             pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S'),
         "timezone": "utc+8",
-        "OJType": ['codeforces', 'atcoder', 'luogu', 'nowcoder'],
+        "OJType": ['codeforces', 'atcoder', 'luogu', 'nowcoder', 'leetcode'],
         "contests": res
     }
     # for i in res['contests']:
