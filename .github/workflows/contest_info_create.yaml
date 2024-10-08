@@ -24,6 +24,7 @@ jobs:
         run: pip3 install -r requirements.txt
       - name: main
         run: python3 contest_getter.py
+             python3 calendar_maker.py
       # 获取格式化的日期并存入GitHub内置的环境变量中
       - name: 'Get Date'
         run: echo "REPORT_DATE=$(TZ=':Asia/Shanghai' date '+%Y-%m-%d %T')" >> $GITHUB_ENV
