@@ -39,7 +39,7 @@ jobs:
           echo "git commit: push something, $datime"
           if [ -n "$(git status -s)" ];then
               git add .
-              git commit -m "make:action push $datime" -a
+              git commit -m "make: action push $datime" -a
           fi
       - name: Push changes
         uses: ad-m/github-push-action@master
