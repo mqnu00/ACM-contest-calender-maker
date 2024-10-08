@@ -1,4 +1,6 @@
-from contest_getter import fetch_cf_contest, fetch_luogu_contest
+import traceback
+
+import contest_getter
 from icalendar import Calendar, Event
 import datetime
 from pathlib import Path
@@ -50,5 +52,13 @@ def calender_maker(contest_method, calendar_name):
 
 
 if __name__ == '__main__':
-    calender_maker(fetch_cf_contest, 'codeforces-contest')
-    calender_maker(fetch_luogu_contest, 'luogu-contest')
+    try:
+        calender_maker(contest_getter.fetch_cf_contest, 'codeforces-contest')
+        calender_maker(contest_getter.fetch_luogu_contest(), 'luogu-contest')
+        calender_maker(contest_getter.fetch_atcoder_contest(), 'atcoder-contest')
+        calender_maker(contest_getter.fetch_nowcoder_contest(), 'nowcoder-contest')
+        calender_maker(contest_getter.fetch_leetcode_contest(), 'leetcode-contest')
+    except Exception as e:
+        traceback.print_exc()
+    finally:
+        pass
