@@ -19,6 +19,13 @@ UID:Educational Codeforces Round 170 (Rated for Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2025
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20241019T110500
+DTEND:20241019T130500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2030
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 1)
 DTSTART:20241020T090500
 DTEND:20241020T110500

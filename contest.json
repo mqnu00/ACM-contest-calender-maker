@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1728391316,
-    "refreshTimeCH": "2024-10-08 20:41:56",
+    "refreshTimeStamp": 1728465688,
+    "refreshTimeCH": "2024-10-09 17:21:28",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -33,6 +33,22 @@
             "etime": 1728651600,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/91355"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2024牛客OI赛前集训营-提高组（第四场）",
+            "stime": 1728727200,
+            "etime": 1728741600,
+            "dtime": 14400,
+            "link": "https://ac.nowcoder.com/acm/contest/90641"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2024牛客OI赛前集训营-普及组（第四场）",
+            "stime": 1728729000,
+            "etime": 1728741600,
+            "dtime": 12600,
+            "link": "https://ac.nowcoder.com/acm/contest/90633"
         },
         {
             "oj": "atcoder",
@@ -113,6 +129,14 @@
             "etime": 1729333800,
             "dtime": 14400,
             "link": "https://www.luogu.com.cn/contest/203482"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1729335900,
+            "etime": 1729343100,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2030"
         },
         {
             "oj": "atcoder",
@@ -217,6 +241,14 @@
             "etime": 1731188400,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc379"
+        },
+        {
+            "oj": "atcoder",
+            "name": "THIRD PROGRAMMING CONTEST 2024（AtCoder Heuristic Contest 039）",
+            "stime": 1731247200,
+            "etime": 1731261600,
+            "dtime": 14400,
+            "link": "https://atcoder.jp/contests/ahc039"
         },
         {
             "oj": "atcoder",
