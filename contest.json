@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1728465688,
-    "refreshTimeCH": "2024-10-09 17:21:28",
+    "refreshTimeStamp": 1728512157,
+    "refreshTimeCH": "2024-10-10 06:15:57",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "2024牛客OI赛前集训营-提高组（第三场）",
-            "stime": 1728468000,
-            "etime": 1728482400,
-            "dtime": 14400,
-            "link": "https://ac.nowcoder.com/acm/contest/90640"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "2024牛客OI赛前集训营-普及组（第三场）",
-            "stime": 1728469800,
-            "etime": 1728482400,
-            "dtime": 12600,
-            "link": "https://ac.nowcoder.com/acm/contest/90632"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客小白月赛102",
@@ -133,8 +117,8 @@
         {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 2)",
-            "stime": 1729335900,
-            "etime": 1729343100,
+            "stime": 1729346700,
+            "etime": 1729353900,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2030"
         },
