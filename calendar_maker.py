@@ -21,6 +21,7 @@ def calender_maker(contest_method, calendar_name):
     content = contest_method()
     # 保存目录
     direct = Path.cwd()
+    direct = direct / "calendar"
     for each in content:
         # 开始时间
         stime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(each.stime))
