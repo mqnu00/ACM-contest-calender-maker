@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//test.us//iCalendar Event//EN  
+X-WR-CALDESC:leetcode-contest.created by chigua_demolu.
+X-WR-CALNAME:leetcode-contest
+X-WR-TIMEZONE:UTC+8
+BEGIN:VEVENT
+SUMMARY:Biweekly Contest 141
+DTSTART:20241012T143000
+DTEND:20241012T160000
+UID:Biweekly Contest 141
+DESCRIPTION:https://leetcode.cn/contest/biweekly-contest-141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Contest 419
+DTSTART:20241013T023000
+DTEND:20241013T040000
+UID:Weekly Contest 419
+DESCRIPTION:https://leetcode.cn/contest/weekly-contest-419
+END:VEVENT
+END:VCALENDAR
