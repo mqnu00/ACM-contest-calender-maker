@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//test.us//iCalendar Event//EN  
+X-WR-CALDESC:atcoder-contest.created by chigua_demolu.
+X-WR-CALNAME:atcoder-contest
+X-WR-TIMEZONE:UTC+8
+BEGIN:VEVENT
+SUMMARY:Panasonic Programming Contest 2024（AtCoder Beginner Contest 375
+ ）
+DTSTART:20241012T200000
+DTEND:20241012T214000
+UID:Panasonic Programming Contest 2024（AtCoder Beginner Contest 375）
+DESCRIPTION:https://atcoder.jp/contests/abc375
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 185
+DTSTART:20241013T200000
+DTEND:20241013T220000
+UID:AtCoder Regular Contest 185
+DESCRIPTION:https://atcoder.jp/contests/arc185
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 376
+DTSTART:20241019T200000
+DTEND:20241019T214000
+UID:AtCoder Beginner Contest 376
+DESCRIPTION:https://atcoder.jp/contests/abc376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOYOTA SYSTEMS Programming Contest 2024（AtCoder Beginner Contest
+  377)
+DTSTART:20241026T200000
+DTEND:20241026T214000
+UID:TOYOTA SYSTEMS Programming Contest 2024（AtCoder Beginner Contest 377
+ )
+DESCRIPTION:https://atcoder.jp/contests/abc377
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 186
+DTSTART:20241027T200000
+DTEND:20241027T220000
+UID:AtCoder Regular Contest 186
+DESCRIPTION:https://atcoder.jp/contests/arc186
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 378
+DTSTART:20241102T200000
+DTEND:20241102T214000
+UID:AtCoder Beginner Contest 378
+DESCRIPTION:https://atcoder.jp/contests/abc378
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Grand Contest 069
+DTSTART:20241103T200000
+DTEND:20241103T230000
+UID:AtCoder Grand Contest 069
+DESCRIPTION:https://atcoder.jp/contests/agc069
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Toyota Programming Contest 2024#11（AtCoder Beginner Contest 379
+ ）
+DTSTART:20241109T200000
+DTEND:20241109T214000
+UID:Toyota Programming Contest 2024#11（AtCoder Beginner Contest 379）
+DESCRIPTION:https://atcoder.jp/contests/abc379
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THIRD PROGRAMMING CONTEST 2024（AtCoder Heuristic Contest 039）
+DTSTART:20241110T140000
+DTEND:20241110T180000
+UID:THIRD PROGRAMMING CONTEST 2024（AtCoder Heuristic Contest 039）
+DESCRIPTION:https://atcoder.jp/contests/ahc039
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daiwa Securities Co. Ltd. Programming Contest 2024（AtCoder Begin
+ ner Contest 383）
+DTSTART:20241207T200000
+DTEND:20241207T214000
+UID:Daiwa Securities Co. Ltd. Programming Contest 2024（AtCoder Beginner 
+ Contest 383）
+DESCRIPTION:https://atcoder.jp/contests/abc383
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 2nd Masters Championship-qual-
+DTSTART:20250302T120000
+DTEND:20250302T180000
+UID:The 2nd Masters Championship-qual-
+DESCRIPTION:https://atcoder.jp/contests/masters2025-qual
+END:VEVENT
+END:VCALENDAR
