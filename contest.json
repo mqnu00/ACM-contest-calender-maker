@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1728534446,
-    "refreshTimeCH": "2024-10-10 12:27:26",
+    "refreshTimeStamp": 1728598590,
+    "refreshTimeCH": "2024-10-11 06:16:30",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -97,6 +97,22 @@
             "etime": 1728855300,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2022"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2024牛客OI赛前集训营-提高组（第五场）",
+            "stime": 1728900000,
+            "etime": 1728914400,
+            "dtime": 14400,
+            "link": "https://ac.nowcoder.com/acm/contest/90642"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2024牛客OI赛前集训营-普及组（ 第五场）",
+            "stime": 1728901800,
+            "etime": 1728914400,
+            "dtime": 12600,
+            "link": "https://ac.nowcoder.com/acm/contest/90634"
         },
         {
             "oj": "codeforces",
