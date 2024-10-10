@@ -193,7 +193,7 @@ def fetch_leetcode_contest() -> list[Contest]:
 
 if __name__ == '__main__':
     try:
-        res = fetch_atcoder_contest() + fetch_luogu_contest() + fetch_cf_contest() + fetch_nowcoder_contest()
+        res = fetch_atcoder_contest() + fetch_luogu_contest() + fetch_cf_contest() + fetch_nowcoder_contest() + fetch_leetcode_contest()
         res.sort(key=lambda x: x.stime)
         for i in range(0, len(res)):
             res[i] = res[i].__dict__
