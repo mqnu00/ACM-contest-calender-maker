@@ -3,7 +3,15 @@ VERSION:2.0
 PRODID:-//test.us//iCalendar Event//EN  
 X-WR-CALDESC:atcoder-contest.created by chigua_demolu.
 X-WR-CALNAME:atcoder-contest
-X-WR-TIMEZONE:UTC+8
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+DTSTART:20240101T000000
+RRULE:FREQ=YEARLY
+TIMEZONE:Asia/Shanghai
+TZNAME:China Standard Time
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Panasonic Programming Contest 2024（AtCoder Beginner Contest 375
  ）
