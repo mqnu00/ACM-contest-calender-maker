@@ -1,7 +1,9 @@
 import traceback
 
+import icalendar
+
 import contest_getter
-from icalendar import Calendar, Event
+from icalendar import Calendar, Event, Timezone
 import datetime
 from pathlib import Path
 import os
@@ -14,8 +16,20 @@ def calender_maker(contest_method, calendar_name):
     cal.add('prodid', '-//test.us//iCalendar Event//EN  ')  # 软件信息
     cal.add('version', '2.0')  # 遵循的iCalendar版本号
     cal.add('X-WR-CALNAME', calendar_name)  # 日历名
-    cal.add('X-WR-TIMEZONE', 'UTC+8')  # 时区标记
+    # cal.add('X-WR-TIMEZONE', 'UTC+8')  # 时区标记
     cal.add('X-WR-CALDESC', calendar_name + '.created by chigua_demolu.')  # 日历描述
+
+    timezone = Timezone()
+    timezone.add('timezone', 'Asia/Shanghai')
+    timezone.add('tzid', 'Asia/Shanghai')
+    timezone.add('tzname', 'China Standard Time')
+    timezone.add('tzoffsetfrom', datetime.timedelta(hours=8))
+    timezone.add('tzoffsetto', datetime.timedelta(hours=8))
+    timezone.add('dtstart', datetime.datetime(2024, 1, 1))
+    timezone.add('rrule', {'FREQ': 'YEARLY'})
+
+    # 将时区组件添加到日历中
+    cal.add_component(timezone)
 
     # 获取竞赛信息
     content = contest_method()
