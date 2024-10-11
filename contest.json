@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1728598590,
-    "refreshTimeCH": "2024-10-11 06:16:30",
+    "refreshTimeStamp": 1728684956,
+    "refreshTimeCH": "2024-10-12 06:15:56",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛102",
-            "stime": 1728644400,
-            "etime": 1728651600,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/91355"
-        },
         {
             "oj": "nowcoder",
             "name": "2024牛客OI赛前集训营-提高组（第四场）",
