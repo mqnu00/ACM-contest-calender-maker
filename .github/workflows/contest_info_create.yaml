@@ -1,7 +1,6 @@
 name: 'GitHub Actions Contest Info'
  
 on:
-  push:
   schedule:
   # 定时任务，在每天的22点生成比赛信息
     - cron: '0 22 * * *'
