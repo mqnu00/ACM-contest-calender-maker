@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1728684956,
-    "refreshTimeCH": "2024-10-12 06:15:56",
+    "refreshTimeStamp": 1728771381,
+    "refreshTimeCH": "2024-10-13 06:16:21",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "2024牛客OI赛前集训营-提高组（第四场）",
-            "stime": 1728727200,
-            "etime": 1728741600,
-            "dtime": 14400,
-            "link": "https://ac.nowcoder.com/acm/contest/90641"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "2024牛客OI赛前集训营-普及组（第四场）",
-            "stime": 1728729000,
-            "etime": 1728741600,
-            "dtime": 12600,
-            "link": "https://ac.nowcoder.com/acm/contest/90633"
-        },
-        {
-            "oj": "atcoder",
-            "name": "Panasonic Programming Contest 2024（AtCoder Beginner Contest 375）",
-            "stime": 1728734400,
-            "etime": 1728740400,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc375"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 141",
-            "stime": 1728743400,
-            "etime": 1728748800,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-141"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-201-Div.3】SCP 2024 第二轮（复赛 J 组）模拟",
@@ -172,6 +140,14 @@
         },
         {
             "oj": "nowcoder",
+            "name": "牛客周赛 Round 64",
+            "stime": 1729422000,
+            "etime": 1729429200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/92662"
+        },
+        {
+            "oj": "nowcoder",
             "name": "牛客2024年1024程序员节娱乐赛",
             "stime": 1729767600,
             "etime": 1729774800,
@@ -185,6 +161,14 @@
             "etime": 1729950000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc377"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 142",
+            "stime": 1729953000,
+            "etime": 1729958400,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-142"
         },
         {
             "oj": "codeforces",
