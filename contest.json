@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1728771381,
-    "refreshTimeCH": "2024-10-13 06:16:21",
+    "refreshTimeStamp": 1728857712,
+    "refreshTimeCH": "2024-10-14 06:15:12",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,54 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-201-Div.3】SCP 2024 第二轮（复赛 J 组）模拟",
-            "stime": 1728779400,
-            "etime": 1728792000,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/200686"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 419",
-            "stime": 1728786600,
-            "etime": 1728792000,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-419"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-202-Div.2】SCP 2024 第二轮（复赛 S 组）模拟 &「KDOI」Round 10",
-            "stime": 1728801000,
-            "etime": 1728815400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/200849"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 63",
-            "stime": 1728817200,
-            "etime": 1728824400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/91592"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 185",
-            "stime": 1728820800,
-            "etime": 1728828000,
-            "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc185"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 978 (Div. 2)",
-            "stime": 1728848100,
-            "etime": 1728855300,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2022"
-        },
         {
             "oj": "nowcoder",
             "name": "2024牛客OI赛前集训营-提高组（第五场）",
@@ -91,22 +43,6 @@
             "link": "https://www.luogu.com.cn/contest/203942"
         },
         {
-            "oj": "luogu",
-            "name": "【MX-J8】梦熊 CSP-J 2024 模拟赛（同步赛）",
-            "stime": 1729297800,
-            "etime": 1729310400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/203481"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-S4】梦熊 CSP-S 2024 模拟赛（同步赛）",
-            "stime": 1729319400,
-            "etime": 1729333800,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/203482"
-        },
-        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 376",
             "stime": 1729339200,
@@ -121,6 +57,30 @@
             "etime": 1729353900,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2030"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J8】梦熊 CSP-J 2024 模拟赛（同步赛）",
+            "stime": 1729384200,
+            "etime": 1729396800,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/203481"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 420",
+            "stime": 1729391400,
+            "etime": 1729396800,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-420"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-S4】梦熊 CSP-S 2024 模拟赛（同步赛）",
+            "stime": 1729405800,
+            "etime": 1729420200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/203482"
         },
         {
             "oj": "codeforces",
@@ -241,6 +201,14 @@
             "etime": 1731232800,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc039"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1731252900,
+            "etime": 1731260100,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2028"
         },
         {
             "oj": "atcoder",
