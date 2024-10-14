@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1728857712,
-    "refreshTimeCH": "2024-10-14 06:15:12",
+    "refreshTimeStamp": 1728944269,
+    "refreshTimeCH": "2024-10-15 06:17:49",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,27 +12,19 @@
     "contests": [
         {
             "oj": "nowcoder",
-            "name": "2024牛客OI赛前集训营-提高组（第五场）",
-            "stime": 1728900000,
-            "etime": 1728914400,
+            "name": "2024牛客OI赛前集训营-提高组（第六场）",
+            "stime": 1729072800,
+            "etime": 1729087200,
             "dtime": 14400,
-            "link": "https://ac.nowcoder.com/acm/contest/90642"
+            "link": "https://ac.nowcoder.com/acm/contest/90643"
         },
         {
             "oj": "nowcoder",
-            "name": "2024牛客OI赛前集训营-普及组（ 第五场）",
-            "stime": 1728901800,
-            "etime": 1728914400,
+            "name": "2024牛客OI赛前集训营-普及组（第六场）",
+            "stime": 1729074600,
+            "etime": 1729087200,
             "dtime": 12600,
-            "link": "https://ac.nowcoder.com/acm/contest/90634"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 170 (Rated for Div. 2)",
-            "stime": 1728916500,
-            "etime": 1728923700,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2025"
+            "link": "https://ac.nowcoder.com/acm/contest/90635"
         },
         {
             "oj": "luogu",
@@ -41,6 +33,14 @@
             "etime": 1729256400,
             "dtime": 7200,
             "link": "https://www.luogu.com.cn/contest/203942"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客练习赛130",
+            "stime": 1729249200,
+            "etime": 1729258200,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/93002"
         },
         {
             "oj": "atcoder",
@@ -137,6 +137,14 @@
             "etime": 1729960500,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2027"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 65",
+            "stime": 1730026800,
+            "etime": 1730034000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/92972"
         },
         {
             "oj": "atcoder",
