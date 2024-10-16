@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1729030575,
-    "refreshTimeCH": "2024-10-16 06:16:15",
+    "refreshTimeStamp": 1729116988,
+    "refreshTimeCH": "2024-10-17 06:16:28",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "2024牛客OI赛前集训营-提高组（第六场）",
-            "stime": 1729072800,
-            "etime": 1729087200,
-            "dtime": 14400,
-            "link": "https://ac.nowcoder.com/acm/contest/90643"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "2024牛客OI赛前集训营-普及组（第六场）",
-            "stime": 1729074600,
-            "etime": 1729087200,
-            "dtime": 12600,
-            "link": "https://ac.nowcoder.com/acm/contest/90635"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-203-Div.4】洛谷入门赛 #28",
@@ -113,6 +97,14 @@
             "etime": 1729774800,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/90505"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛103",
+            "stime": 1729854000,
+            "etime": 1729861200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/93218"
         },
         {
             "oj": "atcoder",
