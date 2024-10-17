@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1729116988,
-    "refreshTimeCH": "2024-10-17 06:16:28",
+    "refreshTimeStamp": 1729203397,
+    "refreshTimeCH": "2024-10-18 06:16:37",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -25,6 +25,22 @@
             "etime": 1729258200,
             "dtime": 9000,
             "link": "https://ac.nowcoder.com/acm/contest/93002"
+        },
+        {
+            "oj": "luogu",
+            "name": "Cfz Round 9 · Happy 15th Birthday！",
+            "stime": 1729315800,
+            "etime": 1729328400,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/205839"
+        },
+        {
+            "oj": "luogu",
+            "name": "『STAOI』G - Round 8",
+            "stime": 1729330200,
+            "etime": 1729344600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/197539"
         },
         {
             "oj": "atcoder",
@@ -97,6 +113,14 @@
             "etime": 1729774800,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/90505"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 3)",
+            "stime": 1729780500,
+            "etime": 1729788600,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2033"
         },
         {
             "oj": "nowcoder",
