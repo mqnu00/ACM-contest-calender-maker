@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1729289775,
-    "refreshTimeCH": "2024-10-19 06:16:15",
+    "refreshTimeStamp": 1729376169,
+    "refreshTimeCH": "2024-10-20 06:16:09",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "Cfz Round 9 · Happy 15th Birthday！",
-            "stime": 1729315800,
-            "etime": 1729328400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/205839"
-        },
-        {
-            "oj": "luogu",
-            "name": "『STAOI』G - Round 8",
-            "stime": 1729330200,
-            "etime": 1729344600,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/197539"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 376",
-            "stime": 1729339200,
-            "etime": 1729345200,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc376"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 979 (Div. 2)",
-            "stime": 1729346700,
-            "etime": 1729354800,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2030"
-        },
         {
             "oj": "luogu",
             "name": "【MX-J8】梦熊 CSP-J 2024 模拟赛（同步赛）",
@@ -68,7 +36,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round 980 (Div. 1)",
             "stime": 1729415100,
             "etime": 1729422300,
             "dtime": 7200,
@@ -76,7 +44,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 980 (Div. 2)",
             "stime": 1729415100,
             "etime": 1729422300,
             "dtime": 7200,
