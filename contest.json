@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1729462569,
-    "refreshTimeCH": "2024-10-21 06:16:09",
+    "refreshTimeStamp": 1729548986,
+    "refreshTimeCH": "2024-10-22 06:16:26",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -20,7 +20,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 981 (Div. 3)",
             "stime": 1729780500,
             "etime": 1729788600,
             "dtime": 8100,
@@ -84,6 +84,14 @@
         },
         {
             "oj": "codeforces",
+            "name": "Codeforces Global Round 27",
+            "stime": 1730039700,
+            "etime": 1730050500,
+            "dtime": 10800,
+            "link": "https://codeforces.com/contest/2035"
+        },
+        {
+            "oj": "codeforces",
             "name": "Educational Codeforces Round 171 (Rated for Div. 2)",
             "stime": 1730126100,
             "etime": 1730133300,
@@ -105,6 +113,14 @@
             "etime": 1730554800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc378"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 66",
+            "stime": 1730631600,
+            "etime": 1730638800,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/93847"
         },
         {
             "oj": "atcoder",
