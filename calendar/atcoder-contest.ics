@@ -36,13 +36,6 @@ UID:AtCoder Beginner Contest 378
 DESCRIPTION:https://atcoder.jp/contests/abc378
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AtCoder Grand Contest 069
-DTSTART:20241103T200000
-DTEND:20241103T230000
-UID:AtCoder Grand Contest 069
-DESCRIPTION:https://atcoder.jp/contests/agc069
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Toyota Programming Contest 2024#11（AtCoder Beginner Contest 379
  ）
 DTSTART:20241109T200000
@@ -58,11 +51,32 @@ UID:THIRD PROGRAMMING CONTEST 2024（AtCoder Heuristic Contest 039）
 DESCRIPTION:https://atcoder.jp/contests/ahc039
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Grand Contest 069
+DTSTART:20241110T200000
+DTEND:20241110T230000
+UID:AtCoder Grand Contest 069
+DESCRIPTION:https://atcoder.jp/contests/agc069
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AtCoder Beginner Contest 380
 DTSTART:20241116T200000
 DTEND:20241116T214000
 UID:AtCoder Beginner Contest 380
 DESCRIPTION:https://atcoder.jp/contests/abc380
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:estie Programming Contest 2024 (AtCoder Regular Contest 188)
+DTSTART:20241123T200000
+DTEND:20241123T220000
+UID:estie Programming Contest 2024 (AtCoder Regular Contest 188)
+DESCRIPTION:https://atcoder.jp/contests/arc188
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 381
+DTSTART:20241124T200000
+DTEND:20241124T214000
+UID:AtCoder Beginner Contest 381
+DESCRIPTION:https://atcoder.jp/contests/abc381
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daiwa Securities Co. Ltd. Programming Contest 2024（AtCoder Begin
