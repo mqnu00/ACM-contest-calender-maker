@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1729721804,
-    "refreshTimeCH": "2024-10-24 06:16:44",
+    "refreshTimeStamp": 1729808168,
+    "refreshTimeCH": "2024-10-25 06:16:08",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客2024年1024程序员节娱乐赛",
-            "stime": 1729767600,
-            "etime": 1729774800,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/90505"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 981 (Div. 3)",
-            "stime": 1729780500,
-            "etime": 1729788600,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2033"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客小白月赛103",
@@ -163,14 +147,6 @@
             "link": "https://atcoder.jp/contests/ahc039"
         },
         {
-            "oj": "atcoder",
-            "name": "AtCoder Grand Contest 069",
-            "stime": 1731240000,
-            "etime": 1731250800,
-            "dtime": 10800,
-            "link": "https://atcoder.jp/contests/agc069"
-        },
-        {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 2)",
             "stime": 1731252900,
@@ -196,6 +172,14 @@
         },
         {
             "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 381",
+            "stime": 1732276800,
+            "etime": 1732282800,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc381"
+        },
+        {
+            "oj": "atcoder",
             "name": "estie Programming Contest 2024 (AtCoder Regular Contest 188)",
             "stime": 1732363200,
             "etime": 1732370400,
@@ -204,11 +188,11 @@
         },
         {
             "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 381",
+            "name": "AtCoder Grand Contest 069",
             "stime": 1732449600,
-            "etime": 1732455600,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc381"
+            "etime": 1732460400,
+            "dtime": 10800,
+            "link": "https://atcoder.jp/contests/agc069"
         },
         {
             "oj": "atcoder",
