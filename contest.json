@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1730153796,
-    "refreshTimeCH": "2024-10-29 06:16:36",
+    "refreshTimeStamp": 1730240198,
+    "refreshTimeCH": "2024-10-30 06:16:38",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -43,12 +43,28 @@
             "link": "https://codeforces.com/contest/2032"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-204-Div.2】核桃编程 11 月月赛 I",
+            "stime": 1730527200,
+            "etime": 1730541600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/187558"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 378",
             "stime": 1730548800,
             "etime": 1730554800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc378"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 3)",
+            "stime": 1730558100,
+            "etime": 1730566200,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2036"
         },
         {
             "oj": "leetcode",
@@ -153,6 +169,14 @@
             "etime": 1732460400,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc069"
+        },
+        {
+            "oj": "atcoder",
+            "name": "HACK TO THE FUTURE 2025  (AtCoder Heuristic Contest 040)",
+            "stime": 1732874400,
+            "etime": 1733738400,
+            "dtime": 864000,
+            "link": "https://atcoder.jp/contests/ahc040"
         },
         {
             "oj": "atcoder",

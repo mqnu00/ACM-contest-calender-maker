@@ -20,6 +20,13 @@ UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2032
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 3)
+DTSTART:20241102T223500
+DTEND:20241103T005000
+UID:Codeforces Round (Div. 3)
+DESCRIPTION:https://codeforces.com/contest/2036
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 1 + Div. 2)
 DTSTART:20241109T223500
 DTEND:20241110T013500
