@@ -70,6 +70,13 @@ UID:HACK TO THE FUTURE 2025  (AtCoder Heuristic Contest 040)
 DESCRIPTION:https://atcoder.jp/contests/ahc040
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 382
+DTSTART:20241130T200000
+DTEND:20241130T214000
+UID:AtCoder Beginner Contest 382
+DESCRIPTION:https://atcoder.jp/contests/abc382
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Daiwa Securities Co. Ltd. Programming Contest 2024（AtCoder Begin
  ner Contest 383）
 DTSTART:20241207T200000
