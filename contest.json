@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1730326587,
-    "refreshTimeCH": "2024-10-31 06:16:27",
+    "refreshTimeStamp": 1730412970,
+    "refreshTimeCH": "2024-11-01 06:16:10",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -60,7 +60,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 984 (Div. 3)",
             "stime": 1730558100,
             "etime": 1730566200,
             "dtime": 8100,
@@ -91,6 +91,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/91849"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛104",
+            "stime": 1731063600,
+            "etime": 1731070800,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/94879"
+        },
+        {
             "oj": "atcoder",
             "name": "Toyota Programming Contest 2024#11（AtCoder Beginner Contest 379）",
             "stime": 1731153600,
@@ -108,11 +116,19 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "name": "Refact.ai Match 1 (Codeforces Round 985)",
             "stime": 1731162900,
             "etime": 1731173700,
             "dtime": 10800,
             "link": "https://codeforces.com/contest/2029"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2024年中国大学生程序设计竞赛（CCPC）新疆赛区",
+            "stime": 1731211200,
+            "etime": 1731229200,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/94869"
         },
         {
             "oj": "atcoder",
