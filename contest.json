@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1730499363,
-    "refreshTimeCH": "2024-11-02 06:16:03",
+    "refreshTimeStamp": 1730585780,
+    "refreshTimeCH": "2024-11-03 06:16:20",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,46 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "CSP-J 2024 自测",
-            "stime": 1729917000,
-            "etime": 1731132000,
-            "dtime": 1215000,
-            "link": "https://www.luogu.com.cn/contest/209924"
-        },
-        {
-            "oj": "luogu",
-            "name": "CSP-S 2024 自测",
-            "stime": 1729944000,
-            "etime": 1731132000,
-            "dtime": 1188000,
-            "link": "https://www.luogu.com.cn/contest/209925"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-204-Div.2】核桃编程 11 月月赛 I",
-            "stime": 1730527200,
-            "etime": 1730541600,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/187558"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 378",
-            "stime": 1730548800,
-            "etime": 1730554800,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc378"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 984 (Div. 3)",
-            "stime": 1730558100,
-            "etime": 1730566200,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2036"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 422",
@@ -81,6 +41,14 @@
             "etime": 1731070800,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/94879"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-S5】梦熊 NOIP 2024 模拟赛 1（同步赛）",
+            "stime": 1731112200,
+            "etime": 1731128400,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/211087"
         },
         {
             "oj": "atcoder",
@@ -179,6 +147,14 @@
             "link": "https://atcoder.jp/contests/abc380"
         },
         {
+            "oj": "luogu",
+            "name": "【MX-S6】梦熊 NOIP 2024 模拟赛 2 &「KDOI」Round 11（同步赛）",
+            "stime": 1731803400,
+            "etime": 1731819600,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/211088"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Regular Contest 187",
             "stime": 1731844800,
@@ -201,6 +177,14 @@
             "etime": 1732370400,
             "dtime": 7200,
             "link": "https://atcoder.jp/contests/arc188"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-S7】梦熊 NOIP 2024 模拟赛 3 & SMOI Round 2（同步赛）",
+            "stime": 1732408200,
+            "etime": 1732424400,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/211089"
         },
         {
             "oj": "atcoder",
