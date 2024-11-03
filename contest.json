@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1730585780,
-    "refreshTimeCH": "2024-11-03 06:16:20",
+    "refreshTimeStamp": 1730672236,
+    "refreshTimeCH": "2024-11-04 06:17:16",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 422",
-            "stime": 1730601000,
-            "etime": 1730606400,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-422"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 66",
-            "stime": 1730631600,
-            "etime": 1730638800,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/93847"
-        },
         {
             "oj": "nowcoder",
             "name": "Accepted极限代码巅峰赛",
@@ -73,6 +57,14 @@
             "etime": 1731173700,
             "dtime": 10800,
             "link": "https://codeforces.com/contest/2029"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 423",
+            "stime": 1731205800,
+            "etime": 1731211200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-423"
         },
         {
             "oj": "nowcoder",
