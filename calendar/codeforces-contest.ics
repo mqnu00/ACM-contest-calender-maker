@@ -33,4 +33,11 @@ DTEND:20241115T223500
 UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2031
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 3)
+DTSTART:20241117T223500
+DTEND:20241118T005000
+UID:Codeforces Round (Div. 3)
+DESCRIPTION:https://codeforces.com/contest/2037
+END:VEVENT
 END:VCALENDAR
