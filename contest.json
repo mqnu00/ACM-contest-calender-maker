@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1730845005,
-    "refreshTimeCH": "2024-11-06 06:16:45",
+    "refreshTimeStamp": 1730931436,
+    "refreshTimeCH": "2024-11-07 06:17:16",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -217,6 +217,14 @@
             "etime": 1733578800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc383"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2025牛客寒假算法基础集训营1",
+            "stime": 1737435600,
+            "etime": 1737453600,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/95323"
         },
         {
             "oj": "atcoder",
