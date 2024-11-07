@@ -27,6 +27,15 @@ UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2028
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2024-2025 ICPC\, NERC\, Southern and Volga Russian Regional Contes
+ t (Unrated\, Online Mirror\, ICPC Rules\, Preferably Teams)
+DTSTART:20241114T183500
+DTEND:20241114T233500
+UID:2024-2025 ICPC\, NERC\, Southern and Volga Russian Regional Contest (U
+ nrated\, Online Mirror\, ICPC Rules\, Preferably Teams)
+DESCRIPTION:https://codeforces.com/contest/2038
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 2)
 DTSTART:20241115T203500
 DTEND:20241115T223500
