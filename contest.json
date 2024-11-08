@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1731017770,
-    "refreshTimeCH": "2024-11-08 06:16:10",
+    "refreshTimeStamp": 1731104185,
+    "refreshTimeCH": "2024-11-09 06:16:25",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛104",
-            "stime": 1731063600,
-            "etime": 1731070800,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/94879"
-        },
         {
             "oj": "luogu",
             "name": "【MX-S5】梦熊 NOIP 2024 模拟赛 1（同步赛）",
