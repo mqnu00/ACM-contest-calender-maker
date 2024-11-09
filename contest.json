@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1731104185,
-    "refreshTimeCH": "2024-11-09 06:16:25",
+    "refreshTimeStamp": 1731190487,
+    "refreshTimeCH": "2024-11-10 06:14:47",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【MX-S5】梦熊 NOIP 2024 模拟赛 1（同步赛）",
-            "stime": 1731112200,
-            "etime": 1731128400,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/211087"
-        },
-        {
-            "oj": "atcoder",
-            "name": "Toyota Programming Contest 2024#11（AtCoder Beginner Contest 379）",
-            "stime": 1731153600,
-            "etime": 1731159600,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc379"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 143",
-            "stime": 1731162600,
-            "etime": 1731168000,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-143"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Refact.ai Match 1 (Codeforces Round 985)",
-            "stime": 1731162900,
-            "etime": 1731173700,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2029"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 423",
@@ -84,7 +52,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 986 (Div. 2)",
             "stime": 1731252900,
             "etime": 1731260100,
             "dtime": 7200,
@@ -177,6 +145,14 @@
             "etime": 1732370400,
             "dtime": 7200,
             "link": "https://atcoder.jp/contests/arc188"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 144",
+            "stime": 1732372200,
+            "etime": 1732377600,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-144"
         },
         {
             "oj": "luogu",
