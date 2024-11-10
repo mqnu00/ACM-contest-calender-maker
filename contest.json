@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1731190487,
-    "refreshTimeCH": "2024-11-10 06:14:47",
+    "refreshTimeStamp": 1731276906,
+    "refreshTimeCH": "2024-11-11 06:15:06",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,54 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 423",
-            "stime": 1731205800,
-            "etime": 1731211200,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-423"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "2024年中国大学生程序设计竞赛（CCPC）新疆赛区",
-            "stime": 1731211200,
-            "etime": 1731229200,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/94869"
-        },
-        {
-            "oj": "atcoder",
-            "name": "THIRD PROGRAMMING CONTEST 2024（AtCoder Heuristic Contest 039）",
-            "stime": 1731218400,
-            "etime": 1731232800,
-            "dtime": 14400,
-            "link": "https://atcoder.jp/contests/ahc039"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-206-Div.3】洛谷基础赛 #17 & Diligent-OI Round 1",
-            "stime": 1731220200,
-            "etime": 1731232800,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/127930"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 67",
-            "stime": 1731236400,
-            "etime": 1731243600,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/95016"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 986 (Div. 2)",
-            "stime": 1731252900,
-            "etime": 1731260100,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2028"
-        },
         {
             "oj": "codeforces",
             "name": "2024-2025 ICPC, NERC, Southern and Volga Russian Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
@@ -113,6 +65,14 @@
             "etime": 1731819600,
             "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/211088"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 424",
+            "stime": 1731810600,
+            "etime": 1731816000,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-424"
         },
         {
             "oj": "atcoder",
