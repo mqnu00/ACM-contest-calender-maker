@@ -22,10 +22,10 @@ UID:2024-2025 ICPC\, NERC\, Southern and Volga Russian Regional Contest (U
 DESCRIPTION:https://codeforces.com/contest/2038
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 2)
+SUMMARY:Codeforces Round 987 (Div. 2)
 DTSTART:20241115T203500
 DTEND:20241115T223500
-UID:Codeforces Round (Div. 2)
+UID:Codeforces Round 987 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2031
 END:VEVENT
 BEGIN:VEVENT
@@ -34,5 +34,12 @@ DTSTART:20241117T223500
 DTEND:20241118T005000
 UID:Codeforces Round (Div. 3)
 DESCRIPTION:https://codeforces.com/contest/2037
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CodeTON Round 9 (Div. 1 + Div. 2\, Rated\, Prizes!)
+DTSTART:20241123T223500
+DTEND:20241124T003500
+UID:CodeTON Round 9 (Div. 1 + Div. 2\, Rated\, Prizes!)
+DESCRIPTION:https://codeforces.com/contest/2039
 END:VEVENT
 END:VCALENDAR
