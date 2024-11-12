@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1731363359,
-    "refreshTimeCH": "2024-11-12 06:15:59",
+    "refreshTimeStamp": 1731449749,
+    "refreshTimeCH": "2024-11-13 06:15:49",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -13,9 +13,9 @@
         {
             "oj": "luogu",
             "name": "Happy Birthday, Ling Luo!",
-            "stime": 1731567600,
-            "etime": 1731585600,
-            "dtime": 18000,
+            "stime": 1731560400,
+            "etime": 1731576600,
+            "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/209328"
         },
         {
@@ -52,19 +52,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【LGR-205-Div.2】核桃编程 11 月月赛 II & GFOI Round 2",
-            "stime": 1731736800,
-            "etime": 1731751200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/210735"
-        },
-        {
-            "oj": "luogu",
             "name": "【LGR-205-Div.1】核桃编程 11 月月赛 II & GFOI Round 2",
             "stime": 1731736800,
             "etime": 1731751200,
             "dtime": 14400,
             "link": "https://www.luogu.com.cn/contest/210736"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-205-Div.2】核桃编程 11 月月赛 II & GFOI Round 2",
+            "stime": 1731736800,
+            "etime": 1731751200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/210735"
         },
         {
             "oj": "atcoder",
@@ -131,6 +131,14 @@
             "link": "https://atcoder.jp/contests/abc381"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-208-Div.3】「WPOI」Round 2",
+            "stime": 1732341600,
+            "etime": 1732356000,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/183429"
+        },
+        {
             "oj": "atcoder",
             "name": "estie Programming Contest 2024 (AtCoder Regular Contest 188)",
             "stime": 1732363200,
@@ -163,6 +171,14 @@
             "link": "https://www.luogu.com.cn/contest/211089"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 69",
+            "stime": 1732446000,
+            "etime": 1732453200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/96115"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Grand Contest 069",
             "stime": 1732449600,
@@ -179,6 +195,14 @@
             "link": "https://atcoder.jp/contests/ahc040"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客练习赛132",
+            "stime": 1732878000,
+            "etime": 1732887000,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/96120"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 382",
             "stime": 1732968000,
@@ -193,6 +217,14 @@
             "etime": 1733578800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc383"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Toyota Programming Contest 2024#12（AtCoder Beginner Contest 384）",
+            "stime": 1734177600,
+            "etime": 1734183600,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc384"
         },
         {
             "oj": "nowcoder",
