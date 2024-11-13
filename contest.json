@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1731449749,
-    "refreshTimeCH": "2024-11-13 06:15:49",
+    "refreshTimeStamp": 1731536190,
+    "refreshTimeCH": "2024-11-14 06:16:30",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -13,18 +13,10 @@
         {
             "oj": "luogu",
             "name": "Happy Birthday, Ling Luo!",
-            "stime": 1731560400,
-            "etime": 1731576600,
+            "stime": 1731571200,
+            "etime": 1731587400,
             "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/209328"
-        },
-        {
-            "oj": "codeforces",
-            "name": "2024-2025 ICPC, NERC, Southern and Volga Russian Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
-            "stime": 1731580500,
-            "etime": 1731598500,
-            "dtime": 18000,
-            "link": "https://codeforces.com/contest/2038"
         },
         {
             "oj": "luogu",
@@ -115,6 +107,14 @@
             "link": "https://codeforces.com/contest/2037"
         },
         {
+            "oj": "codeforces",
+            "name": "2024-2025 ICPC, NERC, Southern and Volga Russian Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
+            "stime": 1731926100,
+            "etime": 1731944100,
+            "dtime": 18000,
+            "link": "https://codeforces.com/contest/2038"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客小白月赛105",
             "stime": 1732273200,
@@ -132,7 +132,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【LGR-208-Div.3】「WPOI」Round 2",
+            "name": "【LGR-208-Div.3】洛谷基础赛 #18 &「WPOI」Round 2",
             "stime": 1732341600,
             "etime": 1732356000,
             "dtime": 14400,
@@ -225,6 +225,14 @@
             "etime": 1734183600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc384"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Grand Contest 070",
+            "stime": 1734868800,
+            "etime": 1734879600,
+            "dtime": 10800,
+            "link": "https://atcoder.jp/contests/agc070"
         },
         {
             "oj": "nowcoder",
