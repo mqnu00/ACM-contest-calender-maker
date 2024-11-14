@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1731536190,
-    "refreshTimeCH": "2024-11-14 06:16:30",
+    "refreshTimeStamp": 1731622617,
+    "refreshTimeCH": "2024-11-15 06:16:57",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "Happy Birthday, Ling Luo!",
-            "stime": 1731571200,
-            "etime": 1731587400,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/209328"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-207-Div.4】洛谷入门赛 #29",
@@ -211,6 +203,14 @@
             "link": "https://atcoder.jp/contests/abc382"
         },
         {
+            "oj": "codeforces",
+            "name": "Rayan Programming Contest 2024 - Selection (Codeforces Round, Div. 1 + Div. 2)",
+            "stime": 1732977300,
+            "etime": 1732984500,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2034"
+        },
+        {
             "oj": "atcoder",
             "name": "Daiwa Securities Co. Ltd. Programming Contest 2024（AtCoder Beginner Contest 383）",
             "stime": 1733572800,
@@ -229,8 +229,8 @@
         {
             "oj": "atcoder",
             "name": "AtCoder Grand Contest 070",
-            "stime": 1734868800,
-            "etime": 1734879600,
+            "stime": 1735473600,
+            "etime": 1735484400,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc070"
         },
