@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1731622617,
-    "refreshTimeCH": "2024-11-15 06:16:57",
+    "refreshTimeStamp": 1731709099,
+    "refreshTimeCH": "2024-11-16 06:18:19",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-207-Div.4】洛谷入门赛 #29",
-            "stime": 1731668400,
-            "etime": 1731675600,
-            "dtime": 7200,
-            "link": "https://www.luogu.com.cn/contest/213071"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客挑战赛77",
-            "stime": 1731668400,
-            "etime": 1731679200,
-            "dtime": 10800,
-            "link": "https://ac.nowcoder.com/acm/contest/95310"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 987 (Div. 2)",
-            "stime": 1731674100,
-            "etime": 1731681300,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2031"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-205-Div.1】核桃编程 11 月月赛 II & GFOI Round 2",
@@ -92,7 +68,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 988 (Div. 3)",
             "stime": 1731854100,
             "etime": 1731862200,
             "dtime": 8100,
