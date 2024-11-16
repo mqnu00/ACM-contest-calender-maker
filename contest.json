@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1731709099,
-    "refreshTimeCH": "2024-11-16 06:18:19",
+    "refreshTimeStamp": 1731795339,
+    "refreshTimeCH": "2024-11-17 06:15:39",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-205-Div.1】核桃编程 11 月月赛 II & GFOI Round 2",
-            "stime": 1731736800,
-            "etime": 1731751200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/210736"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-205-Div.2】核桃编程 11 月月赛 II & GFOI Round 2",
-            "stime": 1731736800,
-            "etime": 1731751200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/210735"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 380",
-            "stime": 1731758400,
-            "etime": 1731764400,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc380"
-        },
         {
             "oj": "luogu",
             "name": "【MX-S6】梦熊 NOIP 2024 模拟赛 2 &「KDOI」Round 11（同步赛）",
