@@ -13,13 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Codeforces Round 988 (Div. 3)
-DTSTART:20241117T223500
-DTEND:20241118T005000
-UID:Codeforces Round 988 (Div. 3)
-DESCRIPTION:https://codeforces.com/contest/2037
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2024-2025 ICPC\, NERC\, Southern and Volga Russian Regional Contes
  t (Unrated\, Online Mirror\, ICPC Rules\, Preferably Teams)
 DTSTART:20241118T183500
