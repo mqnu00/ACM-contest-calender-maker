@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1731881758,
-    "refreshTimeCH": "2024-11-18 06:15:58",
+    "refreshTimeStamp": 1731968223,
+    "refreshTimeCH": "2024-11-19 06:17:03",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "2024-2025 ICPC, NERC, Southern and Volga Russian Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
-            "stime": 1731926100,
-            "etime": 1731944100,
-            "dtime": 18000,
-            "link": "https://codeforces.com/contest/2038"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客小白月赛105",
