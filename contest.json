@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1731968223,
-    "refreshTimeCH": "2024-11-19 06:17:03",
+    "refreshTimeStamp": 1732054611,
+    "refreshTimeCH": "2024-11-20 06:16:51",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -54,8 +54,8 @@
             "oj": "codeforces",
             "name": "CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",
             "stime": 1732372500,
-            "etime": 1732379700,
-            "dtime": 7200,
+            "etime": 1732383300,
+            "dtime": 10800,
             "link": "https://codeforces.com/contest/2039"
         },
         {
