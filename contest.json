@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1732141033,
-    "refreshTimeCH": "2024-11-21 06:17:13",
+    "refreshTimeStamp": 1732227414,
+    "refreshTimeCH": "2024-11-22 06:16:54",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -75,6 +75,14 @@
             "link": "https://leetcode.cn/contest/weekly-contest-425"
         },
         {
+            "oj": "codeforces",
+            "name": "2024 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
+            "stime": 1732431900,
+            "etime": 1732449900,
+            "dtime": 18000,
+            "link": "https://codeforces.com/contest/2041"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 69",
             "stime": 1732446000,
@@ -118,9 +126,17 @@
             "oj": "codeforces",
             "name": "Rayan Programming Contest 2024 - Selection (Codeforces Round, Div. 1 + Div. 2)",
             "stime": 1732977300,
-            "etime": 1732984500,
-            "dtime": 7200,
+            "etime": 1732988100,
+            "dtime": 10800,
             "link": "https://codeforces.com/contest/2034"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 70",
+            "stime": 1733050800,
+            "etime": 1733058000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/97017"
         },
         {
             "oj": "atcoder",
@@ -140,11 +156,27 @@
         },
         {
             "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 386",
+            "stime": 1735387200,
+            "etime": 1735393200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc386"
+        },
+        {
+            "oj": "atcoder",
             "name": "AtCoder Grand Contest 070",
             "stime": 1735473600,
             "etime": 1735484400,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc070"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 387",
+            "stime": 1735992000,
+            "etime": 1735998000,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc387"
         },
         {
             "oj": "nowcoder",

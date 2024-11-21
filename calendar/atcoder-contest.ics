@@ -65,11 +65,25 @@ UID:Toyota Programming Contest 2024#12（AtCoder Beginner Contest 384）
 DESCRIPTION:https://atcoder.jp/contests/abc384
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 386
+DTSTART:20241228T200000
+DTEND:20241228T214000
+UID:AtCoder Beginner Contest 386
+DESCRIPTION:https://atcoder.jp/contests/abc386
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AtCoder Grand Contest 070
 DTSTART:20241229T200000
 DTEND:20241229T230000
 UID:AtCoder Grand Contest 070
 DESCRIPTION:https://atcoder.jp/contests/agc070
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 387
+DTSTART:20250104T200000
+DTEND:20250104T214000
+UID:AtCoder Beginner Contest 387
+DESCRIPTION:https://atcoder.jp/contests/abc387
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The 2nd Masters Championship-qual-
