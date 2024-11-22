@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1732227414,
-    "refreshTimeCH": "2024-11-22 06:16:54",
+    "refreshTimeStamp": 1732313806,
+    "refreshTimeCH": "2024-11-23 06:16:46",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛105",
-            "stime": 1732273200,
-            "etime": 1732280400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/95937"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 381",
-            "stime": 1732276800,
-            "etime": 1732282800,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc381"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-208-Div.3】洛谷基础赛 #18 &「WPOI」Round 2",
