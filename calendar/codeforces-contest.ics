@@ -13,13 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CodeTON Round 9 (Div. 1 + Div. 2\, Rated\, Prizes!)
-DTSTART:20241123T223500
-DTEND:20241124T013500
-UID:CodeTON Round 9 (Div. 1 + Div. 2\, Rated\, Prizes!)
-DESCRIPTION:https://codeforces.com/contest/2039
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2024 ICPC Asia Taichung Regional Contest (Unrated\, Online Mirror\
  , ICPC Rules\, Preferably Teams)
 DTSTART:20241124T150500

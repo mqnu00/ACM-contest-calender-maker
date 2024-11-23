@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1732313806,
-    "refreshTimeCH": "2024-11-23 06:16:46",
+    "refreshTimeStamp": 1732400151,
+    "refreshTimeCH": "2024-11-24 06:15:51",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-208-Div.3】洛谷基础赛 #18 &「WPOI」Round 2",
-            "stime": 1732341600,
-            "etime": 1732356000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/183429"
-        },
-        {
-            "oj": "atcoder",
-            "name": "estie Programming Contest 2024 (AtCoder Regular Contest 188)",
-            "stime": 1732363200,
-            "etime": 1732370400,
-            "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc188"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 144",
-            "stime": 1732372200,
-            "etime": 1732377600,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-144"
-        },
-        {
-            "oj": "codeforces",
-            "name": "CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",
-            "stime": 1732372500,
-            "etime": 1732383300,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2039"
-        },
         {
             "oj": "luogu",
             "name": "【MX-S7】梦熊 NOIP 2024 模拟赛 3 & SMOI Round 2（同步赛）",
@@ -129,6 +97,14 @@
             "etime": 1733578800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc383"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 145",
+            "stime": 1733581800,
+            "etime": 1733587200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-145"
         },
         {
             "oj": "atcoder",
