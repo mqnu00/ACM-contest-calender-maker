@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1732400151,
-    "refreshTimeCH": "2024-11-24 06:15:51",
+    "refreshTimeStamp": 1732486547,
+    "refreshTimeCH": "2024-11-25 06:15:47",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,46 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【MX-S7】梦熊 NOIP 2024 模拟赛 3 & SMOI Round 2（同步赛）",
-            "stime": 1732408200,
-            "etime": 1732424400,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/211089"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 425",
-            "stime": 1732415400,
-            "etime": 1732420800,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-425"
-        },
-        {
-            "oj": "codeforces",
-            "name": "2024 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
-            "stime": 1732431900,
-            "etime": 1732449900,
-            "dtime": 18000,
-            "link": "https://codeforces.com/contest/2041"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 69",
-            "stime": 1732446000,
-            "etime": 1732453200,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/96115"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Grand Contest 069",
-            "stime": 1732449600,
-            "etime": 1732460400,
-            "dtime": 10800,
-            "link": "https://atcoder.jp/contests/agc069"
-        },
         {
             "oj": "atcoder",
             "name": "HACK TO THE FUTURE 2025  (AtCoder Heuristic Contest 040)",
@@ -81,6 +41,14 @@
             "etime": 1732988100,
             "dtime": 10800,
             "link": "https://codeforces.com/contest/2034"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 426",
+            "stime": 1733020200,
+            "etime": 1733025600,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-426"
         },
         {
             "oj": "nowcoder",
