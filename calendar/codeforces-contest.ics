@@ -21,4 +21,18 @@ UID:Rayan Programming Contest 2024 - Selection (Codeforces Round\, Div. 1
  + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2034
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Educational Codeforces Round 172 (Rated for Div. 2)
+DTSTART:20241202T223500
+DTEND:20241203T003500
+UID:Educational Codeforces Round 172 (Rated for Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2042
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20241208T223500
+DTEND:20241209T003500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2040
+END:VEVENT
 END:VCALENDAR

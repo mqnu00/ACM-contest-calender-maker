@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1732486547,
-    "refreshTimeCH": "2024-11-25 06:15:47",
+    "refreshTimeStamp": 1732572992,
+    "refreshTimeCH": "2024-11-26 06:16:32",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -59,6 +59,22 @@
             "link": "https://ac.nowcoder.com/acm/contest/97017"
         },
         {
+            "oj": "codeforces",
+            "name": "Educational Codeforces Round 172 (Rated for Div. 2)",
+            "stime": 1733150100,
+            "etime": 1733157300,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2042"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛106",
+            "stime": 1733482800,
+            "etime": 1733490000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/97439"
+        },
+        {
             "oj": "atcoder",
             "name": "Daiwa Securities Co. Ltd. Programming Contest 2024（AtCoder Beginner Contest 383）",
             "stime": 1733572800,
@@ -73,6 +89,22 @@
             "etime": 1733587200,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-145"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 71",
+            "stime": 1733655600,
+            "etime": 1733662800,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/97443"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1733668500,
+            "etime": 1733675700,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2040"
         },
         {
             "oj": "atcoder",
