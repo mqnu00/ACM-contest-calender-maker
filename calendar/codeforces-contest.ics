@@ -65,4 +65,18 @@ DTEND:20241216T005000
 UID:Codeforces Round (Div. 4)
 DESCRIPTION:https://codeforces.com/contest/2044
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Global Round 28
+DTSTART:20241219T223500
+DTEND:20241220T013500
+UID:Codeforces Global Round 28
+DESCRIPTION:https://codeforces.com/contest/2048
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20241220T223500
+DTEND:20241221T003500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2049
+END:VEVENT
 END:VCALENDAR

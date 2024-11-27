@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1732659441,
-    "refreshTimeCH": "2024-11-27 06:17:21",
+    "refreshTimeStamp": 1732745841,
+    "refreshTimeCH": "2024-11-28 06:17:21",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -153,6 +153,30 @@
             "etime": 1734281400,
             "dtime": 8100,
             "link": "https://codeforces.com/contest/2044"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Global Round 28",
+            "stime": 1734618900,
+            "etime": 1734629700,
+            "dtime": 10800,
+            "link": "https://codeforces.com/contest/2048"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1734705300,
+            "etime": 1734712500,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2049"
+        },
+        {
+            "oj": "atcoder",
+            "name": "UNIQUE VISION Programming Contest 2024 Christmas (AtCoder Beginner Contest 385)",
+            "stime": 1734782400,
+            "etime": 1734788400,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc385"
         },
         {
             "oj": "atcoder",
