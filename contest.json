@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1732745841,
-    "refreshTimeCH": "2024-11-28 06:17:21",
+    "refreshTimeStamp": 1732832219,
+    "refreshTimeCH": "2024-11-29 06:16:59",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -97,6 +97,14 @@
             "etime": 1733213100,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2047"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 3)",
+            "stime": 1733409300,
+            "etime": 1733417400,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2050"
         },
         {
             "oj": "nowcoder",
