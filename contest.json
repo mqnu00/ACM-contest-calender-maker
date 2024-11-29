@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1732832219,
-    "refreshTimeCH": "2024-11-29 06:16:59",
+    "refreshTimeStamp": 1732918619,
+    "refreshTimeCH": "2024-11-30 06:16:59",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "HACK TO THE FUTURE 2025  (AtCoder Heuristic Contest 040)",
-            "stime": 1732874400,
-            "etime": 1733738400,
-            "dtime": 864000,
-            "link": "https://atcoder.jp/contests/ahc040"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客练习赛132",
-            "stime": 1732878000,
-            "etime": 1732887000,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/96120"
-        },
         {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 382",
@@ -153,6 +137,22 @@
             "etime": 1734183600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc384"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 1)",
+            "stime": 1734235200,
+            "etime": 1734253200,
+            "dtime": 18000,
+            "link": "https://atcoder.jp/contests/ttpc2024_1"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Tokyo Tech Programming Contest 2024 (Div. 2)",
+            "stime": 1734235200,
+            "etime": 1734253200,
+            "dtime": 18000,
+            "link": "https://atcoder.jp/contests/ttpc2024_2"
         },
         {
             "oj": "codeforces",
