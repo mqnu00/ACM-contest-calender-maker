@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1732918619,
-    "refreshTimeCH": "2024-11-30 06:16:59",
+    "refreshTimeStamp": 1733004994,
+    "refreshTimeCH": "2024-12-01 06:16:34",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,20 +11,12 @@
     ],
     "contests": [
         {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 382",
-            "stime": 1732968000,
-            "etime": 1732974000,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc382"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",
-            "stime": 1732977300,
-            "etime": 1732988100,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2034"
+            "oj": "luogu",
+            "name": "NOIP2024 自测（暂无数据）",
+            "stime": 1732948200,
+            "etime": 1733569200,
+            "dtime": 621000,
+            "link": "https://www.luogu.com.cn/contest/217331"
         },
         {
             "oj": "leetcode",

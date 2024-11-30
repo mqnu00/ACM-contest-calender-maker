@@ -13,15 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Rayan Programming Contest 2024 - Selection (Codeforces Round 989\,
-  Div. 1 + Div. 2)
-DTSTART:20241130T223500
-DTEND:20241201T013500
-UID:Rayan Programming Contest 2024 - Selection (Codeforces Round 989\, Div
- . 1 + Div. 2)
-DESCRIPTION:https://codeforces.com/contest/2034
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2024-2025 ICPC Asia Jakarta Regional Contest (Unrated\, Online Mir
  ror\, ICPC Rules\, Teams Preferred)
 DTSTART:20241201T130500
