@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1733004994,
-    "refreshTimeCH": "2024-12-01 06:16:34",
+    "refreshTimeStamp": 1733091405,
+    "refreshTimeCH": "2024-12-02 06:16:45",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,46 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "NOIP2024 自测（暂无数据）",
-            "stime": 1732948200,
-            "etime": 1733569200,
-            "dtime": 621000,
-            "link": "https://www.luogu.com.cn/contest/217331"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 426",
-            "stime": 1733020200,
-            "etime": 1733025600,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-426"
-        },
-        {
-            "oj": "codeforces",
-            "name": "2024-2025 ICPC Asia Jakarta Regional Contest (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
-            "stime": 1733029500,
-            "etime": 1733047500,
-            "dtime": 18000,
-            "link": "https://codeforces.com/contest/2045"
-        },
-        {
-            "oj": "luogu",
-            "name": "CZOI Round 2",
-            "stime": 1733032800,
-            "etime": 1733047200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/203857"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 70",
-            "stime": 1733050800,
-            "etime": 1733058000,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/97017"
-        },
         {
             "oj": "codeforces",
             "name": "Educational Codeforces Round 172 (Rated for Div. 2)",
@@ -76,7 +36,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 991 (Div. 3)",
             "stime": 1733409300,
             "etime": 1733417400,
             "dtime": 8100,
@@ -105,6 +65,14 @@
             "etime": 1733587200,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-145"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 427",
+            "stime": 1733625000,
+            "etime": 1733630400,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-427"
         },
         {
             "oj": "nowcoder",

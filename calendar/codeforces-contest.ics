@@ -13,15 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:2024-2025 ICPC Asia Jakarta Regional Contest (Unrated\, Online Mir
- ror\, ICPC Rules\, Teams Preferred)
-DTSTART:20241201T130500
-DTEND:20241201T180500
-UID:2024-2025 ICPC Asia Jakarta Regional Contest (Unrated\, Online Mirror\
- , ICPC Rules\, Teams Preferred)
-DESCRIPTION:https://codeforces.com/contest/2045
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Educational Codeforces Round 172 (Rated for Div. 2)
 DTSTART:20241202T223500
 DTEND:20241203T003500
@@ -43,10 +34,10 @@ UID:Codeforces Round 990 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2047
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 3)
+SUMMARY:Codeforces Round 991 (Div. 3)
 DTSTART:20241205T223500
 DTEND:20241206T005000
-UID:Codeforces Round (Div. 3)
+UID:Codeforces Round 991 (Div. 3)
 DESCRIPTION:https://codeforces.com/contest/2050
 END:VEVENT
 BEGIN:VEVENT
