@@ -22,6 +22,13 @@ UID:Daiwa Securities Co. Ltd. Programming Contest 2024（AtCoder Beginner
 DESCRIPTION:https://atcoder.jp/contests/abc383
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 189 (Div. 2)
+DTSTART:20241208T200000
+DTEND:20241208T220000
+UID:AtCoder Regular Contest 189 (Div. 2)
+DESCRIPTION:https://atcoder.jp/contests/arc189
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Toyota Programming Contest 2024#12（AtCoder Beginner Contest 384
  ）
 DTSTART:20241214T200000
