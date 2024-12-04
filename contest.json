@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1733264264,
-    "refreshTimeCH": "2024-12-04 06:17:44",
+    "refreshTimeStamp": 1733350679,
+    "refreshTimeCH": "2024-12-05 06:17:59",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -78,8 +78,8 @@
             "oj": "nowcoder",
             "name": "牛客小白月赛107",
             "stime": 1734087600,
-            "etime": 1765026000,
-            "dtime": 30938400,
+            "etime": 1734094800,
+            "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/98241"
         },
         {
@@ -105,6 +105,14 @@
             "etime": 1734253200,
             "dtime": 18000,
             "link": "https://atcoder.jp/contests/ttpc2024_2"
+        },
+        {
+            "oj": "luogu",
+            "name": "[DHOI] Round1",
+            "stime": 1734242400,
+            "etime": 1734253200,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/213772"
         },
         {
             "oj": "nowcoder",
