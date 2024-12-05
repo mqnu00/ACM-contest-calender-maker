@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1733350679,
-    "refreshTimeCH": "2024-12-05 06:17:59",
+    "refreshTimeStamp": 1733437057,
+    "refreshTimeCH": "2024-12-06 06:17:37",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 991 (Div. 3)",
-            "stime": 1733409300,
-            "etime": 1733417400,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2050"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客小白月赛106",
