@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1733437057,
-    "refreshTimeCH": "2024-12-06 06:17:37",
+    "refreshTimeStamp": 1733523447,
+    "refreshTimeCH": "2024-12-07 06:17:27",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛106",
-            "stime": 1733482800,
-            "etime": 1733490000,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/97439"
-        },
         {
             "oj": "atcoder",
             "name": "Daiwa Securities Co. Ltd. Programming Contest 2024（AtCoder Beginner Contest 383）",
@@ -73,6 +65,14 @@
             "etime": 1734094800,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/98241"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-209-Div.2】 洛谷 12 月月赛 I & 喵喵喵 Round",
+            "stime": 1734156000,
+            "etime": 1734170400,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/218363"
         },
         {
             "oj": "atcoder",
