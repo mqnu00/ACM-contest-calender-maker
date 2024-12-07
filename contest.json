@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1733523447,
-    "refreshTimeCH": "2024-12-07 06:17:27",
+    "refreshTimeStamp": 1733609789,
+    "refreshTimeCH": "2024-12-08 06:16:29",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "Daiwa Securities Co. Ltd. Programming Contest 2024（AtCoder Beginner Contest 383）",
-            "stime": 1733572800,
-            "etime": 1733578800,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc383"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 145",
-            "stime": 1733581800,
-            "etime": 1733587200,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-145"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 427",
@@ -52,7 +36,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 992 (Div. 2)",
             "stime": 1733668500,
             "etime": 1733675700,
             "dtime": 7200,
@@ -100,11 +84,11 @@
         },
         {
             "oj": "luogu",
-            "name": "[DHOI] Round1",
+            "name": "[DHOI] round1",
             "stime": 1734242400,
             "etime": 1734253200,
             "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/213772"
+            "link": "https://www.luogu.com.cn/contest/218668"
         },
         {
             "oj": "nowcoder",
@@ -147,12 +131,44 @@
             "link": "https://codeforces.com/contest/2049"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-210-Div.3】洛谷基础赛 #19 & ALFR Round 3",
+            "stime": 1734762600,
+            "etime": 1734777000,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/210959"
+        },
+        {
             "oj": "atcoder",
             "name": "UNIQUE VISION Programming Contest 2024 Christmas (AtCoder Beginner Contest 385)",
             "stime": 1734782400,
             "etime": 1734788400,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc385"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 146",
+            "stime": 1734791400,
+            "etime": 1734796800,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-146"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X7】梦熊 X 组 · 苹果赛 & LSOT Round 3（同步赛）",
+            "stime": 1734849000,
+            "etime": 1734861600,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/218816"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J9】梦熊 J 组 · 苹果赛 & LSOT Round 3（同步赛）",
+            "stime": 1734849000,
+            "etime": 1734861600,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/218817"
         },
         {
             "oj": "atcoder",
