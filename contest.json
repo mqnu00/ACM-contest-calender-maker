@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1733609789,
-    "refreshTimeCH": "2024-12-08 06:16:29",
+    "refreshTimeStamp": 1733696199,
+    "refreshTimeCH": "2024-12-09 06:16:39",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,38 +11,6 @@
     ],
     "contests": [
         {
-            "oj": "leetcode",
-            "name": "Weekly Contest 427",
-            "stime": 1733625000,
-            "etime": 1733630400,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-427"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 71",
-            "stime": 1733655600,
-            "etime": 1733662800,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/97443"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 189 (Div. 2)",
-            "stime": 1733659200,
-            "etime": 1733666400,
-            "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc189"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 992 (Div. 2)",
-            "stime": 1733668500,
-            "etime": 1733675700,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2040"
-        },
-        {
             "oj": "nowcoder",
             "name": "牛客小白月赛107",
             "stime": 1734087600,
@@ -52,7 +20,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【LGR-209-Div.2】 洛谷 12 月月赛 I & 喵喵喵 Round",
+            "name": "【LGR-209-Div.2】 复旦勰码 12 月月赛 I & 喵喵喵 Round",
             "stime": 1734156000,
             "etime": 1734170400,
             "dtime": 14400,
@@ -65,6 +33,14 @@
             "etime": 1734183600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc384"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 428",
+            "stime": 1734229800,
+            "etime": 1734235200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-428"
         },
         {
             "oj": "atcoder",
@@ -91,6 +67,14 @@
             "link": "https://www.luogu.com.cn/contest/218668"
         },
         {
+            "oj": "luogu",
+            "name": "EPXLQ 2024 fall round",
+            "stime": 1734255000,
+            "etime": 1734269400,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/201084"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 72",
             "stime": 1734260400,
@@ -100,7 +84,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 4)",
+            "name": "Codeforces Round 993 (Div. 4)",
             "stime": 1734273300,
             "etime": 1734281400,
             "dtime": 8100,
@@ -131,14 +115,6 @@
             "link": "https://codeforces.com/contest/2049"
         },
         {
-            "oj": "luogu",
-            "name": "【LGR-210-Div.3】洛谷基础赛 #19 & ALFR Round 3",
-            "stime": 1734762600,
-            "etime": 1734777000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/210959"
-        },
-        {
             "oj": "atcoder",
             "name": "UNIQUE VISION Programming Contest 2024 Christmas (AtCoder Beginner Contest 385)",
             "stime": 1734782400,
@@ -157,17 +133,17 @@
         {
             "oj": "luogu",
             "name": "【MX-X7】梦熊 X 组 · 苹果赛 & LSOT Round 3（同步赛）",
-            "stime": 1734849000,
+            "stime": 1734845400,
             "etime": 1734861600,
-            "dtime": 12600,
+            "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/218816"
         },
         {
             "oj": "luogu",
             "name": "【MX-J9】梦熊 J 组 · 苹果赛 & LSOT Round 3（同步赛）",
-            "stime": 1734849000,
+            "stime": 1734845400,
             "etime": 1734861600,
-            "dtime": 12600,
+            "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/218817"
         },
         {
