@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1733782670,
-    "refreshTimeCH": "2024-12-10 06:17:50",
+    "refreshTimeStamp": 1733869050,
+    "refreshTimeCH": "2024-12-11 06:17:30",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -20,7 +20,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【LGR-209-Div.2】 复旦勰码 12 月月赛 I & 喵喵喵 Round",
+            "name": "【LGR-209-Div.2】复旦勰码 12 月月赛 I & 喵喵喵 Round",
             "stime": 1734156000,
             "etime": 1734170400,
             "dtime": 14400,
@@ -60,7 +60,7 @@
         },
         {
             "oj": "luogu",
-            "name": "[DHOI] round1",
+            "name": "[DHOI] Round 1",
             "stime": 1734242400,
             "etime": 1734253200,
             "dtime": 10800,
@@ -113,6 +113,14 @@
             "etime": 1734712500,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2049"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-210-Div.3】洛谷基础赛 #19 & ALFR Round 3",
+            "stime": 1734762600,
+            "etime": 1734777000,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/210959"
         },
         {
             "oj": "atcoder",
