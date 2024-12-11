@@ -65,6 +65,13 @@ UID:AtCoder Beginner Contest 387
 DESCRIPTION:https://atcoder.jp/contests/abc387
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Toyota Programming Contest  2025（AtCoder Beginner Contest 389)
+DTSTART:20250118T200000
+DTEND:20250118T214000
+UID:Toyota Programming Contest  2025（AtCoder Beginner Contest 389)
+DESCRIPTION:https://atcoder.jp/contests/abc389
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The 2nd Masters Championship-qual-
 DTSTART:20250302T120000
 DTEND:20250302T180000

@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1733869050,
-    "refreshTimeCH": "2024-12-11 06:17:30",
+    "refreshTimeStamp": 1733955486,
+    "refreshTimeCH": "2024-12-12 06:18:06",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,6 +10,14 @@
         "leetcode"
     ],
     "contests": [
+        {
+            "oj": "luogu",
+            "name": "【LGR-211-Div.4】洛谷入门赛 #30",
+            "stime": 1734087600,
+            "etime": 1734094800,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/219467"
+        },
         {
             "oj": "nowcoder",
             "name": "牛客小白月赛107",
@@ -65,6 +73,14 @@
             "etime": 1734253200,
             "dtime": 10800,
             "link": "https://www.luogu.com.cn/contest/218668"
+        },
+        {
+            "oj": "codeforces",
+            "name": "2024-2025 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+            "stime": 1734248100,
+            "etime": 1734266100,
+            "dtime": 18000,
+            "link": "https://codeforces.com/contest/2052"
         },
         {
             "oj": "luogu",
@@ -140,6 +156,14 @@
         },
         {
             "oj": "luogu",
+            "name": "【MX-J9】梦熊 J 组 · 苹果赛 & LSOT Round 3（同步赛）",
+            "stime": 1734845400,
+            "etime": 1734861600,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/218817"
+        },
+        {
+            "oj": "luogu",
             "name": "【MX-X7】梦熊 X 组 · 苹果赛 & LSOT Round 3（同步赛）",
             "stime": 1734845400,
             "etime": 1734861600,
@@ -147,12 +171,12 @@
             "link": "https://www.luogu.com.cn/contest/218816"
         },
         {
-            "oj": "luogu",
-            "name": "【MX-J9】梦熊 J 组 · 苹果赛 & LSOT Round 3（同步赛）",
-            "stime": 1734845400,
-            "etime": 1734861600,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/218817"
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 3)",
+            "stime": 1734878100,
+            "etime": 1734886200,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2051"
         },
         {
             "oj": "atcoder",
@@ -171,12 +195,28 @@
             "link": "https://atcoder.jp/contests/agc070"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客2024跨年场",
+            "stime": 1735650000,
+            "etime": 1735661100,
+            "dtime": 11100,
+            "link": "https://ac.nowcoder.com/acm/contest/98985"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 387",
             "stime": 1735992000,
             "etime": 1735998000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc387"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Toyota Programming Contest  2025（AtCoder Beginner Contest 389)",
+            "stime": 1737201600,
+            "etime": 1737207600,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc389"
         },
         {
             "oj": "nowcoder",
