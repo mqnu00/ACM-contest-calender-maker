@@ -13,11 +13,11 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:2024-2025 ICPC\, NERC\, Northern Eurasia Onsite (Unrated\, Online 
+SUMMARY:2024-2025 ICPC\, NERC\, Northern Eurasia Finals (Unrated\, Online 
  Mirror\, ICPC Rules\, Teams Preferred)
 DTSTART:20241215T153500
 DTEND:20241215T203500
-UID:2024-2025 ICPC\, NERC\, Northern Eurasia Onsite (Unrated\, Online Mirr
+UID:2024-2025 ICPC\, NERC\, Northern Eurasia Finals (Unrated\, Online Mirr
  or\, ICPC Rules\, Teams Preferred)
 DESCRIPTION:https://codeforces.com/contest/2052
 END:VEVENT

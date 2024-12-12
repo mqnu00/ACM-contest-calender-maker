@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1733955486,
-    "refreshTimeCH": "2024-12-12 06:18:06",
+    "refreshTimeStamp": 1734041868,
+    "refreshTimeCH": "2024-12-13 06:17:48",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -76,7 +76,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "2024-2025 ICPC, NERC, Northern Eurasia Onsite (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+            "name": "2024-2025 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
             "stime": 1734248100,
             "etime": 1734266100,
             "dtime": 18000,
@@ -212,11 +212,11 @@
         },
         {
             "oj": "atcoder",
-            "name": "Toyota Programming Contest  2025（AtCoder Beginner Contest 389)",
-            "stime": 1737201600,
-            "etime": 1737207600,
+            "name": "HHKB Programming Contest 2025(AtCoder Beginner Contest 388)",
+            "stime": 1736596800,
+            "etime": 1736602800,
             "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc389"
+            "link": "https://atcoder.jp/contests/abc388"
         },
         {
             "oj": "nowcoder",
