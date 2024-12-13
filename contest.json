@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1734041868,
-    "refreshTimeCH": "2024-12-13 06:17:48",
+    "refreshTimeStamp": 1734128266,
+    "refreshTimeCH": "2024-12-14 06:17:46",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-211-Div.4】洛谷入门赛 #30",
-            "stime": 1734087600,
-            "etime": 1734094800,
-            "dtime": 7200,
-            "link": "https://www.luogu.com.cn/contest/219467"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛107",
-            "stime": 1734087600,
-            "etime": 1734094800,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/98241"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-209-Div.2】复旦勰码 12 月月赛 I & 喵喵喵 Round",
@@ -177,6 +161,14 @@
             "etime": 1734886200,
             "dtime": 8100,
             "link": "https://codeforces.com/contest/2051"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Educational Codeforces Round 173 (Rated for Div. 2)",
+            "stime": 1735050900,
+            "etime": 1735058100,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2043"
         },
         {
             "oj": "atcoder",

@@ -49,4 +49,11 @@ DTEND:20241223T005000
 UID:Codeforces Round (Div. 3)
 DESCRIPTION:https://codeforces.com/contest/2051
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Educational Codeforces Round 173 (Rated for Div. 2)
+DTSTART:20241224T223500
+DTEND:20241225T003500
+UID:Educational Codeforces Round 173 (Rated for Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2043
+END:VEVENT
 END:VCALENDAR
