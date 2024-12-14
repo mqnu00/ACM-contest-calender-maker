@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1734128266,
-    "refreshTimeCH": "2024-12-14 06:17:46",
+    "refreshTimeStamp": 1734214583,
+    "refreshTimeCH": "2024-12-15 06:16:23",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-209-Div.2】复旦勰码 12 月月赛 I & 喵喵喵 Round",
-            "stime": 1734156000,
-            "etime": 1734170400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/218363"
-        },
-        {
-            "oj": "atcoder",
-            "name": "Toyota Programming Contest 2024#12（AtCoder Beginner Contest 384）",
-            "stime": 1734177600,
-            "etime": 1734183600,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc384"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 428",
@@ -140,19 +124,11 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-J9】梦熊 J 组 · 苹果赛 & LSOT Round 3（同步赛）",
+            "name": "东北大学秦皇岛分校第十二届“图灵杯”程序设计竞赛",
             "stime": 1734845400,
-            "etime": 1734861600,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/218817"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-X7】梦熊 X 组 · 苹果赛 & LSOT Round 3（同步赛）",
-            "stime": 1734845400,
-            "etime": 1734861600,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/218816"
+            "etime": 1734863400,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/219756"
         },
         {
             "oj": "codeforces",
@@ -201,6 +177,22 @@
             "etime": 1735998000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc387"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X7】梦熊 X 组 · 苹果赛 & LSOT Round 3（同步赛）",
+            "stime": 1736573400,
+            "etime": 1736589600,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/218816"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J9】梦熊 J 组 · 苹果赛 & LSOT Round 3（同步赛）",
+            "stime": 1736573400,
+            "etime": 1736589600,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/218817"
         },
         {
             "oj": "atcoder",
