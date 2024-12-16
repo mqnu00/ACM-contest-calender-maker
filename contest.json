@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1734301006,
-    "refreshTimeCH": "2024-12-16 06:16:46",
+    "refreshTimeStamp": 1734387403,
+    "refreshTimeCH": "2024-12-17 06:16:43",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -75,6 +75,14 @@
             "link": "https://www.luogu.com.cn/contest/219756"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 73",
+            "stime": 1734865200,
+            "etime": 1734872400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/99277"
+        },
+        {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 3)",
             "stime": 1734878100,
@@ -89,6 +97,14 @@
             "etime": 1735058100,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2043"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛108",
+            "stime": 1735297200,
+            "etime": 1735304400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/99287"
         },
         {
             "oj": "atcoder",
