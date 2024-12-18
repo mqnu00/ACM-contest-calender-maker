@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1734473834,
-    "refreshTimeCH": "2024-12-18 06:17:14",
+    "refreshTimeStamp": 1734560246,
+    "refreshTimeCH": "2024-12-19 06:17:26",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -92,6 +92,14 @@
         },
         {
             "oj": "codeforces",
+            "name": "MaraTON 1",
+            "stime": 1734951600,
+            "etime": 1736766000,
+            "dtime": 1814400,
+            "link": "https://codeforces.com/contest/2054"
+        },
+        {
+            "oj": "codeforces",
             "name": "Educational Codeforces Round 173 (Rated for Div. 2)",
             "stime": 1735050900,
             "etime": 1735058100,
@@ -161,6 +169,14 @@
             "etime": 1736602800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc388"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Toyota Programming Contest  2025（AtCoder Beginner Contest 389)",
+            "stime": 1737201600,
+            "etime": 1737207600,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc389"
         },
         {
             "oj": "nowcoder",
