@@ -29,11 +29,11 @@ UID:东北大学秦皇岛分校第十二届“图灵杯”程序设计竞
 DESCRIPTION:https://www.luogu.com.cn/contest/219756
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【MX-X7】梦熊 X 组 · 苹果赛 & LSOT Round 3（同步赛）
-DTSTART:20250111T133000
-DTEND:20250111T180000
-UID:【MX-X7】梦熊 X 组 · 苹果赛 & LSOT Round 3（同步赛）
-DESCRIPTION:https://www.luogu.com.cn/contest/218816
+SUMMARY:【LGR-212-Div.2】洛谷 12 月月赛 II & Cfz Round 5
+DTSTART:20241229T140000
+DTEND:20241229T183000
+UID:【LGR-212-Div.2】洛谷 12 月月赛 II & Cfz Round 5
+DESCRIPTION:https://www.luogu.com.cn/contest/187568
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:【MX-J9】梦熊 J 组 · 苹果赛 & LSOT Round 3（同步赛）
@@ -41,5 +41,12 @@ DTSTART:20250111T133000
 DTEND:20250111T180000
 UID:【MX-J9】梦熊 J 组 · 苹果赛 & LSOT Round 3（同步赛）
 DESCRIPTION:https://www.luogu.com.cn/contest/218817
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【MX-X7】梦熊 X 组 · 苹果赛 & LSOT Round 3（同步赛）
+DTSTART:20250111T133000
+DTEND:20250111T180000
+UID:【MX-X7】梦熊 X 组 · 苹果赛 & LSOT Round 3（同步赛）
+DESCRIPTION:https://www.luogu.com.cn/contest/218816
 END:VEVENT
 END:VCALENDAR
