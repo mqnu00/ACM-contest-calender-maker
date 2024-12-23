@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1734905714,
-    "refreshTimeCH": "2024-12-23 06:15:14",
+    "refreshTimeStamp": 1734948796,
+    "refreshTimeCH": "2024-12-23 18:13:16",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -145,6 +145,14 @@
             "etime": 1737207600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc389"
+        },
+        {
+            "oj": "atcoder",
+            "name": "ALGO ARTIS Programming Contest 2025 Winter（AtCoder Heuristic Contest 041）",
+            "stime": 1737266400,
+            "etime": 1737280800,
+            "dtime": 14400,
+            "link": "https://atcoder.jp/contests/ahc041"
         },
         {
             "oj": "nowcoder",
