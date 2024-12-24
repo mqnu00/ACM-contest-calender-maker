@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1734992150,
-    "refreshTimeCH": "2024-12-24 06:15:50",
+    "refreshTimeStamp": 1735078536,
+    "refreshTimeCH": "2024-12-25 06:15:36",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,20 +11,12 @@
     ],
     "contests": [
         {
-            "oj": "codeforces",
-            "name": "MaraTON Challenge 1",
-            "stime": 1734960900,
-            "etime": 1736775300,
-            "dtime": 1814400,
-            "link": "https://codeforces.com/contest/2054"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 173 (Rated for Div. 2)",
-            "stime": 1735050900,
-            "etime": 1735058100,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2043"
+            "oj": "luogu",
+            "name": "COCI 2024/2025 #3 Unofficial Mirror",
+            "stime": 1735281000,
+            "etime": 1735291800,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/221600"
         },
         {
             "oj": "nowcoder",
@@ -44,7 +36,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Good Bye 2024",
+            "name": "Good Bye 2024: 2025 is NEAR",
             "stime": 1735396500,
             "etime": 1735407300,
             "dtime": 10800,
