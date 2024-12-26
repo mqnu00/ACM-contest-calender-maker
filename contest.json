@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1735164930,
-    "refreshTimeCH": "2024-12-26 06:15:30",
+    "refreshTimeStamp": 1735251338,
+    "refreshTimeCH": "2024-12-27 06:15:38",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -153,6 +153,14 @@
             "etime": 1737453600,
             "dtime": 18000,
             "link": "https://ac.nowcoder.com/acm/contest/95323"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Japan Registry Services (JPRS) Programming Contest 2025#1 (AtCoder Beginner Contest 392)",
+            "stime": 1739016000,
+            "etime": 1739022000,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc392"
         },
         {
             "oj": "atcoder",
