@@ -41,6 +41,13 @@ UID:HHKB Programming Contest 2025(AtCoder Beginner Contest 388)
 DESCRIPTION:https://atcoder.jp/contests/abc388
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 190 (Div. 1)
+DTSTART:20250112T200000
+DTEND:20250112T220000
+UID:AtCoder Regular Contest 190 (Div. 1)
+DESCRIPTION:https://atcoder.jp/contests/arc190
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Toyota Programming Contest  2025（AtCoder Beginner Contest 389)
 DTSTART:20250118T200000
 DTEND:20250118T214000
@@ -55,6 +62,20 @@ DTEND:20250119T180000
 UID:ALGO ARTIS Programming Contest 2025 Winter（AtCoder Heuristic Contest
   041）
 DESCRIPTION:https://atcoder.jp/contests/ahc041
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 390
+DTSTART:20250125T200000
+DTEND:20250125T214000
+UID:AtCoder Beginner Contest 390
+DESCRIPTION:https://atcoder.jp/contests/abc390
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 391
+DTSTART:20250201T200000
+DTEND:20250201T214000
+UID:AtCoder Beginner Contest 391
+DESCRIPTION:https://atcoder.jp/contests/abc391
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Japan Registry Services (JPRS) Programming Contest 2025#1 (AtCoder

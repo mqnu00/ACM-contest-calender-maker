@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1735251338,
-    "refreshTimeCH": "2024-12-27 06:15:38",
+    "refreshTimeStamp": 1735337726,
+    "refreshTimeCH": "2024-12-28 06:15:26",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "COCI 2024/2025 #3 Unofficial Mirror",
-            "stime": 1735281000,
-            "etime": 1735291800,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/221600"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛108",
-            "stime": 1735297200,
-            "etime": 1735304400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/99287"
-        },
         {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 386",
@@ -99,6 +83,22 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-147"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 75",
+            "stime": 1736074800,
+            "etime": 1736082000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/99784"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛109",
+            "stime": 1736506800,
+            "etime": 1736514000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/99785"
+        },
+        {
             "oj": "luogu",
             "name": "【MX-J9】梦熊 J 组 · 苹果赛 & LSOT Round 3（同步赛）",
             "stime": 1736573400,
@@ -121,6 +121,14 @@
             "etime": 1736602800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc388"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest 190 (Div. 1)",
+            "stime": 1736683200,
+            "etime": 1736690400,
+            "dtime": 7200,
+            "link": "https://atcoder.jp/contests/arc190"
         },
         {
             "oj": "codeforces",
@@ -153,6 +161,22 @@
             "etime": 1737453600,
             "dtime": 18000,
             "link": "https://ac.nowcoder.com/acm/contest/95323"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 390",
+            "stime": 1737806400,
+            "etime": 1737812400,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc390"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 391",
+            "stime": 1738411200,
+            "etime": 1738417200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc391"
         },
         {
             "oj": "atcoder",
