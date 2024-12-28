@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1735337726,
-    "refreshTimeCH": "2024-12-28 06:15:26",
+    "refreshTimeStamp": 1735424097,
+    "refreshTimeCH": "2024-12-29 06:14:57",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 386",
-            "stime": 1735387200,
-            "etime": 1735393200,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc386"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Good Bye 2024: 2025 is NEAR",
-            "stime": 1735396500,
-            "etime": 1735407300,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2053"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 430",
@@ -81,6 +65,14 @@
             "etime": 1736006400,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-147"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Hello 2025",
+            "stime": 1736001300,
+            "etime": 1736010300,
+            "dtime": 9000,
+            "link": "https://codeforces.com/contest/2057"
         },
         {
             "oj": "nowcoder",
