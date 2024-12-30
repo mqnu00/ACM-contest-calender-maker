@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1735510503,
-    "refreshTimeCH": "2024-12-30 06:15:03",
+    "refreshTimeStamp": 1735596958,
+    "refreshTimeCH": "2024-12-31 06:15:58",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -17,6 +17,22 @@
             "etime": 1735661100,
             "dtime": 11100,
             "link": "https://ac.nowcoder.com/acm/contest/98985"
+        },
+        {
+            "oj": "luogu",
+            "name": "ROIR 2019 Day 1 Unofficial Mirror",
+            "stime": 1735691400,
+            "etime": 1735702200,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/222669"
+        },
+        {
+            "oj": "luogu",
+            "name": "ROIR 2019 Day 2 Unofficial Mirror",
+            "stime": 1735713000,
+            "etime": 1735723800,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/222684"
         },
         {
             "oj": "atcoder",
@@ -129,6 +145,14 @@
             "etime": 1737280800,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc041"
+        },
+        {
+            "oj": "luogu",
+            "name": "『Fwb』Round 1 之冬日绚礼",
+            "stime": 1737266400,
+            "etime": 1737280800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/218352"
         },
         {
             "oj": "nowcoder",
