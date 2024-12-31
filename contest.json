@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1735596958,
-    "refreshTimeCH": "2024-12-31 06:15:58",
+    "refreshTimeStamp": 1735683325,
+    "refreshTimeCH": "2025-01-01 06:15:25",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,16 +11,8 @@
     ],
     "contests": [
         {
-            "oj": "nowcoder",
-            "name": "牛客2024跨年场",
-            "stime": 1735650000,
-            "etime": 1735661100,
-            "dtime": 11100,
-            "link": "https://ac.nowcoder.com/acm/contest/98985"
-        },
-        {
             "oj": "luogu",
-            "name": "ROIR 2019 Day 1 Unofficial Mirror",
+            "name": "【UM-02】ROIR 2019 Day 1 Unofficial Mirror",
             "stime": 1735691400,
             "etime": 1735702200,
             "dtime": 10800,
@@ -28,7 +20,7 @@
         },
         {
             "oj": "luogu",
-            "name": "ROIR 2019 Day 2 Unofficial Mirror",
+            "name": "【UM-03】ROIR 2019 Day 2 Unofficial Mirror",
             "stime": 1735713000,
             "etime": 1735723800,
             "dtime": 10800,
