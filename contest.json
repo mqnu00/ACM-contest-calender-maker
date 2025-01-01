@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1735683325,
-    "refreshTimeCH": "2025-01-01 06:15:25",
+    "refreshTimeStamp": 1735769750,
+    "refreshTimeCH": "2025-01-02 06:15:50",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,19 +12,11 @@
     "contests": [
         {
             "oj": "luogu",
-            "name": "【UM-02】ROIR 2019 Day 1 Unofficial Mirror",
-            "stime": 1735691400,
-            "etime": 1735702200,
+            "name": "【UM-04】「JOI 2024-2025 一次予選」Unofficial Mirror",
+            "stime": 1735813800,
+            "etime": 1735824600,
             "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/222669"
-        },
-        {
-            "oj": "luogu",
-            "name": "【UM-03】ROIR 2019 Day 2 Unofficial Mirror",
-            "stime": 1735713000,
-            "etime": 1735723800,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/222684"
+            "link": "https://www.luogu.com.cn/contest/222819"
         },
         {
             "oj": "atcoder",
