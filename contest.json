@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1735856153,
-    "refreshTimeCH": "2025-01-03 06:15:53",
+    "refreshTimeStamp": 1735942540,
+    "refreshTimeCH": "2025-01-04 06:15:40",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【UM-05】「NordicOI 2018」Unofficial Mirror",
-            "stime": 1735880400,
-            "etime": 1735891200,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/222860"
-        },
         {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 387",
@@ -43,6 +35,14 @@
             "link": "https://codeforces.com/contest/2057"
         },
         {
+            "oj": "luogu",
+            "name": "【UM-06】ROIR 2017 Day 1 Unofficial Mirror",
+            "stime": 1736037000,
+            "etime": 1736047800,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/222861"
+        },
+        {
             "oj": "leetcode",
             "name": "Weekly Contest 431",
             "stime": 1736044200,
@@ -51,12 +51,36 @@
             "link": "https://leetcode.cn/contest/weekly-contest-431"
         },
         {
+            "oj": "luogu",
+            "name": "【UM-07】ROIR 2017 Day 2 Unofficial Mirror",
+            "stime": 1736058600,
+            "etime": 1736069400,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/222862"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 75",
             "stime": 1736074800,
             "etime": 1736082000,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/99784"
+        },
+        {
+            "oj": "luogu",
+            "name": "【UM-08】ROIR 2016 Day 1 Unofficial Mirror",
+            "stime": 1736469000,
+            "etime": 1736479800,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/222919"
+        },
+        {
+            "oj": "luogu",
+            "name": "【UM-09】ROIR 2016 Day 2 Unofficial Mirror",
+            "stime": 1736490600,
+            "etime": 1736501400,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/222920"
         },
         {
             "oj": "nowcoder",
@@ -121,6 +145,14 @@
             "etime": 1736699700,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2055"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客练习赛133",
+            "stime": 1737111600,
+            "etime": 1737120600,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/100007"
         },
         {
             "oj": "atcoder",
