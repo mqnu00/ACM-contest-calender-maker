@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1735942540,
-    "refreshTimeCH": "2025-01-04 06:15:40",
+    "refreshTimeStamp": 1736028888,
+    "refreshTimeCH": "2025-01-05 06:14:48",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 387",
-            "stime": 1735992000,
-            "etime": 1735998000,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc387"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 147",
-            "stime": 1736001000,
-            "etime": 1736006400,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-147"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Hello 2025",
-            "stime": 1736001300,
-            "etime": 1736010300,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2057"
-        },
         {
             "oj": "luogu",
             "name": "【UM-06】ROIR 2017 Day 1 Unofficial Mirror",
@@ -155,12 +131,28 @@
             "link": "https://ac.nowcoder.com/acm/contest/100007"
         },
         {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1737124500,
+            "etime": 1737131700,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2056"
+        },
+        {
             "oj": "atcoder",
             "name": "Toyota Programming Contest  2025（AtCoder Beginner Contest 389)",
             "stime": 1737201600,
             "etime": 1737207600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc389"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 148",
+            "stime": 1737210600,
+            "etime": 1737216000,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-148"
         },
         {
             "oj": "atcoder",
