@@ -26,4 +26,18 @@ DTEND:20250118T003500
 UID:Codeforces Round 997 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2056
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 3)
+DTSTART:20250119T223500
+DTEND:20250120T010500
+UID:Codeforces Round (Div. 3)
+DESCRIPTION:https://codeforces.com/contest/2060
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 1 + Div. 2)
+DTSTART:20250120T223500
+DTEND:20250121T013500
+UID:Codeforces Round (Div. 1 + Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2061
+END:VEVENT
 END:VCALENDAR
