@@ -34,10 +34,17 @@ UID:Codeforces Round (Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2061
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ethflow Round (Codeforces Round\, Div. 1 + Div. 2)
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20250122T200500
+DTEND:20250122T220500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2063
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ethflow Round 1 (Codeforces Round\, Div. 1 + Div. 2)
 DTSTART:20250126T223500
 DTEND:20250127T010500
-UID:Ethflow Round (Codeforces Round\, Div. 1 + Div. 2)
+UID:Ethflow Round 1 (Codeforces Round\, Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2062
 END:VEVENT
 END:VCALENDAR
