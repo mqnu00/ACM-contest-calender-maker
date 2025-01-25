@@ -13,10 +13,10 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Ethflow Round 1 (Codeforces Round\, Div. 1 + Div. 2)
+SUMMARY:Ethflow Round 1 (Codeforces Round 1001\, Div. 1 + Div. 2)
 DTSTART:20250126T223500
 DTEND:20250127T010500
-UID:Ethflow Round 1 (Codeforces Round\, Div. 1 + Div. 2)
+UID:Ethflow Round 1 (Codeforces Round 1001\, Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2062
 END:VEVENT
 END:VCALENDAR
