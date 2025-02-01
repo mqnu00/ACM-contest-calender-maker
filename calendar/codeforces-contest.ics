@@ -19,4 +19,11 @@ DTEND:20250203T003500
 UID:Codeforces Round 1002 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2059
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 4)
+DTSTART:20250209T223500
+DTEND:20250210T005000
+UID:Codeforces Round (Div. 4)
+DESCRIPTION:https://codeforces.com/contest/2065
+END:VEVENT
 END:VCALENDAR
