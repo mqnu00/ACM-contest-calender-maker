@@ -13,50 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:HHKB Programming Contest 2025(AtCoder Beginner Contest 388)
-DTSTART:20250111T200000
-DTEND:20250111T214000
-UID:HHKB Programming Contest 2025(AtCoder Beginner Contest 388)
-DESCRIPTION:https://atcoder.jp/contests/abc388
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AtCoder Regular Contest 190 (Div. 1)
-DTSTART:20250112T200000
-DTEND:20250112T220000
-UID:AtCoder Regular Contest 190 (Div. 1)
-DESCRIPTION:https://atcoder.jp/contests/arc190
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Toyota Programming Contest  2025（AtCoder Beginner Contest 389)
-DTSTART:20250118T200000
-DTEND:20250118T214000
-UID:Toyota Programming Contest  2025（AtCoder Beginner Contest 389)
-DESCRIPTION:https://atcoder.jp/contests/abc389
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ALGO ARTIS Programming Contest 2025 Winter（AtCoder Heuristic Con
- test 041）
-DTSTART:20250119T140000
-DTEND:20250119T180000
-UID:ALGO ARTIS Programming Contest 2025 Winter（AtCoder Heuristic Contest
-  041）
-DESCRIPTION:https://atcoder.jp/contests/ahc041
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AtCoder Beginner Contest 390
-DTSTART:20250125T200000
-DTEND:20250125T214000
-UID:AtCoder Beginner Contest 390
-DESCRIPTION:https://atcoder.jp/contests/abc390
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AtCoder Beginner Contest 391
-DTSTART:20250201T200000
-DTEND:20250201T214000
-UID:AtCoder Beginner Contest 391
-DESCRIPTION:https://atcoder.jp/contests/abc391
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Japan Registry Services (JPRS) Programming Contest 2025#1 (AtCoder
   Beginner Contest 392)
 DTSTART:20250208T200000
@@ -64,6 +20,36 @@ DTEND:20250208T214000
 UID:Japan Registry Services (JPRS) Programming Contest 2025#1 (AtCoder Beg
  inner Contest 392)
 DESCRIPTION:https://atcoder.jp/contests/abc392
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 192 (Div. 2)
+DTSTART:20250209T200000
+DTEND:20250209T220000
+UID:AtCoder Regular Contest 192 (Div. 2)
+DESCRIPTION:https://atcoder.jp/contests/arc192
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECRUIT Nihonbashi Half Marathon 2025 Winter（AtCoder Heuristic C
+ ontest 043）
+DTSTART:20250214T180000
+DTEND:20250224T180000
+UID:RECRUIT Nihonbashi Half Marathon 2025 Winter（AtCoder Heuristic Conte
+ st 043）
+DESCRIPTION:https://atcoder.jp/contests/ahc043
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 393
+DTSTART:20250215T200000
+DTEND:20250215T214000
+UID:AtCoder Beginner Contest 393
+DESCRIPTION:https://atcoder.jp/contests/abc393
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KAJIMA CORPORATION CONTEST 2025 (AtCoder Beginner Contest 394)
+DTSTART:20250222T200000
+DTEND:20250222T214000
+UID:KAJIMA CORPORATION CONTEST 2025 (AtCoder Beginner Contest 394)
+DESCRIPTION:https://atcoder.jp/contests/abc394
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The 2nd Masters Championship-qual-
