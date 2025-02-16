@@ -13,38 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Japan Registry Services (JPRS) Programming Contest 2025#1 (AtCoder
-  Beginner Contest 392)
-DTSTART:20250208T200000
-DTEND:20250208T214000
-UID:Japan Registry Services (JPRS) Programming Contest 2025#1 (AtCoder Beg
- inner Contest 392)
-DESCRIPTION:https://atcoder.jp/contests/abc392
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AtCoder Regular Contest 192 (Div. 2)
-DTSTART:20250209T200000
-DTEND:20250209T220000
-UID:AtCoder Regular Contest 192 (Div. 2)
-DESCRIPTION:https://atcoder.jp/contests/arc192
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RECRUIT Nihonbashi Half Marathon 2025 Winter（AtCoder Heuristic C
- ontest 043）
-DTSTART:20250214T180000
-DTEND:20250224T180000
-UID:RECRUIT Nihonbashi Half Marathon 2025 Winter（AtCoder Heuristic Conte
- st 043）
-DESCRIPTION:https://atcoder.jp/contests/ahc043
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AtCoder Beginner Contest 393
-DTSTART:20250215T200000
-DTEND:20250215T214000
-UID:AtCoder Beginner Contest 393
-DESCRIPTION:https://atcoder.jp/contests/abc393
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KAJIMA CORPORATION CONTEST 2025 (AtCoder Beginner Contest 394)
 DTSTART:20250222T200000
 DTEND:20250222T214000
@@ -52,10 +20,68 @@ UID:KAJIMA CORPORATION CONTEST 2025 (AtCoder Beginner Contest 394)
 DESCRIPTION:https://atcoder.jp/contests/abc394
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 193 (Div. 1)
+DTSTART:20250223T200000
+DTEND:20250223T220000
+UID:AtCoder Regular Contest 193 (Div. 1)
+DESCRIPTION:https://atcoder.jp/contests/arc193
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 395
+DTSTART:20250301T200000
+DTEND:20250301T214000
+UID:AtCoder Beginner Contest 395
+DESCRIPTION:https://atcoder.jp/contests/abc395
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The 2nd Masters Championship-qual-
 DTSTART:20250302T120000
 DTEND:20250302T180000
 UID:The 2nd Masters Championship-qual-
 DESCRIPTION:https://atcoder.jp/contests/masters2025-qual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 396
+DTSTART:20250308T200000
+DTEND:20250308T214000
+UID:AtCoder Beginner Contest 396
+DESCRIPTION:https://atcoder.jp/contests/abc396
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 194 (Div. 2)
+DTSTART:20250309T200000
+DTEND:20250309T220000
+UID:AtCoder Regular Contest 194 (Div. 2)
+DESCRIPTION:https://atcoder.jp/contests/arc194
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OMRON Corporation Programming Contest 2025 (AtCoder Beginner Conte
+ st 397)
+DTSTART:20250315T200000
+DTEND:20250315T214000
+UID:OMRON Corporation Programming Contest 2025 (AtCoder Beginner Contest 3
+ 97)
+DESCRIPTION:https://atcoder.jp/contests/abc397
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 195 (Div. 2)
+DTSTART:20250323T200000
+DTEND:20250323T220000
+UID:AtCoder Regular Contest 195 (Div. 2)
+DESCRIPTION:https://atcoder.jp/contests/arc195
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Grand Contest 071
+DTSTART:20250330T200000
+DTEND:20250330T230000
+UID:AtCoder Grand Contest 071
+DESCRIPTION:https://atcoder.jp/contests/agc071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 410
+DTSTART:20250614T200000
+DTEND:20250614T214000
+UID:AtCoder Beginner Contest 410
+DESCRIPTION:https://atcoder.jp/contests/abc410
 END:VEVENT
 END:VCALENDAR
