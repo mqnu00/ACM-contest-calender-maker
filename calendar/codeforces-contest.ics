@@ -13,10 +13,10 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 3)
+SUMMARY:Codeforces Round 1006 (Div. 3)
 DTSTART:20250225T223500
 DTEND:20250226T005000
-UID:Codeforces Round (Div. 3)
+UID:Codeforces Round 1006 (Div. 3)
 DESCRIPTION:https://codeforces.com/contest/2072
 END:VEVENT
 BEGIN:VEVENT
@@ -32,5 +32,14 @@ DTSTART:20250228T223500
 DTEND:20250301T003500
 UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 ICPC Asia Pacific Championship - Online Mirror (Unrated\, Onl
+ ine Mirror\, ICPC Rules\, Teams Preferred)
+DTSTART:20250301T100500
+DTEND:20250301T150500
+UID:2025 ICPC Asia Pacific Championship - Online Mirror (Unrated\, Online 
+ Mirror\, ICPC Rules\, Teams Preferred)
+DESCRIPTION:https://codeforces.com/contest/2073
 END:VEVENT
 END:VCALENDAR

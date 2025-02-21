@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1739830538,
-    "refreshTimeCH": "2025-02-18 06:15:38",
+    "refreshTimeStamp": 1740176147,
+    "refreshTimeCH": "2025-02-22 06:15:47",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,38 +11,6 @@
     ],
     "contests": [
         {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 174 (Rated for Div. 2)",
-            "stime": 1739889300,
-            "etime": 1739896500,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2069"
-        },
-        {
-            "oj": "luogu",
-            "name": "「TFXOI」Segment_Tree Round",
-            "stime": 1740025800,
-            "etime": 1740043800,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/228295"
-        },
-        {
-            "oj": "luogu",
-            "name": "IAMOI Round #1",
-            "stime": 1740128400,
-            "etime": 1740142800,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/199004"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客练习赛134",
-            "stime": 1740135600,
-            "etime": 1740144600,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/101963"
-        },
-        {
             "oj": "luogu",
             "name": "「KFCOI」Round #1",
             "stime": 1740182400,
@@ -52,19 +20,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【LGR-216-Div.1】洛谷 2 月月赛 I & FTLOI Round 2",
-            "stime": 1740204000,
-            "etime": 1740218400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/153891"
-        },
-        {
-            "oj": "luogu",
             "name": "【LGR-216-Div.2】洛谷 2 月月赛 I & FTLOI Round 2",
             "stime": 1740204000,
             "etime": 1740218400,
             "dtime": 14400,
             "link": "https://www.luogu.com.cn/contest/230418"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-216-Div.1】洛谷 2 月月赛 I & FTLOI Round 2",
+            "stime": 1740204000,
+            "etime": 1740218400,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/153891"
         },
         {
             "oj": "atcoder",
@@ -92,19 +60,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-X9】梦熊 X 组 · 黄瓜赛 & GROI R3 & KWOI R1（同步赛）",
-            "stime": 1740288600,
-            "etime": 1740304800,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/231267"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-J11】梦熊 J 组 · 黄瓜赛 & GROI R3 & KWOI R1（同步赛）",
+            "name": "【MX-J11】梦熊 J 组 · 黄瓜赛 & GROI R3（同步赛）",
             "stime": 1740288600,
             "etime": 1740304800,
             "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/231268"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X9】梦熊 X 组 · 黄瓜赛 & GROI R3（同步赛）",
+            "stime": 1740288600,
+            "etime": 1740304800,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/231267"
         },
         {
             "oj": "nowcoder",
@@ -118,8 +86,8 @@
             "oj": "atcoder",
             "name": "AtCoder Regular Contest 193 (Div. 1)",
             "stime": 1740312000,
-            "etime": 1740319200,
-            "dtime": 7200,
+            "etime": 1740321000,
+            "dtime": 9000,
             "link": "https://atcoder.jp/contests/arc193"
         },
         {
@@ -129,6 +97,22 @@
             "etime": 1740393000,
             "dtime": 18000,
             "link": "https://www.luogu.com.cn/contest/230575"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round 1006 (Div. 3)",
+            "stime": 1740494100,
+            "etime": 1740502200,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2072"
+        },
+        {
+            "oj": "luogu",
+            "name": "2025 年湖北省省队选拔集训暨能力测试（同步赛）",
+            "stime": 1740636000,
+            "etime": 1740652200,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/230135"
         },
         {
             "oj": "codeforces",
@@ -155,6 +139,14 @@
             "link": "https://codeforces.com/contest/2071"
         },
         {
+            "oj": "codeforces",
+            "name": "2025 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+            "stime": 1740794700,
+            "etime": 1740812700,
+            "dtime": 18000,
+            "link": "https://codeforces.com/contest/2073"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 395",
             "stime": 1740830400,
@@ -179,6 +171,22 @@
             "link": "https://atcoder.jp/contests/masters2025-qual"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 83",
+            "stime": 1740913200,
+            "etime": 1740920400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/102896"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛111",
+            "stime": 1741345200,
+            "etime": 1741352400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/102742"
+        },
+        {
             "oj": "luogu",
             "name": "o.OI Round 1",
             "stime": 1741413600,
@@ -193,6 +201,14 @@
             "etime": 1741441200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc396"
+        },
+        {
+            "oj": "luogu",
+            "name": "「LAOI」Easy Round 9",
+            "stime": 1741496400,
+            "etime": 1741510800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/231098"
         },
         {
             "oj": "atcoder",
