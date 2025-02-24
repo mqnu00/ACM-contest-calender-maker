@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1740348917,
-    "refreshTimeCH": "2025-02-24 06:15:17",
+    "refreshTimeStamp": 1740435410,
+    "refreshTimeCH": "2025-02-25 06:16:50",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【UM-16】PA Mashup #2（team preferred）",
-            "stime": 1740375000,
-            "etime": 1740393000,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/230575"
-        },
         {
             "oj": "codeforces",
             "name": "Codeforces Round 1006 (Div. 3)",
@@ -139,12 +131,28 @@
             "link": "https://www.luogu.com.cn/contest/231098"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 84",
+            "stime": 1741518000,
+            "etime": 1741525200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/103152"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Regular Contest 194 (Div. 2)",
             "stime": 1741521600,
             "etime": 1741528800,
             "dtime": 7200,
             "link": "https://atcoder.jp/contests/arc194"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客练习赛135",
+            "stime": 1741950000,
+            "etime": 1741959000,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/103151"
         },
         {
             "oj": "atcoder",
@@ -177,6 +185,22 @@
             "etime": 1749908400,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc410"
+        },
+        {
+            "oj": "atcoder",
+            "name": "World Tour Finals 2025 Algorithm",
+            "stime": 1752721200,
+            "etime": 1752739200,
+            "dtime": 18000,
+            "link": "https://atcoder.jp/contests/awtf2025algo"
+        },
+        {
+            "oj": "atcoder",
+            "name": "World Tour Finals 2025 Algorithm（Open Contest）",
+            "stime": 1752721200,
+            "etime": 1752739200,
+            "dtime": 18000,
+            "link": "https://atcoder.jp/contests/awtf2025algo-open"
         }
     ]
 }
