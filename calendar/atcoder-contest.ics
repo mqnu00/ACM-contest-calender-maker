@@ -50,6 +50,13 @@ UID:OMRON Corporation Programming Contest 2025 (AtCoder Beginner Contest 3
 DESCRIPTION:https://atcoder.jp/contests/abc397
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Heuristic Contest 044
+DTSTART:20250316T180000
+DTEND:20250316T220000
+UID:AtCoder Heuristic Contest 044
+DESCRIPTION:https://atcoder.jp/contests/ahc044
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AtCoder Regular Contest 195 (Div. 2)
 DTSTART:20250323T200000
 DTEND:20250323T220000
@@ -69,5 +76,19 @@ DTSTART:20250614T200000
 DTEND:20250614T214000
 UID:AtCoder Beginner Contest 410
 DESCRIPTION:https://atcoder.jp/contests/abc410
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Tour Finals 2025 Algorithm
+DTSTART:20250717T110000
+DTEND:20250717T160000
+UID:World Tour Finals 2025 Algorithm
+DESCRIPTION:https://atcoder.jp/contests/awtf2025algo
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Tour Finals 2025 Algorithm（Open Contest）
+DTSTART:20250717T110000
+DTEND:20250717T160000
+UID:World Tour Finals 2025 Algorithm（Open Contest）
+DESCRIPTION:https://atcoder.jp/contests/awtf2025algo-open
 END:VEVENT
 END:VCALENDAR

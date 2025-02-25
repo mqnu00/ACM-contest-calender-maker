@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1740435410,
-    "refreshTimeCH": "2025-02-25 06:16:50",
+    "refreshTimeStamp": 1740521807,
+    "refreshTimeCH": "2025-02-26 06:16:47",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1006 (Div. 3)",
-            "stime": 1740494100,
-            "etime": 1740502200,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2072"
-        },
         {
             "oj": "luogu",
             "name": "2025 年湖北省省队选拔集训暨能力测试（同步赛）",
@@ -46,8 +38,8 @@
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 2)",
             "stime": 1740753300,
-            "etime": 1740760500,
-            "dtime": 7200,
+            "etime": 1740761400,
+            "dtime": 8100,
             "link": "https://codeforces.com/contest/2071"
         },
         {
@@ -161,6 +153,14 @@
             "etime": 1742046000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc397"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Heuristic Contest 044",
+            "stime": 1742119200,
+            "etime": 1742133600,
+            "dtime": 14400,
+            "link": "https://atcoder.jp/contests/ahc044"
         },
         {
             "oj": "atcoder",
