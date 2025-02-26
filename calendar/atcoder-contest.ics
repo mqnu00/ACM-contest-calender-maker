@@ -57,6 +57,15 @@ UID:AtCoder Heuristic Contest 044
 DESCRIPTION:https://atcoder.jp/contests/ahc044
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UNIQUE VISION Programming Contest 2025 Spring (AtCoder Beginner Co
+ ntest 398)
+DTSTART:20250322T200000
+DTEND:20250322T214000
+UID:UNIQUE VISION Programming Contest 2025 Spring (AtCoder Beginner Contes
+ t 398)
+DESCRIPTION:https://atcoder.jp/contests/abc398
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AtCoder Regular Contest 195 (Div. 2)
 DTSTART:20250323T200000
 DTEND:20250323T220000

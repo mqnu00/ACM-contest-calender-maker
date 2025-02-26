@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1740521807,
-    "refreshTimeCH": "2025-02-26 06:16:47",
+    "refreshTimeStamp": 1740608209,
+    "refreshTimeCH": "2025-02-27 06:16:49",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -161,6 +161,14 @@
             "etime": 1742133600,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc044"
+        },
+        {
+            "oj": "atcoder",
+            "name": "UNIQUE VISION Programming Contest 2025 Spring (AtCoder Beginner Contest 398)",
+            "stime": 1742644800,
+            "etime": 1742650800,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc398"
         },
         {
             "oj": "atcoder",
