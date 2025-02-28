@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1740694690,
-    "refreshTimeCH": "2025-02-28 06:18:10",
+    "refreshTimeStamp": 1740780995,
+    "refreshTimeCH": "2025-03-01 06:16:35",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客挑战赛79",
-            "stime": 1740740400,
-            "etime": 1740751200,
-            "dtime": 10800,
-            "link": "https://ac.nowcoder.com/acm/contest/101964"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1007 (Div. 2)",
-            "stime": 1740753300,
-            "etime": 1740761400,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2071"
-        },
         {
             "oj": "codeforces",
             "name": "2025 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",

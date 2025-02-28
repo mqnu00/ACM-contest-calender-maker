@@ -13,13 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Codeforces Round 1007 (Div. 2)
-DTSTART:20250228T223500
-DTEND:20250301T005000
-UID:Codeforces Round 1007 (Div. 2)
-DESCRIPTION:https://codeforces.com/contest/2071
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2025 ICPC Asia Pacific Championship - Online Mirror (Unrated\, Onl
  ine Mirror\, ICPC Rules\, Teams Preferred)
 DTSTART:20250301T100500
