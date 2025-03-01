@@ -13,12 +13,12 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:2025 ICPC Asia Pacific Championship - Online Mirror (Unrated\, Onl
- ine Mirror\, ICPC Rules\, Teams Preferred)
-DTSTART:20250301T100500
-DTEND:20250301T150500
-UID:2025 ICPC Asia Pacific Championship - Online Mirror (Unrated\, Online 
- Mirror\, ICPC Rules\, Teams Preferred)
-DESCRIPTION:https://codeforces.com/contest/2073
+SUMMARY:European Championship 2025 - Online Mirror (Unrated\, ICPC Rules\,
+  Teams Preferred)
+DTSTART:20250302T183500
+DTEND:20250302T233500
+UID:European Championship 2025 - Online Mirror (Unrated\, ICPC Rules\, Tea
+ ms Preferred)
+DESCRIPTION:https://codeforces.com/contest/2068
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1740780995,
-    "refreshTimeCH": "2025-03-01 06:16:35",
+    "refreshTimeStamp": 1740867320,
+    "refreshTimeCH": "2025-03-02 06:15:20",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "2025 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
-            "stime": 1740794700,
-            "etime": 1740812700,
-            "dtime": 18000,
-            "link": "https://codeforces.com/contest/2073"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 395",
-            "stime": 1740830400,
-            "etime": 1740836400,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc395"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 151",
-            "stime": 1740839400,
-            "etime": 1740844800,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-151"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 439",
@@ -49,6 +25,14 @@
             "etime": 1740909600,
             "dtime": 21600,
             "link": "https://atcoder.jp/contests/masters2025-qual"
+        },
+        {
+            "oj": "codeforces",
+            "name": "European Championship 2025 - Online Mirror (Unrated, ICPC Rules, Teams Preferred)",
+            "stime": 1740911700,
+            "etime": 1740929700,
+            "dtime": 18000,
+            "link": "https://codeforces.com/contest/2068"
         },
         {
             "oj": "nowcoder",
@@ -115,12 +99,28 @@
             "link": "https://ac.nowcoder.com/acm/contest/103151"
         },
         {
+            "oj": "luogu",
+            "name": "XRCOI Round 1",
+            "stime": 1742018400,
+            "etime": 1742032800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/221170"
+        },
+        {
             "oj": "atcoder",
             "name": "OMRON Corporation Programming Contest 2025 (AtCoder Beginner Contest 397)",
             "stime": 1742040000,
             "etime": 1742046000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc397"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 152",
+            "stime": 1742049000,
+            "etime": 1742054400,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-152"
         },
         {
             "oj": "atcoder",
