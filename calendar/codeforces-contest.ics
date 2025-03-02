@@ -12,13 +12,4 @@ TZNAME:China Standard Time
 TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
-BEGIN:VEVENT
-SUMMARY:European Championship 2025 - Online Mirror (Unrated\, ICPC Rules\,
-  Teams Preferred)
-DTSTART:20250302T183500
-DTEND:20250302T233500
-UID:European Championship 2025 - Online Mirror (Unrated\, ICPC Rules\, Tea
- ms Preferred)
-DESCRIPTION:https://codeforces.com/contest/2068
-END:VEVENT
 END:VCALENDAR
