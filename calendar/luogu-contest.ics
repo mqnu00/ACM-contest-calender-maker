@@ -27,10 +27,25 @@ UID:「LAOI」Easy Round 9
 DESCRIPTION:https://www.luogu.com.cn/contest/231098
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:第六届威海市大学生程序设计竞赛（本科组）重现
+ 赛
+DTSTART:20250309T130000
+DTEND:20250309T180000
+UID:第六届威海市大学生程序设计竞赛（本科组）重现赛
+DESCRIPTION:https://www.luogu.com.cn/contest/234038
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:XRCOI Round 1
 DTSTART:20250315T140000
 DTEND:20250315T180000
 UID:XRCOI Round 1
 DESCRIPTION:https://www.luogu.com.cn/contest/221170
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CrCPC 2024 Unofficial Mirror (teams preferred)
+DTSTART:20250316T133000
+DTEND:20250316T183000
+UID:CrCPC 2024 Unofficial Mirror (teams preferred)
+DESCRIPTION:https://www.luogu.com.cn/contest/233144
 END:VEVENT
 END:VCALENDAR

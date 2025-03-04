@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1741040215,
-    "refreshTimeCH": "2025-03-04 06:16:55",
+    "refreshTimeStamp": 1741126538,
+    "refreshTimeCH": "2025-03-05 06:15:38",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,6 +10,14 @@
         "leetcode"
     ],
     "contests": [
+        {
+            "oj": "codeforces",
+            "name": "XIX Open Olympiad in Informatics - Final Stage, Day 1 (Unrated, Online Mirror, IOI rules)",
+            "stime": 1741334700,
+            "etime": 1741352700,
+            "dtime": 18000,
+            "link": "https://codeforces.com/contest/2079"
+        },
         {
             "oj": "nowcoder",
             "name": "牛客小白月赛111",
@@ -51,6 +59,14 @@
             "link": "https://www.luogu.com.cn/contest/231098"
         },
         {
+            "oj": "luogu",
+            "name": "第六届威海市大学生程序设计竞赛（本科组）重现赛",
+            "stime": 1741496400,
+            "etime": 1741514400,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/234038"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 84",
             "stime": 1741518000,
@@ -65,6 +81,30 @@
             "etime": 1741528800,
             "dtime": 7200,
             "link": "https://atcoder.jp/contests/arc194"
+        },
+        {
+            "oj": "codeforces",
+            "name": "XIX Open Olympiad in Informatics - Final Stage, Day 2 (Unrated, Online Mirror, IOI rules)",
+            "stime": 1741593900,
+            "etime": 1741611900,
+            "dtime": 18000,
+            "link": "https://codeforces.com/contest/2080"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round 1008 (Div. 1)",
+            "stime": 1741617300,
+            "etime": 1741624500,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2077"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round 1008 (Div. 2)",
+            "stime": 1741617300,
+            "etime": 1741624500,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2078"
         },
         {
             "oj": "codeforces",
@@ -107,12 +147,36 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-152"
         },
         {
+            "oj": "luogu",
+            "name": "CrCPC 2024 Unofficial Mirror (teams preferred)",
+            "stime": 1742103000,
+            "etime": 1742121000,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/233144"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Heuristic Contest 044",
             "stime": 1742119200,
             "etime": 1742133600,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc044"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 85",
+            "stime": 1742122800,
+            "etime": 1773061200,
+            "dtime": 30938400,
+            "link": "https://ac.nowcoder.com/acm/contest/103948"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛112",
+            "stime": 1742554800,
+            "etime": 1742562000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/103957"
         },
         {
             "oj": "atcoder",
