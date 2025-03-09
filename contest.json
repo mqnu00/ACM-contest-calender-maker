@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1741472018,
-    "refreshTimeCH": "2025-03-09 06:13:38",
+    "refreshTimeStamp": 1741558473,
+    "refreshTimeCH": "2025-03-10 06:14:33",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 440",
-            "stime": 1741487400,
-            "etime": 1741492800,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-440"
-        },
-        {
-            "oj": "luogu",
-            "name": "第六届威海市大学生程序设计竞赛（本科组）重现赛",
-            "stime": 1741496400,
-            "etime": 1741514400,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/234038"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 84",
-            "stime": 1741518000,
-            "etime": 1741525200,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/103152"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 194 (Div. 2)",
-            "stime": 1741521600,
-            "etime": 1741528800,
-            "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc194"
-        },
         {
             "oj": "codeforces",
             "name": "XIX Open Olympiad in Informatics - Final Stage, Day 2 (Unrated, Online Mirror, IOI rules)",
@@ -124,6 +92,22 @@
         },
         {
             "oj": "luogu",
+            "name": "「LAOI」Easy Round 9",
+            "stime": 1742083200,
+            "etime": 1742097600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/231098"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 441",
+            "stime": 1742092200,
+            "etime": 1742097600,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-441"
+        },
+        {
+            "oj": "luogu",
             "name": "CrCPC 2024 Unofficial Mirror (teams preferred)",
             "stime": 1742103000,
             "etime": 1742121000,
@@ -193,6 +177,14 @@
             "etime": 1743346800,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc071"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Grand Contest 072",
+            "stime": 1745150400,
+            "etime": 1745161200,
+            "dtime": 10800,
+            "link": "https://atcoder.jp/contests/agc072"
         },
         {
             "oj": "atcoder",
