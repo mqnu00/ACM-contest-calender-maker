@@ -13,33 +13,10 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:XIX Open Olympiad in Informatics - Final Stage\, Day 2 (Unrated\, 
- Online Mirror\, IOI rules)
-DTSTART:20250310T160500
-DTEND:20250310T210500
-UID:XIX Open Olympiad in Informatics - Final Stage\, Day 2 (Unrated\, Onli
- ne Mirror\, IOI rules)
-DESCRIPTION:https://codeforces.com/contest/2080
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Codeforces Round 1008 (Div. 1)
-DTSTART:20250310T223500
-DTEND:20250311T010500
-UID:Codeforces Round 1008 (Div. 1)
-DESCRIPTION:https://codeforces.com/contest/2077
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Codeforces Round 1008 (Div. 2)
-DTSTART:20250310T223500
-DTEND:20250311T010500
-UID:Codeforces Round 1008 (Div. 2)
-DESCRIPTION:https://codeforces.com/contest/2078
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 3)
+SUMMARY:Codeforces Round 1009 (Div. 3)
 DTSTART:20250311T223500
 DTEND:20250312T010500
-UID:Codeforces Round (Div. 3)
+UID:Codeforces Round 1009 (Div. 3)
 DESCRIPTION:https://codeforces.com/contest/2074
 END:VEVENT
 BEGIN:VEVENT
