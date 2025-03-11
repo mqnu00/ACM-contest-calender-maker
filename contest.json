@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1741645025,
-    "refreshTimeCH": "2025-03-11 06:17:05",
+    "refreshTimeStamp": 1741731403,
+    "refreshTimeCH": "2025-03-12 06:16:43",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,20 +11,28 @@
     ],
     "contests": [
         {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1009 (Div. 3)",
-            "stime": 1741703700,
-            "etime": 1741712700,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2074"
-        },
-        {
             "oj": "luogu",
             "name": "RMI 2024 Day 1 Unofficial Mirror",
             "stime": 1741845600,
             "etime": 1741863600,
             "dtime": 18000,
             "link": "https://www.luogu.com.cn/contest/235231"
+        },
+        {
+            "oj": "luogu",
+            "name": "RMI 2024 Day 2 Unofficial Mirror",
+            "stime": 1741932000,
+            "etime": 1741950000,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/235365"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-217-Div.4】洛谷入门赛 #33",
+            "stime": 1741950000,
+            "etime": 1741957200,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/235262"
         },
         {
             "oj": "nowcoder",
@@ -75,6 +83,14 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-152"
         },
         {
+            "oj": "luogu",
+            "name": "「LAOI」Easy Round 9",
+            "stime": 1742083200,
+            "etime": 1742097600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/231098"
+        },
+        {
             "oj": "leetcode",
             "name": "Weekly Contest 441",
             "stime": 1742092200,
@@ -91,6 +107,14 @@
             "link": "https://www.luogu.com.cn/contest/233144"
         },
         {
+            "oj": "luogu",
+            "name": "PKOI Round 1",
+            "stime": 1742104800,
+            "etime": 1742119200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/183510"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Heuristic Contest 044",
             "stime": 1742119200,
@@ -105,6 +129,14 @@
             "etime": 1742130000,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/103948"
+        },
+        {
+            "oj": "luogu",
+            "name": "NHSPC 2023 Unofficial Mirror",
+            "stime": 1742191200,
+            "etime": 1742209200,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/235402"
         },
         {
             "oj": "nowcoder",
@@ -129,6 +161,14 @@
             "etime": 1742650800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc398"
+        },
+        {
+            "oj": "luogu",
+            "name": "『STAOI』G - Round 9",
+            "stime": 1742709600,
+            "etime": 1742724000,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/210424"
         },
         {
             "oj": "nowcoder",
@@ -163,12 +203,28 @@
             "link": "https://atcoder.jp/contests/abc399"
         },
         {
+            "oj": "luogu",
+            "name": "「UOI」 Beginner Contest 002 & Round 4",
+            "stime": 1743314400,
+            "etime": 1743328800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/203994"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Grand Contest 071",
             "stime": 1743336000,
             "etime": 1743346800,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc071"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest 196 (Div. 1)",
+            "stime": 1743940800,
+            "etime": 1743949800,
+            "dtime": 9000,
+            "link": "https://atcoder.jp/contests/arc196"
         },
         {
             "oj": "atcoder",
