@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1741731403,
-    "refreshTimeCH": "2025-03-12 06:16:43",
+    "refreshTimeStamp": 1741817849,
+    "refreshTimeCH": "2025-03-13 06:17:29",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -44,7 +44,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round 1010 (Div. 1)",
             "stime": 1742016900,
             "etime": 1742027700,
             "dtime": 10800,
@@ -52,7 +52,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1010 (Div. 2)",
             "stime": 1742016900,
             "etime": 1742027700,
             "dtime": 10800,
@@ -62,8 +62,8 @@
             "oj": "luogu",
             "name": "XRCOI Round 1",
             "stime": 1742018400,
-            "etime": 1742032800,
-            "dtime": 14400,
+            "etime": 1742034600,
+            "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/221170"
         },
         {
