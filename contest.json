@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1741817849,
-    "refreshTimeCH": "2025-03-13 06:17:29",
+    "refreshTimeStamp": 1741904194,
+    "refreshTimeCH": "2025-03-14 06:16:34",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "RMI 2024 Day 1 Unofficial Mirror",
-            "stime": 1741845600,
-            "etime": 1741863600,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/235231"
-        },
         {
             "oj": "luogu",
             "name": "RMI 2024 Day 2 Unofficial Mirror",
@@ -41,6 +33,14 @@
             "etime": 1741959000,
             "dtime": 9000,
             "link": "https://ac.nowcoder.com/acm/contest/103151"
+        },
+        {
+            "oj": "luogu",
+            "name": "NtF Round 2.5",
+            "stime": 1742000400,
+            "etime": 1742011200,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/218215"
         },
         {
             "oj": "codeforces",
@@ -139,6 +139,14 @@
             "link": "https://www.luogu.com.cn/contest/235402"
         },
         {
+            "oj": "codeforces",
+            "name": "Educational Codeforces Round 176 (Rated for Div. 2)",
+            "stime": 1742222100,
+            "etime": 1742229300,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2075"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客小白月赛112",
             "stime": 1742554800,
@@ -171,6 +179,14 @@
             "link": "https://www.luogu.com.cn/contest/210424"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-218-Div.2】洛谷 3 月月赛 I & ALFR Round 7",
+            "stime": 1742709600,
+            "etime": 1742724000,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/226817"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 86",
             "stime": 1742727600,
@@ -195,6 +211,14 @@
             "link": "https://atcoder.jp/contests/ahc045"
         },
         {
+            "oj": "luogu",
+            "name": "「UOI」 Beginner Contest 002 & Round 4",
+            "stime": 1743228000,
+            "etime": 1743242400,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/203994"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 399",
             "stime": 1743249600,
@@ -203,20 +227,20 @@
             "link": "https://atcoder.jp/contests/abc399"
         },
         {
-            "oj": "luogu",
-            "name": "「UOI」 Beginner Contest 002 & Round 4",
-            "stime": 1743314400,
-            "etime": 1743328800,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/203994"
-        },
-        {
             "oj": "atcoder",
             "name": "AtCoder Grand Contest 071",
             "stime": 1743336000,
             "etime": 1743346800,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc071"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客2025年愚人节比赛",
+            "stime": 1743505200,
+            "etime": 1743512400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/104956"
         },
         {
             "oj": "atcoder",
