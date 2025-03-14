@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1741904194,
-    "refreshTimeCH": "2025-03-14 06:16:34",
+    "refreshTimeStamp": 1741990598,
+    "refreshTimeCH": "2025-03-15 06:16:38",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "RMI 2024 Day 2 Unofficial Mirror",
-            "stime": 1741932000,
-            "etime": 1741950000,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/235365"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-217-Div.4】洛谷入门赛 #33",
-            "stime": 1741950000,
-            "etime": 1741957200,
-            "dtime": 7200,
-            "link": "https://www.luogu.com.cn/contest/235262"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客练习赛135",
-            "stime": 1741950000,
-            "etime": 1741959000,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/103151"
-        },
         {
             "oj": "luogu",
             "name": "NtF Round 2.5",
@@ -100,14 +76,6 @@
         },
         {
             "oj": "luogu",
-            "name": "CrCPC 2024 Unofficial Mirror (teams preferred)",
-            "stime": 1742103000,
-            "etime": 1742121000,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/233144"
-        },
-        {
-            "oj": "luogu",
             "name": "PKOI Round 1",
             "stime": 1742104800,
             "etime": 1742119200,
@@ -145,6 +113,22 @@
             "etime": 1742229300,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2075"
+        },
+        {
+            "oj": "luogu",
+            "name": "CrCPC 2024 Unofficial Mirror (teams preferred)",
+            "stime": 1742275800,
+            "etime": 1742293800,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/233144"
+        },
+        {
+            "oj": "luogu",
+            "name": "KTSC 2025 R1 Unofficial Mirror",
+            "stime": 1742536800,
+            "etime": 1742554800,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/235971"
         },
         {
             "oj": "nowcoder",
@@ -203,20 +187,20 @@
             "link": "https://atcoder.jp/contests/arc195"
         },
         {
+            "oj": "luogu",
+            "name": "KTSC 2025 R2 Unofficial Mirror",
+            "stime": 1742796000,
+            "etime": 1742814000,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/235972"
+        },
+        {
             "oj": "atcoder",
             "name": "THIRD PROGRAMMING CONTEST 2025（AtCoder Heuristic Contest 045）",
             "stime": 1743156000,
             "etime": 1744020000,
             "dtime": 864000,
             "link": "https://atcoder.jp/contests/ahc045"
-        },
-        {
-            "oj": "luogu",
-            "name": "「UOI」 Beginner Contest 002 & Round 4",
-            "stime": 1743228000,
-            "etime": 1743242400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/203994"
         },
         {
             "oj": "atcoder",
@@ -241,6 +225,14 @@
             "etime": 1743512400,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/104956"
+        },
+        {
+            "oj": "luogu",
+            "name": "「UOI」 Beginner Contest 002 & Round 4",
+            "stime": 1743919200,
+            "etime": 1743933600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/203994"
         },
         {
             "oj": "atcoder",
