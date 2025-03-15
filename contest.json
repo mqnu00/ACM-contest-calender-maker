@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1741990598,
-    "refreshTimeCH": "2025-03-15 06:16:38",
+    "refreshTimeStamp": 1742077009,
+    "refreshTimeCH": "2025-03-16 06:16:49",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,54 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "NtF Round 2.5",
-            "stime": 1742000400,
-            "etime": 1742011200,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/218215"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1010 (Div. 1)",
-            "stime": 1742016900,
-            "etime": 1742027700,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2081"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1010 (Div. 2)",
-            "stime": 1742016900,
-            "etime": 1742027700,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2082"
-        },
-        {
-            "oj": "luogu",
-            "name": "XRCOI Round 1",
-            "stime": 1742018400,
-            "etime": 1742034600,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/221170"
-        },
-        {
-            "oj": "atcoder",
-            "name": "OMRON Corporation Programming Contest 2025 (AtCoder Beginner Contest 397)",
-            "stime": 1742040000,
-            "etime": 1742046000,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc397"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 152",
-            "stime": 1742049000,
-            "etime": 1742054400,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-152"
-        },
         {
             "oj": "luogu",
             "name": "「LAOI」Easy Round 9",
@@ -156,14 +108,6 @@
         },
         {
             "oj": "luogu",
-            "name": "『STAOI』G - Round 9",
-            "stime": 1742709600,
-            "etime": 1742724000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/210424"
-        },
-        {
-            "oj": "luogu",
             "name": "【LGR-218-Div.2】洛谷 3 月月赛 I & ALFR Round 7",
             "stime": 1742709600,
             "etime": 1742724000,
@@ -211,6 +155,14 @@
             "link": "https://atcoder.jp/contests/abc399"
         },
         {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 153",
+            "stime": 1743258600,
+            "etime": 1743264000,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-153"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Grand Contest 071",
             "stime": 1743336000,
@@ -225,6 +177,14 @@
             "etime": 1743512400,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/104956"
+        },
+        {
+            "oj": "luogu",
+            "name": "『STAOI』G - Round 9",
+            "stime": 1743832800,
+            "etime": 1743847200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/210424"
         },
         {
             "oj": "luogu",
