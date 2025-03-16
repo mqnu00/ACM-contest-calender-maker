@@ -19,4 +19,11 @@ DTEND:20250318T003500
 UID:Educational Codeforces Round 176 (Rated for Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2075
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20250322T223500
+DTEND:20250323T003500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2085
+END:VEVENT
 END:VCALENDAR
