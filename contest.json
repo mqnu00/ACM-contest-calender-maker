@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1742163358,
-    "refreshTimeCH": "2025-03-17 06:15:58",
+    "refreshTimeStamp": 1742249887,
+    "refreshTimeCH": "2025-03-18 06:18:07",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "NHSPC 2023 Unofficial Mirror",
-            "stime": 1742191200,
-            "etime": 1742209200,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/235402"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 176 (Rated for Div. 2)",
-            "stime": 1742222100,
-            "etime": 1742229300,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2075"
-        },
         {
             "oj": "luogu",
             "name": "CrCPC 2024 Unofficial Mirror (teams preferred)",
