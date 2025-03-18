@@ -19,4 +19,46 @@ DTEND:20250323T003500
 UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2085
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 1)
+DTSTART:20250323T133500
+DTEND:20250323T160500
+UID:Codeforces Round (Div. 1)
+DESCRIPTION:https://codeforces.com/contest/2089
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20250323T133500
+DTEND:20250323T160500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2090
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 3)
+DTSTART:20250325T223500
+DTEND:20250326T005000
+UID:Codeforces Round (Div. 3)
+DESCRIPTION:https://codeforces.com/contest/2091
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kotlin Heroes: Practice 12
+DTSTART:20250331T213500
+DTEND:20250407T213500
+UID:Kotlin Heroes: Practice 12
+DESCRIPTION:https://codeforces.com/contest/2088
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Educational Codeforces Round 177 (Rated for Div. 2)
+DTSTART:20250403T223500
+DTEND:20250404T003500
+UID:Educational Codeforces Round 177 (Rated for Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2086
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 1 + Div. 2)
+DTSTART:20250405T223500
+DTEND:20250406T013500
+UID:Codeforces Round (Div. 1 + Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2084
+END:VEVENT
 END:VCALENDAR

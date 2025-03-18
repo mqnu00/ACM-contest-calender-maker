@@ -13,13 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CrCPC 2024 Unofficial Mirror (teams preferred)
-DTSTART:20250318T133000
-DTEND:20250318T183000
-UID:CrCPC 2024 Unofficial Mirror (teams preferred)
-DESCRIPTION:https://www.luogu.com.cn/contest/233144
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KTSC 2025 R1 Unofficial Mirror
 DTSTART:20250321T140000
 DTEND:20250321T190000
@@ -48,11 +41,11 @@ UID:KTSC 2025 R2 Unofficial Mirror
 DESCRIPTION:https://www.luogu.com.cn/contest/235972
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【LGR-219-Div.2】洛谷算法基础赛 #3 & 洛谷蓝桥杯模
- 拟赛
+SUMMARY:【LGR-219-Div.2】洛谷蓝桥杯模拟赛 & 洛谷算法基础
+ 赛 #3
 DTSTART:20250329T140000
 DTEND:20250329T180000
-UID:【LGR-219-Div.2】洛谷算法基础赛 #3 & 洛谷蓝桥杯模拟赛
+UID:【LGR-219-Div.2】洛谷蓝桥杯模拟赛 & 洛谷算法基础赛 #3
 DESCRIPTION:https://www.luogu.com.cn/contest/236568
 END:VEVENT
 BEGIN:VEVENT
