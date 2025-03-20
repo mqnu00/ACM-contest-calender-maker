@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1742422644,
-    "refreshTimeCH": "2025-03-20 06:17:24",
+    "refreshTimeStamp": 1742509019,
+    "refreshTimeCH": "2025-03-21 06:16:59",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -44,7 +44,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1011 (Div. 2)",
             "stime": 1742654100,
             "etime": 1742661300,
             "dtime": 7200,
@@ -153,6 +153,22 @@
             "etime": 1743266100,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2092"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X10】梦熊 X 组 · 章鱼赛 & LSOT Round 4（同步赛）",
+            "stime": 1743312600,
+            "etime": 1743328800,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/237310"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J12】梦熊 J 组 · 章鱼赛 & LSOT Round 4（同步赛）",
+            "stime": 1743312600,
+            "etime": 1743328800,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/237311"
         },
         {
             "oj": "nowcoder",
