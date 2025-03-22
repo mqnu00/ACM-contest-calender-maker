@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1742595449,
-    "refreshTimeCH": "2025-03-22 06:17:29",
+    "refreshTimeStamp": 1742681768,
+    "refreshTimeCH": "2025-03-23 06:16:08",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "ZHQOI Round 1",
-            "stime": 1742623200,
-            "etime": 1742641200,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/210610"
-        },
-        {
-            "oj": "atcoder",
-            "name": "UNIQUE VISION Programming Contest 2025 Spring (AtCoder Beginner Contest 398)",
-            "stime": 1742644800,
-            "etime": 1742650800,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc398"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1011 (Div. 2)",
-            "stime": 1742654100,
-            "etime": 1742661300,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2085"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 442",
@@ -84,7 +60,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 1013 (Div. 3)",
             "stime": 1742913300,
             "etime": 1742921400,
             "dtime": 8100,
@@ -185,6 +161,14 @@
             "etime": 1744032900,
             "dtime": 604800,
             "link": "https://codeforces.com/contest/2088"
+        },
+        {
+            "oj": "luogu",
+            "name": "RMI 2019 Day 1 Unofficial Mirror",
+            "stime": 1743487200,
+            "etime": 1743505200,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/237211"
         },
         {
             "oj": "nowcoder",
