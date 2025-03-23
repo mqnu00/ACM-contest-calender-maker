@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1742681768,
-    "refreshTimeCH": "2025-03-23 06:16:08",
+    "refreshTimeStamp": 1742768249,
+    "refreshTimeCH": "2025-03-24 06:17:29",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,54 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 442",
-            "stime": 1742697000,
-            "etime": 1742702400,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-442"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1012 (Div. 1)",
-            "stime": 1742708100,
-            "etime": 1742717100,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2089"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1012 (Div. 2)",
-            "stime": 1742708100,
-            "etime": 1742717100,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2090"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-218-Div.2】洛谷 3 月月赛 I & ALFR Round 7",
-            "stime": 1742709600,
-            "etime": 1742724000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/226817"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 86",
-            "stime": 1742727600,
-            "etime": 1742734800,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/104637"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 195 (Div. 2)",
-            "stime": 1742731200,
-            "etime": 1742738400,
-            "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc195"
-        },
         {
             "oj": "codeforces",
             "name": "Codeforces Round 1013 (Div. 3)",
@@ -121,6 +73,14 @@
             "etime": 1743266100,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2092"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 443",
+            "stime": 1743301800,
+            "etime": 1743307200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-443"
         },
         {
             "oj": "luogu",
@@ -209,6 +169,14 @@
             "etime": 1743949800,
             "dtime": 9000,
             "link": "https://atcoder.jp/contests/arc196"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Kotlin Heroes: Episode 12",
+            "stime": 1744036500,
+            "etime": 1744045500,
+            "dtime": 9000,
+            "link": "https://codeforces.com/contest/2087"
         },
         {
             "oj": "atcoder",
