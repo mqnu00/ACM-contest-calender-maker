@@ -13,17 +13,10 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Codeforces Round 1013 (Div. 3)
-DTSTART:20250325T223500
-DTEND:20250326T005000
-UID:Codeforces Round 1013 (Div. 3)
-DESCRIPTION:https://codeforces.com/contest/2091
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 2)
+SUMMARY:Codeforces Round 1014 (Div. 2)
 DTSTART:20250329T223500
 DTEND:20250330T003500
-UID:Codeforces Round (Div. 2)
+UID:Codeforces Round 1014 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2092
 END:VEVENT
 BEGIN:VEVENT
@@ -41,10 +34,10 @@ UID:Educational Codeforces Round 177 (Rated for Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2086
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 1 + Div. 2)
+SUMMARY:Teza Round 1 (Codeforces Round 1015\, Div. 1 + Div. 2)
 DTSTART:20250405T223500
 DTEND:20250406T013500
-UID:Codeforces Round (Div. 1 + Div. 2)
+UID:Teza Round 1 (Codeforces Round 1015\, Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2084
 END:VEVENT
 BEGIN:VEVENT
