@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1742941102,
-    "refreshTimeCH": "2025-03-26 06:18:22",
+    "refreshTimeStamp": 1743027435,
+    "refreshTimeCH": "2025-03-27 06:17:15",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -163,6 +163,14 @@
             "link": "https://codeforces.com/contest/2084"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 88",
+            "stime": 1743937200,
+            "etime": 1743944400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/106318"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Regular Contest 196 (Div. 1)",
             "stime": 1743940800,
@@ -180,11 +188,27 @@
         },
         {
             "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 401",
+            "stime": 1744459200,
+            "etime": 1744465200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc401"
+        },
+        {
+            "oj": "atcoder",
             "name": "AtCoder Grand Contest 072",
             "stime": 1745150400,
             "etime": 1745161200,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc072"
+        },
+        {
+            "oj": "atcoder",
+            "name": "BrainPad Programming Contest 2025 （AtCoder Heuristic Contest 046）",
+            "stime": 1745647200,
+            "etime": 1745661600,
+            "dtime": 14400,
+            "link": "https://atcoder.jp/contests/ahc046"
         },
         {
             "oj": "atcoder",

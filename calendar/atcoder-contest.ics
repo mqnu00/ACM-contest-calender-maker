@@ -48,11 +48,26 @@ UID:AtCoder Regular Contest 196 (Div. 1)
 DESCRIPTION:https://atcoder.jp/contests/arc196
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 401
+DTSTART:20250412T200000
+DTEND:20250412T214000
+UID:AtCoder Beginner Contest 401
+DESCRIPTION:https://atcoder.jp/contests/abc401
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AtCoder Grand Contest 072
 DTSTART:20250420T200000
 DTEND:20250420T230000
 UID:AtCoder Grand Contest 072
 DESCRIPTION:https://atcoder.jp/contests/agc072
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BrainPad Programming Contest 2025 （AtCoder Heuristic Contest 046
+ ）
+DTSTART:20250426T140000
+DTEND:20250426T180000
+UID:BrainPad Programming Contest 2025 （AtCoder Heuristic Contest 046）
+DESCRIPTION:https://atcoder.jp/contests/ahc046
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AtCoder Beginner Contest 410
