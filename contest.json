@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1743027435,
-    "refreshTimeCH": "2025-03-27 06:17:15",
+    "refreshTimeStamp": 1743113844,
+    "refreshTimeCH": "2025-03-28 06:17:24",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "KTSC 2025 R2 Unofficial Mirror",
-            "stime": 1743055200,
-            "etime": 1743073200,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/235972"
-        },
         {
             "oj": "atcoder",
             "name": "THIRD PROGRAMMING CONTEST 2025（AtCoder Heuristic Contest 045）",
@@ -193,6 +185,14 @@
             "etime": 1744465200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc401"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Tokio Marine & Nichido Fire Insurance Programming Contest 2025  (AtCoder Beginner Contest 355)",
+            "stime": 1745064000,
+            "etime": 1745070000,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc402"
         },
         {
             "oj": "atcoder",
