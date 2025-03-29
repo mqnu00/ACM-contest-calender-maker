@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1743200272,
-    "refreshTimeCH": "2025-03-29 06:17:52",
+    "refreshTimeStamp": 1743286562,
+    "refreshTimeCH": "2025-03-30 06:16:02",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,38 +11,6 @@
     ],
     "contests": [
         {
-            "oj": "luogu",
-            "name": "【LGR-219-Div.2】洛谷蓝桥杯模拟赛 & 洛谷算法基础赛 #3",
-            "stime": 1743228000,
-            "etime": 1743242400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/236568"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 399",
-            "stime": 1743249600,
-            "etime": 1743255600,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc399"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 153",
-            "stime": 1743258600,
-            "etime": 1743264000,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-153"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1014 (Div. 2)",
-            "stime": 1743258900,
-            "etime": 1743266100,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2092"
-        },
-        {
             "oj": "leetcode",
             "name": "Weekly Contest 443",
             "stime": 1743301800,
@@ -52,19 +20,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-X10】梦熊 X 组 · 章鱼赛 & LSOT Round 4（同步赛）",
-            "stime": 1743312600,
-            "etime": 1743328800,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/237310"
-        },
-        {
-            "oj": "luogu",
             "name": "【MX-J12】梦熊 J 组 · 章鱼赛 & LSOT Round 4（同步赛）",
             "stime": 1743312600,
             "etime": 1743328800,
             "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/237311"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X10】梦熊 X 组 · 章鱼赛 & LSOT Round 4（同步赛）",
+            "stime": 1743312600,
+            "etime": 1743328800,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/237310"
         },
         {
             "oj": "nowcoder",
@@ -92,11 +60,11 @@
         },
         {
             "oj": "luogu",
-            "name": "RMI 2019 Day 1 Unofficial Mirror",
+            "name": "Ynoi Apirl Fool's Round 2025",
             "stime": 1743487200,
-            "etime": 1743505200,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/237211"
+            "etime": 1743501600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/238632"
         },
         {
             "oj": "nowcoder",
@@ -116,11 +84,11 @@
         },
         {
             "oj": "luogu",
-            "name": "NOISG 2025 Final Unofficial Mirror",
-            "stime": 1743656400,
-            "etime": 1743674400,
+            "name": "RMI 2019 Day 1 Unofficial Mirror",
+            "stime": 1743573600,
+            "etime": 1743591600,
             "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/238798"
+            "link": "https://www.luogu.com.cn/contest/237211"
         },
         {
             "oj": "luogu",
@@ -195,12 +163,28 @@
             "link": "https://codeforces.com/contest/2093"
         },
         {
+            "oj": "luogu",
+            "name": "『STAOI』G - Round 9",
+            "stime": 1744437600,
+            "etime": 1744452000,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/210424"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 401",
             "stime": 1744459200,
             "etime": 1744465200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc401"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 154",
+            "stime": 1744468200,
+            "etime": 1744473600,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-154"
         },
         {
             "oj": "atcoder",
