@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1743372992,
-    "refreshTimeCH": "2025-03-31 06:16:32",
+    "refreshTimeStamp": 1743459507,
+    "refreshTimeCH": "2025-04-01 06:18:27",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -131,6 +131,14 @@
             "link": "https://codeforces.com/contest/2093"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛114",
+            "stime": 1744369200,
+            "etime": 1744376400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/106859"
+        },
+        {
             "oj": "luogu",
             "name": "『STAOI』G - Round 9",
             "stime": 1744437600,
@@ -172,7 +180,7 @@
         },
         {
             "oj": "atcoder",
-            "name": "Tokio Marine & Nichido Fire Insurance Programming Contest 2025  (AtCoder Beginner Contest 355)",
+            "name": "Tokio Marine & Nichido Fire Insurance Programming Contest 2025  (AtCoder Beginner Contest 402)",
             "stime": 1745064000,
             "etime": 1745070000,
             "dtime": 6000,
