@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1743459507,
-    "refreshTimeCH": "2025-04-01 06:18:27",
+    "refreshTimeStamp": 1743545860,
+    "refreshTimeCH": "2025-04-02 06:17:40",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,44 +11,20 @@
     ],
     "contests": [
         {
-            "oj": "codeforces",
-            "name": "Kotlin Heroes: Practice 12",
-            "stime": 1743428100,
-            "etime": 1744032900,
-            "dtime": 604800,
-            "link": "https://codeforces.com/contest/2088"
-        },
-        {
-            "oj": "luogu",
-            "name": "Ynoi Apirl Fool's Round 2025",
-            "stime": 1743487200,
-            "etime": 1743501600,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/238632"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客2025年愚人节比赛",
-            "stime": 1743505200,
-            "etime": 1743512400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/104956"
-        },
-        {
-            "oj": "codeforces",
-            "name": "April Fools Day Contest 2025",
-            "stime": 1743518100,
-            "etime": 1743525300,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2095"
-        },
-        {
             "oj": "luogu",
             "name": "RMI 2019 Day 1 Unofficial Mirror",
             "stime": 1743573600,
             "etime": 1743591600,
             "dtime": 18000,
             "link": "https://www.luogu.com.cn/contest/237211"
+        },
+        {
+            "oj": "luogu",
+            "name": "NOISG 2025 Final Unofficial Mirror",
+            "stime": 1743656400,
+            "etime": 1743674400,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/238798"
         },
         {
             "oj": "luogu",
@@ -169,6 +145,14 @@
             "etime": 1744538400,
             "dtime": 14400,
             "link": "https://www.luogu.com.cn/contest/203994"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 89",
+            "stime": 1744542000,
+            "etime": 1744549200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/107000"
         },
         {
             "oj": "codeforces",
