@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1743545860,
-    "refreshTimeCH": "2025-04-02 06:17:40",
+    "refreshTimeStamp": 1743632241,
+    "refreshTimeCH": "2025-04-03 06:17:21",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "RMI 2019 Day 1 Unofficial Mirror",
-            "stime": 1743573600,
-            "etime": 1743591600,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/237211"
-        },
         {
             "oj": "luogu",
             "name": "NOISG 2025 Final Unofficial Mirror",
@@ -97,6 +89,14 @@
             "etime": 1744045500,
             "dtime": 9000,
             "link": "https://codeforces.com/contest/2087"
+        },
+        {
+            "oj": "luogu",
+            "name": "RMI 2019 Day 2 Unofficial Mirror",
+            "stime": 1744092000,
+            "etime": 1744110000,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/239768"
         },
         {
             "oj": "codeforces",
