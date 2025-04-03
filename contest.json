@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1743632241,
-    "refreshTimeCH": "2025-04-03 06:17:21",
+    "refreshTimeStamp": 1743718626,
+    "refreshTimeCH": "2025-04-04 06:17:06",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,14 +12,6 @@
     "contests": [
         {
             "oj": "luogu",
-            "name": "NOISG 2025 Final Unofficial Mirror",
-            "stime": 1743656400,
-            "etime": 1743674400,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/238798"
-        },
-        {
-            "oj": "luogu",
             "name": "【LGR-(-25)】2025 年洛谷愚人节比赛 / April Fool's Contest",
             "stime": 1743674400,
             "etime": 1743933600,
@@ -27,20 +19,12 @@
             "link": "https://www.luogu.com.cn/contest/231658"
         },
         {
-            "oj": "nowcoder",
-            "name": "牛客练习赛136",
-            "stime": 1743678000,
-            "etime": 1743687000,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/106509"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 177 (Rated for Div. 2)",
-            "stime": 1743690900,
-            "etime": 1743698100,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2086"
+            "oj": "luogu",
+            "name": "中国科学技术大学2025年程序设计竞赛校赛（重现赛）",
+            "stime": 1743829200,
+            "etime": 1743847200,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/238099"
         },
         {
             "oj": "atcoder",
@@ -105,6 +89,14 @@
             "etime": 1744131000,
             "dtime": 8100,
             "link": "https://codeforces.com/contest/2093"
+        },
+        {
+            "oj": "luogu",
+            "name": "NordicOI 2025 Unofficial Mirror",
+            "stime": 1744267500,
+            "etime": 1744281900,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/239935"
         },
         {
             "oj": "nowcoder",
