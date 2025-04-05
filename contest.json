@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1743805042,
-    "refreshTimeCH": "2025-04-05 06:17:22",
+    "refreshTimeStamp": 1743891381,
+    "refreshTimeCH": "2025-04-06 06:16:21",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-(-25)】2025 年洛谷愚人节比赛 / April Fool's Contest",
-            "stime": 1743674400,
-            "etime": 1743933600,
-            "dtime": 259200,
-            "link": "https://www.luogu.com.cn/contest/231658"
-        },
-        {
-            "oj": "luogu",
-            "name": "中国科学技术大学2025年程序设计竞赛校赛（重现赛）",
-            "stime": 1743829200,
-            "etime": 1743847200,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/238099"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 400",
-            "stime": 1743854400,
-            "etime": 1743860400,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc400"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Teza Round 1 (Codeforces Round 1015, Div. 1 + Div. 2)",
-            "stime": 1743863700,
-            "etime": 1743874500,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2084"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 444",
@@ -84,7 +52,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 1016 (Div. 3)",
             "stime": 1744122900,
             "etime": 1744131000,
             "dtime": 8100,
@@ -97,6 +65,14 @@
             "etime": 1744281900,
             "dtime": 14400,
             "link": "https://www.luogu.com.cn/contest/239935"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-220-Div.4】洛谷入门赛 #34",
+            "stime": 1744369200,
+            "etime": 1744376400,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/240317"
         },
         {
             "oj": "nowcoder",
@@ -153,6 +129,14 @@
             "etime": 1744566600,
             "dtime": 8100,
             "link": "https://codeforces.com/contest/2094"
+        },
+        {
+            "oj": "luogu",
+            "name": "NOISG 2025 Preliminary Contest Unofficial Mirror",
+            "stime": 1744606800,
+            "etime": 1744624800,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/239906"
         },
         {
             "oj": "atcoder",

@@ -13,13 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Teza Round 1 (Codeforces Round 1015\, Div. 1 + Div. 2)
-DTSTART:20250405T223500
-DTEND:20250406T013500
-UID:Teza Round 1 (Codeforces Round 1015\, Div. 1 + Div. 2)
-DESCRIPTION:https://codeforces.com/contest/2084
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kotlin Heroes: Episode 12
 DTSTART:20250407T223500
 DTEND:20250408T010500
@@ -27,10 +20,10 @@ UID:Kotlin Heroes: Episode 12
 DESCRIPTION:https://codeforces.com/contest/2087
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 3)
+SUMMARY:Codeforces Round 1016 (Div. 3)
 DTSTART:20250408T223500
 DTEND:20250409T005000
-UID:Codeforces Round (Div. 3)
+UID:Codeforces Round 1016 (Div. 3)
 DESCRIPTION:https://codeforces.com/contest/2093
 END:VEVENT
 BEGIN:VEVENT
