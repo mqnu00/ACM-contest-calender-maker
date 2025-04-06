@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1743891381,
-    "refreshTimeCH": "2025-04-06 06:16:21",
+    "refreshTimeStamp": 1743977807,
+    "refreshTimeCH": "2025-04-07 06:16:47",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 444",
-            "stime": 1743906600,
-            "etime": 1743912000,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-444"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 88",
-            "stime": 1743937200,
-            "etime": 1743944400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/106318"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 196 (Div. 1)",
-            "stime": 1743940800,
-            "etime": 1743949800,
-            "dtime": 9000,
-            "link": "https://atcoder.jp/contests/arc196"
-        },
         {
             "oj": "codeforces",
             "name": "Kotlin Heroes: Episode 12",
@@ -105,6 +81,14 @@
             "etime": 1744473600,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-154"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 445",
+            "stime": 1744511400,
+            "etime": 1744516800,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-445"
         },
         {
             "oj": "luogu",
