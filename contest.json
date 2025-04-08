@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1744064272,
-    "refreshTimeCH": "2025-04-08 06:17:52",
+    "refreshTimeStamp": 1744150674,
+    "refreshTimeCH": "2025-04-09 06:17:54",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "RMI 2019 Day 2 Unofficial Mirror",
-            "stime": 1744092000,
-            "etime": 1744110000,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/239768"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1016 (Div. 3)",
-            "stime": 1744122900,
-            "etime": 1744131000,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2093"
-        },
         {
             "oj": "luogu",
             "name": "NordicOI 2025 Unofficial Mirror",
@@ -52,11 +36,19 @@
         },
         {
             "oj": "luogu",
-            "name": "『STAOI』G - Round 9",
-            "stime": 1744437600,
+            "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
+            "stime": 1744435800,
             "etime": 1744452000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/210424"
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/240581"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J13】梦熊 J 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
+            "stime": 1744435800,
+            "etime": 1744452000,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/240582"
         },
         {
             "oj": "atcoder",
@@ -139,6 +131,14 @@
             "link": "https://codeforces.com/contest/2096"
         },
         {
+            "oj": "luogu",
+            "name": "『STAOI』G - Round 9",
+            "stime": 1745128800,
+            "etime": 1745143200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/210424"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 90",
             "stime": 1745146800,
@@ -153,6 +153,14 @@
             "etime": 1745161200,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc072"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1745246100,
+            "etime": 1745253300,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2103"
         },
         {
             "oj": "atcoder",
@@ -198,9 +206,17 @@
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 2)",
             "stime": 1746974100,
-            "etime": 1746981300,
-            "dtime": 7200,
+            "etime": 1746983100,
+            "dtime": 9000,
             "link": "https://codeforces.com/contest/2102"
+        },
+        {
+            "oj": "atcoder",
+            "name": "MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)",
+            "stime": 1748599200,
+            "etime": 1749463200,
+            "dtime": 864000,
+            "link": "https://atcoder.jp/contests/ahc048"
         },
         {
             "oj": "atcoder",

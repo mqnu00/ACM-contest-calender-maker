@@ -44,6 +44,14 @@ UID:BrainPad Programming Contest 2025 （AtCoder Heuristic Contest 046）
 DESCRIPTION:https://atcoder.jp/contests/ahc046
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048
+ )
+DTSTART:20250530T180000
+DTEND:20250609T180000
+UID:MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)
+DESCRIPTION:https://atcoder.jp/contests/ahc048
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AtCoder Beginner Contest 410
 DTSTART:20250614T200000
 DTEND:20250614T214000
