@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1744150674,
-    "refreshTimeCH": "2025-04-09 06:17:54",
+    "refreshTimeStamp": 1744237047,
+    "refreshTimeCH": "2025-04-10 06:17:27",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -36,19 +36,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
-            "stime": 1744435800,
-            "etime": 1744452000,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/240581"
-        },
-        {
-            "oj": "luogu",
             "name": "【MX-J13】梦熊 J 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
             "stime": 1744435800,
             "etime": 1744452000,
             "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/240582"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
+            "stime": 1744435800,
+            "etime": 1744452000,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/240581"
         },
         {
             "oj": "atcoder",
@@ -113,6 +113,14 @@
             "etime": 1744983000,
             "dtime": 9000,
             "link": "https://ac.nowcoder.com/acm/contest/107458"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-221-Div.3】洛谷基础赛 #21",
+            "stime": 1745042400,
+            "etime": 1745055000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/224129"
         },
         {
             "oj": "atcoder",
