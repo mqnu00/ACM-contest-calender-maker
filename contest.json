@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1744237047,
-    "refreshTimeCH": "2025-04-10 06:17:27",
+    "refreshTimeStamp": 1744323543,
+    "refreshTimeCH": "2025-04-11 06:19:03",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "NordicOI 2025 Unofficial Mirror",
-            "stime": 1744267500,
-            "etime": 1744281900,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/239935"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-220-Div.4】洛谷入门赛 #34",
