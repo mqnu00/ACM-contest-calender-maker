@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1744323543,
-    "refreshTimeCH": "2025-04-11 06:19:03",
+    "refreshTimeStamp": 1744409928,
+    "refreshTimeCH": "2025-04-12 06:18:48",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,19 +12,11 @@
     "contests": [
         {
             "oj": "luogu",
-            "name": "【LGR-220-Div.4】洛谷入门赛 #34",
-            "stime": 1744369200,
-            "etime": 1744376400,
-            "dtime": 7200,
-            "link": "https://www.luogu.com.cn/contest/240317"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛114",
-            "stime": 1744369200,
-            "etime": 1744376400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/106859"
+            "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
+            "stime": 1744435800,
+            "etime": 1744452000,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/240581"
         },
         {
             "oj": "luogu",
@@ -33,14 +25,6 @@
             "etime": 1744452000,
             "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/240582"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
-            "stime": 1744435800,
-            "etime": 1744452000,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/240581"
         },
         {
             "oj": "atcoder",
@@ -84,7 +68,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 4)",
+            "name": "Codeforces Round 1017 (Div. 4)",
             "stime": 1744558500,
             "etime": 1744566600,
             "dtime": 8100,
@@ -124,7 +108,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "name": "Neowise Labs Contest 1",
             "stime": 1745073300,
             "etime": 1745080500,
             "dtime": 7200,
@@ -163,12 +147,36 @@
             "link": "https://codeforces.com/contest/2103"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛115",
+            "stime": 1745578800,
+            "etime": 1745586000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/107879"
+        },
+        {
             "oj": "atcoder",
             "name": "BrainPad Programming Contest 2025 （AtCoder Heuristic Contest 046）",
             "stime": 1745647200,
             "etime": 1745661600,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc046"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-222-Div.1】洛谷 4 月月赛 I & HCOI Round 2",
+            "stime": 1745647200,
+            "etime": 1745661600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/201695"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-222-Div.2】洛谷 4 月月赛 I & HCOI Round 2",
+            "stime": 1745647200,
+            "etime": 1745661600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/240146"
         },
         {
             "oj": "codeforces",
@@ -187,6 +195,14 @@
             "link": "https://codeforces.com/contest/2098"
         },
         {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 403",
+            "stime": 1745755200,
+            "etime": 1745761200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc403"
+        },
+        {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 1)",
             "stime": 1746261300,
@@ -201,6 +217,14 @@
             "etime": 1746268500,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2100"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 405",
+            "stime": 1746878400,
+            "etime": 1746884400,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc405"
         },
         {
             "oj": "codeforces",
