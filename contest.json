@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1744409928,
-    "refreshTimeCH": "2025-04-12 06:18:48",
+    "refreshTimeStamp": 1744496188,
+    "refreshTimeCH": "2025-04-13 06:16:28",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【MX-X11】梦熊 X 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
-            "stime": 1744435800,
-            "etime": 1744452000,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/240581"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-J13】梦熊 J 组 · 鹿赛 & 蓬莱人形 Round 1（同步赛）",
-            "stime": 1744435800,
-            "etime": 1744452000,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/240582"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 401",
-            "stime": 1744459200,
-            "etime": 1744465200,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc401"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 154",
-            "stime": 1744468200,
-            "etime": 1744473600,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-154"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 445",
@@ -108,7 +76,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Neowise Labs Contest 1",
+            "name": "Neowise Labs Contest 1 (Codeforces Round 1018, Div. 1 + Div. 2)",
             "stime": 1745073300,
             "etime": 1745080500,
             "dtime": 7200,
@@ -193,6 +161,14 @@
             "etime": 1745665500,
             "dtime": 9000,
             "link": "https://codeforces.com/contest/2098"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 155",
+            "stime": 1745677800,
+            "etime": 1745683200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-155"
         },
         {
             "oj": "atcoder",
