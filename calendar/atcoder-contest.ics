@@ -44,6 +44,13 @@ UID:AtCoder Beginner Contest 403
 DESCRIPTION:https://atcoder.jp/contests/abc403
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 197 (Div. 2)
+DTSTART:20250504T200000
+DTEND:20250504T220000
+UID:AtCoder Regular Contest 197 (Div. 2)
+DESCRIPTION:https://atcoder.jp/contests/arc197
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AtCoder Beginner Contest 405
 DTSTART:20250510T200000
 DTEND:20250510T214000
