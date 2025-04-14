@@ -58,6 +58,14 @@ UID:AtCoder Beginner Contest 405
 DESCRIPTION:https://atcoder.jp/contests/abc405
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Panasonic Programming Contest 2025（AtCoder Beginner Contest 406
+ ）
+DTSTART:20250517T200000
+DTEND:20250517T214000
+UID:Panasonic Programming Contest 2025（AtCoder Beginner Contest 406）
+DESCRIPTION:https://atcoder.jp/contests/abc406
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048
  )
 DTSTART:20250530T180000
