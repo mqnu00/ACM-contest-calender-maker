@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1744669072,
-    "refreshTimeCH": "2025-04-15 06:17:52",
+    "refreshTimeStamp": 1744755502,
+    "refreshTimeCH": "2025-04-16 06:18:22",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -85,8 +85,8 @@
         {
             "oj": "codeforces",
             "name": "Tact Smart Battle 1",
-            "stime": 1745228100,
-            "etime": 1745832900,
+            "stime": 1745226000,
+            "etime": 1745830800,
             "dtime": 604800,
             "link": "https://codeforces.com/contest/2105"
         },
