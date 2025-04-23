@@ -41,6 +41,13 @@ UID:Educational Codeforces Round 178 (Rated for Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2104
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20250501T223500
+DTEND:20250502T003500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2108
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 1)
 DTSTART:20250503T163500
 DTEND:20250503T183500
