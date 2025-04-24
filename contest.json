@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1745446718,
-    "refreshTimeCH": "2025-04-24 06:18:38",
+    "refreshTimeStamp": 1745533144,
+    "refreshTimeCH": "2025-04-25 06:19:04",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "eJOI 2024 Day 1 Unofficial Mirror",
-            "stime": 1745474400,
-            "etime": 1745488800,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/242895"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1020 (Div. 3)",
-            "stime": 1745505300,
-            "etime": 1745513400,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2106"
-        },
         {
             "oj": "luogu",
             "name": "WAOI R3",
@@ -244,7 +228,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-J14】梦熊 J 组 & ALFR Round 5（同步赛）",
+            "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
             "stime": 1746424800,
             "etime": 1746437400,
             "dtime": 12600,
@@ -252,7 +236,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-X12】梦熊 X 组 & ALFR Round 5（同步赛）",
+            "name": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
             "stime": 1746424800,
             "etime": 1746437400,
             "dtime": 12600,
@@ -305,6 +289,14 @@
             "etime": 1747576800,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc047"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 407",
+            "stime": 1748088000,
+            "etime": 1748094000,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc407"
         },
         {
             "oj": "atcoder",
