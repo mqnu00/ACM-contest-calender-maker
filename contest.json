@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1745705800,
-    "refreshTimeCH": "2025-04-27 06:16:40",
+    "refreshTimeStamp": 1745792242,
+    "refreshTimeCH": "2025-04-28 06:17:22",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,46 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "eJOI 2024 Day 2 Unofficial Mirror",
-            "stime": 1745712000,
-            "etime": 1745726400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/243276"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 447",
-            "stime": 1745721000,
-            "etime": 1745726400,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-447"
-        },
-        {
-            "oj": "luogu",
-            "name": "「LAOI」Easy Round 12",
-            "stime": 1745730000,
-            "etime": 1745744400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/237332"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 91",
-            "stime": 1745751600,
-            "etime": 1745758800,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/108038"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 403",
-            "stime": 1745755200,
-            "etime": 1745761200,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc403"
-        },
         {
             "oj": "codeforces",
             "name": "Educational Codeforces Round 178 (Rated for Div. 2)",
@@ -147,6 +107,14 @@
             "link": "https://atcoder.jp/contests/abc404"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 448",
+            "stime": 1746325800,
+            "etime": 1746331200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-448"
+        },
+        {
             "oj": "nowcoder",
             "name": "2025牛客五一集训派对day4",
             "stime": 1746331200,
@@ -156,7 +124,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【LGR-223-Div.3】洛谷基础赛 #22 & YLLOI Round 1",
+            "name": "【LGR-223-Div.3】梅拉算智基础赛 #22 & YLLOI Round 1",
             "stime": 1746338400,
             "etime": 1746351000,
             "dtime": 12600,
@@ -180,19 +148,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
-            "stime": 1746424800,
-            "etime": 1746437400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/243108"
-        },
-        {
-            "oj": "luogu",
             "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
             "stime": 1746424800,
             "etime": 1746437400,
             "dtime": 12600,
             "link": "https://www.luogu.com.cn/contest/243109"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
+            "stime": 1746424800,
+            "etime": 1746437400,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/243108"
         },
         {
             "oj": "codeforces",
@@ -201,6 +169,22 @@
             "etime": 1746463800,
             "dtime": 8100,
             "link": "https://codeforces.com/contest/2107"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客练习赛138",
+            "stime": 1746788400,
+            "etime": 1746797400,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/109081"
+        },
+        {
+            "oj": "luogu",
+            "name": "MSTOI Round 1",
+            "stime": 1746853200,
+            "etime": 1746865800,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/235872"
         },
         {
             "oj": "atcoder",
@@ -233,6 +217,14 @@
             "etime": 1746983100,
             "dtime": 9000,
             "link": "https://codeforces.com/contest/2102"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛116",
+            "stime": 1747393200,
+            "etime": 1747400400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/109080"
         },
         {
             "oj": "atcoder",
