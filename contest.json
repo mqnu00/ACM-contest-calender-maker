@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1745792242,
-    "refreshTimeCH": "2025-04-28 06:17:22",
+    "refreshTimeStamp": 1745878727,
+    "refreshTimeCH": "2025-04-29 06:18:47",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 178 (Rated for Div. 2)",
-            "stime": 1745850900,
-            "etime": 1745858100,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2104"
-        },
         {
             "oj": "luogu",
             "name": "Conclusion Masters #2",
@@ -107,6 +99,14 @@
             "link": "https://atcoder.jp/contests/abc404"
         },
         {
+            "oj": "luogu",
+            "name": "『ANIME』Round 2",
+            "stime": 1746318600,
+            "etime": 1746329400,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/235482"
+        },
+        {
             "oj": "leetcode",
             "name": "Weekly Contest 448",
             "stime": 1746325800,
@@ -148,19 +148,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
-            "stime": 1746424800,
-            "etime": 1746437400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/243109"
-        },
-        {
-            "oj": "luogu",
             "name": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
             "stime": 1746424800,
             "etime": 1746437400,
             "dtime": 12600,
             "link": "https://www.luogu.com.cn/contest/243108"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
+            "stime": 1746424800,
+            "etime": 1746437400,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/243109"
         },
         {
             "oj": "codeforces",
@@ -180,11 +180,27 @@
         },
         {
             "oj": "luogu",
+            "name": "FCRT OI / Round 1",
+            "stime": 1746835200,
+            "etime": 1746849600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/231124"
+        },
+        {
+            "oj": "luogu",
             "name": "MSTOI Round 1",
             "stime": 1746853200,
             "etime": 1746865800,
             "dtime": 12600,
             "link": "https://www.luogu.com.cn/contest/235872"
+        },
+        {
+            "oj": "luogu",
+            "name": "Math×Girl",
+            "stime": 1746855000,
+            "etime": 1746871200,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/179064"
         },
         {
             "oj": "atcoder",
