@@ -57,6 +57,13 @@ UID:AtCoder Beginner Contest 407
 DESCRIPTION:https://atcoder.jp/contests/abc407
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 198 (Div. 2)
+DTSTART:20250525T200000
+DTEND:20250525T220000
+UID:AtCoder Regular Contest 198 (Div. 2)
+DESCRIPTION:https://atcoder.jp/contests/arc198
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048
  )
 DTSTART:20250530T180000

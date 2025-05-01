@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1745965086,
-    "refreshTimeCH": "2025-04-30 06:18:06",
+    "refreshTimeStamp": 1746137892,
+    "refreshTimeCH": "2025-05-02 06:18:12",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "Conclusion Masters #2",
-            "stime": 1746057600,
-            "etime": 1746072000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/230226"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "2025牛客五一集训派对day1",
-            "stime": 1746072000,
-            "etime": 1746090000,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/108199"
-        },
-        {
-            "oj": "luogu",
-            "name": "RiOI Round 6",
-            "stime": 1746079200,
-            "etime": 1746093600,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/232940"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
-            "stime": 1746110100,
-            "etime": 1746117300,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2108"
-        },
         {
             "oj": "nowcoder",
             "name": "2025牛客五一集训派对day2",
@@ -73,22 +41,6 @@
             "etime": 1746264600,
             "dtime": 10800,
             "link": "https://www.luogu.com.cn/contest/240355"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round (Div. 1)",
-            "stime": 1746261300,
-            "etime": 1746268500,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2099"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
-            "stime": 1746261300,
-            "etime": 1746268500,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2100"
         },
         {
             "oj": "atcoder",
@@ -251,6 +203,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/109220"
         },
         {
+            "oj": "luogu",
+            "name": "Aboi Round 1",
+            "stime": 1747472400,
+            "etime": 1747488600,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/244152"
+        },
+        {
             "oj": "atcoder",
             "name": "Panasonic Programming Contest 2025（AtCoder Beginner Contest 406）",
             "stime": 1747483200,
@@ -273,6 +233,14 @@
             "etime": 1748094000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc407"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest 198 (Div. 2)",
+            "stime": 1748174400,
+            "etime": 1748181600,
+            "dtime": 7200,
+            "link": "https://atcoder.jp/contests/arc198"
         },
         {
             "oj": "atcoder",
@@ -305,6 +273,14 @@
             "etime": 1751118000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc412"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2025牛客暑期多校训练营1",
+            "stime": 1752552000,
+            "etime": 1752570000,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/108298"
         },
         {
             "oj": "atcoder",
