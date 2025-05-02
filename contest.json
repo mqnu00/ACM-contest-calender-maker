@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1746137892,
-    "refreshTimeCH": "2025-05-02 06:18:12",
+    "refreshTimeStamp": 1746224294,
+    "refreshTimeCH": "2025-05-03 06:18:14",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "2025牛客五一集训派对day2",
-            "stime": 1746158400,
-            "etime": 1746176400,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/108215"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-224-Div.2】洛谷 5 月月赛 I & FAOI-R9",
-            "stime": 1746165600,
-            "etime": 1746180000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/241690"
-        },
         {
             "oj": "nowcoder",
             "name": "2025牛客五一集训派对day3",
