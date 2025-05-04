@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1746310629,
-    "refreshTimeCH": "2025-05-04 06:17:09",
+    "refreshTimeStamp": 1746397047,
+    "refreshTimeCH": "2025-05-05 06:17:27",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,68 +11,12 @@
     ],
     "contests": [
         {
-            "oj": "luogu",
-            "name": "『ANIME』Round 2",
-            "stime": 1746318600,
-            "etime": 1746329400,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/235482"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 448",
-            "stime": 1746325800,
-            "etime": 1746331200,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-448"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "2025牛客五一集训派对day4",
-            "stime": 1746331200,
-            "etime": 1746349200,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/108217"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-223-Div.3】梅拉算智基础赛 #22 & YLLOI Round 1",
-            "stime": 1746338400,
-            "etime": 1746351000,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/213624"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 197 (Div. 2)",
-            "stime": 1746360000,
-            "etime": 1746367200,
-            "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc197"
-        },
-        {
-            "oj": "luogu",
-            "name": "『FDOI-Round 1』致敬可爱的狐狸团长",
-            "stime": 1746403200,
-            "etime": 1746415800,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/242882"
-        },
-        {
             "oj": "nowcoder",
             "name": "2025牛客五一集训派对day5",
             "stime": 1746417600,
             "etime": 1746435600,
             "dtime": 18000,
             "link": "https://ac.nowcoder.com/acm/contest/108218"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
-            "stime": 1746424800,
-            "etime": 1746437400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/243109"
         },
         {
             "oj": "luogu",
@@ -83,20 +27,20 @@
             "link": "https://www.luogu.com.cn/contest/243108"
         },
         {
+            "oj": "luogu",
+            "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
+            "stime": 1746424800,
+            "etime": 1746437400,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/243109"
+        },
+        {
             "oj": "codeforces",
             "name": "Codeforces Round 1023 (Div. 2)",
             "stime": 1746455700,
             "etime": 1746463800,
             "dtime": 8100,
             "link": "https://codeforces.com/contest/2107"
-        },
-        {
-            "oj": "luogu",
-            "name": "DLESS Round 1",
-            "stime": 1746770400,
-            "etime": 1746784800,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/238488"
         },
         {
             "oj": "nowcoder",
@@ -139,6 +83,14 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-156"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 449",
+            "stime": 1746930600,
+            "etime": 1746936000,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-449"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 92",
             "stime": 1746961200,
@@ -148,7 +100,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1024 (Div. 2)",
             "stime": 1746974100,
             "etime": 1746983100,
             "dtime": 9000,
