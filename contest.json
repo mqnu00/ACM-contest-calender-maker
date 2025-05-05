@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1746397047,
-    "refreshTimeCH": "2025-05-05 06:17:27",
+    "refreshTimeStamp": 1746483541,
+    "refreshTimeCH": "2025-05-06 06:19:01",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,36 +11,20 @@
     ],
     "contests": [
         {
-            "oj": "nowcoder",
-            "name": "2025牛客五一集训派对day5",
-            "stime": 1746417600,
-            "etime": 1746435600,
+            "oj": "luogu",
+            "name": "Izborne pripreme 2025 Day 1 Unofficial Mirror",
+            "stime": 1746597600,
+            "etime": 1746615600,
             "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/108218"
+            "link": "https://www.luogu.com.cn/contest/244749"
         },
         {
             "oj": "luogu",
-            "name": "【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）",
-            "stime": 1746424800,
-            "etime": 1746437400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/243108"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）",
-            "stime": 1746424800,
-            "etime": 1746437400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/243109"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1023 (Div. 2)",
-            "stime": 1746455700,
-            "etime": 1746463800,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2107"
+            "name": "Izborne pripreme 2025 Day 2 Unofficial Mirror",
+            "stime": 1746684000,
+            "etime": 1746702000,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/244750"
         },
         {
             "oj": "nowcoder",

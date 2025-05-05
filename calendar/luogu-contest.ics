@@ -13,20 +13,18 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛
- ）
-DTSTART:20250505T140000
-DTEND:20250505T173000
-UID:【MX-X12】梦熊 X 组 · 友谊赛 & ALFR Round 5（同步赛）
-DESCRIPTION:https://www.luogu.com.cn/contest/243108
+SUMMARY:Izborne pripreme 2025 Day 1 Unofficial Mirror
+DTSTART:20250507T140000
+DTEND:20250507T190000
+UID:Izborne pripreme 2025 Day 1 Unofficial Mirror
+DESCRIPTION:https://www.luogu.com.cn/contest/244749
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛
- ）
-DTSTART:20250505T140000
-DTEND:20250505T173000
-UID:【MX-J14】梦熊 J 组 · 友谊赛 & ALFR Round 5（同步赛）
-DESCRIPTION:https://www.luogu.com.cn/contest/243109
+SUMMARY:Izborne pripreme 2025 Day 2 Unofficial Mirror
+DTSTART:20250508T140000
+DTEND:20250508T190000
+UID:Izborne pripreme 2025 Day 2 Unofficial Mirror
+DESCRIPTION:https://www.luogu.com.cn/contest/244750
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FCRT OI / Round 1
