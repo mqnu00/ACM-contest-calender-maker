@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1746483541,
-    "refreshTimeCH": "2025-05-06 06:19:01",
+    "refreshTimeStamp": 1746569905,
+    "refreshTimeCH": "2025-05-07 06:18:25",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -67,12 +67,28 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-156"
         },
         {
+            "oj": "luogu",
+            "name": "『FDOI-Round 1』致敬可爱的狐狸团长",
+            "stime": 1746923400,
+            "etime": 1746936000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/242882"
+        },
+        {
             "oj": "leetcode",
             "name": "Weekly Contest 449",
             "stime": 1746930600,
             "etime": 1746936000,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-449"
+        },
+        {
+            "oj": "luogu",
+            "name": "DLESS Round 1",
+            "stime": 1746943200,
+            "etime": 1746957600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/238488"
         },
         {
             "oj": "nowcoder",
@@ -137,6 +153,14 @@
             "etime": 1747576800,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc047"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-225-Div.1】洛谷蓝桥杯模拟赛 & 洛谷算法基础赛 #4",
+            "stime": 1748066400,
+            "etime": 1748080800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/245376"
         },
         {
             "oj": "atcoder",
