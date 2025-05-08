@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1746569905,
-    "refreshTimeCH": "2025-05-07 06:18:25",
+    "refreshTimeStamp": 1746742712,
+    "refreshTimeCH": "2025-05-09 06:18:32",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,19 +12,11 @@
     "contests": [
         {
             "oj": "luogu",
-            "name": "Izborne pripreme 2025 Day 1 Unofficial Mirror",
-            "stime": 1746597600,
-            "etime": 1746615600,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/244749"
-        },
-        {
-            "oj": "luogu",
-            "name": "Izborne pripreme 2025 Day 2 Unofficial Mirror",
-            "stime": 1746684000,
-            "etime": 1746702000,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/244750"
+            "name": "JOI 2024/2025 二次予選 Unofficial Mirror",
+            "stime": 1746786600,
+            "etime": 1746797400,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/245601"
         },
         {
             "oj": "nowcoder",
@@ -100,11 +92,27 @@
         },
         {
             "oj": "codeforces",
+            "name": "Codeforces Round 1024 (Div. 1)",
+            "stime": 1746974100,
+            "etime": 1746983100,
+            "dtime": 9000,
+            "link": "https://codeforces.com/contest/2101"
+        },
+        {
+            "oj": "codeforces",
             "name": "Codeforces Round 1024 (Div. 2)",
             "stime": 1746974100,
             "etime": 1746983100,
             "dtime": 9000,
             "link": "https://codeforces.com/contest/2102"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-226-Div.4】洛谷入门赛 #35",
+            "stime": 1747393200,
+            "etime": 1747400400,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/245718"
         },
         {
             "oj": "nowcoder",
@@ -113,6 +121,14 @@
             "etime": 1747400400,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/109080"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2025年ICPC新疆维吾尔自治区大学生程序设计竞赛",
+            "stime": 1747454400,
+            "etime": 1747472400,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/109791"
         },
         {
             "oj": "luogu",
