@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1746742712,
-    "refreshTimeCH": "2025-05-09 06:18:32",
+    "refreshTimeStamp": 1746829082,
+    "refreshTimeCH": "2025-05-10 06:18:02",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "JOI 2024/2025 二次予選 Unofficial Mirror",
-            "stime": 1746786600,
-            "etime": 1746797400,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/245601"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客练习赛138",
-            "stime": 1746788400,
-            "etime": 1746797400,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/109081"
-        },
         {
             "oj": "luogu",
             "name": "FCRT OI / Round 1",
@@ -163,12 +147,28 @@
             "link": "https://atcoder.jp/contests/abc406"
         },
         {
+            "oj": "luogu",
+            "name": "西安交通大学2025年程序设计竞赛校赛（同步赛）",
+            "stime": 1747546200,
+            "etime": 1747564200,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/245921"
+        },
+        {
             "oj": "atcoder",
             "name": "Toyota Programming Contest 2025#2（AtCoder Heuristic Contest 047）",
             "stime": 1747562400,
             "etime": 1747576800,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc047"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 93",
+            "stime": 1747566000,
+            "etime": 1747573200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/109904"
         },
         {
             "oj": "luogu",
