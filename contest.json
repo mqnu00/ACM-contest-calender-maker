@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1746915393,
-    "refreshTimeCH": "2025-05-11 06:16:33",
+    "refreshTimeStamp": 1747001856,
+    "refreshTimeCH": "2025-05-12 06:17:36",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,54 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "『FDOI-Round 1』致敬可爱的狐狸团长",
-            "stime": 1746923400,
-            "etime": 1746936000,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/242882"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 449",
-            "stime": 1746930600,
-            "etime": 1746936000,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-449"
-        },
-        {
-            "oj": "luogu",
-            "name": "DLESS Round 1",
-            "stime": 1746943200,
-            "etime": 1746957600,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/238488"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 92",
-            "stime": 1746961200,
-            "etime": 1746968400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/108589"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1024 (Div. 1)",
-            "stime": 1746974100,
-            "etime": 1746983100,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2101"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1024 (Div. 2)",
-            "stime": 1746974100,
-            "etime": 1746983100,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2102"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-226-Div.4】洛谷入门赛 #35",
@@ -113,6 +65,14 @@
             "etime": 1747489200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc406"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 450",
+            "stime": 1747535400,
+            "etime": 1747540800,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-450"
         },
         {
             "oj": "luogu",
