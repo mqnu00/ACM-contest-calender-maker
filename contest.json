@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1747606650,
-    "refreshTimeCH": "2025-05-19 06:17:30",
+    "refreshTimeStamp": 1747693130,
+    "refreshTimeCH": "2025-05-20 06:18:50",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,6 +10,14 @@
         "leetcode"
     ],
     "contests": [
+        {
+            "oj": "nowcoder",
+            "name": "牛客练习赛139",
+            "stime": 1747998000,
+            "etime": 1748007000,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/110698"
+        },
         {
             "oj": "luogu",
             "name": "【LGR-225-Div.1.5】洛谷蓝桥杯模拟赛 & 洛谷算法基础赛 #4",
@@ -35,12 +43,28 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-157"
         },
         {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1748097300,
+            "etime": 1748104500,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2110"
+        },
+        {
             "oj": "leetcode",
             "name": "Weekly Contest 451",
             "stime": 1748140200,
             "etime": 1748145600,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-451"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 94",
+            "stime": 1748170800,
+            "etime": 1748178000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/110696"
         },
         {
             "oj": "atcoder",
@@ -51,12 +75,28 @@
             "link": "https://atcoder.jp/contests/arc198"
         },
         {
+            "oj": "codeforces",
+            "name": "Codeforces Round  (Div. 3)",
+            "stime": 1748270100,
+            "etime": 1748278200,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2114"
+        },
+        {
             "oj": "atcoder",
             "name": "MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)",
             "stime": 1748599200,
             "etime": 1749463200,
             "dtime": 864000,
             "link": "https://atcoder.jp/contests/ahc048"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客2025年儿童节比赛",
+            "stime": 1748775600,
+            "etime": 1748782800,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/110699"
         },
         {
             "oj": "atcoder",
@@ -83,6 +123,14 @@
             "link": "https://atcoder.jp/contests/abc410"
         },
         {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1749978300,
+            "etime": 1749985500,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2113"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Regular Contest 201",
             "stime": 1750593600,
@@ -97,6 +145,14 @@
             "etime": 1751118000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc412"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Denso Create Programming Contest 2025（AtCoder Beginner Contest 413）",
+            "stime": 1751716800,
+            "etime": 1751722800,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc413"
         },
         {
             "oj": "nowcoder",
