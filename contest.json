@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1747693130,
-    "refreshTimeCH": "2025-05-20 06:18:50",
+    "refreshTimeStamp": 1747779491,
+    "refreshTimeCH": "2025-05-21 06:18:11",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -57,6 +57,14 @@
             "etime": 1748145600,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-451"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-227-Div.2】核桃编程 5 月月赛 II & S2OI Round 1",
+            "stime": 1748152800,
+            "etime": 1748167200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/219334"
         },
         {
             "oj": "nowcoder",
