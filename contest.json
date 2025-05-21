@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1747779491,
-    "refreshTimeCH": "2025-05-21 06:18:11",
+    "refreshTimeStamp": 1747865917,
+    "refreshTimeCH": "2025-05-22 06:18:37",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -44,7 +44,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1026 (Div. 2)",
             "stime": 1748097300,
             "etime": 1748104500,
             "dtime": 7200,
