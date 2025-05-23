@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1747952333,
-    "refreshTimeCH": "2025-05-23 06:18:53",
+    "refreshTimeStamp": 1748038709,
+    "refreshTimeCH": "2025-05-24 06:18:29",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,20 +11,20 @@
     ],
     "contests": [
         {
-            "oj": "nowcoder",
-            "name": "牛客练习赛139",
-            "stime": 1747998000,
-            "etime": 1748007000,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/110698"
-        },
-        {
             "oj": "luogu",
             "name": "【LGR-225-Div.1.5】洛谷蓝桥杯模拟赛 & 洛谷算法基础赛 #4",
             "stime": 1748066400,
             "etime": 1748080800,
             "dtime": 14400,
             "link": "https://www.luogu.com.cn/contest/245376"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "第八届广西大学生程序设计大赛暨2025邀请赛（热身赛）",
+            "stime": 1748070000,
+            "etime": 1748077200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/110810"
         },
         {
             "oj": "atcoder",
@@ -49,6 +49,14 @@
             "etime": 1748104500,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2110"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "第八届广西大学生程序设计大赛暨2025邀请赛",
+            "stime": 1748134800,
+            "etime": 1748152800,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/110811"
         },
         {
             "oj": "leetcode",
