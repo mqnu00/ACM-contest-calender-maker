@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1748125050,
-    "refreshTimeCH": "2025-05-25 06:17:30",
+    "refreshTimeStamp": 1748211459,
+    "refreshTimeCH": "2025-05-26 06:17:39",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,46 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "第八届广西大学生程序设计大赛暨2025邀请赛",
-            "stime": 1748134800,
-            "etime": 1748152800,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/110811"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 451",
-            "stime": 1748140200,
-            "etime": 1748145600,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-451"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-227-Div.2】核桃编程 5 月月赛 II & S2OI Round 1",
-            "stime": 1748152800,
-            "etime": 1748167200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/219334"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 94",
-            "stime": 1748170800,
-            "etime": 1748178000,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/110696"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 198 (Div. 2)",
-            "stime": 1748174400,
-            "etime": 1748181600,
-            "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc198"
-        },
         {
             "oj": "codeforces",
             "name": "Codeforces Round  1027 (Div. 3)",
@@ -65,6 +25,30 @@
             "etime": 1749463200,
             "dtime": 864000,
             "link": "https://atcoder.jp/contests/ahc048"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-228-Div.3】洛谷基础赛 #23 &「LAOI」Round 8",
+            "stime": 1748671200,
+            "etime": 1748683800,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/187787"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 1)",
+            "stime": 1748702100,
+            "etime": 1748711100,
+            "dtime": 9000,
+            "link": "https://codeforces.com/contest/2115"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1748702100,
+            "etime": 1748711100,
+            "dtime": 9000,
+            "link": "https://codeforces.com/contest/2116"
         },
         {
             "oj": "luogu",
@@ -115,6 +99,22 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-158"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 453",
+            "stime": 1749349800,
+            "etime": 1749355200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-453"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 95",
+            "stime": 1749380400,
+            "etime": 1749387600,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/111159"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 410",
             "stime": 1749902400,
@@ -137,6 +137,14 @@
             "etime": 1749996000,
             "dtime": 7200,
             "link": "https://atcoder.jp/contests/arc200"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 159",
+            "stime": 1750516200,
+            "etime": 1750521600,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-159"
         },
         {
             "oj": "atcoder",

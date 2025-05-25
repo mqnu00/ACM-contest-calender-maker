@@ -20,6 +20,20 @@ UID:Codeforces Round  1027 (Div. 3)
 DESCRIPTION:https://codeforces.com/contest/2114
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 1)
+DTSTART:20250531T223500
+DTEND:20250601T010500
+UID:Codeforces Round (Div. 1)
+DESCRIPTION:https://codeforces.com/contest/2115
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20250531T223500
+DTEND:20250601T010500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2116
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Educational Codeforces Round 179 (Rated for Div. 2)
 DTSTART:20250603T223500
 DTEND:20250604T003500
