@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1748211459,
-    "refreshTimeCH": "2025-05-26 06:17:39",
+    "refreshTimeStamp": 1748297876,
+    "refreshTimeCH": "2025-05-27 06:17:56",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round  1027 (Div. 3)",
-            "stime": 1748270100,
-            "etime": 1748278200,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2114"
-        },
         {
             "oj": "atcoder",
             "name": "MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)",
