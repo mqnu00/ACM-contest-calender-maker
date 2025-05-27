@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1748297876,
-    "refreshTimeCH": "2025-05-27 06:17:56",
+    "refreshTimeStamp": 1748384305,
+    "refreshTimeCH": "2025-05-28 06:18:25",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -17,6 +17,22 @@
             "etime": 1749463200,
             "dtime": 864000,
             "link": "https://atcoder.jp/contests/ahc048"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛117",
+            "stime": 1748602800,
+            "etime": 1748610000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/111309"
+        },
+        {
+            "oj": "luogu",
+            "name": "「TFXOI」Round 2",
+            "stime": 1748651400,
+            "etime": 1748664000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/245637"
         },
         {
             "oj": "luogu",
