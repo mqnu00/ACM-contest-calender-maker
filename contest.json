@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1748384305,
-    "refreshTimeCH": "2025-05-28 06:18:25",
+    "refreshTimeStamp": 1748470719,
+    "refreshTimeCH": "2025-05-29 06:18:39",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,6 +10,14 @@
         "leetcode"
     ],
     "contests": [
+        {
+            "oj": "leetcode",
+            "name": "Contest Focus Mode",
+            "stime": 1748421000,
+            "etime": 1748475000,
+            "dtime": 54000,
+            "link": "https://leetcode.cn/contest/contest-focus-mode"
+        },
         {
             "oj": "atcoder",
             "name": "MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)",
@@ -43,24 +51,32 @@
             "link": "https://www.luogu.com.cn/contest/187787"
         },
         {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 408",
+            "stime": 1748692800,
+            "etime": 1748698800,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc408"
+        },
+        {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 1)",
             "stime": 1748702100,
-            "etime": 1748711100,
-            "dtime": 9000,
+            "etime": 1748709300,
+            "dtime": 7200,
             "link": "https://codeforces.com/contest/2115"
         },
         {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 2)",
             "stime": 1748702100,
-            "etime": 1748711100,
-            "dtime": 9000,
+            "etime": 1748709300,
+            "dtime": 7200,
             "link": "https://codeforces.com/contest/2116"
         },
         {
             "oj": "luogu",
-            "name": "[Brooklyn Round 1 & NNOI Round 1]",
+            "name": "Brooklyn Round 1 & NNOI Round 1",
             "stime": 1748737800,
             "etime": 1748748600,
             "dtime": 10800,
@@ -73,6 +89,14 @@
             "etime": 1748750400,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-452"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J15】梦熊 J 组 · 儿童节赛（同步赛）",
+            "stime": 1748757600,
+            "etime": 1748770200,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/249248"
         },
         {
             "oj": "nowcoder",
@@ -99,6 +123,22 @@
             "link": "https://codeforces.com/contest/2111"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客练习赛140",
+            "stime": 1749207600,
+            "etime": 1749216600,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/111355"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 409",
+            "stime": 1749297600,
+            "etime": 1749303600,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc409"
+        },
+        {
             "oj": "leetcode",
             "name": "Biweekly Contest 158",
             "stime": 1749306600,
@@ -121,6 +161,14 @@
             "etime": 1749387600,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/111159"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 3)",
+            "stime": 1749393300,
+            "etime": 1749401400,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2117"
         },
         {
             "oj": "atcoder",

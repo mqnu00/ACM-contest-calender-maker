@@ -27,10 +27,17 @@ UID:【LGR-228-Div.3】洛谷基础赛 #23 &「LAOI」Round 8
 DESCRIPTION:https://www.luogu.com.cn/contest/187787
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Brooklyn Round 1 & NNOI Round 1]
+SUMMARY:Brooklyn Round 1 & NNOI Round 1
 DTSTART:20250601T083000
 DTEND:20250601T113000
-UID:[Brooklyn Round 1 & NNOI Round 1]
+UID:Brooklyn Round 1 & NNOI Round 1
 DESCRIPTION:https://www.luogu.com.cn/contest/211584
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:【MX-J15】梦熊 J 组 · 儿童节赛（同步赛）
+DTSTART:20250601T140000
+DTEND:20250601T173000
+UID:【MX-J15】梦熊 J 组 · 儿童节赛（同步赛）
+DESCRIPTION:https://www.luogu.com.cn/contest/249248
 END:VEVENT
 END:VCALENDAR

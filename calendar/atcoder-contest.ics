@@ -21,11 +21,25 @@ UID:MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)
 DESCRIPTION:https://atcoder.jp/contests/ahc048
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 408
+DTSTART:20250531T200000
+DTEND:20250531T214000
+UID:AtCoder Beginner Contest 408
+DESCRIPTION:https://atcoder.jp/contests/abc408
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AtCoder Regular Contest 199 (Div. 1)
 DTSTART:20250601T200000
 DTEND:20250601T223000
 UID:AtCoder Regular Contest 199 (Div. 1)
 DESCRIPTION:https://atcoder.jp/contests/arc199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 409
+DTSTART:20250607T200000
+DTEND:20250607T214000
+UID:AtCoder Beginner Contest 409
+DESCRIPTION:https://atcoder.jp/contests/abc409
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AtCoder Beginner Contest 410
