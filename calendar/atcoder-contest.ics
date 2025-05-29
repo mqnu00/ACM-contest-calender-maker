@@ -56,6 +56,15 @@ UID:AtCoder Regular Contest 200 (Div. 2)
 DESCRIPTION:https://atcoder.jp/contests/arc200
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UNIQUE VISION Programming Contest 2025 Summer (AtCoder Beginner Co
+ ntest 411)
+DTSTART:20250621T200000
+DTEND:20250621T214000
+UID:UNIQUE VISION Programming Contest 2025 Summer (AtCoder Beginner Contes
+ t 411)
+DESCRIPTION:https://atcoder.jp/contests/abc411
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AtCoder Regular Contest 201
 DTSTART:20250622T200000
 DTEND:20250622T220000

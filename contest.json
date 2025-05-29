@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1748470719,
-    "refreshTimeCH": "2025-05-29 06:18:39",
+    "refreshTimeStamp": 1748557120,
+    "refreshTimeCH": "2025-05-30 06:18:40",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "leetcode",
-            "name": "Contest Focus Mode",
-            "stime": 1748421000,
-            "etime": 1748475000,
-            "dtime": 54000,
-            "link": "https://leetcode.cn/contest/contest-focus-mode"
-        },
         {
             "oj": "atcoder",
             "name": "MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)",
@@ -131,6 +123,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/111355"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-229-Div.2】洛谷 6 月月赛 I & GMSK - 01",
+            "stime": 1749276000,
+            "etime": 1749290400,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/233396"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 409",
             "stime": 1749297600,
@@ -193,6 +193,14 @@
             "etime": 1749996000,
             "dtime": 7200,
             "link": "https://atcoder.jp/contests/arc200"
+        },
+        {
+            "oj": "atcoder",
+            "name": "UNIQUE VISION Programming Contest 2025 Summer (AtCoder Beginner Contest 411)",
+            "stime": 1750507200,
+            "etime": 1750513200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc411"
         },
         {
             "oj": "leetcode",
