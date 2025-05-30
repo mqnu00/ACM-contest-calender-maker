@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1748557120,
-    "refreshTimeCH": "2025-05-30 06:18:40",
+    "refreshTimeStamp": 1748643514,
+    "refreshTimeCH": "2025-05-31 06:18:34",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)",
-            "stime": 1748599200,
-            "etime": 1749463200,
-            "dtime": 864000,
-            "link": "https://atcoder.jp/contests/ahc048"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛117",
-            "stime": 1748602800,
-            "etime": 1748610000,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/111309"
-        },
         {
             "oj": "luogu",
             "name": "「TFXOI」Round 2",
@@ -52,7 +36,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round 1028 (Div. 1)",
             "stime": 1748702100,
             "etime": 1748709300,
             "dtime": 7200,
@@ -60,7 +44,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1028 (Div. 2)",
             "stime": 1748702100,
             "etime": 1748709300,
             "dtime": 7200,
@@ -124,7 +108,15 @@
         },
         {
             "oj": "luogu",
-            "name": "【LGR-229-Div.2】洛谷 6 月月赛 I & GMSK - 01",
+            "name": "Algo Beat Contest 002",
+            "stime": 1749261600,
+            "etime": 1749267600,
+            "dtime": 6000,
+            "link": "https://www.luogu.com.cn/contest/230134"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-229-Div.2】桃李未来 6 月月赛 I & GMSK - 01",
             "stime": 1749276000,
             "etime": 1749290400,
             "dtime": 14400,
