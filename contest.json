@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1748643514,
-    "refreshTimeCH": "2025-05-31 06:18:34",
+    "refreshTimeStamp": 1748729857,
+    "refreshTimeCH": "2025-06-01 06:17:37",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,46 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "「TFXOI」Round 2",
-            "stime": 1748651400,
-            "etime": 1748664000,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/245637"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-228-Div.3】洛谷基础赛 #23 &「LAOI」Round 8",
-            "stime": 1748671200,
-            "etime": 1748683800,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/187787"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 408",
-            "stime": 1748692800,
-            "etime": 1748698800,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc408"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1028 (Div. 1)",
-            "stime": 1748702100,
-            "etime": 1748709300,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2115"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1028 (Div. 2)",
-            "stime": 1748702100,
-            "etime": 1748709300,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2116"
-        },
         {
             "oj": "luogu",
             "name": "Brooklyn Round 1 & NNOI Round 1",
@@ -171,6 +131,14 @@
             "link": "https://atcoder.jp/contests/abc410"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 454",
+            "stime": 1749954600,
+            "etime": 1749960000,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-454"
+        },
+        {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 2)",
             "stime": 1749978300,
@@ -225,6 +193,14 @@
             "etime": 1751722800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc413"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 160",
+            "stime": 1751725800,
+            "etime": 1751731200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-160"
         },
         {
             "oj": "nowcoder",

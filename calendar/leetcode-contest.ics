@@ -34,10 +34,24 @@ UID:Weekly Contest 453
 DESCRIPTION:https://leetcode.cn/contest/weekly-contest-453
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Weekly Contest 454
+DTSTART:20250615T103000
+DTEND:20250615T120000
+UID:Weekly Contest 454
+DESCRIPTION:https://leetcode.cn/contest/weekly-contest-454
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Biweekly Contest 159
 DTSTART:20250621T223000
 DTEND:20250622T000000
 UID:Biweekly Contest 159
 DESCRIPTION:https://leetcode.cn/contest/biweekly-contest-159
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biweekly Contest 160
+DTSTART:20250705T223000
+DTEND:20250706T000000
+UID:Biweekly Contest 160
+DESCRIPTION:https://leetcode.cn/contest/biweekly-contest-160
 END:VEVENT
 END:VCALENDAR
