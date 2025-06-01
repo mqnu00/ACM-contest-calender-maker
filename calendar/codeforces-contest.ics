@@ -28,6 +28,13 @@ DESCRIPTION:https://codeforces.com/contest/2117
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20250612T223500
+DTEND:20250613T003500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
 DTSTART:20250615T170500
 DTEND:20250615T190500
 UID:Codeforces Round (Div. 2)
