@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1748902755,
-    "refreshTimeCH": "2025-06-03 06:19:15",
+    "refreshTimeStamp": 1748989149,
+    "refreshTimeCH": "2025-06-04 06:19:09",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 179 (Rated for Div. 2)",
-            "stime": 1748961300,
-            "etime": 1748968500,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2111"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客练习赛140",
