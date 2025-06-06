@@ -33,4 +33,11 @@ DTEND:20250615T190500
 UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2113
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Educational Codeforces Round 180 (Rated for Div. 2)
+DTSTART:20250623T223500
+DTEND:20250624T003500
+UID:Educational Codeforces Round 180 (Rated for Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2112
+END:VEVENT
 END:VCALENDAR

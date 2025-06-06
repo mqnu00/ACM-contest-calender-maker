@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1749075452,
-    "refreshTimeCH": "2025-06-05 06:17:32",
+    "refreshTimeStamp": 1749248328,
+    "refreshTimeCH": "2025-06-07 06:18:48",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客练习赛140",
-            "stime": 1749207600,
-            "etime": 1749216600,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/111355"
-        },
         {
             "oj": "luogu",
             "name": "Algo Beat Contest 002",
@@ -153,6 +145,14 @@
             "etime": 1750600800,
             "dtime": 7200,
             "link": "https://atcoder.jp/contests/arc201"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Educational Codeforces Round 180 (Rated for Div. 2)",
+            "stime": 1750689300,
+            "etime": 1750696500,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2112"
         },
         {
             "oj": "atcoder",
