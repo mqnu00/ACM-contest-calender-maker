@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1749248328,
-    "refreshTimeCH": "2025-06-07 06:18:48",
+    "refreshTimeStamp": 1749334677,
+    "refreshTimeCH": "2025-06-08 06:17:57",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "Algo Beat Contest 002",
-            "stime": 1749261600,
-            "etime": 1749267600,
-            "dtime": 6000,
-            "link": "https://www.luogu.com.cn/contest/230134"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-229-Div.2】桃李未来 6 月月赛 I & GMSK - 01",
-            "stime": 1749276000,
-            "etime": 1749290400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/233396"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 409",
-            "stime": 1749297600,
-            "etime": 1749303600,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc409"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 158",
-            "stime": 1749306600,
-            "etime": 1749312000,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-158"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 453",
@@ -73,6 +41,14 @@
             "etime": 1749746100,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2118"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-230-Div.4】洛谷入门赛 #36",
+            "stime": 1749812400,
+            "etime": 1749819600,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/251050"
         },
         {
             "oj": "nowcoder",
@@ -163,6 +139,14 @@
             "link": "https://atcoder.jp/contests/abc412"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 456",
+            "stime": 1751164200,
+            "etime": 1751169600,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-456"
+        },
+        {
             "oj": "atcoder",
             "name": "Denso Create Programming Contest 2025（AtCoder Beginner Contest 413）",
             "stime": 1751716800,
@@ -201,6 +185,14 @@
             "etime": 1752739200,
             "dtime": 18000,
             "link": "https://atcoder.jp/contests/awtf2025algo-open"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 161",
+            "stime": 1752935400,
+            "etime": 1752940800,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-161"
         }
     ]
 }
