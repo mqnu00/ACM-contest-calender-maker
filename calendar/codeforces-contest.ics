@@ -13,24 +13,17 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Codeforces Round 1030 (Div. 2)
-DTSTART:20250612T223500
-DTEND:20250613T003500
-UID:Codeforces Round 1030 (Div. 2)
-DESCRIPTION:https://codeforces.com/contest/2118
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 2)
+SUMMARY:Codeforces Round 1031 (Div. 2)
 DTSTART:20250615T170500
 DTEND:20250615T190500
-UID:Codeforces Round (Div. 2)
+UID:Codeforces Round 1031 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2113
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 3)
+SUMMARY:Codeforces Round 1032 (Div. 3)
 DTSTART:20250617T223500
 DTEND:20250618T005000
-UID:Codeforces Round (Div. 3)
+UID:Codeforces Round 1032 (Div. 3)
 DESCRIPTION:https://codeforces.com/contest/2121
 END:VEVENT
 BEGIN:VEVENT
