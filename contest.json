@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1749766730,
-    "refreshTimeCH": "2025-06-13 06:18:50",
+    "refreshTimeStamp": 1749853121,
+    "refreshTimeCH": "2025-06-14 06:18:41",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-230-Div.4】洛谷入门赛 #36",
-            "stime": 1749812400,
-            "etime": 1749819600,
-            "dtime": 7200,
-            "link": "https://www.luogu.com.cn/contest/251050"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛118",
-            "stime": 1749812400,
-            "etime": 1749819600,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/111666"
-        },
         {
             "oj": "luogu",
             "name": "DLESS Round 2：XOR MASTER #1",
@@ -92,6 +76,14 @@
         },
         {
             "oj": "atcoder",
+            "name": "Toyota Programming Contest 2025#3（AtCoder Heuristic Contest 049）",
+            "stime": 1750485600,
+            "etime": 1750500000,
+            "dtime": 14400,
+            "link": "https://atcoder.jp/contests/ahc049"
+        },
+        {
+            "oj": "atcoder",
             "name": "UNIQUE VISION Programming Contest 2025 Summer (AtCoder Beginner Contest 411)",
             "stime": 1750507200,
             "etime": 1750513200,
@@ -110,8 +102,8 @@
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 1 + Div. 2)",
             "stime": 1750516500,
-            "etime": 1750523700,
-            "dtime": 7200,
+            "etime": 1750525500,
+            "dtime": 9000,
             "link": "https://codeforces.com/contest/2120"
         },
         {
@@ -177,6 +169,14 @@
             "etime": 1751731200,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-160"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1751726100,
+            "etime": 1751733300,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2119"
         },
         {
             "oj": "leetcode",
