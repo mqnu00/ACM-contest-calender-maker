@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1749853121,
-    "refreshTimeCH": "2025-06-14 06:18:41",
+    "refreshTimeStamp": 1749939499,
+    "refreshTimeCH": "2025-06-15 06:18:19",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "DLESS Round 2：XOR MASTER #1",
-            "stime": 1749879000,
-            "etime": 1749893400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/246684"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 410",
-            "stime": 1749902400,
-            "etime": 1749908400,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc410"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 454",
@@ -185,6 +169,14 @@
             "etime": 1751774400,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-457"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 458",
+            "stime": 1752373800,
+            "etime": 1752379200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-458"
         },
         {
             "oj": "nowcoder",
