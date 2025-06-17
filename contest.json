@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1750112351,
-    "refreshTimeCH": "2025-06-17 06:19:11",
+    "refreshTimeStamp": 1750198718,
+    "refreshTimeCH": "2025-06-18 06:18:38",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1032 (Div. 3)",
-            "stime": 1750170900,
-            "etime": 1750179000,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2121"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客练习赛141",
@@ -105,6 +97,22 @@
             "etime": 1751169600,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-456"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X13】梦熊 X 组 · 周年赛 & KDOI Round 12（同步赛）",
+            "stime": 1751176800,
+            "etime": 1751189400,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/252738"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J16】梦熊 J 组 · 周年赛 & KDOI Round 12（同步赛）",
+            "stime": 1751176800,
+            "etime": 1751189400,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/252739"
         },
         {
             "oj": "atcoder",
