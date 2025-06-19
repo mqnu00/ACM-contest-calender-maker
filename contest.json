@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1750285133,
-    "refreshTimeCH": "2025-06-19 06:18:53",
+    "refreshTimeStamp": 1750371517,
+    "refreshTimeCH": "2025-06-20 06:18:37",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -83,6 +83,14 @@
             "link": "https://codeforces.com/contest/2112"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客挑战赛80",
+            "stime": 1751022000,
+            "etime": 1751032800,
+            "dtime": 10800,
+            "link": "https://ac.nowcoder.com/acm/contest/112318"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 412",
             "stime": 1751112000,
@@ -113,6 +121,22 @@
             "etime": 1751189400,
             "dtime": 12600,
             "link": "https://www.luogu.com.cn/contest/252739"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 98",
+            "stime": 1751194800,
+            "etime": 1751202000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/112320"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 3)",
+            "stime": 1751380500,
+            "etime": 1751388600,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2123"
         },
         {
             "oj": "atcoder",
