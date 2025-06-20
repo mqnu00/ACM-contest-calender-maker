@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1750371517,
-    "refreshTimeCH": "2025-06-20 06:18:37",
+    "refreshTimeStamp": 1750457917,
+    "refreshTimeCH": "2025-06-21 06:18:37",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客练习赛141",
-            "stime": 1750417200,
-            "etime": 1750426200,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/111921"
-        },
         {
             "oj": "atcoder",
             "name": "Toyota Programming Contest 2025#3（AtCoder Heuristic Contest 049）",
@@ -75,6 +67,14 @@
             "link": "https://atcoder.jp/contests/arc201"
         },
         {
+            "oj": "luogu",
+            "name": "Ynoi 2019 Unofficial Mirror",
+            "stime": 1750651200,
+            "etime": 1750737600,
+            "dtime": 86400,
+            "link": "https://www.luogu.com.cn/contest/253194"
+        },
+        {
             "oj": "codeforces",
             "name": "Educational Codeforces Round 180 (Rated for Div. 2)",
             "stime": 1750689300,
@@ -110,16 +110,16 @@
             "oj": "luogu",
             "name": "【MX-X13】梦熊 X 组 · 周年赛 & KDOI Round 12（同步赛）",
             "stime": 1751176800,
-            "etime": 1751189400,
-            "dtime": 12600,
+            "etime": 1751187600,
+            "dtime": 10800,
             "link": "https://www.luogu.com.cn/contest/252738"
         },
         {
             "oj": "luogu",
             "name": "【MX-J16】梦熊 J 组 · 周年赛 & KDOI Round 12（同步赛）",
             "stime": 1751176800,
-            "etime": 1751189400,
-            "dtime": 12600,
+            "etime": 1751187600,
+            "dtime": 10800,
             "link": "https://www.luogu.com.cn/contest/252739"
         },
         {
