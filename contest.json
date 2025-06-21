@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1750457917,
-    "refreshTimeCH": "2025-06-21 06:18:37",
+    "refreshTimeStamp": 1750544267,
+    "refreshTimeCH": "2025-06-22 06:17:47",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "Toyota Programming Contest 2025#3（AtCoder Heuristic Contest 049）",
-            "stime": 1750485600,
-            "etime": 1750500000,
-            "dtime": 14400,
-            "link": "https://atcoder.jp/contests/ahc049"
-        },
-        {
-            "oj": "atcoder",
-            "name": "UNIQUE VISION Programming Contest 2025 Summer (AtCoder Beginner Contest 411)",
-            "stime": 1750507200,
-            "etime": 1750513200,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc411"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 159",
-            "stime": 1750516200,
-            "etime": 1750521600,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-159"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1033 (Div. 1 + Div. 2) and CodeNite 2025",
-            "stime": 1750516500,
-            "etime": 1750525500,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2120"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 455",
