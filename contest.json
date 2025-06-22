@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1750544267,
-    "refreshTimeCH": "2025-06-22 06:17:47",
+    "refreshTimeStamp": 1750630684,
+    "refreshTimeCH": "2025-06-23 06:18:04",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,44 +11,20 @@
     ],
     "contests": [
         {
-            "oj": "leetcode",
-            "name": "Weekly Contest 455",
-            "stime": 1750559400,
-            "etime": 1750564800,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-455"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 97",
-            "stime": 1750590000,
-            "etime": 1750597200,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/112078"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 201",
-            "stime": 1750593600,
-            "etime": 1750600800,
-            "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc201"
-        },
-        {
-            "oj": "luogu",
-            "name": "Ynoi 2019 Unofficial Mirror",
-            "stime": 1750651200,
-            "etime": 1750737600,
-            "dtime": 86400,
-            "link": "https://www.luogu.com.cn/contest/253194"
-        },
-        {
             "oj": "codeforces",
             "name": "Educational Codeforces Round 180 (Rated for Div. 2)",
             "stime": 1750689300,
             "etime": 1750696500,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2112"
+        },
+        {
+            "oj": "luogu",
+            "name": "Ynoi 2019 Unofficial Mirror",
+            "stime": 1750737600,
+            "etime": 1750824000,
+            "dtime": 86400,
+            "link": "https://www.luogu.com.cn/contest/253194"
         },
         {
             "oj": "nowcoder",
