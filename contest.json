@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1750630684,
-    "refreshTimeCH": "2025-06-23 06:18:04",
+    "refreshTimeStamp": 1750717183,
+    "refreshTimeCH": "2025-06-24 06:19:43",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 180 (Rated for Div. 2)",
-            "stime": 1750689300,
-            "etime": 1750696500,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2112"
-        },
         {
             "oj": "luogu",
             "name": "Ynoi 2019 Unofficial Mirror",
