@@ -29,6 +29,20 @@ UID:Denso Create Programming Contest 2025（AtCoder Beginner Contest 413
 DESCRIPTION:https://atcoder.jp/contests/abc413
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Heuristic Contest 050
+DTSTART:20250706T180000
+DTEND:20250706T220000
+UID:AtCoder Heuristic Contest 050
+DESCRIPTION:https://atcoder.jp/contests/ahc050
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Mirrativ Programming Contest 2025 (AtCoder Beginner Contest 414)
+DTSTART:20250712T200000
+DTEND:20250712T214000
+UID: Mirrativ Programming Contest 2025 (AtCoder Beginner Contest 414)
+DESCRIPTION:https://atcoder.jp/contests/abc414
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:World Tour Finals 2025 Algorithm
 DTSTART:20250717T110000
 DTEND:20250717T160000
@@ -41,5 +55,14 @@ DTSTART:20250717T110000
 DTEND:20250717T160000
 UID:World Tour Finals 2025 Algorithm（Open Contest）
 DESCRIPTION:https://atcoder.jp/contests/awtf2025algo-open
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder
+  Beginner Contest 415)
+DTSTART:20250719T200000
+DTEND:20250719T214000
+UID:Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder Beg
+ inner Contest 415)
+DESCRIPTION:https://atcoder.jp/contests/abc415
 END:VEVENT
 END:VCALENDAR

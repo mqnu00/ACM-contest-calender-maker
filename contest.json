@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1750717183,
-    "refreshTimeCH": "2025-06-24 06:19:43",
+    "refreshTimeStamp": 1750803556,
+    "refreshTimeCH": "2025-06-25 06:19:16",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -107,6 +107,22 @@
             "link": "https://leetcode.cn/contest/weekly-contest-457"
         },
         {
+            "oj": "atcoder",
+            "name": "AtCoder Heuristic Contest 050",
+            "stime": 1751796000,
+            "etime": 1751810400,
+            "dtime": 14400,
+            "link": "https://atcoder.jp/contests/ahc050"
+        },
+        {
+            "oj": "atcoder",
+            "name": " Mirrativ Programming Contest 2025 (AtCoder Beginner Contest 414)",
+            "stime": 1752321600,
+            "etime": 1752327600,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc414"
+        },
+        {
             "oj": "leetcode",
             "name": "Weekly Contest 458",
             "stime": 1752373800,
@@ -145,6 +161,14 @@
             "etime": 1752742800,
             "dtime": 18000,
             "link": "https://ac.nowcoder.com/acm/contest/108299"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder Beginner Contest 415)",
+            "stime": 1752926400,
+            "etime": 1752932400,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc415"
         },
         {
             "oj": "leetcode",
