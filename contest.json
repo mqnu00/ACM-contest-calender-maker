@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1750803556,
-    "refreshTimeCH": "2025-06-25 06:19:16",
+    "refreshTimeStamp": 1750889939,
+    "refreshTimeCH": "2025-06-26 06:18:59",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "Ynoi 2019 Unofficial Mirror",
-            "stime": 1750737600,
-            "etime": 1750824000,
-            "dtime": 86400,
-            "link": "https://www.luogu.com.cn/contest/253194"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客挑战赛80",
@@ -75,6 +67,14 @@
             "link": "https://codeforces.com/contest/2123"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛119",
+            "stime": 1751626800,
+            "etime": 1751634000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/112543"
+        },
+        {
             "oj": "atcoder",
             "name": "Denso Create Programming Contest 2025（AtCoder Beginner Contest 413）",
             "stime": 1751716800,
@@ -113,6 +113,22 @@
             "etime": 1751810400,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc050"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 99",
+            "stime": 1751799600,
+            "etime": 1751806800,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/112544"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "stime": 1751812500,
+            "etime": 1751823300,
+            "dtime": 10800,
+            "link": "https://codeforces.com/contest/2124"
         },
         {
             "oj": "atcoder",
