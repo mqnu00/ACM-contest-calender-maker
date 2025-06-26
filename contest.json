@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1750889939,
-    "refreshTimeCH": "2025-06-26 06:18:59",
+    "refreshTimeStamp": 1750976339,
+    "refreshTimeCH": "2025-06-27 06:18:59",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -60,7 +60,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 1034 (Div. 3)",
             "stime": 1751380500,
             "etime": 1751388600,
             "dtime": 8100,
@@ -131,6 +131,14 @@
             "link": "https://codeforces.com/contest/2124"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客练习赛142",
+            "stime": 1752231600,
+            "etime": 1752240600,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/112575"
+        },
+        {
             "oj": "atcoder",
             "name": " Mirrativ Programming Contest 2025 (AtCoder Beginner Contest 414)",
             "stime": 1752321600,
@@ -145,6 +153,14 @@
             "etime": 1752379200,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-458"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 100",
+            "stime": 1752404400,
+            "etime": 1752411600,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/112576"
         },
         {
             "oj": "nowcoder",
