@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1750976339,
-    "refreshTimeCH": "2025-06-27 06:18:59",
+    "refreshTimeStamp": 1751062827,
+    "refreshTimeCH": "2025-06-28 06:20:27",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,12 +11,12 @@
     ],
     "contests": [
         {
-            "oj": "nowcoder",
-            "name": "牛客挑战赛80",
-            "stime": 1751022000,
-            "etime": 1751032800,
-            "dtime": 10800,
-            "link": "https://ac.nowcoder.com/acm/contest/112318"
+            "oj": "luogu",
+            "name": "# IAOI Round 1 旅途 Only one's journey.",
+            "stime": 1751090400,
+            "etime": 1751108400,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/235738"
         },
         {
             "oj": "atcoder",
