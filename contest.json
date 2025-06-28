@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1751062827,
-    "refreshTimeCH": "2025-06-28 06:20:27",
+    "refreshTimeStamp": 1751149073,
+    "refreshTimeCH": "2025-06-29 06:17:53",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,22 +11,6 @@
     ],
     "contests": [
         {
-            "oj": "luogu",
-            "name": "# IAOI Round 1 旅途 Only one's journey.",
-            "stime": 1751090400,
-            "etime": 1751108400,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/235738"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 412",
-            "stime": 1751112000,
-            "etime": 1751118000,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc412"
-        },
-        {
             "oj": "leetcode",
             "name": "Weekly Contest 456",
             "stime": 1751164200,
@@ -36,7 +20,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-X13】梦熊 X 组 · 周年赛 & KDOI Round 12（同步赛）",
+            "name": "【MX-X13】梦熊 X 组 · 周年赛 & KDOI Round 12",
             "stime": 1751176800,
             "etime": 1751187600,
             "dtime": 10800,
