@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1751235510,
-    "refreshTimeCH": "2025-06-30 06:18:30",
+    "refreshTimeStamp": 1751321999,
+    "refreshTimeCH": "2025-07-01 06:19:59",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -123,6 +123,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/108298"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-232-Div.2】西安三三信奥 7 月月赛 II & WAOI R4, FeOI R3.5",
+            "stime": 1752645600,
+            "etime": 1752660000,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/241770"
+        },
+        {
             "oj": "atcoder",
             "name": "World Tour Finals 2025 Algorithm",
             "stime": 1752721200,
@@ -169,6 +177,14 @@
             "etime": 1752984000,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-459"
+        },
+        {
+            "oj": "atcoder",
+            "name": "THIRD Programming Contest 2025 Summer（AtCoder Heuristic Contest 051）",
+            "stime": 1754042400,
+            "etime": 1754906400,
+            "dtime": 864000,
+            "link": "https://atcoder.jp/contests/ahc051"
         }
     ]
 }
