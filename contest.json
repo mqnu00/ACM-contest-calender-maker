@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1751321999,
-    "refreshTimeCH": "2025-07-01 06:19:59",
+    "refreshTimeStamp": 1751408347,
+    "refreshTimeCH": "2025-07-02 06:19:07",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1034 (Div. 3)",
-            "stime": 1751380500,
-            "etime": 1751388600,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2123"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客小白月赛119",
@@ -107,6 +99,14 @@
             "link": "https://leetcode.cn/contest/weekly-contest-458"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-231-Div.3】洛谷基础赛 #24 & CZOI Round 4",
+            "stime": 1752386400,
+            "etime": 1752399000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/203883"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 100",
             "stime": 1752404400,
@@ -124,7 +124,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【LGR-232-Div.2】西安三三信奥 7 月月赛 II & WAOI R4, FeOI R3.5",
+            "name": "【LGR-232-Div.2】西安三三信奥 7 月月赛 I & WAOI R4, FeOI R3.5",
             "stime": 1752645600,
             "etime": 1752660000,
             "dtime": 14400,
