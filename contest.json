@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1751408347,
-    "refreshTimeCH": "2025-07-02 06:19:07",
+    "refreshTimeStamp": 1751494731,
+    "refreshTimeCH": "2025-07-03 06:18:51",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -36,7 +36,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1035 (Div. 2)",
             "stime": 1751726100,
             "etime": 1751733300,
             "dtime": 7200,
@@ -49,6 +49,14 @@
             "etime": 1751774400,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-457"
+        },
+        {
+            "oj": "luogu",
+            "name": "[FJCPC2025] 2025 年福建省大学生程序设计竞赛重现赛",
+            "stime": 1751778000,
+            "etime": 1751796000,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/254970"
         },
         {
             "oj": "atcoder",
@@ -68,7 +76,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "name": "EPIC Institute of Technology Round Summer 2025 (Codeforces Round 1036, Div. 1 + Div. 2)",
             "stime": 1751812500,
             "etime": 1751823300,
             "dtime": 10800,
@@ -121,6 +129,14 @@
             "etime": 1752570000,
             "dtime": 18000,
             "link": "https://ac.nowcoder.com/acm/contest/108298"
+        },
+        {
+            "oj": "atcoder",
+            "name": "World Tour Finals 2025 Heuristic",
+            "stime": 1752624000,
+            "etime": 1752660000,
+            "dtime": 36000,
+            "link": "https://atcoder.jp/contests/awtf2025heuristic"
         },
         {
             "oj": "luogu",
@@ -185,6 +201,14 @@
             "etime": 1754906400,
             "dtime": 864000,
             "link": "https://atcoder.jp/contests/ahc051"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 419",
+            "stime": 1755345600,
+            "etime": 1755351600,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc419"
         }
     ]
 }

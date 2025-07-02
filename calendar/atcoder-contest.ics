@@ -36,6 +36,13 @@ UID: Mirrativ Programming Contest 2025 (AtCoder Beginner Contest 414)
 DESCRIPTION:https://atcoder.jp/contests/abc414
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:World Tour Finals 2025 Heuristic
+DTSTART:20250716T080000
+DTEND:20250716T180000
+UID:World Tour Finals 2025 Heuristic
+DESCRIPTION:https://atcoder.jp/contests/awtf2025heuristic
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:World Tour Finals 2025 Algorithm
 DTSTART:20250717T110000
 DTEND:20250717T160000
@@ -66,5 +73,12 @@ DTEND:20250811T180000
 UID:THIRD Programming Contest 2025 Summer（AtCoder Heuristic Contest 051
  ）
 DESCRIPTION:https://atcoder.jp/contests/ahc051
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 419
+DTSTART:20250816T200000
+DTEND:20250816T214000
+UID:AtCoder Beginner Contest 419
+DESCRIPTION:https://atcoder.jp/contests/abc419
 END:VEVENT
 END:VCALENDAR
