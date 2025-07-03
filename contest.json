@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1751494731,
-    "refreshTimeCH": "2025-07-03 06:18:51",
+    "refreshTimeStamp": 1751581125,
+    "refreshTimeCH": "2025-07-04 06:18:45",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -17,6 +17,14 @@
             "etime": 1751634000,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/112543"
+        },
+        {
+            "oj": "luogu",
+            "name": "『STAOI』H - Round 1",
+            "stime": 1751695200,
+            "etime": 1751713200,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/253736"
         },
         {
             "oj": "atcoder",
