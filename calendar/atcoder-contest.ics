@@ -66,6 +66,13 @@ UID:Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder Beg
 DESCRIPTION:https://atcoder.jp/contests/abc415
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 202 (Div. 1)
+DTSTART:20250720T200000
+DTEND:20250720T223000
+UID:AtCoder Regular Contest 202 (Div. 1)
+DESCRIPTION:https://atcoder.jp/contests/arc202
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THIRD Programming Contest 2025 Summer（AtCoder Heuristic Contest 
  051）
 DTSTART:20250801T180000
