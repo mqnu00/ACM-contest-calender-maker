@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1751667545,
-    "refreshTimeCH": "2025-07-05 06:19:05",
+    "refreshTimeStamp": 1751753884,
+    "refreshTimeCH": "2025-07-06 06:18:04",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "『STAOI』H - Round 1",
-            "stime": 1751695200,
-            "etime": 1751713200,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/253736"
-        },
-        {
-            "oj": "atcoder",
-            "name": "Denso Create Programming Contest 2025（AtCoder Beginner Contest 413）",
-            "stime": 1751716800,
-            "etime": 1751722800,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc413"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 160",
-            "stime": 1751725800,
-            "etime": 1751731200,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-160"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1035 (Div. 2)",
-            "stime": 1751726100,
-            "etime": 1751733300,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2119"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 457",
@@ -89,6 +57,22 @@
             "etime": 1752240600,
             "dtime": 9000,
             "link": "https://ac.nowcoder.com/acm/contest/112575"
+        },
+        {
+            "oj": "luogu",
+            "name": "郑州一中公开赛 2025",
+            "stime": 1752300000,
+            "etime": 1752316200,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/251887"
+        },
+        {
+            "oj": "luogu",
+            "name": "2.48sOI Round 1",
+            "stime": 1752300000,
+            "etime": 1752314400,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/202042"
         },
         {
             "oj": "atcoder",
@@ -193,6 +177,14 @@
             "etime": 1752984000,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-459"
+        },
+        {
+            "oj": "luogu",
+            "name": "CZOI Easy Round 5",
+            "stime": 1752993000,
+            "etime": 1753005600,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/250226"
         },
         {
             "oj": "atcoder",
