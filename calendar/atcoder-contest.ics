@@ -57,6 +57,13 @@ UID:AtCoder Regular Contest 202 (Div. 1)
 DESCRIPTION:https://atcoder.jp/contests/arc202
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 416
+DTSTART:20250726T200000
+DTEND:20250726T214000
+UID:AtCoder Beginner Contest 416
+DESCRIPTION:https://atcoder.jp/contests/abc416
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THIRD Programming Contest 2025 Summer（AtCoder Heuristic Contest 
  051）
 DTSTART:20250801T180000

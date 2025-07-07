@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1751840374,
-    "refreshTimeCH": "2025-07-07 06:19:34",
+    "refreshTimeStamp": 1751926774,
+    "refreshTimeCH": "2025-07-08 06:19:34",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -161,6 +161,14 @@
             "etime": 1753021800,
             "dtime": 9000,
             "link": "https://atcoder.jp/contests/arc202"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 416",
+            "stime": 1753531200,
+            "etime": 1753537200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc416"
         },
         {
             "oj": "atcoder",
