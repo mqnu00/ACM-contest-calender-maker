@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1751926774,
-    "refreshTimeCH": "2025-07-08 06:19:34",
+    "refreshTimeStamp": 1752013177,
+    "refreshTimeCH": "2025-07-09 06:19:37",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -161,6 +161,22 @@
             "etime": 1753021800,
             "dtime": 9000,
             "link": "https://atcoder.jp/contests/arc202"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "\"现代汽车前瞻杯\"2025牛客暑期多校训练营3",
+            "stime": 1753156800,
+            "etime": 1753174800,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/108300"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2025牛客暑期多校训练营4",
+            "stime": 1753329600,
+            "etime": 1753347600,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/108301"
         },
         {
             "oj": "atcoder",
