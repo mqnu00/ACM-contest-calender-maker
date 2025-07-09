@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1752013177,
-    "refreshTimeCH": "2025-07-09 06:19:37",
+    "refreshTimeStamp": 1752099573,
+    "refreshTimeCH": "2025-07-10 06:19:33",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -153,6 +153,14 @@
             "etime": 1753005600,
             "dtime": 12600,
             "link": "https://www.luogu.com.cn/contest/250226"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 101",
+            "stime": 1753009200,
+            "etime": 1783947600,
+            "dtime": 30938400,
+            "link": "https://ac.nowcoder.com/acm/contest/113313"
         },
         {
             "oj": "atcoder",
