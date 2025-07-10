@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1752099573,
-    "refreshTimeCH": "2025-07-10 06:19:33",
+    "refreshTimeStamp": 1752185954,
+    "refreshTimeCH": "2025-07-11 06:19:14",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -107,6 +107,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/108299"
         },
         {
+            "oj": "codeforces",
+            "name": "Codeforces Round 1037 (Div. 3)",
+            "stime": 1752762900,
+            "etime": 1752771000,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2126"
+        },
+        {
             "oj": "luogu",
             "name": "【LGR-233-Div.4】洛谷入门赛 #37",
             "stime": 1752836400,
@@ -137,6 +145,14 @@
             "etime": 1752940800,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-161"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
+            "stime": 1752935700,
+            "etime": 1752943800,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2122"
         },
         {
             "oj": "leetcode",
