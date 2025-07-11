@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1752185954,
-    "refreshTimeCH": "2025-07-11 06:19:14",
+    "refreshTimeStamp": 1752272380,
+    "refreshTimeCH": "2025-07-12 06:19:40",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客练习赛142",
-            "stime": 1752231600,
-            "etime": 1752240600,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/112575"
-        },
         {
             "oj": "luogu",
             "name": "2.48sOI Round 1",
@@ -174,8 +166,8 @@
             "oj": "nowcoder",
             "name": "牛客周赛 Round 101",
             "stime": 1753009200,
-            "etime": 1783947600,
-            "dtime": 30938400,
+            "etime": 1753016400,
+            "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/113313"
         },
         {
@@ -217,6 +209,22 @@
             "etime": 1754906400,
             "dtime": 864000,
             "link": "https://atcoder.jp/contests/ahc051"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 417",
+            "stime": 1754136000,
+            "etime": 1754142000,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc417"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 418",
+            "stime": 1754740800,
+            "etime": 1754746800,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc418"
         },
         {
             "oj": "atcoder",
