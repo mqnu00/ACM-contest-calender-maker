@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1752272380,
-    "refreshTimeCH": "2025-07-12 06:19:40",
+    "refreshTimeStamp": 1752358732,
+    "refreshTimeCH": "2025-07-13 06:18:52",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "2.48sOI Round 1",
-            "stime": 1752300000,
-            "etime": 1752314400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/202042"
-        },
-        {
-            "oj": "atcoder",
-            "name": " Mirrativ Programming Contest 2025 (AtCoder Beginner Contest 414)",
-            "stime": 1752321600,
-            "etime": 1752327600,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc414"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 458",
