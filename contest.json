@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1752618052,
-    "refreshTimeCH": "2025-07-16 06:20:52",
+    "refreshTimeStamp": 1752704417,
+    "refreshTimeCH": "2025-07-17 06:20:17",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "World Tour Finals 2025 Heuristic",
-            "stime": 1752624000,
-            "etime": 1752660000,
-            "dtime": 36000,
-            "link": "https://atcoder.jp/contests/awtf2025heuristic"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-232-Div.2】西安三三信奥 7 月月赛 I & WAOI R4, FeOI R3.5",
-            "stime": 1752645600,
-            "etime": 1752660000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/241770"
-        },
         {
             "oj": "atcoder",
             "name": "World Tour Finals 2025 Algorithm",
@@ -131,6 +115,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/108300"
         },
         {
+            "oj": "codeforces",
+            "name": "Educational Codeforces Round 181 (Rated for Div. 2)",
+            "stime": 1753194900,
+            "etime": 1753202100,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2125"
+        },
+        {
             "oj": "nowcoder",
             "name": "2025牛客暑期多校训练营4",
             "stime": 1753329600,
@@ -153,6 +145,30 @@
             "etime": 1753608600,
             "dtime": 12600,
             "link": "https://www.luogu.com.cn/contest/255793"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1753626900,
+            "etime": 1753634100,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2128"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 1)",
+            "stime": 1753972500,
+            "etime": 1753979700,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2129"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1753972500,
+            "etime": 1753979700,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2130"
         },
         {
             "oj": "atcoder",

@@ -26,4 +26,32 @@ DTEND:20250720T005000
 UID:Order Capital Round 1 (Codeforces Round 1038\, Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2122
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Educational Codeforces Round 181 (Rated for Div. 2)
+DTSTART:20250722T223500
+DTEND:20250723T003500
+UID:Educational Codeforces Round 181 (Rated for Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2125
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20250727T223500
+DTEND:20250728T003500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2128
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 1)
+DTSTART:20250731T223500
+DTEND:20250801T003500
+UID:Codeforces Round (Div. 1)
+DESCRIPTION:https://codeforces.com/contest/2129
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20250731T223500
+DTEND:20250801T003500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2130
+END:VEVENT
 END:VCALENDAR
