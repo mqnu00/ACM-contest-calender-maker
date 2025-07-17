@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1752704417,
-    "refreshTimeCH": "2025-07-17 06:20:17",
+    "refreshTimeStamp": 1752790836,
+    "refreshTimeCH": "2025-07-18 06:20:36",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "World Tour Finals 2025 Algorithm",
-            "stime": 1752721200,
-            "etime": 1752739200,
-            "dtime": 18000,
-            "link": "https://atcoder.jp/contests/awtf2025algo"
-        },
-        {
-            "oj": "atcoder",
-            "name": "World Tour Finals 2025 Algorithm（Open Contest）",
-            "stime": 1752721200,
-            "etime": 1752739200,
-            "dtime": 18000,
-            "link": "https://atcoder.jp/contests/awtf2025algo-open"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "2025牛客暑期多校训练营2",
-            "stime": 1752724800,
-            "etime": 1752742800,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/108299"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1037 (Div. 3)",
-            "stime": 1752762900,
-            "etime": 1752771000,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2126"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-233-Div.4】洛谷入门赛 #37",

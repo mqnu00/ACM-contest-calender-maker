@@ -13,20 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:World Tour Finals 2025 Algorithm
-DTSTART:20250717T110000
-DTEND:20250717T160000
-UID:World Tour Finals 2025 Algorithm
-DESCRIPTION:https://atcoder.jp/contests/awtf2025algo
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:World Tour Finals 2025 Algorithm（Open Contest）
-DTSTART:20250717T110000
-DTEND:20250717T160000
-UID:World Tour Finals 2025 Algorithm（Open Contest）
-DESCRIPTION:https://atcoder.jp/contests/awtf2025algo-open
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder
   Beginner Contest 415)
 DTSTART:20250719T200000
