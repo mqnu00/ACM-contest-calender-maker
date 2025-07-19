@@ -13,15 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder
-  Beginner Contest 415)
-DTSTART:20250719T200000
-DTEND:20250719T214000
-UID:Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder Beg
- inner Contest 415)
-DESCRIPTION:https://atcoder.jp/contests/abc415
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AtCoder Regular Contest 202 (Div. 1)
 DTSTART:20250720T200000
 DTEND:20250720T223000

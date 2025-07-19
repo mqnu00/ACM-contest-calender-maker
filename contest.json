@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1752877215,
-    "refreshTimeCH": "2025-07-19 06:20:15",
+    "refreshTimeStamp": 1752963559,
+    "refreshTimeCH": "2025-07-20 06:19:19",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "郑州一中公开赛 2025",
-            "stime": 1752904800,
-            "etime": 1752921000,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/251887"
-        },
-        {
-            "oj": "atcoder",
-            "name": "Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder Beginner Contest 415)",
-            "stime": 1752926400,
-            "etime": 1752932400,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc415"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 161",
-            "stime": 1752935400,
-            "etime": 1752940800,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-161"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",
-            "stime": 1752935700,
-            "etime": 1752943800,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2122"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 459",
@@ -169,6 +137,14 @@
             "etime": 1754142000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc417"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 162",
+            "stime": 1754145000,
+            "etime": 1754150400,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-162"
         },
         {
             "oj": "atcoder",
