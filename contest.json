@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1752963559,
-    "refreshTimeCH": "2025-07-20 06:19:19",
+    "refreshTimeStamp": 1753049983,
+    "refreshTimeCH": "2025-07-21 06:19:43",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 459",
-            "stime": 1752978600,
-            "etime": 1752984000,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-459"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 101",
-            "stime": 1753009200,
-            "etime": 1753016400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/113313"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 202 (Div. 1)",
-            "stime": 1753012800,
-            "etime": 1753021800,
-            "dtime": 9000,
-            "link": "https://atcoder.jp/contests/arc202"
-        },
         {
             "oj": "nowcoder",
             "name": "\"现代汽车前瞻杯\"2025牛客暑期多校训练营3",
@@ -65,6 +41,14 @@
             "etime": 1753537200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc416"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 460",
+            "stime": 1753583400,
+            "etime": 1753588800,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-460"
         },
         {
             "oj": "luogu",
