@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1753049983,
-    "refreshTimeCH": "2025-07-21 06:19:43",
+    "refreshTimeStamp": 1753136460,
+    "refreshTimeCH": "2025-07-22 06:21:00",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -113,6 +113,14 @@
             "etime": 1754906400,
             "dtime": 864000,
             "link": "https://atcoder.jp/contests/ahc051"
+        },
+        {
+            "oj": "luogu",
+            "name": "emojiOI Round 1",
+            "stime": 1754112600,
+            "etime": 1754128800,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/251143"
         },
         {
             "oj": "atcoder",
