@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1753136460,
-    "refreshTimeCH": "2025-07-22 06:21:00",
+    "refreshTimeStamp": 1753222826,
+    "refreshTimeCH": "2025-07-23 06:20:26",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,27 +12,27 @@
     "contests": [
         {
             "oj": "nowcoder",
-            "name": "\"现代汽车前瞻杯\"2025牛客暑期多校训练营3",
-            "stime": 1753156800,
-            "etime": 1753174800,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/108300"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 181 (Rated for Div. 2)",
-            "stime": 1753194900,
-            "etime": 1753202100,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2125"
-        },
-        {
-            "oj": "nowcoder",
             "name": "2025牛客暑期多校训练营4",
             "stime": 1753329600,
             "etime": 1753347600,
             "dtime": 18000,
             "link": "https://ac.nowcoder.com/acm/contest/108301"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J17】梦熊 J 组 · 松鼠赛",
+            "stime": 1753509600,
+            "etime": 1753522200,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/261525"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X14】梦熊 X 组 · 松鼠赛",
+            "stime": 1753509600,
+            "etime": 1753522200,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/261524"
         },
         {
             "oj": "atcoder",
@@ -161,6 +161,14 @@
             "etime": 1755351600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc419"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest 204 (Div. 1)",
+            "stime": 1755432000,
+            "etime": 1755441000,
+            "dtime": 9000,
+            "link": "https://atcoder.jp/contests/arc204"
         }
     ]
 }
