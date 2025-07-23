@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1753222826,
-    "refreshTimeCH": "2025-07-23 06:20:26",
+    "refreshTimeStamp": 1753309256,
+    "refreshTimeCH": "2025-07-24 06:20:56",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -123,6 +123,14 @@
             "link": "https://www.luogu.com.cn/contest/251143"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-235-Div.2】洛谷 8 月月赛 I & WAOI R2, FeOI R1.5",
+            "stime": 1754114400,
+            "etime": 1754128800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/232544"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 417",
             "stime": 1754136000,
@@ -147,12 +155,36 @@
             "link": "https://atcoder.jp/contests/arc203"
         },
         {
+            "oj": "luogu",
+            "name": "CZOI Easy Round 5",
+            "stime": 1754289000,
+            "etime": 1754301600,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/250226"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 418",
             "stime": 1754740800,
             "etime": 1754746800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc418"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-(-26)】SCP 2025 第一轮（初赛 J 组）模拟",
+            "stime": 1754789400,
+            "etime": 1754796600,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/261747"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-(-27)】SCP 2025 第一轮（初赛 S 组）模拟",
+            "stime": 1755153000,
+            "etime": 1755160200,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/261748"
         },
         {
             "oj": "atcoder",
@@ -169,6 +201,14 @@
             "etime": 1755441000,
             "dtime": 9000,
             "link": "https://atcoder.jp/contests/arc204"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 420",
+            "stime": 1756036800,
+            "etime": 1756042800,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc420"
         }
     ]
 }

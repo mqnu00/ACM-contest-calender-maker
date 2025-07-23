@@ -63,4 +63,11 @@ DTEND:20250817T223000
 UID:AtCoder Regular Contest 204 (Div. 1)
 DESCRIPTION:https://atcoder.jp/contests/arc204
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 420
+DTSTART:20250824T200000
+DTEND:20250824T214000
+UID:AtCoder Beginner Contest 420
+DESCRIPTION:https://atcoder.jp/contests/abc420
+END:VEVENT
 END:VCALENDAR
