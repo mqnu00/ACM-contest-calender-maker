@@ -70,4 +70,11 @@ DTEND:20250824T214000
 UID:AtCoder Beginner Contest 420
 DESCRIPTION:https://atcoder.jp/contests/abc420
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 422
+DTSTART:20250907T121000
+DTEND:20250907T135000
+UID:AtCoder Beginner Contest 422
+DESCRIPTION:https://atcoder.jp/contests/abc422
+END:VEVENT
 END:VCALENDAR
