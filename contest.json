@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1753482014,
-    "refreshTimeCH": "2025-07-26 06:20:14",
+    "refreshTimeStamp": 1753568392,
+    "refreshTimeCH": "2025-07-27 06:19:52",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【MX-X14】梦熊 X 组 · 松鼠赛（同步赛）",
-            "stime": 1753509600,
-            "etime": 1753522200,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/261524"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-J17】梦熊 J 组 · 松鼠赛（同步赛）",
-            "stime": 1753509600,
-            "etime": 1753522200,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/261525"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 416",
-            "stime": 1753531200,
-            "etime": 1753537200,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc416"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 460",
