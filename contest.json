@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1753827684,
-    "refreshTimeCH": "2025-07-30 06:21:24",
+    "refreshTimeStamp": 1753914061,
+    "refreshTimeCH": "2025-07-31 06:21:01",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -67,6 +67,14 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-162"
         },
         {
+            "oj": "luogu",
+            "name": "「WWOI」Round 1",
+            "stime": 1754182800,
+            "etime": 1754191800,
+            "dtime": 9000,
+            "link": "https://www.luogu.com.cn/contest/143372"
+        },
+        {
             "oj": "leetcode",
             "name": "Weekly Contest 461",
             "stime": 1754188200,
@@ -76,19 +84,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-X15】梦熊 X 组 · 风筝赛 & GMXOI Round 1（同步赛）",
-            "stime": 1754200800,
-            "etime": 1754213400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/263176"
-        },
-        {
-            "oj": "luogu",
             "name": "【MX-J18】梦熊 J 组 · 风筝赛 & GMXOI Round 1（同步赛）",
             "stime": 1754200800,
             "etime": 1754213400,
             "dtime": 12600,
             "link": "https://www.luogu.com.cn/contest/263177"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X15】梦熊 X 组 · 风筝赛 & GMXOI Round 1（同步赛）",
+            "stime": 1754200800,
+            "etime": 1754213400,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/263176"
         },
         {
             "oj": "nowcoder",
