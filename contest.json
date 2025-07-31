@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1753914061,
-    "refreshTimeCH": "2025-07-31 06:21:01",
+    "refreshTimeStamp": 1754000462,
+    "refreshTimeCH": "2025-08-01 06:21:02",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "2025牛客暑期多校训练营6",
-            "stime": 1753934400,
-            "etime": 1753952400,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/108303"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1040 (Div. 1)",
-            "stime": 1753972500,
-            "etime": 1753983300,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2129"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1040 (Div. 2)",
-            "stime": 1753972500,
-            "etime": 1753983300,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2130"
-        },
         {
             "oj": "atcoder",
             "name": "THIRD Programming Contest 2025 Summer（AtCoder Heuristic Contest 051）",
