@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1754000462,
-    "refreshTimeCH": "2025-08-01 06:21:02",
+    "refreshTimeStamp": 1754086837,
+    "refreshTimeCH": "2025-08-02 06:20:37",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "THIRD Programming Contest 2025 Summer（AtCoder Heuristic Contest 051）",
-            "stime": 1754042400,
-            "etime": 1754906400,
-            "dtime": 864000,
-            "link": "https://atcoder.jp/contests/ahc051"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-235-Div.2】洛谷 8 月月赛 I & WAOI R2, FeOI R1.5",
@@ -121,6 +113,14 @@
             "etime": 1754560800,
             "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/251143"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
+            "stime": 1754577300,
+            "etime": 1754588100,
+            "dtime": 10800,
+            "link": "https://codeforces.com/contest/2127"
         },
         {
             "oj": "luogu",
