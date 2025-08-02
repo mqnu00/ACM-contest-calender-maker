@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1754086837,
-    "refreshTimeCH": "2025-08-02 06:20:37",
+    "refreshTimeStamp": 1754173181,
+    "refreshTimeCH": "2025-08-03 06:19:41",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-235-Div.2】洛谷 8 月月赛 I & WAOI R2, FeOI R1.5",
-            "stime": 1754114400,
-            "etime": 1754128800,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/232544"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 417",
-            "stime": 1754136000,
-            "etime": 1754142000,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc417"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 162",
-            "stime": 1754145000,
-            "etime": 1754150400,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-162"
-        },
         {
             "oj": "luogu",
             "name": "「WWOI」Round 1",
@@ -185,6 +161,14 @@
             "etime": 1755351600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc419"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 163",
+            "stime": 1755354600,
+            "etime": 1755360000,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-163"
         },
         {
             "oj": "atcoder",
