@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1754173181,
-    "refreshTimeCH": "2025-08-03 06:19:41",
+    "refreshTimeStamp": 1754259615,
+    "refreshTimeCH": "2025-08-04 06:20:15",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,54 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "「WWOI」Round 1",
-            "stime": 1754182800,
-            "etime": 1754191800,
-            "dtime": 9000,
-            "link": "https://www.luogu.com.cn/contest/143372"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 461",
-            "stime": 1754188200,
-            "etime": 1754193600,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-461"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-J18】梦熊 J 组 · 风筝赛 & GMXOI Round 1（同步赛）",
-            "stime": 1754200800,
-            "etime": 1754213400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/263177"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-X15】梦熊 X 组 · 风筝赛 & GMXOI Round 1（同步赛）",
-            "stime": 1754200800,
-            "etime": 1754213400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/263176"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 103",
-            "stime": 1754218800,
-            "etime": 1754226000,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/114593"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 203 (Div. 2)",
-            "stime": 1754222400,
-            "etime": 1754229600,
-            "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc203"
-        },
         {
             "oj": "luogu",
             "name": "CZOI Easy Round 5",
@@ -73,6 +25,14 @@
             "etime": 1754384400,
             "dtime": 18000,
             "link": "https://ac.nowcoder.com/acm/contest/108304"
+        },
+        {
+            "oj": "luogu",
+            "name": "『GTOI』Round 1",
+            "stime": 1754373600,
+            "etime": 1754388000,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/229569"
         },
         {
             "oj": "nowcoder",
@@ -121,6 +81,22 @@
             "etime": 1754796600,
             "dtime": 7200,
             "link": "https://www.luogu.com.cn/contest/261747"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 462",
+            "stime": 1754793000,
+            "etime": 1754798400,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-462"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-237-Div.3】洛谷基础赛 #25 & Diligent-OI Round 2",
+            "stime": 1754805600,
+            "etime": 1754818200,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/241168"
         },
         {
             "oj": "nowcoder",
