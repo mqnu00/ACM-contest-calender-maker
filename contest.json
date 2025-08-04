@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1754259615,
-    "refreshTimeCH": "2025-08-04 06:20:15",
+    "refreshTimeStamp": 1754294687,
+    "refreshTimeCH": "2025-08-04 16:04:47",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -57,6 +57,14 @@
             "etime": 1754588100,
             "dtime": 10800,
             "link": "https://codeforces.com/contest/2127"
+        },
+        {
+            "oj": "luogu",
+            "name": "TPOI Round 5 & Q Round",
+            "stime": 1754632800,
+            "etime": 1754647200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/244596"
         },
         {
             "oj": "luogu",
