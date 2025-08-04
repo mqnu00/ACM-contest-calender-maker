@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1754294687,
-    "refreshTimeCH": "2025-08-04 16:04:47",
+    "refreshTimeStamp": 1754346106,
+    "refreshTimeCH": "2025-08-05 06:21:46",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "CZOI Easy Round 5",
-            "stime": 1754289000,
-            "etime": 1754301600,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/250226"
-        },
         {
             "oj": "nowcoder",
             "name": "\"现代汽车前瞻杯\"2025牛客暑期多校训练营7",
@@ -99,14 +91,6 @@
             "link": "https://leetcode.cn/contest/weekly-contest-462"
         },
         {
-            "oj": "luogu",
-            "name": "【LGR-237-Div.3】洛谷基础赛 #25 & Diligent-OI Round 2",
-            "stime": 1754805600,
-            "etime": 1754818200,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/241168"
-        },
-        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 104",
             "stime": 1754823600,
@@ -121,6 +105,14 @@
             "etime": 1754989200,
             "dtime": 18000,
             "link": "https://ac.nowcoder.com/acm/contest/108306"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-238-Div.2】PumpkinOI Round 2",
+            "stime": 1755064800,
+            "etime": 1755079200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/250409"
         },
         {
             "oj": "nowcoder",
