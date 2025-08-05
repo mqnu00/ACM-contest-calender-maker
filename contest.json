@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1754346106,
-    "refreshTimeCH": "2025-08-05 06:21:46",
+    "refreshTimeStamp": 1754432520,
+    "refreshTimeCH": "2025-08-06 06:22:00",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "\"现代汽车前瞻杯\"2025牛客暑期多校训练营7",
-            "stime": 1754366400,
-            "etime": 1754384400,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/108304"
-        },
-        {
-            "oj": "luogu",
-            "name": "『GTOI』Round 1",
-            "stime": 1754373600,
-            "etime": 1754388000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/229569"
-        },
         {
             "oj": "nowcoder",
             "name": "2025牛客暑期多校训练营8",
@@ -91,6 +75,22 @@
             "link": "https://leetcode.cn/contest/weekly-contest-462"
         },
         {
+            "oj": "luogu",
+            "name": "【MX-X16】梦熊 X 组 · 异或赛 & DLESS Round 3（同步赛）",
+            "stime": 1754805600,
+            "etime": 1754818200,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/265698"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J19】梦熊 J 组 · 异或赛 & DLESS Round 3（同步赛）",
+            "stime": 1754805600,
+            "etime": 1754818200,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/265699"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 104",
             "stime": 1754823600,
@@ -153,6 +153,14 @@
             "etime": 1755441000,
             "dtime": 9000,
             "link": "https://atcoder.jp/contests/arc204"
+        },
+        {
+            "oj": "luogu",
+            "name": "o.OI Round 2",
+            "stime": 1755583200,
+            "etime": 1755597600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/237166"
         },
         {
             "oj": "atcoder",
