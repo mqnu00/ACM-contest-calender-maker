@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1754432520,
-    "refreshTimeCH": "2025-08-06 06:22:00",
+    "refreshTimeStamp": 1754518933,
+    "refreshTimeCH": "2025-08-07 06:22:13",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -76,19 +76,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-X16】梦熊 X 组 · 异或赛 & DLESS Round 3（同步赛）",
-            "stime": 1754805600,
-            "etime": 1754818200,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/265698"
-        },
-        {
-            "oj": "luogu",
             "name": "【MX-J19】梦熊 J 组 · 异或赛 & DLESS Round 3（同步赛）",
             "stime": 1754805600,
             "etime": 1754818200,
             "dtime": 12600,
             "link": "https://www.luogu.com.cn/contest/265699"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X16】梦熊 X 组 · 异或赛 & DLESS Round 3（同步赛）",
+            "stime": 1754805600,
+            "etime": 1754818200,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/265698"
         },
         {
             "oj": "nowcoder",
@@ -131,6 +131,14 @@
             "link": "https://www.luogu.com.cn/contest/261748"
         },
         {
+            "oj": "luogu",
+            "name": "『MGVOI』Round 1 加强赛",
+            "stime": 1755324000,
+            "etime": 1755336600,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/265532"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 419",
             "stime": 1755345600,
@@ -147,6 +155,22 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-163"
         },
         {
+            "oj": "luogu",
+            "name": "Brooklyn Round 2 & NNOI Round 2",
+            "stime": 1755392400,
+            "etime": 1755399600,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/249017"
+        },
+        {
+            "oj": "luogu",
+            "name": "『Fwb』Round 2 之夏日心动",
+            "stime": 1755410400,
+            "etime": 1755424800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/227926"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Regular Contest 204 (Div. 1)",
             "stime": 1755432000,
@@ -161,6 +185,14 @@
             "etime": 1755597600,
             "dtime": 14400,
             "link": "https://www.luogu.com.cn/contest/237166"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Heuristic Contest 052",
+            "stime": 1755928800,
+            "etime": 1755943200,
+            "dtime": 14400,
+            "link": "https://atcoder.jp/contests/ahc052"
         },
         {
             "oj": "atcoder",
