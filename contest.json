@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1754518933,
-    "refreshTimeCH": "2025-08-07 06:22:13",
+    "refreshTimeStamp": 1754605306,
+    "refreshTimeCH": "2025-08-08 06:21:46",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "2025牛客暑期多校训练营8",
-            "stime": 1754539200,
-            "etime": 1754557200,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/108305"
-        },
-        {
-            "oj": "luogu",
-            "name": "emojiOI Round 1",
-            "stime": 1754544600,
-            "etime": 1754560800,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/251143"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Atto Round 1 (Codeforces Round 1041, Div. 1 + Div. 2)",
-            "stime": 1754577300,
-            "etime": 1754588100,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2127"
-        },
         {
             "oj": "luogu",
             "name": "TPOI Round 5 & Q Round",
@@ -209,6 +185,14 @@
             "etime": 1757224200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc422"
+        },
+        {
+            "oj": "atcoder",
+            "name": "12th Asprova Programming Contest（AtCoder Heuristic Contest 053）",
+            "stime": 1757757600,
+            "etime": 1757772000,
+            "dtime": 14400,
+            "link": "https://atcoder.jp/contests/ahc053"
         }
     ]
 }

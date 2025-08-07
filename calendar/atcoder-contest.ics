@@ -54,4 +54,12 @@ DTEND:20250907T135000
 UID:AtCoder Beginner Contest 422
 DESCRIPTION:https://atcoder.jp/contests/abc422
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12th Asprova Programming Contest（AtCoder Heuristic Contest 053
+ ）
+DTSTART:20250913T180000
+DTEND:20250913T220000
+UID:12th Asprova Programming Contest（AtCoder Heuristic Contest 053）
+DESCRIPTION:https://atcoder.jp/contests/ahc053
+END:VEVENT
 END:VCALENDAR
