@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1754605306,
-    "refreshTimeCH": "2025-08-08 06:21:46",
+    "refreshTimeStamp": 1754691584,
+    "refreshTimeCH": "2025-08-09 06:19:44",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "TPOI Round 5 & Q Round",
-            "stime": 1754632800,
-            "etime": 1754647200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/244596"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-236-Div.2】洛谷 8 月月赛 II & IAMOI Round #2",
@@ -110,8 +102,8 @@
             "oj": "luogu",
             "name": "『MGVOI』Round 1 加强赛",
             "stime": 1755324000,
-            "etime": 1755336600,
-            "dtime": 12600,
+            "etime": 1755338400,
+            "dtime": 14400,
             "link": "https://www.luogu.com.cn/contest/265532"
         },
         {
@@ -177,6 +169,14 @@
             "etime": 1756042800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc420"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 421",
+            "stime": 1756555200,
+            "etime": 1756561200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc421"
         },
         {
             "oj": "atcoder",
