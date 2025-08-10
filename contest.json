@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1754777961,
-    "refreshTimeCH": "2025-08-10 06:19:21",
+    "refreshTimeStamp": 1754864342,
+    "refreshTimeCH": "2025-08-11 06:19:02",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,60 +11,20 @@
     ],
     "contests": [
         {
-            "oj": "luogu",
-            "name": "【LGR-(-26)】SCP 2025 第一轮（初赛 J 组）模拟",
-            "stime": 1754789400,
-            "etime": 1754796600,
-            "dtime": 7200,
-            "link": "https://www.luogu.com.cn/contest/261747"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 462",
-            "stime": 1754793000,
-            "etime": 1754798400,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-462"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-X16】梦熊 X 组 · 异或赛 & DLESS Round 3（同步赛）",
-            "stime": 1754805600,
-            "etime": 1754818200,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/265698"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-J19】梦熊 J 组 · 异或赛 & DLESS Round 3（同步赛）",
-            "stime": 1754805600,
-            "etime": 1754818200,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/265699"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 104",
-            "stime": 1754823600,
-            "etime": 1754830800,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/114848"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1042 (Div. 3)",
-            "stime": 1754836500,
-            "etime": 1754844600,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2131"
-        },
-        {
             "oj": "nowcoder",
             "name": "2025牛客暑期多校训练营9",
             "stime": 1754971200,
             "etime": 1754989200,
             "dtime": 18000,
             "link": "https://ac.nowcoder.com/acm/contest/108306"
+        },
+        {
+            "oj": "luogu",
+            "name": "「CyOI」Round 1",
+            "stime": 1754978400,
+            "etime": 1754992800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/242562"
         },
         {
             "oj": "luogu",
@@ -121,6 +81,14 @@
             "etime": 1755399600,
             "dtime": 7200,
             "link": "https://www.luogu.com.cn/contest/249017"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 463",
+            "stime": 1755397800,
+            "etime": 1755403200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-463"
         },
         {
             "oj": "luogu",
