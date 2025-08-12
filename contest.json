@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1754950771,
-    "refreshTimeCH": "2025-08-12 06:19:31",
+    "refreshTimeStamp": 1755037153,
+    "refreshTimeCH": "2025-08-13 06:19:13",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "\"影石Insta360杯\"2025牛客暑期多校训练营9",
-            "stime": 1754971200,
-            "etime": 1754989200,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/108306"
-        },
-        {
-            "oj": "luogu",
-            "name": "「CyOI」Round 1",
-            "stime": 1754978400,
-            "etime": 1754992800,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/242562"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-238-Div.2】洛谷 8 月月赛 III & PumpkinOI Round 2",
@@ -91,14 +75,6 @@
             "link": "https://leetcode.cn/contest/weekly-contest-463"
         },
         {
-            "oj": "luogu",
-            "name": "『Fwb』Round 2 之夏日心动",
-            "stime": 1755410400,
-            "etime": 1755424800,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/227926"
-        },
-        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 105",
             "stime": 1755428400,
@@ -147,20 +123,20 @@
             "link": "https://www.luogu.com.cn/contest/241168"
         },
         {
-            "oj": "luogu",
-            "name": "MatrixGroup's Unknown Round",
-            "stime": 1756011600,
-            "etime": 1756027800,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/264992"
-        },
-        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 420",
             "stime": 1756036800,
             "etime": 1756042800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc420"
+        },
+        {
+            "oj": "luogu",
+            "name": "MatrixGroup's Unknown Round",
+            "stime": 1756098000,
+            "etime": 1756114200,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/264992"
         },
         {
             "oj": "atcoder",
