@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1755037153,
-    "refreshTimeCH": "2025-08-13 06:19:13",
+    "refreshTimeStamp": 1755123593,
+    "refreshTimeCH": "2025-08-14 06:19:53",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-238-Div.2】洛谷 8 月月赛 III & PumpkinOI Round 2",
-            "stime": 1755064800,
-            "etime": 1755079200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/250409"
-        },
         {
             "oj": "nowcoder",
             "name": "\"影石Insta360杯\"2025牛客暑期多校训练营10",
@@ -75,6 +67,22 @@
             "link": "https://leetcode.cn/contest/weekly-contest-463"
         },
         {
+            "oj": "luogu",
+            "name": "【MX-J20】梦熊 J 组 · 芝士赛（同步赛）",
+            "stime": 1755410400,
+            "etime": 1755423000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/268623"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X17】梦熊 X 组 · 芝士赛（同步赛）",
+            "stime": 1755410400,
+            "etime": 1755423000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/268622"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 105",
             "stime": 1755428400,
@@ -100,11 +108,27 @@
         },
         {
             "oj": "luogu",
+            "name": "『Fwb』Round 2 之夏日心动",
+            "stime": 1755756000,
+            "etime": 1755770400,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/227926"
+        },
+        {
+            "oj": "luogu",
             "name": "「LDOI」Round #3",
             "stime": 1755840600,
             "etime": 1755851400,
             "dtime": 10800,
             "link": "https://www.luogu.com.cn/contest/220842"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客挑战赛81",
+            "stime": 1755860400,
+            "etime": 1755871200,
+            "dtime": 10800,
+            "link": "https://ac.nowcoder.com/acm/contest/115997"
         },
         {
             "oj": "atcoder",
@@ -123,6 +147,14 @@
             "link": "https://www.luogu.com.cn/contest/241168"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 106",
+            "stime": 1756033200,
+            "etime": 1756040400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/116002"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 420",
             "stime": 1756036800,
@@ -139,12 +171,28 @@
             "link": "https://www.luogu.com.cn/contest/264992"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客练习赛143",
+            "stime": 1756465200,
+            "etime": 1756474200,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/115999"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 421",
             "stime": 1756555200,
             "etime": 1756561200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc421"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest 205 (Div. 2)",
+            "stime": 1757160000,
+            "etime": 1757167200,
+            "dtime": 7200,
+            "link": "https://atcoder.jp/contests/arc205"
         },
         {
             "oj": "atcoder",
