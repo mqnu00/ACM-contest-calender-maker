@@ -69,4 +69,11 @@ DTEND:20250913T220000
 UID:12th Asprova Programming Contest（AtCoder Heuristic Contest 053）
 DESCRIPTION:https://atcoder.jp/contests/ahc053
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Grand Contest 073
+DTSTART:20250928T200000
+DTEND:20250928T230000
+UID:AtCoder Grand Contest 073
+DESCRIPTION:https://atcoder.jp/contests/agc073
+END:VEVENT
 END:VCALENDAR

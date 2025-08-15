@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1755209953,
-    "refreshTimeCH": "2025-08-15 06:19:13",
+    "refreshTimeStamp": 1755296357,
+    "refreshTimeCH": "2025-08-16 06:19:17",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -201,6 +201,14 @@
             "etime": 1757772000,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc053"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Grand Contest 073",
+            "stime": 1759060800,
+            "etime": 1759071600,
+            "dtime": 10800,
+            "link": "https://atcoder.jp/contests/agc073"
         }
     ]
 }
