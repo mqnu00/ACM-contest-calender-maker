@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1755296357,
-    "refreshTimeCH": "2025-08-16 06:19:17",
+    "refreshTimeStamp": 1755382734,
+    "refreshTimeCH": "2025-08-17 06:18:54",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "『MGVOI』Round 1 加强赛",
-            "stime": 1755324000,
-            "etime": 1755338400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/265532"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 419",
-            "stime": 1755345600,
-            "etime": 1755351600,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc419"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 163",
-            "stime": 1755354600,
-            "etime": 1755360000,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-163"
-        },
         {
             "oj": "luogu",
             "name": "Brooklyn Round 2 & NNOI Round 2",
@@ -177,6 +153,14 @@
             "etime": 1756561200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc421"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 164",
+            "stime": 1756564200,
+            "etime": 1756569600,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-164"
         },
         {
             "oj": "atcoder",
