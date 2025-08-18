@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1755469142,
-    "refreshTimeCH": "2025-08-18 06:19:02",
+    "refreshTimeStamp": 1755555412,
+    "refreshTimeCH": "2025-08-19 06:16:52",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -28,7 +28,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 1043 (Div. 3)",
             "stime": 1755786900,
             "etime": 1755795000,
             "dtime": 8100,
@@ -41,6 +41,14 @@
             "etime": 1755851400,
             "dtime": 10800,
             "link": "https://www.luogu.com.cn/contest/220842"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-239-Div.4】洛谷入门赛 #38",
+            "stime": 1755860400,
+            "etime": 1755867600,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/270110"
         },
         {
             "oj": "nowcoder",
@@ -89,6 +97,14 @@
             "etime": 1756042800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc420"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1756046100,
+            "etime": 1756053300,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2133"
         },
         {
             "oj": "luogu",
