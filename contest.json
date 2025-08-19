@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1755555412,
-    "refreshTimeCH": "2025-08-19 06:16:52",
+    "refreshTimeStamp": 1755641898,
+    "refreshTimeCH": "2025-08-20 06:18:18",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,19 +12,19 @@
     "contests": [
         {
             "oj": "luogu",
-            "name": "o.OI Round 2",
-            "stime": 1755583200,
-            "etime": 1755597600,
+            "name": "『Fwb』Round 2 之夏日心动",
+            "stime": 1755669600,
+            "etime": 1755684000,
             "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/237166"
+            "link": "https://www.luogu.com.cn/contest/227926"
         },
         {
             "oj": "luogu",
-            "name": "『Fwb』Round 2 之夏日心动",
+            "name": "CZOI Round 6",
             "stime": 1755756000,
-            "etime": 1755770400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/227926"
+            "etime": 1755768600,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/261069"
         },
         {
             "oj": "codeforces",
@@ -81,6 +81,22 @@
             "etime": 1756008000,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-464"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X18】梦熊 X 组 · 企鹅赛 & FAOI-R6（同步赛）",
+            "stime": 1756015200,
+            "etime": 1756027800,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/270369"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J21】梦熊 J 组 · 企鹅赛 & FAOI-R6（同步赛）",
+            "stime": 1756015200,
+            "etime": 1756027800,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/270370"
         },
         {
             "oj": "nowcoder",
