@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1755641898,
-    "refreshTimeCH": "2025-08-20 06:18:18",
+    "refreshTimeStamp": 1755728266,
+    "refreshTimeCH": "2025-08-21 06:17:46",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "『Fwb』Round 2 之夏日心动",
-            "stime": 1755669600,
-            "etime": 1755684000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/227926"
-        },
         {
             "oj": "luogu",
             "name": "CZOI Round 6",
@@ -133,10 +125,18 @@
         {
             "oj": "nowcoder",
             "name": "牛客练习赛143",
-            "stime": 1756465200,
-            "etime": 1756474200,
+            "stime": 1756378800,
+            "etime": 1756387800,
             "dtime": 9000,
             "link": "https://ac.nowcoder.com/acm/contest/115999"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客2025年七夕节比赛",
+            "stime": 1756465200,
+            "etime": 1756472400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/116337"
         },
         {
             "oj": "atcoder",
@@ -153,6 +153,14 @@
             "etime": 1756569600,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-164"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 107",
+            "stime": 1756638000,
+            "etime": 1756645200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/116343"
         },
         {
             "oj": "atcoder",
