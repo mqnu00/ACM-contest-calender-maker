@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1755728266,
-    "refreshTimeCH": "2025-08-21 06:17:46",
+    "refreshTimeStamp": 1755814755,
+    "refreshTimeCH": "2025-08-22 06:19:15",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "CZOI Round 6",
-            "stime": 1755756000,
-            "etime": 1755768600,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/261069"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1043 (Div. 3)",
-            "stime": 1755786900,
-            "etime": 1755795000,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2132"
-        },
         {
             "oj": "luogu",
             "name": "「LDOI」Round #3",
@@ -108,7 +92,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1044 (Div. 2)",
             "stime": 1756046100,
             "etime": 1756053300,
             "dtime": 7200,
@@ -123,12 +107,28 @@
             "link": "https://www.luogu.com.cn/contest/264992"
         },
         {
+            "oj": "codeforces",
+            "name": "Codeforces Round 1045 (Div. 2)",
+            "stime": 1756218900,
+            "etime": 1756226100,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2134"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客练习赛143",
             "stime": 1756378800,
             "etime": 1756387800,
             "dtime": 9000,
             "link": "https://ac.nowcoder.com/acm/contest/115999"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round 1046 (Div. 2)",
+            "stime": 1756391700,
+            "etime": 1756402500,
+            "dtime": 10800,
+            "link": "https://codeforces.com/contest/2136"
         },
         {
             "oj": "nowcoder",
@@ -185,6 +185,22 @@
             "etime": 1757772000,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc053"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder × Engineer Guild（AtCoder Beginner Contest 423）",
+            "stime": 1757851200,
+            "etime": 1757857200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc423"
+        },
+        {
+            "oj": "atcoder",
+            "name": "ALGO ARTIS Programming Contest 2025 Summer（AtCoder Heuristic Contest 054）",
+            "stime": 1758276000,
+            "etime": 1759140000,
+            "dtime": 864000,
+            "link": "https://atcoder.jp/contests/ahc054"
         },
         {
             "oj": "atcoder",
