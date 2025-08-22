@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1755814755,
-    "refreshTimeCH": "2025-08-22 06:19:15",
+    "refreshTimeStamp": 1755901073,
+    "refreshTimeCH": "2025-08-23 06:17:53",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "「LDOI」Round #3",
-            "stime": 1755840600,
-            "etime": 1755851400,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/220842"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-239-Div.4】洛谷入门赛 #38",
-            "stime": 1755860400,
-            "etime": 1755867600,
-            "dtime": 7200,
-            "link": "https://www.luogu.com.cn/contest/270110"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客挑战赛81",
-            "stime": 1755860400,
-            "etime": 1755871200,
-            "dtime": 10800,
-            "link": "https://ac.nowcoder.com/acm/contest/115997"
-        },
         {
             "oj": "atcoder",
             "name": "AtCoder Heuristic Contest 052",
@@ -155,6 +131,14 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-164"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 465",
+            "stime": 1756607400,
+            "etime": 1756612800,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-465"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 107",
             "stime": 1756638000,
@@ -188,7 +172,7 @@
         },
         {
             "oj": "atcoder",
-            "name": "AtCoder × Engineer Guild（AtCoder Beginner Contest 423）",
+            "name": "AtCoder Beginner Contest 423",
             "stime": 1757851200,
             "etime": 1757857200,
             "dtime": 6000,
@@ -201,6 +185,22 @@
             "etime": 1759140000,
             "dtime": 864000,
             "link": "https://atcoder.jp/contests/ahc054"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder × Engineer Guild（AtCoder Beginner Contest 424）",
+            "stime": 1758369600,
+            "etime": 1758375600,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc424"
+        },
+        {
+            "oj": "atcoder",
+            "name": "UNIQUE VISION Programming Contest 2024 Autumn (AtCoder Beginner Contest 425)",
+            "stime": 1758974400,
+            "etime": 1758980400,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc425"
         },
         {
             "oj": "atcoder",

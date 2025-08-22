@@ -56,10 +56,10 @@ UID:12th Asprova Programming Contest（AtCoder Heuristic Contest 053）
 DESCRIPTION:https://atcoder.jp/contests/ahc053
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AtCoder × Engineer Guild（AtCoder Beginner Contest 423）
+SUMMARY:AtCoder Beginner Contest 423
 DTSTART:20250914T200000
 DTEND:20250914T214000
-UID:AtCoder × Engineer Guild（AtCoder Beginner Contest 423）
+UID:AtCoder Beginner Contest 423
 DESCRIPTION:https://atcoder.jp/contests/abc423
 END:VEVENT
 BEGIN:VEVENT
@@ -70,6 +70,22 @@ DTEND:20250929T180000
 UID:ALGO ARTIS Programming Contest 2025 Summer（AtCoder Heuristic Contest
   054）
 DESCRIPTION:https://atcoder.jp/contests/ahc054
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder × Engineer Guild（AtCoder Beginner Contest 424）
+DTSTART:20250920T200000
+DTEND:20250920T214000
+UID:AtCoder × Engineer Guild（AtCoder Beginner Contest 424）
+DESCRIPTION:https://atcoder.jp/contests/abc424
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:UNIQUE VISION Programming Contest 2024 Autumn (AtCoder Beginner Co
+ ntest 425)
+DTSTART:20250927T200000
+DTEND:20250927T214000
+UID:UNIQUE VISION Programming Contest 2024 Autumn (AtCoder Beginner Contes
+ t 425)
+DESCRIPTION:https://atcoder.jp/contests/abc425
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AtCoder Grand Contest 073
