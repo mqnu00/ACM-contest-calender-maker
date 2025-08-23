@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1755901073,
-    "refreshTimeCH": "2025-08-23 06:17:53",
+    "refreshTimeStamp": 1755987449,
+    "refreshTimeCH": "2025-08-24 06:17:29",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Heuristic Contest 052",
-            "stime": 1755928800,
-            "etime": 1755943200,
-            "dtime": 14400,
-            "link": "https://atcoder.jp/contests/ahc052"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-237-Div.3】洛谷基础赛 #25 & Diligent-OI Round 2",
-            "stime": 1755928800,
-            "etime": 1755941400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/241168"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 464",
