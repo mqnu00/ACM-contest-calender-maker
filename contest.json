@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1755987449,
-    "refreshTimeCH": "2025-08-24 06:17:29",
+    "refreshTimeStamp": 1756073885,
+    "refreshTimeCH": "2025-08-25 06:18:05",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,54 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 464",
-            "stime": 1756002600,
-            "etime": 1756008000,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-464"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-X18】梦熊 X 组 · 企鹅赛 & FAOI-R6（同步赛）",
-            "stime": 1756015200,
-            "etime": 1756027800,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/270369"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-J21】梦熊 J 组 · 企鹅赛 & FAOI-R6（同步赛）",
-            "stime": 1756015200,
-            "etime": 1756027800,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/270370"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 106",
-            "stime": 1756033200,
-            "etime": 1756040400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/116002"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 420",
-            "stime": 1756036800,
-            "etime": 1756042800,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc420"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1044 (Div. 2)",
-            "stime": 1756046100,
-            "etime": 1756053300,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2133"
-        },
         {
             "oj": "luogu",
             "name": "MatrixGroup's Unknown Round",
@@ -81,6 +33,14 @@
             "etime": 1756387800,
             "dtime": 9000,
             "link": "https://ac.nowcoder.com/acm/contest/115999"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round 1046 (Div. 1)",
+            "stime": 1756391700,
+            "etime": 1756402500,
+            "dtime": 10800,
+            "link": "https://codeforces.com/contest/2135"
         },
         {
             "oj": "codeforces",
