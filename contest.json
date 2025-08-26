@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1756073885,
-    "refreshTimeCH": "2025-08-25 06:18:05",
+    "refreshTimeStamp": 1756246682,
+    "refreshTimeCH": "2025-08-27 06:18:02",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "MatrixGroup's Unknown Round",
-            "stime": 1756098000,
-            "etime": 1756114200,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/264992"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1045 (Div. 2)",
-            "stime": 1756218900,
-            "etime": 1756226100,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2134"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客练习赛143",
@@ -91,6 +75,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/116343"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛120",
+            "stime": 1757070000,
+            "etime": 1757077200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/116657"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Regular Contest 205 (Div. 2)",
             "stime": 1757160000,
@@ -105,6 +97,30 @@
             "etime": 1757224200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc422"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 108",
+            "stime": 1757242800,
+            "etime": 1757250000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/116658"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 3)",
+            "stime": 1757255700,
+            "etime": 1757263800,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2137"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1757342100,
+            "etime": 1757351100,
+            "dtime": 9000,
+            "link": "https://codeforces.com/contest/2139"
         },
         {
             "oj": "atcoder",
@@ -153,6 +169,14 @@
             "etime": 1759071600,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc073"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest 207 (Div.1)",
+            "stime": 1759665600,
+            "etime": 1759674600,
+            "dtime": 9000,
+            "link": "https://atcoder.jp/contests/arc207"
         }
     ]
 }

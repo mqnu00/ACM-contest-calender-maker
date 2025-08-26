@@ -80,4 +80,11 @@ DTEND:20250928T230000
 UID:AtCoder Grand Contest 073
 DESCRIPTION:https://atcoder.jp/contests/agc073
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 207 (Div.1)
+DTSTART:20251005T200000
+DTEND:20251005T223000
+UID:AtCoder Regular Contest 207 (Div.1)
+DESCRIPTION:https://atcoder.jp/contests/arc207
+END:VEVENT
 END:VCALENDAR
