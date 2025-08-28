@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1756333054,
-    "refreshTimeCH": "2025-08-28 06:17:34",
+    "refreshTimeStamp": 1756419474,
+    "refreshTimeCH": "2025-08-29 06:17:54",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,41 +12,9 @@
     "contests": [
         {
             "oj": "luogu",
-            "name": "SWERC 2020 Unofficial Mirror",
-            "stime": 1756357200,
-            "etime": 1756375200,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/272991"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客练习赛143",
-            "stime": 1756378800,
-            "etime": 1756387800,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/115999"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1046 (Div. 1)",
-            "stime": 1756391700,
-            "etime": 1756402500,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2135"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1046 (Div. 2)",
-            "stime": 1756391700,
-            "etime": 1756402500,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2136"
-        },
-        {
-            "oj": "luogu",
             "name": "「KFCOI」Round #2",
-            "stime": 1756425600,
-            "etime": 1756440000,
+            "stime": 1756449000,
+            "etime": 1756463400,
             "dtime": 14400,
             "link": "https://www.luogu.com.cn/contest/231056"
         },
@@ -60,7 +28,7 @@
         },
         {
             "oj": "luogu",
-            "name": "「TFXOI」Round 3",
+            "name": "「TFXOI」Round #3",
             "stime": 1756533600,
             "etime": 1756548000,
             "dtime": 14400,
@@ -97,6 +65,14 @@
             "etime": 1756645200,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/116343"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Kotlin Heroes: Practice 12",
+            "stime": 1756650900,
+            "etime": 1757687700,
+            "dtime": 1036800,
+            "link": "https://codeforces.com/contest/2142"
         },
         {
             "oj": "nowcoder",
@@ -153,6 +129,22 @@
             "etime": 1757352900,
             "dtime": 10800,
             "link": "https://codeforces.com/contest/2139"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1757428500,
+            "etime": 1757435700,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2140"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客练习赛144",
+            "stime": 1757674800,
+            "etime": 1757683800,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/116721"
         },
         {
             "oj": "atcoder",
