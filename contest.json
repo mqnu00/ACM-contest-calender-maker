@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1756419474,
-    "refreshTimeCH": "2025-08-29 06:17:54",
+    "refreshTimeStamp": 1756592189,
+    "refreshTimeCH": "2025-08-31 06:16:29",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,52 +11,20 @@
     ],
     "contests": [
         {
-            "oj": "luogu",
-            "name": "「KFCOI」Round #2",
-            "stime": 1756449000,
-            "etime": 1756463400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/231056"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客2025年七夕节比赛",
-            "stime": 1756465200,
-            "etime": 1756472400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/116337"
-        },
-        {
-            "oj": "luogu",
-            "name": "「TFXOI」Round #3",
-            "stime": 1756533600,
-            "etime": 1756548000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/249974"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 421",
-            "stime": 1756555200,
-            "etime": 1756561200,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc421"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 164",
-            "stime": 1756564200,
-            "etime": 1756569600,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-164"
-        },
-        {
             "oj": "leetcode",
             "name": "Weekly Contest 465",
             "stime": 1756607400,
             "etime": 1756612800,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-465"
+        },
+        {
+            "oj": "luogu",
+            "name": "PO Final 2024 Unofficial Mirror",
+            "stime": 1756621800,
+            "etime": 1756639800,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/273457"
         },
         {
             "oj": "nowcoder",
@@ -67,14 +35,6 @@
             "link": "https://ac.nowcoder.com/acm/contest/116343"
         },
         {
-            "oj": "codeforces",
-            "name": "Kotlin Heroes: Practice 12",
-            "stime": 1756650900,
-            "etime": 1757687700,
-            "dtime": 1036800,
-            "link": "https://codeforces.com/contest/2142"
-        },
-        {
             "oj": "nowcoder",
             "name": "牛客小白月赛120",
             "stime": 1757070000,
@@ -83,12 +43,28 @@
             "link": "https://ac.nowcoder.com/acm/contest/116657"
         },
         {
+            "oj": "codeforces",
+            "name": "Kotlin Heroes: Practice 13",
+            "stime": 1757082900,
+            "etime": 1758119700,
+            "dtime": 1036800,
+            "link": "https://codeforces.com/contest/2142"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Regular Contest 205 (Div. 2)",
             "stime": 1757160000,
             "etime": 1757167200,
             "dtime": 7200,
             "link": "https://atcoder.jp/contests/arc205"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 466",
+            "stime": 1757212200,
+            "etime": 1757217600,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-466"
         },
         {
             "oj": "atcoder",
@@ -153,6 +129,14 @@
             "etime": 1757772000,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc053"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 165",
+            "stime": 1757773800,
+            "etime": 1757779200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-165"
         },
         {
             "oj": "atcoder",
