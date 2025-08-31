@@ -47,4 +47,11 @@ DTEND:20250910T003500
 UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2140
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kotlin Heroes: Episode 13
+DTSTART:20250912T223500
+DTEND:20250913T010500
+UID:Kotlin Heroes: Episode 13
+DESCRIPTION:https://codeforces.com/contest/2141
+END:VEVENT
 END:VCALENDAR
