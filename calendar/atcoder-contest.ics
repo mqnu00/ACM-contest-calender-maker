@@ -58,6 +58,13 @@ UID:AtCoder × Engineer Guild（AtCoder Beginner Contest 424）
 DESCRIPTION:https://atcoder.jp/contests/abc424
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 206 (Div. 2)
+DTSTART:20250921T200000
+DTEND:20250921T220000
+UID:AtCoder Regular Contest 206 (Div. 2)
+DESCRIPTION:https://atcoder.jp/contests/arc206
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:UNIQUE VISION Programming Contest 2024 Autumn (AtCoder Beginner Co
  ntest 425)
 DTSTART:20250927T200000

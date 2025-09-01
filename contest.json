@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1756678633,
-    "refreshTimeCH": "2025-09-01 06:17:13",
+    "refreshTimeStamp": 1756765041,
+    "refreshTimeCH": "2025-09-02 06:17:21",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,6 +10,22 @@
         "leetcode"
     ],
     "contests": [
+        {
+            "oj": "luogu",
+            "name": "[EC Final 2019] ICPC2019 东亚赛区决赛重现赛",
+            "stime": 1756789200,
+            "etime": 1756807200,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/273827"
+        },
+        {
+            "oj": "luogu",
+            "name": "[ICPC2023 Nanjing R] ICPC2023 区域赛南京站重现赛",
+            "stime": 1756875600,
+            "etime": 1756893600,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/273805"
+        },
         {
             "oj": "nowcoder",
             "name": "牛客小白月赛120",
@@ -28,19 +44,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-J22】梦熊 J 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
-            "stime": 1757138400,
-            "etime": 1757151000,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/273610"
-        },
-        {
-            "oj": "luogu",
             "name": "【MX-X19】梦熊 X 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
             "stime": 1757138400,
             "etime": 1757151000,
             "dtime": 12600,
             "link": "https://www.luogu.com.cn/contest/273609"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J22】梦熊 J 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
+            "stime": 1757138400,
+            "etime": 1757151000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/273610"
         },
         {
             "oj": "atcoder",
@@ -139,12 +155,36 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-165"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 109",
+            "stime": 1757847600,
+            "etime": 1788786000,
+            "dtime": 30938400,
+            "link": "https://ac.nowcoder.com/acm/contest/116945"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 423",
             "stime": 1757851200,
             "etime": 1757857200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc423"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Educational Codeforces Round 182 (Rated for Div. 2)",
+            "stime": 1757946900,
+            "etime": 1757954100,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2144"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1758119700,
+            "etime": 1758126900,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2143"
         },
         {
             "oj": "atcoder",
@@ -161,6 +201,14 @@
             "etime": 1758375600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc424"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest 206 (Div. 2)",
+            "stime": 1758456000,
+            "etime": 1758463200,
+            "dtime": 7200,
+            "link": "https://atcoder.jp/contests/arc206"
         },
         {
             "oj": "atcoder",
