@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1756765041,
-    "refreshTimeCH": "2025-09-02 06:17:21",
+    "refreshTimeStamp": 1756851370,
+    "refreshTimeCH": "2025-09-03 06:16:10",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,12 +11,12 @@
     ],
     "contests": [
         {
-            "oj": "luogu",
-            "name": "[EC Final 2019] ICPC2019 东亚赛区决赛重现赛",
-            "stime": 1756789200,
-            "etime": 1756807200,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/273827"
+            "oj": "codeforces",
+            "name": "Kotlin Heroes: Practice 13",
+            "stime": 1756823400,
+            "etime": 1757687400,
+            "dtime": 864000,
+            "link": "https://codeforces.com/contest/2142"
         },
         {
             "oj": "luogu",
@@ -27,6 +27,14 @@
             "link": "https://www.luogu.com.cn/contest/273805"
         },
         {
+            "oj": "luogu",
+            "name": "PO Final 2023 Unofficial Mirror",
+            "stime": 1757053800,
+            "etime": 1757071800,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/273919"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客小白月赛120",
             "stime": 1757070000,
@@ -35,12 +43,12 @@
             "link": "https://ac.nowcoder.com/acm/contest/116657"
         },
         {
-            "oj": "codeforces",
-            "name": "Kotlin Heroes: Practice 13",
-            "stime": 1757082900,
-            "etime": 1758119700,
-            "dtime": 1036800,
-            "link": "https://codeforces.com/contest/2142"
+            "oj": "luogu",
+            "name": "【MX-J22】梦熊 J 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
+            "stime": 1757138400,
+            "etime": 1757151000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/273610"
         },
         {
             "oj": "luogu",
@@ -49,14 +57,6 @@
             "etime": 1757151000,
             "dtime": 12600,
             "link": "https://www.luogu.com.cn/contest/273609"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-J22】梦熊 J 组 · 钥匙赛 & FeOI-R4.5 & LAOI-R14（同步赛）",
-            "stime": 1757138400,
-            "etime": 1757151000,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/273610"
         },
         {
             "oj": "atcoder",
@@ -81,6 +81,30 @@
             "etime": 1757224200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc422"
+        },
+        {
+            "oj": "atcoder",
+            "name": "日本最強プログラマー学生選手権～Advance～",
+            "stime": 1757218200,
+            "etime": 1757224200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/jsc2025advance-final"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-240-Div.2】核桃编程 9 月月赛 I & florr IO Round 1",
+            "stime": 1757224800,
+            "etime": 1757239200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/228479"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-240-Div.1】核桃编程 9 月月赛 I & florr IO Round 1",
+            "stime": 1757224800,
+            "etime": 1757239200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/273933"
         },
         {
             "oj": "nowcoder",
