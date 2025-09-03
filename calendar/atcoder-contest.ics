@@ -94,4 +94,12 @@ DTEND:20251005T223000
 UID:AtCoder Regular Contest 207 (Div.1)
 DESCRIPTION:https://atcoder.jp/contests/arc207
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Panasonic Programming Contest 2025（AtCoder Beginner Contest 427
+ ）
+DTSTART:20251011T200000
+DTEND:20251011T214000
+UID:Panasonic Programming Contest 2025（AtCoder Beginner Contest 427）
+DESCRIPTION:https://atcoder.jp/contests/abc427
+END:VEVENT
 END:VCALENDAR

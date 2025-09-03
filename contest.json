@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1756851370,
-    "refreshTimeCH": "2025-09-03 06:16:10",
+    "refreshTimeStamp": 1756937791,
+    "refreshTimeCH": "2025-09-04 06:16:31",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -20,11 +20,11 @@
         },
         {
             "oj": "luogu",
-            "name": "[ICPC2023 Nanjing R] ICPC2023 区域赛南京站重现赛",
-            "stime": 1756875600,
-            "etime": 1756893600,
+            "name": "VKOSHP 2024 Unofficial Mirror",
+            "stime": 1756962000,
+            "etime": 1756980000,
             "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/273805"
+            "link": "https://www.luogu.com.cn/contest/274039"
         },
         {
             "oj": "luogu",
@@ -124,7 +124,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round 1048 (Div. 1)",
             "stime": 1757342100,
             "etime": 1757352900,
             "dtime": 10800,
@@ -132,7 +132,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1048 (Div. 2)",
             "stime": 1757342100,
             "etime": 1757352900,
             "dtime": 10800,
@@ -169,6 +169,14 @@
             "etime": 1757772000,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc053"
+        },
+        {
+            "oj": "luogu",
+            "name": "「Cnoi2025」Cirno's Easy Round III",
+            "stime": 1757761200,
+            "etime": 1757773800,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/254577"
         },
         {
             "oj": "leetcode",
@@ -219,6 +227,14 @@
             "link": "https://atcoder.jp/contests/ahc054"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客挑战赛82",
+            "stime": 1758279600,
+            "etime": 1758290400,
+            "dtime": 10800,
+            "link": "https://ac.nowcoder.com/acm/contest/117057"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder × Engineer Guild（AtCoder Beginner Contest 424）",
             "stime": 1758369600,
@@ -257,6 +273,14 @@
             "etime": 1759674600,
             "dtime": 9000,
             "link": "https://atcoder.jp/contests/arc207"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Panasonic Programming Contest 2025（AtCoder Beginner Contest 427）",
+            "stime": 1760184000,
+            "etime": 1760190000,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc427"
         }
     ]
 }
