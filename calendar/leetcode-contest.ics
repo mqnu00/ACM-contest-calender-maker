@@ -26,4 +26,11 @@ DTEND:20250914T000000
 UID:Biweekly Contest 165
 DESCRIPTION:https://leetcode.cn/contest/biweekly-contest-165
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Contest 467
+DTSTART:20250914T103000
+DTEND:20250914T120000
+UID:Weekly Contest 467
+DESCRIPTION:https://leetcode.cn/contest/weekly-contest-467
+END:VEVENT
 END:VCALENDAR
