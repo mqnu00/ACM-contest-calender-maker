@@ -13,20 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:AtCoder Beginner Contest 422
-DTSTART:20250907T121000
-DTEND:20250907T135000
-UID:AtCoder Beginner Contest 422
-DESCRIPTION:https://atcoder.jp/contests/abc422
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:日本最強プログラマー学生選手権～Advance～
-DTSTART:20250907T121000
-DTEND:20250907T135000
-UID:日本最強プログラマー学生選手権～Advance～
-DESCRIPTION:https://atcoder.jp/contests/jsc2025advance-final
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:12th Asprova Programming Contest（AtCoder Heuristic Contest 053
  ）
 DTSTART:20250913T180000

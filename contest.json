@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1757196947,
-    "refreshTimeCH": "2025-09-07 06:15:47",
+    "refreshTimeStamp": 1757283376,
+    "refreshTimeCH": "2025-09-08 06:16:16",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,70 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Kotlin Heroes: Practice 13",
-            "stime": 1756823400,
-            "etime": 1757687400,
-            "dtime": 864000,
-            "link": "https://codeforces.com/contest/2142"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 466",
-            "stime": 1757212200,
-            "etime": 1757217600,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-466"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 422",
-            "stime": 1757218200,
-            "etime": 1757224200,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc422"
-        },
-        {
-            "oj": "atcoder",
-            "name": "日本最強プログラマー学生選手権～Advance～",
-            "stime": 1757218200,
-            "etime": 1757224200,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/jsc2025advance-final"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-240-Div.2】核桃编程 9 月月赛 I & florr IO Round 1",
-            "stime": 1757224800,
-            "etime": 1757239200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/228479"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-240-Div.1】核桃编程 9 月月赛 I & florr IO Round 1",
-            "stime": 1757224800,
-            "etime": 1757239200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/273933"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 108",
-            "stime": 1757242800,
-            "etime": 1757250000,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/116658"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1047 (Div. 3)",
-            "stime": 1757255700,
-            "etime": 1757263800,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2137"
-        },
         {
             "oj": "codeforces",
             "name": "Codeforces Round 1048 (Div. 1)",
@@ -92,7 +28,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1049 (Div. 2)",
             "stime": 1757428500,
             "etime": 1757435700,
             "dtime": 7200,
