@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1757283376,
-    "refreshTimeCH": "2025-09-08 06:16:16",
+    "refreshTimeStamp": 1757369876,
+    "refreshTimeCH": "2025-09-09 06:17:56",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,20 +11,12 @@
     ],
     "contests": [
         {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1048 (Div. 1)",
-            "stime": 1757342100,
-            "etime": 1757352900,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2138"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1048 (Div. 2)",
-            "stime": 1757342100,
-            "etime": 1757352900,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2139"
+            "oj": "luogu",
+            "name": "POCamp 2023 Unofficial Mirror",
+            "stime": 1757399400,
+            "etime": 1757417400,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/275073"
         },
         {
             "oj": "codeforces",
@@ -33,6 +25,14 @@
             "etime": 1757435700,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2140"
+        },
+        {
+            "oj": "luogu",
+            "name": "[ICPC2024 Nanjing R] ICPC2024 区域赛南京站重现赛",
+            "stime": 1757480400,
+            "etime": 1757498400,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/275088"
         },
         {
             "oj": "nowcoder",
