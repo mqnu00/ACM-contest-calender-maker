@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1757369876,
-    "refreshTimeCH": "2025-09-09 06:17:56",
+    "refreshTimeStamp": 1757456144,
+    "refreshTimeCH": "2025-09-10 06:15:44",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "POCamp 2023 Unofficial Mirror",
-            "stime": 1757399400,
-            "etime": 1757417400,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/275073"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1049 (Div. 2)",
-            "stime": 1757428500,
-            "etime": 1757435700,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2140"
-        },
         {
             "oj": "luogu",
             "name": "[ICPC2024 Nanjing R] ICPC2024 区域赛南京站重现赛",
@@ -132,7 +116,7 @@
         },
         {
             "oj": "atcoder",
-            "name": "AtCoder × Engineer Guild（AtCoder Beginner Contest 424）",
+            "name": "AtCoder Beginner Contest 424",
             "stime": 1758369600,
             "etime": 1758375600,
             "dtime": 6000,
@@ -145,6 +129,14 @@
             "etime": 1758389700,
             "dtime": 10800,
             "link": "https://codeforces.com/contest/2147"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 468",
+            "stime": 1758421800,
+            "etime": 1758427200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-468"
         },
         {
             "oj": "nowcoder",
@@ -177,6 +169,14 @@
             "etime": 1758980400,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc425"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 166",
+            "stime": 1758983400,
+            "etime": 1758988800,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-166"
         },
         {
             "oj": "atcoder",
