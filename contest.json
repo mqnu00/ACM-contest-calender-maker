@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1757456144,
-    "refreshTimeCH": "2025-09-10 06:15:44",
+    "refreshTimeStamp": 1757629029,
+    "refreshTimeCH": "2025-09-12 06:17:09",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "[ICPC2024 Nanjing R] ICPC2024 区域赛南京站重现赛",
-            "stime": 1757480400,
-            "etime": 1757498400,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/275088"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客练习赛144",
@@ -33,6 +25,22 @@
             "etime": 1757696700,
             "dtime": 9000,
             "link": "https://codeforces.com/contest/2141"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J23】梦熊 J 组 · 猫猫赛 & FAOI-R7（同步赛）",
+            "stime": 1757743200,
+            "etime": 1757755800,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/275290"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X20】梦熊 X 组 · 猫猫赛 & FAOI-R7（同步赛）",
+            "stime": 1757743200,
+            "etime": 1757755800,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/275289"
         },
         {
             "oj": "atcoder",
@@ -107,6 +115,14 @@
             "link": "https://atcoder.jp/contests/ahc054"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-241-Div.4】洛谷入门赛 #39",
+            "stime": 1758279600,
+            "etime": 1758286800,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/275425"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客挑战赛82",
             "stime": 1758279600,
@@ -124,7 +140,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "name": "Codeforces Global Round 29 (Div. 1 + Div. 2)",
             "stime": 1758378900,
             "etime": 1758389700,
             "dtime": 10800,
@@ -185,6 +201,22 @@
             "etime": 1759071600,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc073"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2025牛客国庆集训派对day1",
+            "stime": 1759291200,
+            "etime": 1759309200,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/117503"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2025牛客国庆集训派对day2",
+            "stime": 1759377600,
+            "etime": 1759395600,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/117504"
         },
         {
             "oj": "atcoder",
