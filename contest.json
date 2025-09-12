@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1757629029,
-    "refreshTimeCH": "2025-09-12 06:17:09",
+    "refreshTimeStamp": 1757715383,
+    "refreshTimeCH": "2025-09-13 06:16:23",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,22 +11,6 @@
     ],
     "contests": [
         {
-            "oj": "nowcoder",
-            "name": "牛客练习赛144",
-            "stime": 1757674800,
-            "etime": 1757683800,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/116721"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Kotlin Heroes: Episode 13",
-            "stime": 1757687700,
-            "etime": 1757696700,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2141"
-        },
-        {
             "oj": "luogu",
             "name": "【MX-J23】梦熊 J 组 · 猫猫赛 & FAOI-R7（同步赛）",
             "stime": 1757743200,
@@ -36,7 +20,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-X20】梦熊 X 组 · 猫猫赛 & FAOI-R7（同步赛）",
+            "name": "【MX-X20】梦熊 X 组 · 猫猫赛 & FAOI-R7",
             "stime": 1757743200,
             "etime": 1757755800,
             "dtime": 12600,
@@ -177,6 +161,14 @@
             "etime": 1758473400,
             "dtime": 8100,
             "link": "https://codeforces.com/contest/2146"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 3)",
+            "stime": 1758810900,
+            "etime": 1758819000,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2149"
         },
         {
             "oj": "atcoder",
