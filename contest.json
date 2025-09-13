@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1757715383,
-    "refreshTimeCH": "2025-09-13 06:16:23",
+    "refreshTimeStamp": 1757801709,
+    "refreshTimeCH": "2025-09-14 06:15:09",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,46 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【MX-J23】梦熊 J 组 · 猫猫赛 & FAOI-R7（同步赛）",
-            "stime": 1757743200,
-            "etime": 1757755800,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/275290"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-X20】梦熊 X 组 · 猫猫赛 & FAOI-R7",
-            "stime": 1757743200,
-            "etime": 1757755800,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/275289"
-        },
-        {
-            "oj": "atcoder",
-            "name": "12th Asprova Programming Contest（AtCoder Heuristic Contest 053）",
-            "stime": 1757757600,
-            "etime": 1757772000,
-            "dtime": 14400,
-            "link": "https://atcoder.jp/contests/ahc053"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 165",
-            "stime": 1757773800,
-            "etime": 1757779200,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-165"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round (Div. 4)",
-            "stime": 1757774100,
-            "etime": 1757782200,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2148"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 467",
