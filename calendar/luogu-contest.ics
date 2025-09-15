@@ -28,4 +28,11 @@ DTEND:20250919T210000
 UID:【LGR-241-Div.4】洛谷入门赛 #39
 DESCRIPTION:https://www.luogu.com.cn/contest/275425
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:zyh_helen's Construction Round
+DTSTART:20250927T140000
+DTEND:20250927T180000
+UID:zyh_helen's Construction Round
+DESCRIPTION:https://www.luogu.com.cn/contest/273114
+END:VEVENT
 END:VCALENDAR

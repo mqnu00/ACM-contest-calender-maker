@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1757888175,
-    "refreshTimeCH": "2025-09-15 06:16:15",
+    "refreshTimeStamp": 1757974602,
+    "refreshTimeCH": "2025-09-16 06:16:42",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,14 +11,6 @@
     ],
     "contests": [
         {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 182 (Rated for Div. 2)",
-            "stime": 1757946900,
-            "etime": 1757954100,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2144"
-        },
-        {
             "oj": "luogu",
             "name": "[SDCPC 2019] 第十届山东省 ICPC 大学生程序设计竞赛重现赛",
             "stime": 1757998800,
@@ -28,7 +20,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1051 (Div. 2)",
             "stime": 1758119700,
             "etime": 1758126900,
             "dtime": 7200,
@@ -54,8 +46,8 @@
             "oj": "nowcoder",
             "name": "牛客挑战赛82",
             "stime": 1758279600,
-            "etime": 1758290400,
-            "dtime": 10800,
+            "etime": 1758286800,
+            "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/117057"
         },
         {
@@ -115,6 +107,22 @@
             "link": "https://codeforces.com/contest/2149"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛121",
+            "stime": 1758884400,
+            "etime": 1758891600,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/117762"
+        },
+        {
+            "oj": "luogu",
+            "name": "zyh_helen's Construction Round",
+            "stime": 1758952800,
+            "etime": 1758967200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/273114"
+        },
+        {
             "oj": "atcoder",
             "name": "UNIQUE VISION Programming Contest 2024 Autumn (AtCoder Beginner Contest 425)",
             "stime": 1758974400,
@@ -129,6 +137,14 @@
             "etime": 1758988800,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-166"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 111",
+            "stime": 1759057200,
+            "etime": 1759064400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/117763"
         },
         {
             "oj": "atcoder",
