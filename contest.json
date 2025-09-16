@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1757974602,
-    "refreshTimeCH": "2025-09-16 06:16:42",
+    "refreshTimeStamp": 1758061008,
+    "refreshTimeCH": "2025-09-17 06:16:48",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "[SDCPC 2019] 第十届山东省 ICPC 大学生程序设计竞赛重现赛",
-            "stime": 1757998800,
-            "etime": 1758016800,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/276180"
-        },
         {
             "oj": "codeforces",
             "name": "Codeforces Round 1051 (Div. 2)",
@@ -46,8 +38,8 @@
             "oj": "nowcoder",
             "name": "牛客挑战赛82",
             "stime": 1758279600,
-            "etime": 1758286800,
-            "dtime": 7200,
+            "etime": 1758290400,
+            "dtime": 10800,
             "link": "https://ac.nowcoder.com/acm/contest/117057"
         },
         {
@@ -75,6 +67,22 @@
             "link": "https://leetcode.cn/contest/weekly-contest-468"
         },
         {
+            "oj": "luogu",
+            "name": "【MX-X21】梦熊 X 组 · 知更鸟赛 & IAMOI Round #5（同步赛）",
+            "stime": 1758434400,
+            "etime": 1758447000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/276403"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J24】梦熊 J 组 · 知更鸟赛 & IAMOI Round #5（同步赛）",
+            "stime": 1758434400,
+            "etime": 1758447000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/276404"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 110",
             "stime": 1758452400,
@@ -99,12 +107,44 @@
             "link": "https://codeforces.com/contest/2146"
         },
         {
+            "oj": "luogu",
+            "name": "PO Final 2022 Unofficial Mirror",
+            "stime": 1758522600,
+            "etime": 1758540600,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/275647"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 1)",
+            "stime": 1758713700,
+            "etime": 1758722700,
+            "dtime": 9000,
+            "link": "https://codeforces.com/contest/2150"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1758713700,
+            "etime": 1758722700,
+            "dtime": 9000,
+            "link": "https://codeforces.com/contest/2151"
+        },
+        {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 3)",
             "stime": 1758810900,
             "etime": 1758819000,
             "dtime": 8100,
             "link": "https://codeforces.com/contest/2149"
+        },
+        {
+            "oj": "luogu",
+            "name": "zyh_helen's Construction Round",
+            "stime": 1758866400,
+            "etime": 1758880800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/273114"
         },
         {
             "oj": "nowcoder",
@@ -116,11 +156,11 @@
         },
         {
             "oj": "luogu",
-            "name": "zyh_helen's Construction Round",
+            "name": "【LGR-241-Div.2】洛谷 9 月月赛 II & CZOI Round 7",
             "stime": 1758952800,
             "etime": 1758967200,
             "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/273114"
+            "link": "https://www.luogu.com.cn/contest/243716"
         },
         {
             "oj": "atcoder",
@@ -163,6 +203,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/117503"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-242-Div.3】洛谷基础赛 #26 & IAMOI Round #4",
+            "stime": 1759298400,
+            "etime": 1759311000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/256849"
+        },
+        {
             "oj": "nowcoder",
             "name": "2025牛客国庆集训派对day2",
             "stime": 1759377600,
@@ -185,6 +233,14 @@
             "etime": 1760190000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc427"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客2025年1024程序员节娱乐赛",
+            "stime": 1761303600,
+            "etime": 1761310800,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/117846"
         }
     ]
 }
