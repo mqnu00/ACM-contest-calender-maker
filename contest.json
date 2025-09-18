@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1758147353,
-    "refreshTimeCH": "2025-09-18 06:15:53",
+    "refreshTimeStamp": 1758233722,
+    "refreshTimeCH": "2025-09-19 06:15:22",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -92,7 +92,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1052 (Div. 2)",
             "stime": 1758465300,
             "etime": 1758473400,
             "dtime": 8100,
@@ -110,16 +110,16 @@
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 1)",
             "stime": 1758713700,
-            "etime": 1758722700,
-            "dtime": 9000,
+            "etime": 1758724500,
+            "dtime": 10800,
             "link": "https://codeforces.com/contest/2150"
         },
         {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 2)",
             "stime": 1758713700,
-            "etime": 1758722700,
-            "dtime": 9000,
+            "etime": 1758724500,
+            "dtime": 10800,
             "link": "https://codeforces.com/contest/2151"
         },
         {

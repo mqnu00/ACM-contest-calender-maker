@@ -20,23 +20,23 @@ UID:Codeforces Global Round 29 (Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2147
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 2)
+SUMMARY:Codeforces Round 1052 (Div. 2)
 DTSTART:20250921T223500
 DTEND:20250922T005000
-UID:Codeforces Round (Div. 2)
+UID:Codeforces Round 1052 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2146
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 1)
 DTSTART:20250924T193500
-DTEND:20250924T220500
+DTEND:20250924T223500
 UID:Codeforces Round (Div. 1)
 DESCRIPTION:https://codeforces.com/contest/2150
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 2)
 DTSTART:20250924T193500
-DTEND:20250924T220500
+DTEND:20250924T223500
 UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2151
 END:VEVENT
