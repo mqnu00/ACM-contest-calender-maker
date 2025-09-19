@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1758233722,
-    "refreshTimeCH": "2025-09-19 06:15:22",
+    "refreshTimeStamp": 1758320228,
+    "refreshTimeCH": "2025-09-20 06:17:08",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "ALGO ARTIS Programming Contest 2025 Summer（AtCoder Heuristic Contest 054）",
-            "stime": 1758276000,
-            "etime": 1759140000,
-            "dtime": 864000,
-            "link": "https://atcoder.jp/contests/ahc054"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-241-Div.4】洛谷入门赛 #39",
-            "stime": 1758279600,
-            "etime": 1758286800,
-            "dtime": 7200,
-            "link": "https://www.luogu.com.cn/contest/275425"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客挑战赛82",
-            "stime": 1758279600,
-            "etime": 1758290400,
-            "dtime": 10800,
-            "link": "https://ac.nowcoder.com/acm/contest/117057"
-        },
         {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 424",
@@ -124,19 +100,11 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 1054 (Div. 3)",
             "stime": 1758810900,
             "etime": 1758819000,
             "dtime": 8100,
             "link": "https://codeforces.com/contest/2149"
-        },
-        {
-            "oj": "luogu",
-            "name": "zyh_helen's Construction Round",
-            "stime": 1758866400,
-            "etime": 1758880800,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/273114"
         },
         {
             "oj": "nowcoder",
@@ -169,6 +137,14 @@
             "etime": 1758988800,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-166"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 469",
+            "stime": 1759026600,
+            "etime": 1759032000,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-469"
         },
         {
             "oj": "nowcoder",
@@ -219,6 +195,14 @@
             "link": "https://codeforces.com/contest/2152"
         },
         {
+            "oj": "luogu",
+            "name": "zyh_helen's Construction Round",
+            "stime": 1759557600,
+            "etime": 1759572000,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/273114"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Regular Contest 207 (Div.1)",
             "stime": 1759665600,
@@ -233,6 +217,14 @@
             "etime": 1760190000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc427"
+        },
+        {
+            "oj": "atcoder",
+            "name": "RECRUIT Nihonbashi Half Marathon 2025 Autumn （AtCoder Heuristic Contest 055）",
+            "stime": 1760868000,
+            "etime": 1760882400,
+            "dtime": 14400,
+            "link": "https://atcoder.jp/contests/ahc055"
         },
         {
             "oj": "nowcoder",

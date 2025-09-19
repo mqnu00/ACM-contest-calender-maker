@@ -26,4 +26,11 @@ DTEND:20250928T000000
 UID:Biweekly Contest 166
 DESCRIPTION:https://leetcode.cn/contest/biweekly-contest-166
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Contest 469
+DTSTART:20250928T103000
+DTEND:20250928T120000
+UID:Weekly Contest 469
+DESCRIPTION:https://leetcode.cn/contest/weekly-contest-469
+END:VEVENT
 END:VCALENDAR

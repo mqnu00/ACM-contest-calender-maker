@@ -13,15 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:ALGO ARTIS Programming Contest 2025 Summer（AtCoder Heuristic Con
- test 054）
-DTSTART:20250919T180000
-DTEND:20250929T180000
-UID:ALGO ARTIS Programming Contest 2025 Summer（AtCoder Heuristic Contest
-  054）
-DESCRIPTION:https://atcoder.jp/contests/ahc054
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AtCoder Beginner Contest 424
 DTSTART:20250920T200000
 DTEND:20250920T214000
@@ -65,5 +56,14 @@ DTSTART:20251011T200000
 DTEND:20251011T214000
 UID:Panasonic Programming Contest 2025（AtCoder Beginner Contest 427）
 DESCRIPTION:https://atcoder.jp/contests/abc427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECRUIT Nihonbashi Half Marathon 2025 Autumn （AtCoder Heuristic 
+ Contest 055）
+DTSTART:20251019T180000
+DTEND:20251019T220000
+UID:RECRUIT Nihonbashi Half Marathon 2025 Autumn （AtCoder Heuristic Cont
+ est 055）
+DESCRIPTION:https://atcoder.jp/contests/ahc055
 END:VEVENT
 END:VCALENDAR
