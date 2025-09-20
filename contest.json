@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1758320228,
-    "refreshTimeCH": "2025-09-20 06:17:08",
+    "refreshTimeStamp": 1758406546,
+    "refreshTimeCH": "2025-09-21 06:15:46",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 424",
-            "stime": 1758369600,
-            "etime": 1758375600,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc424"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Global Round 29 (Div. 1 + Div. 2)",
-            "stime": 1758378900,
-            "etime": 1758389700,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2147"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 468",
