@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1758492999,
-    "refreshTimeCH": "2025-09-22 06:16:39",
+    "refreshTimeStamp": 1758579437,
+    "refreshTimeCH": "2025-09-23 06:17:17",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "PO Final 2022 Unofficial Mirror",
-            "stime": 1758522600,
-            "etime": 1758540600,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/275647"
-        },
         {
             "oj": "codeforces",
             "name": "Codeforces Round 1053 (Div. 1)",
@@ -123,6 +115,22 @@
             "link": "https://ac.nowcoder.com/acm/contest/117504"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-245-Div.1】「SFMOI」Round II",
+            "stime": 1759471200,
+            "etime": 1759485600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/228774"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-245-Div.2】「SFMOI」Round II",
+            "stime": 1759471200,
+            "etime": 1759485600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/277395"
+        },
+        {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 1 + Div. 2)",
             "stime": 1759502100,
@@ -139,6 +147,14 @@
             "link": "https://www.luogu.com.cn/contest/273114"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 470",
+            "stime": 1759631400,
+            "etime": 1759636800,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-470"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Regular Contest 207 (Div.1)",
             "stime": 1759665600,
@@ -147,12 +163,36 @@
             "link": "https://atcoder.jp/contests/arc207"
         },
         {
+            "oj": "luogu",
+            "name": "『Raiden Ei』 Round 1",
+            "stime": 1759730400,
+            "etime": 1759748400,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/250078"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Educational Codeforces Round 183 (Rated for Div. 2)",
+            "stime": 1759761300,
+            "etime": 1759768500,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2145"
+        },
+        {
             "oj": "atcoder",
             "name": "Panasonic Programming Contest 2025（AtCoder Beginner Contest 427）",
             "stime": 1760184000,
             "etime": 1760190000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc427"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 167",
+            "stime": 1760193000,
+            "etime": 1760198400,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-167"
         },
         {
             "oj": "atcoder",
