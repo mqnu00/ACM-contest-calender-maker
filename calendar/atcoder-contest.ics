@@ -29,6 +29,13 @@ UID:AtCoder Grand Contest 073
 DESCRIPTION:https://atcoder.jp/contests/agc073
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 426
+DTSTART:20251004T200000
+DTEND:20251004T214000
+UID:AtCoder Beginner Contest 426
+DESCRIPTION:https://atcoder.jp/contests/abc426
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AtCoder Regular Contest 207 (Div.1)
 DTSTART:20251005T200000
 DTEND:20251005T223000
@@ -42,6 +49,13 @@ DTSTART:20251011T200000
 DTEND:20251011T214000
 UID:Panasonic Programming Contest 2025（AtCoder Beginner Contest 427）
 DESCRIPTION:https://atcoder.jp/contests/abc427
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 428
+DTSTART:20251018T200000
+DTEND:20251018T214000
+UID:AtCoder Beginner Contest 428
+DESCRIPTION:https://atcoder.jp/contests/abc428
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RECRUIT Nihonbashi Half Marathon 2025 Autumn （AtCoder Heuristic 

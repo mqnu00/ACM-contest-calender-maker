@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1758665823,
-    "refreshTimeCH": "2025-09-24 06:17:03",
+    "refreshTimeStamp": 1758752243,
+    "refreshTimeCH": "2025-09-25 06:17:23",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1053 (Div. 1)",
-            "stime": 1758713700,
-            "etime": 1758724500,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2150"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1053 (Div. 2)",
-            "stime": 1758713700,
-            "etime": 1758724500,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2151"
-        },
         {
             "oj": "codeforces",
             "name": "Codeforces Round 1054 (Div. 3)",
@@ -147,6 +131,14 @@
             "link": "https://www.luogu.com.cn/contest/273114"
         },
         {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 426",
+            "stime": 1759579200,
+            "etime": 1759585200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc426"
+        },
+        {
             "oj": "leetcode",
             "name": "Weekly Contest 470",
             "stime": 1759631400,
@@ -201,6 +193,14 @@
             "etime": 1760198400,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-167"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 428",
+            "stime": 1760788800,
+            "etime": 1760794800,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc428"
         },
         {
             "oj": "atcoder",
