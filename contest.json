@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1758752243,
-    "refreshTimeCH": "2025-09-25 06:17:23",
+    "refreshTimeStamp": 1758838561,
+    "refreshTimeCH": "2025-09-26 06:16:01",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,20 +11,20 @@
     ],
     "contests": [
         {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1054 (Div. 3)",
-            "stime": 1758810900,
-            "etime": 1758819000,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2149"
-        },
-        {
             "oj": "nowcoder",
             "name": "牛客小白月赛121",
             "stime": 1758884400,
             "etime": 1758891600,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/117762"
+        },
+        {
+            "oj": "luogu",
+            "name": "Fortnight Round 1",
+            "stime": 1758931200,
+            "etime": 1758945600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/214471"
         },
         {
             "oj": "luogu",
@@ -57,6 +57,14 @@
             "etime": 1759032000,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-469"
+        },
+        {
+            "oj": "luogu",
+            "name": "POCamp 2022 Unofficial Mirror",
+            "stime": 1759041000,
+            "etime": 1759059000,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/277913"
         },
         {
             "oj": "nowcoder",
@@ -177,6 +185,14 @@
             "etime": 1759768500,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2145"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1760106900,
+            "etime": 1760114100,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2153"
         },
         {
             "oj": "atcoder",
