@@ -66,4 +66,12 @@ UID:RECRUIT Nihonbashi Half Marathon 2025 Autumn （AtCoder Heuristic Cont
  est 055）
 DESCRIPTION:https://atcoder.jp/contests/ahc055
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polaris.AI Programming Contest 2025（AtCoder Beginner Contest 429
+ ）
+DTSTART:20251025T200000
+DTEND:20251025T214000
+UID:Polaris.AI Programming Contest 2025（AtCoder Beginner Contest 429）
+DESCRIPTION:https://atcoder.jp/contests/abc429
+END:VEVENT
 END:VCALENDAR

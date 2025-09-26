@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1758838561,
-    "refreshTimeCH": "2025-09-26 06:16:01",
+    "refreshTimeStamp": 1758924998,
+    "refreshTimeCH": "2025-09-27 06:16:38",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛121",
-            "stime": 1758884400,
-            "etime": 1758891600,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/117762"
-        },
         {
             "oj": "luogu",
             "name": "Fortnight Round 1",
@@ -124,7 +116,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
             "stime": 1759502100,
             "etime": 1759512900,
             "dtime": 10800,
@@ -233,6 +225,14 @@
             "etime": 1761310800,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/117846"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Polaris.AI Programming Contest 2025（AtCoder Beginner Contest 429）",
+            "stime": 1761393600,
+            "etime": 1761399600,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc429"
         }
     ]
 }
