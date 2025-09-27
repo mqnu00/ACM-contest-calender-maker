@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1758924998,
-    "refreshTimeCH": "2025-09-27 06:16:38",
+    "refreshTimeStamp": 1759011342,
+    "refreshTimeCH": "2025-09-28 06:15:42",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "Fortnight Round 1",
-            "stime": 1758931200,
-            "etime": 1758945600,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/214471"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-242-Div.2】洛谷 9 月月赛 II & CZOI Round 7",
-            "stime": 1758952800,
-            "etime": 1758967200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/243716"
-        },
-        {
-            "oj": "atcoder",
-            "name": "UNIQUE VISION Programming Contest 2024 Autumn (AtCoder Beginner Contest 425)",
-            "stime": 1758974400,
-            "etime": 1758980400,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc425"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 166",
-            "stime": 1758983400,
-            "etime": 1758988800,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-166"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 469",
@@ -75,6 +43,14 @@
             "link": "https://atcoder.jp/contests/agc073"
         },
         {
+            "oj": "luogu",
+            "name": "[ZJCPC 2017] 第十四届浙江省 ICPC 大学生程序设计竞赛重现赛",
+            "stime": 1759122000,
+            "etime": 1759140000,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/278448"
+        },
+        {
             "oj": "nowcoder",
             "name": "2025牛客国庆集训派对day1",
             "stime": 1759291200,
@@ -100,11 +76,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【LGR-245-Div.1】「SFMOI」Round II",
-            "stime": 1759471200,
-            "etime": 1759485600,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/228774"
+            "name": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
+            "stime": 1759384800,
+            "etime": 1759401000,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/278458"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
+            "stime": 1759384800,
+            "etime": 1759401000,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/278459"
         },
         {
             "oj": "luogu",
@@ -113,6 +97,14 @@
             "etime": 1759485600,
             "dtime": 14400,
             "link": "https://www.luogu.com.cn/contest/277395"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-245-Div.1】「SFMOI」Round II",
+            "stime": 1759471200,
+            "etime": 1759485600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/228774"
         },
         {
             "oj": "codeforces",
@@ -137,6 +129,14 @@
             "etime": 1759585200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc426"
+        },
+        {
+            "oj": "luogu",
+            "name": "Algo Beat Contest 002.5",
+            "stime": 1759624200,
+            "etime": 1759636800,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/263244"
         },
         {
             "oj": "leetcode",
