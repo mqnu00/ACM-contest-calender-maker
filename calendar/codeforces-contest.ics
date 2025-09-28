@@ -20,6 +20,13 @@ UID:Squarepoint Challenge (Codeforces Round 1055\, Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2152
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20251006T003500
+DTEND:20251006T023500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2155
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Educational Codeforces Round 183 (Rated for Div. 2)
 DTSTART:20251006T223500
 DTEND:20251007T003500
@@ -32,5 +39,12 @@ DTSTART:20251010T223500
 DTEND:20251011T003500
 UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2153
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20251019T223500
+DTEND:20251020T003500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2154
 END:VEVENT
 END:VCALENDAR
