@@ -26,4 +26,11 @@ DTEND:20251012T000000
 UID:Biweekly Contest 167
 DESCRIPTION:https://leetcode.cn/contest/biweekly-contest-167
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Contest 471
+DTSTART:20251012T103000
+DTEND:20251012T120000
+UID:Weekly Contest 471
+DESCRIPTION:https://leetcode.cn/contest/weekly-contest-471
+END:VEVENT
 END:VCALENDAR

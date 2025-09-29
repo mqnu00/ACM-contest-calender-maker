@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1759097788,
-    "refreshTimeCH": "2025-09-29 06:16:28",
+    "refreshTimeStamp": 1759184152,
+    "refreshTimeCH": "2025-09-30 06:15:52",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "[ZJCPC 2017] 第十四届浙江省 ICPC 大学生程序设计竞赛重现赛",
-            "stime": 1759122000,
-            "etime": 1759140000,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/278448"
-        },
         {
             "oj": "nowcoder",
             "name": "2025牛客国庆集训派对day1",
@@ -52,14 +44,6 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
-            "stime": 1759384800,
-            "etime": 1759401000,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/278459"
-        },
-        {
-            "oj": "luogu",
             "name": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
             "stime": 1759384800,
             "etime": 1759401000,
@@ -68,11 +52,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【LGR-245-Div.2】洛谷 10 月月赛 I &「SFMOI」Round II",
-            "stime": 1759471200,
-            "etime": 1759485600,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/277395"
+            "name": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
+            "stime": 1759384800,
+            "etime": 1759401000,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/278459"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2025牛客国庆集训派对day3",
+            "stime": 1759464000,
+            "etime": 1759482000,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/117506"
         },
         {
             "oj": "luogu",
@@ -83,12 +75,28 @@
             "link": "https://www.luogu.com.cn/contest/228774"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-245-Div.2】洛谷 10 月月赛 I &「SFMOI」Round II",
+            "stime": 1759471200,
+            "etime": 1759485600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/277395"
+        },
+        {
             "oj": "codeforces",
             "name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
             "stime": 1759502100,
             "etime": 1759512900,
             "dtime": 10800,
             "link": "https://codeforces.com/contest/2152"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2025牛客国庆集训派对day4",
+            "stime": 1759550400,
+            "etime": 1759568400,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/117507"
         },
         {
             "oj": "luogu",
@@ -121,6 +129,14 @@
             "etime": 1759636800,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-470"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2025牛客国庆集训派对day5",
+            "stime": 1759636800,
+            "etime": 1759654800,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/117508"
         },
         {
             "oj": "luogu",
@@ -163,12 +179,52 @@
             "link": "https://www.luogu.com.cn/contest/278653"
         },
         {
+            "oj": "nowcoder",
+            "name": "2025牛客国庆集训派对day6",
+            "stime": 1759723200,
+            "etime": 1759741200,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/117509"
+        },
+        {
             "oj": "codeforces",
             "name": "Educational Codeforces Round 183 (Rated for Div. 2)",
             "stime": 1759761300,
             "etime": 1759768500,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2145"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2025牛客国庆集训派对day7",
+            "stime": 1759809600,
+            "etime": 1759827600,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/117510"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-244-Div.1】洛谷 10 月月赛 II & FAOI-R8",
+            "stime": 1759816800,
+            "etime": 1759831200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/230741"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-244-Div.2】洛谷 10 月月赛 II & FAOI-R8",
+            "stime": 1759816800,
+            "etime": 1759831200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/278764"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2025牛客国庆集训派对day8",
+            "stime": 1759896000,
+            "etime": 1759914000,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/117511"
         },
         {
             "oj": "codeforces",
@@ -193,6 +249,14 @@
             "etime": 1760198400,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-167"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 471",
+            "stime": 1760236200,
+            "etime": 1760241600,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-471"
         },
         {
             "oj": "atcoder",
