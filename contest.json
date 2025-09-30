@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1759184152,
-    "refreshTimeCH": "2025-09-30 06:15:52",
+    "refreshTimeStamp": 1759270621,
+    "refreshTimeCH": "2025-10-01 06:17:01",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -185,6 +185,22 @@
             "etime": 1759741200,
             "dtime": 18000,
             "link": "https://ac.nowcoder.com/acm/contest/117509"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
+            "stime": 1759730400,
+            "etime": 1759743000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/278944"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J26】梦熊 J 组 · 月亮赛（同步赛）",
+            "stime": 1759730400,
+            "etime": 1759743000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/278945"
         },
         {
             "oj": "codeforces",
