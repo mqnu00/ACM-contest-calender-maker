@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1759270621,
-    "refreshTimeCH": "2025-10-01 06:17:01",
+    "refreshTimeStamp": 1759357017,
+    "refreshTimeCH": "2025-10-02 06:16:57",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "2025牛客国庆集训派对day1",
-            "stime": 1759291200,
-            "etime": 1759309200,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/117503"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-243-Div.3】洛谷基础赛 #26 & IAMOI Round #4",
-            "stime": 1759298400,
-            "etime": 1759311000,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/256849"
-        },
         {
             "oj": "luogu",
             "name": "[SCCPC 2021] 第十三届四川省 ICPC 大学生程序设计竞赛重现赛",
@@ -44,7 +28,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
+            "name": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4",
             "stime": 1759384800,
             "etime": 1759401000,
             "dtime": 16200,
@@ -52,7 +36,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4（同步赛）",
+            "name": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4",
             "stime": 1759384800,
             "etime": 1759401000,
             "dtime": 16200,
@@ -281,6 +265,22 @@
             "etime": 1760794800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc428"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 1)",
+            "stime": 1760798100,
+            "etime": 1760805300,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2159"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1760798100,
+            "etime": 1760805300,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2160"
         },
         {
             "oj": "atcoder",
