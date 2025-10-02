@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1759357017,
-    "refreshTimeCH": "2025-10-02 06:16:57",
+    "refreshTimeStamp": 1759443400,
+    "refreshTimeCH": "2025-10-03 06:16:40",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "[SCCPC 2021] 第十三届四川省 ICPC 大学生程序设计竞赛重现赛",
-            "stime": 1759365000,
-            "etime": 1759383000,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/278652"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "2025牛客国庆集训派对day2",
-            "stime": 1759377600,
-            "etime": 1759395600,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/117504"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-X22】梦熊 X 组 · 猫耳小赛 & TPOI Round 4",
-            "stime": 1759384800,
-            "etime": 1759401000,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/278458"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-J25】梦熊 J 组 · 猫耳小赛 & TPOI Round 4",
-            "stime": 1759384800,
-            "etime": 1759401000,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/278459"
-        },
         {
             "oj": "nowcoder",
             "name": "2025牛客国庆集训派对day3",
