@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1759443400,
-    "refreshTimeCH": "2025-10-03 06:16:40",
+    "refreshTimeStamp": 1759616172,
+    "refreshTimeCH": "2025-10-05 06:16:12",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,62 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "2025牛客国庆集训派对day3",
-            "stime": 1759464000,
-            "etime": 1759482000,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/117506"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-245-Div.1】洛谷 10 月月赛 I &「SFMOI」Round II",
-            "stime": 1759471200,
-            "etime": 1759485600,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/228774"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-245-Div.2】洛谷 10 月月赛 I &「SFMOI」Round II",
-            "stime": 1759471200,
-            "etime": 1759485600,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/277395"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2)",
-            "stime": 1759502100,
-            "etime": 1759512900,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2152"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "2025牛客国庆集训派对day4",
-            "stime": 1759550400,
-            "etime": 1759568400,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/117507"
-        },
-        {
-            "oj": "luogu",
-            "name": "zyh_helen's Construction Round",
-            "stime": 1759557600,
-            "etime": 1759572000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/273114"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 426",
-            "stime": 1759579200,
-            "etime": 1759585200,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc426"
-        },
         {
             "oj": "luogu",
             "name": "Algo Beat Contest 002.5",
@@ -116,7 +60,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1056 (Div. 2)",
             "stime": 1759682100,
             "etime": 1759689300,
             "dtime": 7200,
@@ -140,19 +84,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
+            "name": "【MX-J26】梦熊 J 组 · 月亮赛（同步赛）",
             "stime": 1759730400,
-            "etime": 1759743000,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/278944"
+            "etime": 1759739400,
+            "dtime": 9000,
+            "link": "https://www.luogu.com.cn/contest/278945"
         },
         {
             "oj": "luogu",
-            "name": "【MX-J26】梦熊 J 组 · 月亮赛（同步赛）",
+            "name": "【MX-X23】梦熊 X 组 · 月亮赛（同步赛）",
             "stime": 1759730400,
-            "etime": 1759743000,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/278945"
+            "etime": 1759739400,
+            "dtime": 9000,
+            "link": "https://www.luogu.com.cn/contest/278944"
         },
         {
             "oj": "codeforces",
@@ -196,7 +140,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1057 (Div. 2)",
             "stime": 1760106900,
             "etime": 1760114100,
             "dtime": 7200,
@@ -217,6 +161,14 @@
             "etime": 1760198400,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-167"
+        },
+        {
+            "oj": "luogu",
+            "name": "KismetOI Easy Round 1",
+            "stime": 1760229000,
+            "etime": 1760243400,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/270938"
         },
         {
             "oj": "leetcode",
