@@ -51,4 +51,18 @@ DTEND:20251025T214000
 UID:Polaris.AI Programming Contest 2025（AtCoder Beginner Contest 429）
 DESCRIPTION:https://atcoder.jp/contests/abc429
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FPS 24: 24 Problems on Formal Power Series
+DTSTART:20251026T120000
+DTEND:20251026T170000
+UID:FPS 24: 24 Problems on Formal Power Series
+DESCRIPTION:https://atcoder.jp/contests/fps-24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）
+DTSTART:20251107T180000
+DTEND:20251117T180000
+UID:HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）
+DESCRIPTION:https://atcoder.jp/contests/ahc056
+END:VEVENT
 END:VCALENDAR
