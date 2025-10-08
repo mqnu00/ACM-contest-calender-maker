@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1759875447,
-    "refreshTimeCH": "2025-10-08 06:17:27",
+    "refreshTimeStamp": 1759961877,
+    "refreshTimeCH": "2025-10-09 06:17:57",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,20 +11,20 @@
     ],
     "contests": [
         {
-            "oj": "nowcoder",
-            "name": "2025牛客国庆集训派对day8",
-            "stime": 1759896000,
-            "etime": 1759914000,
-            "dtime": 18000,
-            "link": "https://ac.nowcoder.com/acm/contest/117511"
-        },
-        {
             "oj": "codeforces",
             "name": "Codeforces Round 1057 (Div. 2)",
             "stime": 1760106900,
             "etime": 1760114100,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2153"
+        },
+        {
+            "oj": "luogu",
+            "name": "[ICPC2024 Hangzhou R] ICPC2024 区域赛杭州站重现赛",
+            "stime": 1760158800,
+            "etime": 1760176800,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/281894"
         },
         {
             "oj": "atcoder",
@@ -57,6 +57,22 @@
             "etime": 1760241600,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-471"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J27】梦熊 J 组 · 土豆赛 & LSOT Round 5（同步赛）",
+            "stime": 1760248800,
+            "etime": 1760261400,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/281713"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X24】梦熊 X 组 · 土豆赛 & LSOT Round 5（同步赛）",
+            "stime": 1760248800,
+            "etime": 1760261400,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/281712"
         },
         {
             "oj": "atcoder",
@@ -131,6 +147,22 @@
             "link": "https://ac.nowcoder.com/acm/contest/117846"
         },
         {
+            "oj": "luogu",
+            "name": "【MX-J28】梦熊 CSP-J 2025 模拟赛（同步赛）",
+            "stime": 1761352200,
+            "etime": 1761364800,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/281945"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-S8】梦熊 CSP-S 2025 模拟赛（同步赛）",
+            "stime": 1761373800,
+            "etime": 1761388200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/281947"
+        },
+        {
             "oj": "atcoder",
             "name": "Polaris.AI Programming Contest 2025（AtCoder Beginner Contest 429）",
             "stime": 1761393600,
@@ -145,6 +177,14 @@
             "etime": 1761469200,
             "dtime": 18000,
             "link": "https://atcoder.jp/contests/fps-24"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Grand Contest 074",
+            "stime": 1761480000,
+            "etime": 1761490800,
+            "dtime": 10800,
+            "link": "https://atcoder.jp/contests/agc074"
         },
         {
             "oj": "atcoder",
