@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1759961877,
-    "refreshTimeCH": "2025-10-09 06:17:57",
+    "refreshTimeStamp": 1760048244,
+    "refreshTimeCH": "2025-10-10 06:17:24",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -75,6 +75,14 @@
             "link": "https://www.luogu.com.cn/contest/281712"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 113",
+            "stime": 1760266800,
+            "etime": 1760274000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/119225"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Regular Contest 208 (Div. 2)",
             "stime": 1760270400,
@@ -97,6 +105,30 @@
             "etime": 1760288700,
             "dtime": 9000,
             "link": "https://codeforces.com/contest/2160"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客2025秋季算法编程训练联赛1-基础组",
+            "stime": 1760526000,
+            "etime": 1760533200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/118654"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客2025秋季算法编程训练联赛1-提升组",
+            "stime": 1760526000,
+            "etime": 1760535000,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/119232"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 3)",
+            "stime": 1760711700,
+            "etime": 1760719800,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2162"
         },
         {
             "oj": "luogu",
@@ -123,12 +155,28 @@
             "link": "https://www.luogu.com.cn/contest/281663"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 472",
+            "stime": 1760841000,
+            "etime": 1760846400,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-472"
+        },
+        {
             "oj": "atcoder",
             "name": "RECRUIT Nihonbashi Half Marathon 2025 Autumn （AtCoder Heuristic Contest 055）",
             "stime": 1760868000,
             "etime": 1760882400,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc055"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 114",
+            "stime": 1760871600,
+            "etime": 1760878800,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/119273"
         },
         {
             "oj": "codeforces",
@@ -171,6 +219,14 @@
             "link": "https://atcoder.jp/contests/abc429"
         },
         {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 168",
+            "stime": 1761402600,
+            "etime": 1761408000,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-168"
+        },
+        {
             "oj": "atcoder",
             "name": "FPS 24: 24 Problems on Formal Power Series",
             "stime": 1761451200,
@@ -185,6 +241,14 @@
             "etime": 1761490800,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc074"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "九坤极限 Code 双赛季 · Accepted编程网络预赛",
+            "stime": 1761649200,
+            "etime": 1761660000,
+            "dtime": 10800,
+            "link": "https://ac.nowcoder.com/acm/contest/117945"
         },
         {
             "oj": "atcoder",

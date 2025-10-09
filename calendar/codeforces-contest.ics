@@ -34,6 +34,13 @@ UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2160
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 3)
+DTSTART:20251017T223500
+DTEND:20251018T005000
+UID:Codeforces Round (Div. 3)
+DESCRIPTION:https://codeforces.com/contest/2162
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 2)
 DTSTART:20251019T223500
 DTEND:20251020T003500
