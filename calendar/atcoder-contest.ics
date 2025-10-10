@@ -72,4 +72,29 @@ DTEND:20251117T180000
 UID:HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）
 DESCRIPTION:https://atcoder.jp/contests/ahc056
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:東京科学大学プログラミングコンテスト2025 (Div. 1
+ )
+DTSTART:20251108T120000
+DTEND:20251108T170000
+UID:東京科学大学プログラミングコンテスト2025 (Div. 1)
+DESCRIPTION:https://atcoder.jp/contests/stpc2025_1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:東京科学大学プログラミングコンテスト2025 (Div. 2
+ )
+DTSTART:20251108T120000
+DTEND:20251108T170000
+UID:東京科学大学プログラミングコンテスト2025 (Div. 2)
+DESCRIPTION:https://atcoder.jp/contests/stpc2025_2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOYOTA SYSTEMS Programming Contest 2025（AtCoder Beginner Contest
+  431)
+DTSTART:20251108T200000
+DTEND:20251108T214000
+UID:TOYOTA SYSTEMS Programming Contest 2025（AtCoder Beginner Contest 431
+ )
+DESCRIPTION:https://atcoder.jp/contests/abc431
+END:VEVENT
 END:VCALENDAR

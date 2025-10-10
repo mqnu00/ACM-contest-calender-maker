@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1760048244,
-    "refreshTimeCH": "2025-10-10 06:17:24",
+    "refreshTimeStamp": 1760134606,
+    "refreshTimeCH": "2025-10-11 06:16:46",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1057 (Div. 2)",
-            "stime": 1760106900,
-            "etime": 1760114100,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2153"
-        },
         {
             "oj": "luogu",
             "name": "[ICPC2024 Hangzhou R] ICPC2024 区域赛杭州站重现赛",
@@ -57,22 +49,6 @@
             "etime": 1760241600,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-471"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-J27】梦熊 J 组 · 土豆赛 & LSOT Round 5（同步赛）",
-            "stime": 1760248800,
-            "etime": 1760261400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/281713"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-X24】梦熊 X 组 · 土豆赛 & LSOT Round 5（同步赛）",
-            "stime": 1760248800,
-            "etime": 1760261400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/281712"
         },
         {
             "oj": "nowcoder",
@@ -161,6 +137,22 @@
             "etime": 1760846400,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-472"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J27】梦熊 J 组 · 土豆赛 & LSOT Round 5（同步赛）",
+            "stime": 1760853600,
+            "etime": 1760866200,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/281713"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X24】梦熊 X 组 · 土豆赛 & LSOT Round 5（同步赛）",
+            "stime": 1760853600,
+            "etime": 1760866200,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/281712"
         },
         {
             "oj": "atcoder",
@@ -257,6 +249,30 @@
             "etime": 1763373600,
             "dtime": 864000,
             "link": "https://atcoder.jp/contests/ahc056"
+        },
+        {
+            "oj": "atcoder",
+            "name": "東京科学大学プログラミングコンテスト2025 (Div. 1)",
+            "stime": 1762574400,
+            "etime": 1762592400,
+            "dtime": 18000,
+            "link": "https://atcoder.jp/contests/stpc2025_1"
+        },
+        {
+            "oj": "atcoder",
+            "name": "東京科学大学プログラミングコンテスト2025 (Div. 2)",
+            "stime": 1762574400,
+            "etime": 1762592400,
+            "dtime": 18000,
+            "link": "https://atcoder.jp/contests/stpc2025_2"
+        },
+        {
+            "oj": "atcoder",
+            "name": "TOYOTA SYSTEMS Programming Contest 2025（AtCoder Beginner Contest 431)",
+            "stime": 1762603200,
+            "etime": 1762609200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc431"
         }
     ]
 }
