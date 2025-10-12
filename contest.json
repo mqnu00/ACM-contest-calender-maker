@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1760220981,
-    "refreshTimeCH": "2025-10-12 06:16:21",
+    "refreshTimeStamp": 1760307398,
+    "refreshTimeCH": "2025-10-13 06:16:38",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,51 +12,11 @@
     "contests": [
         {
             "oj": "luogu",
-            "name": "KismetOI Easy Round 1",
-            "stime": 1760229000,
-            "etime": 1760243400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/270938"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 471",
-            "stime": 1760236200,
-            "etime": 1760241600,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-471"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 113",
-            "stime": 1760266800,
-            "etime": 1760274000,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/119225"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 208 (Div. 2)",
-            "stime": 1760270400,
-            "etime": 1760277600,
-            "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc208"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1058 (Div. 1)",
-            "stime": 1760279700,
-            "etime": 1760288700,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2159"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1058 (Div. 2)",
-            "stime": 1760279700,
-            "etime": 1760288700,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2160"
+            "name": "[ICPC2024 Kunming I] ICPC2024 邀请赛昆明站重现赛",
+            "stime": 1760418000,
+            "etime": 1760436000,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/282825"
         },
         {
             "oj": "nowcoder",
@@ -113,22 +73,6 @@
             "etime": 1760846400,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-472"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-X24】梦熊 X 组 · 土豆赛 & LSOT Round 5（同步赛）",
-            "stime": 1760853600,
-            "etime": 1760866200,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/281712"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-J27】梦熊 J 组 · 土豆赛 & LSOT Round 5（同步赛）",
-            "stime": 1760853600,
-            "etime": 1760866200,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/281713"
         },
         {
             "oj": "atcoder",
