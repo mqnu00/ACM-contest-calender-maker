@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1760307398,
-    "refreshTimeCH": "2025-10-13 06:16:38",
+    "refreshTimeStamp": 1760393862,
+    "refreshTimeCH": "2025-10-14 06:17:42",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -35,8 +35,16 @@
             "link": "https://ac.nowcoder.com/acm/contest/119232"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-251-Div.4】洛谷入门赛 #40",
+            "stime": 1760698800,
+            "etime": 1760706000,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/283134"
+        },
+        {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 1059 (Div. 3)",
             "stime": 1760711700,
             "etime": 1760719800,
             "dtime": 8100,
@@ -107,6 +115,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/117846"
         },
         {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1761316500,
+            "etime": 1761323700,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2156"
+        },
+        {
             "oj": "luogu",
             "name": "【MX-J28】梦熊 CSP-J 2025 模拟赛（同步赛）",
             "stime": 1761352200,
@@ -171,6 +187,22 @@
             "link": "https://ac.nowcoder.com/acm/contest/117945"
         },
         {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "stime": 1761834900,
+            "etime": 1761842100,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2161"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
+            "stime": 1762353300,
+            "etime": 1762364100,
+            "dtime": 10800,
+            "link": "https://codeforces.com/contest/2164"
+        },
+        {
             "oj": "atcoder",
             "name": "HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）",
             "stime": 1762509600,
@@ -201,6 +233,14 @@
             "etime": 1762609200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc431"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1763303700,
+            "etime": 1763310900,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2166"
         }
     ]
 }
