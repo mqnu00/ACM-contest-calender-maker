@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1760393862,
-    "refreshTimeCH": "2025-10-14 06:17:42",
+    "refreshTimeStamp": 1760480273,
+    "refreshTimeCH": "2025-10-15 06:17:53",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "[ICPC2024 Kunming I] ICPC2024 邀请赛昆明站重现赛",
-            "stime": 1760418000,
-            "etime": 1760436000,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/282825"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客2025秋季算法编程训练联赛1-基础组",
@@ -41,6 +33,14 @@
             "etime": 1760706000,
             "dtime": 7200,
             "link": "https://www.luogu.com.cn/contest/283134"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛122",
+            "stime": 1760698800,
+            "etime": 1760706000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/119664"
         },
         {
             "oj": "codeforces",
@@ -155,12 +155,28 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-168"
         },
         {
-            "oj": "atcoder",
-            "name": "FPS 24: 24 Problems on Formal Power Series",
-            "stime": 1761451200,
-            "etime": 1761469200,
-            "dtime": 18000,
-            "link": "https://atcoder.jp/contests/fps-24"
+            "oj": "leetcode",
+            "name": "Weekly Contest 473",
+            "stime": 1761445800,
+            "etime": 1761451200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-473"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-252-Div.1】洛谷 10 月月赛 III & ALFR Round 11",
+            "stime": 1761458400,
+            "etime": 1761472800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/246498"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-252-Div.2】洛谷 10 月月赛 III & ALFR Round 11",
+            "stime": 1761458400,
+            "etime": 1761472800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/282964"
         },
         {
             "oj": "luogu",
@@ -195,10 +211,34 @@
             "link": "https://codeforces.com/contest/2161"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客练习赛145",
+            "stime": 1761908400,
+            "etime": 1761917400,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/119666"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 430",
+            "stime": 1761998400,
+            "etime": 1762004400,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc430"
+        },
+        {
+            "oj": "atcoder",
+            "name": "FPS 24: 24 Problems on Formal Power Series",
+            "stime": 1762142400,
+            "etime": 1762160400,
+            "dtime": 18000,
+            "link": "https://atcoder.jp/contests/fps-24"
+        },
+        {
             "oj": "codeforces",
             "name": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
-            "stime": 1762353300,
-            "etime": 1762364100,
+            "stime": 1762439700,
+            "etime": 1762450500,
             "dtime": 10800,
             "link": "https://codeforces.com/contest/2164"
         },
