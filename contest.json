@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1760480273,
-    "refreshTimeCH": "2025-10-15 06:17:53",
+    "refreshTimeStamp": 1760566571,
+    "refreshTimeCH": "2025-10-16 06:16:11",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,20 +11,12 @@
     ],
     "contests": [
         {
-            "oj": "nowcoder",
-            "name": "牛客2025秋季算法编程训练联赛1-基础组",
-            "stime": 1760526000,
-            "etime": 1760533200,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/118654"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客2025秋季算法编程训练联赛1-提升组",
-            "stime": 1760526000,
-            "etime": 1760535000,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/119232"
+            "oj": "luogu",
+            "name": "[CCPC2024 Shandong I] CCPC2024 邀请赛山东站重现赛",
+            "stime": 1760677200,
+            "etime": 1760695200,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/283411"
         },
         {
             "oj": "luogu",
@@ -108,6 +100,22 @@
         },
         {
             "oj": "nowcoder",
+            "name": "牛客2025秋季算法编程训练联赛2-基础组",
+            "stime": 1761130800,
+            "etime": 1761138000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/118653"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客2025秋季算法编程训练联赛2-提升组",
+            "stime": 1761130800,
+            "etime": 1761139800,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/119774"
+        },
+        {
+            "oj": "nowcoder",
             "name": "牛客2025年1024程序员节娱乐赛",
             "stime": 1761303600,
             "etime": 1761310800,
@@ -155,6 +163,14 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-168"
         },
         {
+            "oj": "luogu",
+            "name": "Aboi Round 2",
+            "stime": 1761436800,
+            "etime": 1761453000,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/278623"
+        },
+        {
             "oj": "leetcode",
             "name": "Weekly Contest 473",
             "stime": 1761445800,
@@ -179,14 +195,6 @@
             "link": "https://www.luogu.com.cn/contest/282964"
         },
         {
-            "oj": "luogu",
-            "name": "Aboi Round 2",
-            "stime": 1761458400,
-            "etime": 1761474600,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/278623"
-        },
-        {
             "oj": "atcoder",
             "name": "AtCoder Grand Contest 074",
             "stime": 1761480000,
@@ -201,6 +209,14 @@
             "etime": 1761660000,
             "dtime": 10800,
             "link": "https://ac.nowcoder.com/acm/contest/117945"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 4)",
+            "stime": 1761662100,
+            "etime": 1761670200,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2167"
         },
         {
             "oj": "codeforces",
