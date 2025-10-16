@@ -89,4 +89,11 @@ UID:TOYOTA SYSTEMS Programming Contest 2025（AtCoder Beginner Contest 431
  )
 DESCRIPTION:https://atcoder.jp/contests/abc431
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 210
+DTSTART:20251116T200000
+DTEND:20251116T220000
+UID:AtCoder Regular Contest 210
+DESCRIPTION:https://atcoder.jp/contests/arc210
+END:VEVENT
 END:VCALENDAR
