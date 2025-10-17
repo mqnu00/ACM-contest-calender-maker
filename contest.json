@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1760652888,
-    "refreshTimeCH": "2025-10-17 06:14:48",
+    "refreshTimeStamp": 1760739455,
+    "refreshTimeCH": "2025-10-18 06:17:35",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "[CCPC2024 Shandong I] CCPC2024 邀请赛山东站重现赛",
-            "stime": 1760677200,
-            "etime": 1760695200,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/283411"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-251-Div.4】洛谷入门赛 #40",
-            "stime": 1760698800,
-            "etime": 1760706000,
-            "dtime": 7200,
-            "link": "https://www.luogu.com.cn/contest/283134"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛122",
-            "stime": 1760698800,
-            "etime": 1760706000,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/119664"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1059 (Div. 3)",
-            "stime": 1760711700,
-            "etime": 1760719800,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2162"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-246】SCP 2025 第二轮（复赛 S 组）模拟",
@@ -92,7 +60,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1060 (Div. 2)",
             "stime": 1760884500,
             "etime": 1760891700,
             "dtime": 7200,
@@ -124,7 +92,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1061 (Div. 2)",
             "stime": 1761316500,
             "etime": 1761323700,
             "dtime": 7200,
