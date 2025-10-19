@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1760825800,
-    "refreshTimeCH": "2025-10-19 06:16:40",
+    "refreshTimeStamp": 1760912228,
+    "refreshTimeCH": "2025-10-20 06:17:08",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,46 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-247】SCP 2025 第二轮（复赛 J 组）模拟",
-            "stime": 1760833800,
-            "etime": 1760846400,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/281663"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 472",
-            "stime": 1760841000,
-            "etime": 1760846400,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-472"
-        },
-        {
-            "oj": "atcoder",
-            "name": "RECRUIT Nihonbashi Half Marathon 2025 Autumn （AtCoder Heuristic Contest 055）",
-            "stime": 1760868000,
-            "etime": 1760882400,
-            "dtime": 14400,
-            "link": "https://atcoder.jp/contests/ahc055"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 114",
-            "stime": 1760871600,
-            "etime": 1760878800,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/119273"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1060 (Div. 2)",
-            "stime": 1760884500,
-            "etime": 1760891700,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2154"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客2025秋季算法编程训练联赛2-基础组",
