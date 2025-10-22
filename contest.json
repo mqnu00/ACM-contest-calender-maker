@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1761084986,
-    "refreshTimeCH": "2025-10-22 06:16:26",
+    "refreshTimeStamp": 1761171320,
+    "refreshTimeCH": "2025-10-23 06:15:20",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客2025秋季算法编程训练联赛2-基础组",
-            "stime": 1761130800,
-            "etime": 1761138000,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/118653"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客2025秋季算法编程训练联赛2-提升组",
-            "stime": 1761130800,
-            "etime": 1761139800,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/119774"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客2025年1024程序员节娱乐赛",
@@ -150,8 +134,8 @@
             "oj": "nowcoder",
             "name": "牛客2025秋季算法编程训练联赛3-提升组",
             "stime": 1761735600,
-            "etime": 1792675800,
-            "dtime": 30940200,
+            "etime": 1761744600,
+            "dtime": 9000,
             "link": "https://ac.nowcoder.com/acm/contest/120456"
         },
         {
@@ -185,6 +169,14 @@
             "etime": 1762056000,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-474"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 116",
+            "stime": 1762081200,
+            "etime": 1762088400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/120553"
         },
         {
             "oj": "atcoder",
