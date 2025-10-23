@@ -27,10 +27,10 @@ UID:Codeforces Round (Div. 4)
 DESCRIPTION:https://codeforces.com/contest/2167
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 1 + Div. 2)
-DTSTART:20251030T223500
-DTEND:20251031T003500
-UID:Codeforces Round (Div. 1 + Div. 2)
+SUMMARY:Pinely Round 5 (Div. 1 + Div. 2)
+DTSTART:20251031T003500
+DTEND:20251031T033500
+UID:Pinely Round 5 (Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2161
 END:VEVENT
 BEGIN:VEVENT
