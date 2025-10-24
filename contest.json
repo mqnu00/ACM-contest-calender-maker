@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1761257887,
-    "refreshTimeCH": "2025-10-24 06:18:07",
+    "refreshTimeStamp": 1761344306,
+    "refreshTimeCH": "2025-10-25 06:18:26",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客2025年1024程序员节娱乐赛",
-            "stime": 1761303600,
-            "etime": 1761314400,
-            "dtime": 10800,
-            "link": "https://ac.nowcoder.com/acm/contest/117846"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1061 (Div. 2)",
-            "stime": 1761316500,
-            "etime": 1761323700,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2156"
-        },
         {
             "oj": "luogu",
             "name": "【MX-J27】梦熊 CSP-J 2025 模拟赛（同步赛）",
@@ -131,6 +115,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/120452"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客2025秋季算法编程训练联赛3-提升组",
+            "stime": 1761735600,
+            "etime": 1761744600,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/120456"
+        },
+        {
             "oj": "codeforces",
             "name": "Pinely Round 5 (Div. 1 + Div. 2)",
             "stime": 1761842100,
@@ -192,7 +184,7 @@
             "stime": 1762340400,
             "etime": 1762349400,
             "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/120456"
+            "link": "https://ac.nowcoder.com/acm/contest/120457"
         },
         {
             "oj": "codeforces",
