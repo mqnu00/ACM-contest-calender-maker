@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1761356322,
-    "refreshTimeCH": "2025-10-25 09:38:42",
+    "refreshTimeStamp": 1761430589,
+    "refreshTimeCH": "2025-10-26 06:16:29",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【MX-J27】梦熊 CSP-J 2025 模拟赛（同步赛）",
-            "stime": 1761352200,
-            "etime": 1761364800,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/281945"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-S8】梦熊 CSP-S 2025 模拟赛（同步赛）",
-            "stime": 1761373800,
-            "etime": 1761388200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/281947"
-        },
-        {
-            "oj": "atcoder",
-            "name": "Polaris.AI Programming Contest 2025（AtCoder Beginner Contest 429）",
-            "stime": 1761393600,
-            "etime": 1761399600,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc429"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 168",
-            "stime": 1761402600,
-            "etime": 1761408000,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-168"
-        },
         {
             "oj": "luogu",
             "name": "Aboi Round 2",
@@ -100,7 +68,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 4)",
+            "name": "Codeforces Round 1062 (Div. 4)",
             "stime": 1761662100,
             "etime": 1761670200,
             "dtime": 8100,
