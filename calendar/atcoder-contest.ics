@@ -66,10 +66,26 @@ UID:AtCoder Regular Contest 209 (Div. 1)
 DESCRIPTION:https://atcoder.jp/contests/arc209
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:OMRON Corporation Programming Contest 2025 #2 (AtCoder Beginner Co
+ ntest 432)
+DTSTART:20251115T200000
+DTEND:20251115T214000
+UID:OMRON Corporation Programming Contest 2025 #2 (AtCoder Beginner Contes
+ t 432)
+DESCRIPTION:https://atcoder.jp/contests/abc432
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AtCoder Regular Contest 210
 DTSTART:20251116T200000
 DTEND:20251116T220000
 UID:AtCoder Regular Contest 210
 DESCRIPTION:https://atcoder.jp/contests/arc210
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 433
+DTSTART:20251122T200000
+DTEND:20251122T214000
+UID:AtCoder Beginner Contest 433
+DESCRIPTION:https://atcoder.jp/contests/abc433
 END:VEVENT
 END:VCALENDAR
