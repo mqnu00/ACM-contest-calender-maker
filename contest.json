@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1761689941,
-    "refreshTimeCH": "2025-10-29 06:19:01",
+    "refreshTimeStamp": 1761776336,
+    "refreshTimeCH": "2025-10-30 06:18:56",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客2025秋季算法编程训练联赛3-基础组",
-            "stime": 1761735600,
-            "etime": 1761742800,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/120452"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客2025秋季算法编程训练联赛3-提升组",
-            "stime": 1761735600,
-            "etime": 1761744600,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/120456"
-        },
         {
             "oj": "codeforces",
             "name": "Pinely Round 5 (Div. 1 + Div. 2)",
