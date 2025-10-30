@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1761776336,
-    "refreshTimeCH": "2025-10-30 06:18:56",
+    "refreshTimeStamp": 1761862716,
+    "refreshTimeCH": "2025-10-31 06:18:36",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Pinely Round 5 (Div. 1 + Div. 2)",
-            "stime": 1761842100,
-            "etime": 1761852900,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2161"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客练习赛145",
@@ -99,6 +91,14 @@
             "link": "https://atcoder.jp/contests/ahc056"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客挑战赛83",
+            "stime": 1762513200,
+            "etime": 1762524000,
+            "dtime": 10800,
+            "link": "https://ac.nowcoder.com/acm/contest/121395"
+        },
+        {
             "oj": "luogu",
             "name": "【MX-S10】梦熊 NOIP 2025 模拟赛 2 & FeOI Round 4（同步赛）",
             "stime": 1762561800,
@@ -147,12 +147,36 @@
             "link": "https://www.luogu.com.cn/contest/276844"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 117",
+            "stime": 1762686000,
+            "etime": 1762693200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/121300"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Regular Contest 209 (Div. 1)",
             "stime": 1762689600,
             "etime": 1762698600,
             "dtime": 9000,
             "link": "https://atcoder.jp/contests/arc209"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客2025秋季算法编程训练联赛5-基础组",
+            "stime": 1762945200,
+            "etime": 1762952400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/120454"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客2025秋季算法编程训练联赛5-提升组",
+            "stime": 1762945200,
+            "etime": 1792675800,
+            "dtime": 29730600,
+            "link": "https://ac.nowcoder.com/acm/contest/120458"
         },
         {
             "oj": "atcoder",
@@ -201,6 +225,14 @@
             "etime": 1763818800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc433"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2026牛客寒假算法基础集训营1",
+            "stime": 1770012000,
+            "etime": 1770026400,
+            "dtime": 14400,
+            "link": "https://ac.nowcoder.com/acm/contest/120561"
         }
     ]
 }
