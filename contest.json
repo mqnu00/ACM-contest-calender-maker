@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1761862716,
-    "refreshTimeCH": "2025-10-31 06:18:36",
+    "refreshTimeStamp": 1761949107,
+    "refreshTimeCH": "2025-11-01 06:18:27",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客练习赛145",
-            "stime": 1761908400,
-            "etime": 1761917400,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/119666"
-        },
         {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 430",
@@ -225,6 +217,14 @@
             "etime": 1763818800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc433"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Ｓｋｙ Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
+            "stime": 1764417600,
+            "etime": 1764423600,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc434"
         },
         {
             "oj": "nowcoder",

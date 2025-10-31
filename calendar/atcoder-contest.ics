@@ -72,4 +72,13 @@ DTEND:20251122T214000
 UID:AtCoder Beginner Contest 433
 DESCRIPTION:https://atcoder.jp/contests/abc433
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ｓｋｙ Inc\, Programming Contest 2025 (AtCoder Beginner Contest
+  434)
+DTSTART:20251129T200000
+DTEND:20251129T214000
+UID:Ｓｋｙ Inc\, Programming Contest 2025 (AtCoder Beginner Contest 434
+ )
+DESCRIPTION:https://atcoder.jp/contests/abc434
+END:VEVENT
 END:VCALENDAR
