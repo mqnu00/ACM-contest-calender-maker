@@ -13,10 +13,10 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Testing Round 20 (Unrated)
+SUMMARY:Testing Round 20 (Unrated\, Communication Problems)
 DTSTART:20251103T223500
 DTEND:20251103T233500
-UID:Testing Round 20 (Unrated)
+UID:Testing Round 20 (Unrated\, Communication Problems)
 DESCRIPTION:https://codeforces.com/contest/2168
 END:VEVENT
 BEGIN:VEVENT

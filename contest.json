@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1762035415,
-    "refreshTimeCH": "2025-11-02 06:16:55",
+    "refreshTimeStamp": 1762121833,
+    "refreshTimeCH": "2025-11-03 06:17:13",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,46 +11,6 @@
     ],
     "contests": [
         {
-            "oj": "luogu",
-            "name": "CSP-J 2025 自测（民间数据）",
-            "stime": 1761972300,
-            "etime": 1762754400,
-            "dtime": 782100,
-            "link": "https://www.luogu.com.cn/contest/288427"
-        },
-        {
-            "oj": "luogu",
-            "name": "CSP-S 2025 自测（民间数据）",
-            "stime": 1762000200,
-            "etime": 1762777800,
-            "dtime": 777600,
-            "link": "https://www.luogu.com.cn/contest/288428"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-S9】梦熊 NOIP 2025 模拟赛 1 & LAOI Round 16（同步赛）",
-            "stime": 1762043400,
-            "etime": 1762059600,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/287506"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 474",
-            "stime": 1762050600,
-            "etime": 1762056000,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-474"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 116",
-            "stime": 1762081200,
-            "etime": 1762088400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/120553"
-        },
-        {
             "oj": "atcoder",
             "name": "FPS 24: 24 Problems on Formal Power Series",
             "stime": 1762142400,
@@ -60,7 +20,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Testing Round 20 (Unrated)",
+            "name": "Testing Round 20 (Unrated, Communication Problems)",
             "stime": 1762180500,
             "etime": 1762184100,
             "dtime": 3600,
