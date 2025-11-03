@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1762121833,
-    "refreshTimeCH": "2025-11-03 06:17:13",
+    "refreshTimeStamp": 1762208341,
+    "refreshTimeCH": "2025-11-04 06:19:01",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "FPS 24: 24 Problems on Formal Power Series",
-            "stime": 1762142400,
-            "etime": 1762160400,
-            "dtime": 18000,
-            "link": "https://atcoder.jp/contests/fps-24"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Testing Round 20 (Unrated, Communication Problems)",
-            "stime": 1762180500,
-            "etime": 1762184100,
-            "dtime": 3600,
-            "link": "https://codeforces.com/contest/2168"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客2025秋季算法编程训练联赛4-基础组",
@@ -153,6 +137,14 @@
             "etime": 1792675800,
             "dtime": 29730600,
             "link": "https://ac.nowcoder.com/acm/contest/120458"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-250】洛谷 NOIP 2025 模拟赛",
+            "stime": 1763166600,
+            "etime": 1763182800,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/289075"
         },
         {
             "oj": "atcoder",
