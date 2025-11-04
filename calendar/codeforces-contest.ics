@@ -27,6 +27,20 @@ UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2163
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Educational Codeforces Round 184 (Rated for Div. 2)
+DTSTART:20251114T223500
+DTEND:20251115T003500
+UID:Educational Codeforces Round 184 (Rated for Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2169
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 1)
+DTSTART:20251116T223500
+DTEND:20251117T003500
+UID:Codeforces Round (Div. 1)
+DESCRIPTION:https://codeforces.com/contest/2165
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 2)
 DTSTART:20251116T223500
 DTEND:20251117T003500
