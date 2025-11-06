@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1762381117,
-    "refreshTimeCH": "2025-11-06 06:18:37",
+    "refreshTimeStamp": 1762467533,
+    "refreshTimeCH": "2025-11-07 06:18:53",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Global Round 30 (Div. 1 + Div. 2)",
-            "stime": 1762439700,
-            "etime": 1762450500,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2164"
-        },
         {
             "oj": "atcoder",
             "name": "HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）",
@@ -201,6 +193,22 @@
             "etime": 1763818800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc433"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "stime": 1763890500,
+            "etime": 1763901300,
+            "dtime": 10800,
+            "link": "https://codeforces.com/contest/2157"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Heuristic Contest 057",
+            "stime": 1764396000,
+            "etime": 1764410400,
+            "dtime": 14400,
+            "link": "https://atcoder.jp/contests/ahc057"
         },
         {
             "oj": "atcoder",

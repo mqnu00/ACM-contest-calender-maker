@@ -59,6 +59,13 @@ UID:AtCoder Beginner Contest 433
 DESCRIPTION:https://atcoder.jp/contests/abc433
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Heuristic Contest 057
+DTSTART:20251129T140000
+DTEND:20251129T180000
+UID:AtCoder Heuristic Contest 057
+DESCRIPTION:https://atcoder.jp/contests/ahc057
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ｓｋｙ Inc\, Programming Contest 2025 (AtCoder Beginner Contest
   434)
 DTSTART:20251129T200000
