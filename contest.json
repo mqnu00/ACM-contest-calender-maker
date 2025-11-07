@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1762467533,
-    "refreshTimeCH": "2025-11-07 06:18:53",
+    "refreshTimeStamp": 1762553889,
+    "refreshTimeCH": "2025-11-08 06:18:09",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,28 +11,20 @@
     ],
     "contests": [
         {
-            "oj": "atcoder",
-            "name": "HACK TO THE FUTURE 2026 （AtCoder Heuristic Contest 056）",
-            "stime": 1762509600,
-            "etime": 1763373600,
-            "dtime": 864000,
-            "link": "https://atcoder.jp/contests/ahc056"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客挑战赛83",
-            "stime": 1762513200,
-            "etime": 1762524000,
-            "dtime": 10800,
-            "link": "https://ac.nowcoder.com/acm/contest/121395"
-        },
-        {
             "oj": "luogu",
             "name": "【MX-S10】梦熊 NOIP 2025 模拟赛 2 & FeOI Round 4（同步赛）",
             "stime": 1762561800,
             "etime": 1762578000,
             "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/287507"
+        },
+        {
+            "oj": "luogu",
+            "name": "COCI 2025/2026 #1 Unofficial Mirror",
+            "stime": 1762585200,
+            "etime": 1762596000,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/289769"
         },
         {
             "oj": "atcoder",
@@ -51,6 +43,14 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-169"
         },
         {
+            "oj": "luogu",
+            "name": "BYOI Round 1",
+            "stime": 1762648200,
+            "etime": 1762664400,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/261933"
+        },
+        {
             "oj": "leetcode",
             "name": "Weekly Contest 475",
             "stime": 1762655400,
@@ -60,19 +60,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【LGR-248-Div.2】洛谷 11 月月赛 I & WAOI R1",
-            "stime": 1762668000,
-            "etime": 1762682400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/276844"
-        },
-        {
-            "oj": "luogu",
             "name": "【LGR-248-Div.1】洛谷 11 月月赛 I & WAOI R1",
             "stime": 1762668000,
             "etime": 1762682400,
             "dtime": 14400,
             "link": "https://www.luogu.com.cn/contest/230986"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-248-Div.2】洛谷 11 月月赛 I & WAOI R1",
+            "stime": 1762668000,
+            "etime": 1762682400,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/276844"
         },
         {
             "oj": "nowcoder",
@@ -147,6 +147,14 @@
             "link": "https://www.luogu.com.cn/contest/287508"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 476",
+            "stime": 1763260200,
+            "etime": 1763265600,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-476"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 118",
             "stime": 1763290800,
@@ -179,6 +187,22 @@
             "link": "https://codeforces.com/contest/2166"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客2025秋季算法编程训练联赛6-基础组",
+            "stime": 1763550000,
+            "etime": 1763557200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/120455"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客2025秋季算法编程训练联赛6-提升组",
+            "stime": 1763550000,
+            "etime": 1763559000,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/120459"
+        },
+        {
             "oj": "luogu",
             "name": "【MX-S12】梦熊 NOIP 2025 模拟赛 4（同步赛）",
             "stime": 1763771400,
@@ -193,6 +217,14 @@
             "etime": 1763818800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc433"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 170",
+            "stime": 1763821800,
+            "etime": 1763827200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-170"
         },
         {
             "oj": "codeforces",
