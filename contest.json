@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1762553889,
-    "refreshTimeCH": "2025-11-08 06:18:09",
+    "refreshTimeStamp": 1762640193,
+    "refreshTimeCH": "2025-11-09 06:16:33",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,46 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【MX-S10】梦熊 NOIP 2025 模拟赛 2 & FeOI Round 4（同步赛）",
-            "stime": 1762561800,
-            "etime": 1762578000,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/287507"
-        },
-        {
-            "oj": "luogu",
-            "name": "COCI 2025/2026 #1 Unofficial Mirror",
-            "stime": 1762585200,
-            "etime": 1762596000,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/289769"
-        },
-        {
-            "oj": "atcoder",
-            "name": "TOYOTA SYSTEMS Programming Contest 2025（AtCoder Beginner Contest 431)",
-            "stime": 1762603200,
-            "etime": 1762609200,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc431"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 169",
-            "stime": 1762612200,
-            "etime": 1762617600,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-169"
-        },
-        {
-            "oj": "luogu",
-            "name": "BYOI Round 1",
-            "stime": 1762648200,
-            "etime": 1762664400,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/261933"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 475",
@@ -92,7 +52,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1063 (Div. 2)",
             "stime": 1762787100,
             "etime": 1762794300,
             "dtime": 7200,
@@ -153,6 +113,14 @@
             "etime": 1763265600,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-476"
+        },
+        {
+            "oj": "luogu",
+            "name": "BYOI Round 1",
+            "stime": 1763272800,
+            "etime": 1763289000,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/261933"
         },
         {
             "oj": "nowcoder",
