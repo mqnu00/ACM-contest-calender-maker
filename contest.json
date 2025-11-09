@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1762640193,
-    "refreshTimeCH": "2025-11-09 06:16:33",
+    "refreshTimeStamp": 1762726660,
+    "refreshTimeCH": "2025-11-10 06:17:40",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,52 +11,20 @@
     ],
     "contests": [
         {
-            "oj": "leetcode",
-            "name": "Weekly Contest 475",
-            "stime": 1762655400,
-            "etime": 1762660800,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-475"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-248-Div.1】洛谷 11 月月赛 I & WAOI R1",
-            "stime": 1762668000,
-            "etime": 1762682400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/230986"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-248-Div.2】洛谷 11 月月赛 I & WAOI R1",
-            "stime": 1762668000,
-            "etime": 1762682400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/276844"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 117",
-            "stime": 1762686000,
-            "etime": 1762693200,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/121300"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 209 (Div. 1)",
-            "stime": 1762689600,
-            "etime": 1762698600,
-            "dtime": 9000,
-            "link": "https://atcoder.jp/contests/arc209"
-        },
-        {
             "oj": "codeforces",
             "name": "Codeforces Round 1063 (Div. 2)",
             "stime": 1762787100,
             "etime": 1762794300,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2163"
+        },
+        {
+            "oj": "luogu",
+            "name": "[ICPC2025 Xi'an R] ICPC 2025 区域赛西安站重现赛",
+            "stime": 1762837200,
+            "etime": 1762855200,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/289673"
         },
         {
             "oj": "nowcoder",
@@ -89,6 +57,14 @@
             "etime": 1763182800,
             "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/289075"
+        },
+        {
+            "oj": "luogu",
+            "name": "NFLSPC #8 重现赛",
+            "stime": 1763186400,
+            "etime": 1763200800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/285711"
         },
         {
             "oj": "atcoder",
@@ -177,6 +153,14 @@
             "etime": 1763787600,
             "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/287515"
+        },
+        {
+            "oj": "luogu",
+            "name": "Conclusion Masters #3: LAOI-R11",
+            "stime": 1763791200,
+            "etime": 1763805600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/230112"
         },
         {
             "oj": "atcoder",
