@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1762726660,
-    "refreshTimeCH": "2025-11-10 06:17:40",
+    "refreshTimeStamp": 1762769059,
+    "refreshTimeCH": "2025-11-10 18:04:19",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -38,8 +38,8 @@
             "oj": "nowcoder",
             "name": "牛客2025秋季算法编程训练联赛5-提升组",
             "stime": 1762945200,
-            "etime": 1792675800,
-            "dtime": 29730600,
+            "etime": 1762954200,
+            "dtime": 9000,
             "link": "https://ac.nowcoder.com/acm/contest/120458"
         },
         {
@@ -177,6 +177,22 @@
             "etime": 1763827200,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-170"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 477",
+            "stime": 1763865000,
+            "etime": 1763870400,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-477"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-249-Div.3】洛谷基础赛 #27 &「S4OI」Round 1",
+            "stime": 1763877600,
+            "etime": 1763890200,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/242706"
         },
         {
             "oj": "codeforces",

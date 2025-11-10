@@ -26,4 +26,11 @@ DTEND:20251123T000000
 UID:Biweekly Contest 170
 DESCRIPTION:https://leetcode.cn/contest/biweekly-contest-170
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Contest 477
+DTSTART:20251123T103000
+DTEND:20251123T120000
+UID:Weekly Contest 477
+DESCRIPTION:https://leetcode.cn/contest/weekly-contest-477
+END:VEVENT
 END:VCALENDAR
