@@ -20,6 +20,15 @@ UID:Educational Codeforces Round 184 (Rated for Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2169
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2025 ICPC Asia Taichung Regional Contest (Unrated\, Online Mirror\
+ , ICPC Rules\, Preferably Teams)
+DTSTART:20251116T093000
+DTEND:20251116T143000
+UID:2025 ICPC Asia Taichung Regional Contest (Unrated\, Online Mirror\, IC
+ PC Rules\, Preferably Teams)
+DESCRIPTION:https://codeforces.com/contest/2172
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 1)
 DTSTART:20251116T223500
 DTEND:20251117T003500

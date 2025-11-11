@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1762813165,
-    "refreshTimeCH": "2025-11-11 06:19:25",
+    "refreshTimeStamp": 1762899551,
+    "refreshTimeCH": "2025-11-12 06:19:11",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "[ICPC2025 Xi'an R] ICPC 2025 区域赛西安站重现赛",
-            "stime": 1762837200,
-            "etime": 1762855200,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/289673"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客2025秋季算法编程训练联赛5-基础组",
@@ -33,6 +25,14 @@
             "etime": 1762954200,
             "dtime": 9000,
             "link": "https://ac.nowcoder.com/acm/contest/120458"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛123",
+            "stime": 1763118000,
+            "etime": 1763125200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/122725"
         },
         {
             "oj": "codeforces",
@@ -68,11 +68,19 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-S11】梦熊 NOIP 2025 模拟赛 3 & WAOI R7 & FeOI R4.5（同步赛）",
+            "name": "【MX-S11】梦熊 NOIP 2025 模拟赛 3 & WAOI R7 & FeOI R6.5（同步赛）",
             "stime": 1763253000,
             "etime": 1763269200,
             "dtime": 16200,
             "link": "https://www.luogu.com.cn/contest/287508"
+        },
+        {
+            "oj": "codeforces",
+            "name": "2025 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
+            "stime": 1763256600,
+            "etime": 1763274600,
+            "dtime": 18000,
+            "link": "https://codeforces.com/contest/2172"
         },
         {
             "oj": "leetcode",
@@ -147,6 +155,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/120459"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客练习赛146",
+            "stime": 1763722800,
+            "etime": 1763731800,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/122727"
+        },
+        {
             "oj": "luogu",
             "name": "【MX-S12】梦熊 NOIP 2025 模拟赛 4（同步赛）",
             "stime": 1763771400,
@@ -201,6 +217,14 @@
             "etime": 1763901300,
             "dtime": 10800,
             "link": "https://codeforces.com/contest/2157"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 119",
+            "stime": 1763895600,
+            "etime": 1763902800,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/122724"
         },
         {
             "oj": "atcoder",
