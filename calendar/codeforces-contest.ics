@@ -22,8 +22,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2025 ICPC Asia Taichung Regional Contest (Unrated\, Online Mirror\
  , ICPC Rules\, Preferably Teams)
-DTSTART:20251116T093000
-DTEND:20251116T143000
+DTSTART:20251116T093500
+DTEND:20251116T143500
 UID:2025 ICPC Asia Taichung Regional Contest (Unrated\, Online Mirror\, IC
  PC Rules\, Preferably Teams)
 DESCRIPTION:https://codeforces.com/contest/2172

@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1762899551,
-    "refreshTimeCH": "2025-11-12 06:19:11",
+    "refreshTimeStamp": 1762985966,
+    "refreshTimeCH": "2025-11-13 06:19:26",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客2025秋季算法编程训练联赛5-基础组",
-            "stime": 1762945200,
-            "etime": 1762952400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/120454"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客2025秋季算法编程训练联赛5-提升组",
-            "stime": 1762945200,
-            "etime": 1762954200,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/120458"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客小白月赛123",
@@ -77,8 +61,8 @@
         {
             "oj": "codeforces",
             "name": "2025 ICPC Asia Taichung Regional Contest (Unrated, Online Mirror, ICPC Rules, Preferably Teams)",
-            "stime": 1763256600,
-            "etime": 1763274600,
+            "stime": 1763256900,
+            "etime": 1763274900,
             "dtime": 18000,
             "link": "https://codeforces.com/contest/2172"
         },
