@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1762985966,
-    "refreshTimeCH": "2025-11-13 06:19:26",
+    "refreshTimeStamp": 1763072385,
+    "refreshTimeCH": "2025-11-14 06:19:45",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -100,26 +100,26 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round 1064 (Div. 1)",
             "stime": 1763303700,
-            "etime": 1763310900,
-            "dtime": 7200,
+            "etime": 1763312700,
+            "dtime": 9000,
             "link": "https://codeforces.com/contest/2165"
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1064 (Div. 2)",
             "stime": 1763303700,
-            "etime": 1763310900,
-            "dtime": 7200,
+            "etime": 1763312700,
+            "dtime": 9000,
             "link": "https://codeforces.com/contest/2166"
         },
         {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 3)",
             "stime": 1763476500,
-            "etime": 1763484600,
-            "dtime": 8100,
+            "etime": 1763485500,
+            "dtime": 9000,
             "link": "https://codeforces.com/contest/2171"
         },
         {
@@ -241,6 +241,14 @@
             "etime": 1765028400,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc435"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 436",
+            "stime": 1765627200,
+            "etime": 1765633200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc436"
         },
         {
             "oj": "nowcoder",

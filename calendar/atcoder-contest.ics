@@ -65,4 +65,11 @@ DTEND:20251206T214000
 UID:AtCoder Beginner Contest 435
 DESCRIPTION:https://atcoder.jp/contests/abc435
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 436
+DTSTART:20251213T200000
+DTEND:20251213T214000
+UID:AtCoder Beginner Contest 436
+DESCRIPTION:https://atcoder.jp/contests/abc436
+END:VEVENT
 END:VCALENDAR

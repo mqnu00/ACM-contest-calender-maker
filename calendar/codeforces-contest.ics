@@ -29,23 +29,23 @@ UID:2025 ICPC Asia Taichung Regional Contest (Unrated\, Online Mirror\, IC
 DESCRIPTION:https://codeforces.com/contest/2172
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 1)
+SUMMARY:Codeforces Round 1064 (Div. 1)
 DTSTART:20251116T223500
-DTEND:20251117T003500
-UID:Codeforces Round (Div. 1)
+DTEND:20251117T010500
+UID:Codeforces Round 1064 (Div. 1)
 DESCRIPTION:https://codeforces.com/contest/2165
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 2)
+SUMMARY:Codeforces Round 1064 (Div. 2)
 DTSTART:20251116T223500
-DTEND:20251117T003500
-UID:Codeforces Round (Div. 2)
+DTEND:20251117T010500
+UID:Codeforces Round 1064 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2166
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 3)
 DTSTART:20251118T223500
-DTEND:20251119T005000
+DTEND:20251119T010500
 UID:Codeforces Round (Div. 3)
 DESCRIPTION:https://codeforces.com/contest/2171
 END:VEVENT
