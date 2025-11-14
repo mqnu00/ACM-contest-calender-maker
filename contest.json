@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1763072385,
-    "refreshTimeCH": "2025-11-14 06:19:45",
+    "refreshTimeStamp": 1763158743,
+    "refreshTimeCH": "2025-11-15 06:19:03",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛123",
-            "stime": 1763118000,
-            "etime": 1763125200,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/122725"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 184 (Rated for Div. 2)",
-            "stime": 1763130900,
-            "etime": 1763138100,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2169"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-250】洛谷 NOIP 2025 模拟赛",
@@ -249,6 +233,22 @@
             "etime": 1765633200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc436"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Grand Contest 075",
+            "stime": 1766318400,
+            "etime": 1766329200,
+            "dtime": 10800,
+            "link": "https://atcoder.jp/contests/agc075"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Grand Contest 076",
+            "stime": 1766923200,
+            "etime": 1766934000,
+            "dtime": 10800,
+            "link": "https://atcoder.jp/contests/agc076"
         },
         {
             "oj": "nowcoder",

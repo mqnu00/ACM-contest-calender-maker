@@ -13,13 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Educational Codeforces Round 184 (Rated for Div. 2)
-DTSTART:20251114T223500
-DTEND:20251115T003500
-UID:Educational Codeforces Round 184 (Rated for Div. 2)
-DESCRIPTION:https://codeforces.com/contest/2169
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2025 ICPC Asia Taichung Regional Contest (Unrated\, Online Mirror\
  , ICPC Rules\, Preferably Teams)
 DTSTART:20251116T093500
