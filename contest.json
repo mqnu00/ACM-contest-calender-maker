@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1763331479,
-    "refreshTimeCH": "2025-11-17 06:17:59",
+    "refreshTimeStamp": 1763417951,
+    "refreshTimeCH": "2025-11-18 06:19:11",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -33,6 +33,14 @@
             "etime": 1763559000,
             "dtime": 9000,
             "link": "https://ac.nowcoder.com/acm/contest/120459"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-254-Div.4】洛谷入门赛 #41 · 曼波",
+            "stime": 1763722800,
+            "etime": 1763730000,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/291890"
         },
         {
             "oj": "nowcoder",
@@ -153,6 +161,14 @@
             "etime": 1765633200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc436"
+        },
+        {
+            "oj": "atcoder",
+            "name": "ALGO ARTIS Programming Contest 2025 December（AtCoder Heuristic Contest 058）",
+            "stime": 1765692000,
+            "etime": 1765706400,
+            "dtime": 14400,
+            "link": "https://atcoder.jp/contests/ahc058"
         },
         {
             "oj": "atcoder",
