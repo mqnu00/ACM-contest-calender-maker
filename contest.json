@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1763417951,
-    "refreshTimeCH": "2025-11-18 06:19:11",
+    "refreshTimeStamp": 1763504393,
+    "refreshTimeCH": "2025-11-19 06:19:53",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,12 +11,12 @@
     ],
     "contests": [
         {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1065 (Div. 3)",
-            "stime": 1763476500,
-            "etime": 1763485500,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2171"
+            "oj": "luogu",
+            "name": "IO 2024 Round 3（团体赛）Unofficial Mirror",
+            "stime": 1763528400,
+            "etime": 1763546400,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/292020"
         },
         {
             "oj": "nowcoder",
@@ -33,6 +33,14 @@
             "etime": 1763559000,
             "dtime": 9000,
             "link": "https://ac.nowcoder.com/acm/contest/120459"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round 1065 (Div. 3)",
+            "stime": 1763649300,
+            "etime": 1763658300,
+            "dtime": 9000,
+            "link": "https://codeforces.com/contest/2171"
         },
         {
             "oj": "luogu",
@@ -97,6 +105,14 @@
             "etime": 1763890200,
             "dtime": 12600,
             "link": "https://www.luogu.com.cn/contest/242706"
+        },
+        {
+            "oj": "luogu",
+            "name": "第六届辽宁省大学生程序设计竞赛重现赛",
+            "stime": 1763888400,
+            "etime": 1763906400,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/291968"
         },
         {
             "oj": "codeforces",
