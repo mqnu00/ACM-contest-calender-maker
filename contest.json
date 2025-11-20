@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1763590750,
-    "refreshTimeCH": "2025-11-20 06:19:10",
+    "refreshTimeStamp": 1763677095,
+    "refreshTimeCH": "2025-11-21 06:18:15",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1065 (Div. 3)",
-            "stime": 1763649300,
-            "etime": 1763658300,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2171"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-254-Div.4】洛谷入门赛 #41 · 曼波",
@@ -185,6 +177,14 @@
             "etime": 1765706400,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc058"
+        },
+        {
+            "oj": "atcoder",
+            "name": "UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest 437)",
+            "stime": 1766232000,
+            "etime": 1766238000,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc437"
         },
         {
             "oj": "atcoder",
