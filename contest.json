@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1763677095,
-    "refreshTimeCH": "2025-11-21 06:18:15",
+    "refreshTimeStamp": 1763763587,
+    "refreshTimeCH": "2025-11-22 06:19:47",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-254-Div.4】洛谷入门赛 #41 · 曼波",
-            "stime": 1763722800,
-            "etime": 1763730000,
-            "dtime": 7200,
-            "link": "https://www.luogu.com.cn/contest/291890"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客练习赛146",
-            "stime": 1763722800,
-            "etime": 1763731800,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/122727"
-        },
         {
             "oj": "luogu",
             "name": "【MX-S12】梦熊 NOIP 2025 模拟赛 4（同步赛）",
@@ -99,6 +83,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/122724"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛124",
+            "stime": 1764327600,
+            "etime": 1764334800,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/123787"
+        },
+        {
             "oj": "codeforces",
             "name": "Educational Codeforces Round 185 (Rated for Div. 2)",
             "stime": 1764340500,
@@ -137,6 +129,14 @@
             "etime": 1764491400,
             "dtime": 10800,
             "link": "https://www.luogu.com.cn/contest/251007"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 120",
+            "stime": 1764500400,
+            "etime": 1764507600,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/123788"
         },
         {
             "oj": "atcoder",
@@ -193,6 +193,14 @@
             "etime": 1766329200,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc075"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 438",
+            "stime": 1766836800,
+            "etime": 1766842800,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc438"
         },
         {
             "oj": "atcoder",
