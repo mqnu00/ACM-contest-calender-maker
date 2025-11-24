@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1763936341,
-    "refreshTimeCH": "2025-11-24 06:19:01",
+    "refreshTimeStamp": 1764022748,
+    "refreshTimeCH": "2025-11-25 06:19:08",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -75,6 +75,14 @@
             "link": "https://atcoder.jp/contests/arc211"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客挑战赛84",
+            "stime": 1764932400,
+            "etime": 1764943200,
+            "dtime": 10800,
+            "link": "https://ac.nowcoder.com/acm/contest/124146"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 435",
             "stime": 1765022400,
@@ -89,6 +97,30 @@
             "etime": 1765036800,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-171"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 479",
+            "stime": 1765074600,
+            "etime": 1765080000,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-479"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-253-Div.3】洛谷基础赛 #28 & KenOI Round 1",
+            "stime": 1765087200,
+            "etime": 1765099800,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/254710"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 121",
+            "stime": 1765105200,
+            "etime": 1765112400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/124143"
         },
         {
             "oj": "atcoder",
