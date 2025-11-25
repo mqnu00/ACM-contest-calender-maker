@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1764022748,
-    "refreshTimeCH": "2025-11-25 06:19:08",
+    "refreshTimeStamp": 1764109216,
+    "refreshTimeCH": "2025-11-26 06:20:16",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,6 +10,14 @@
         "leetcode"
     ],
     "contests": [
+        {
+            "oj": "luogu",
+            "name": "NOIP 模板自测赛",
+            "stime": 1764039600,
+            "etime": 1764376200,
+            "dtime": 336600,
+            "link": "https://www.luogu.com.cn/contest/293606"
+        },
         {
             "oj": "nowcoder",
             "name": "牛客小白月赛124",
