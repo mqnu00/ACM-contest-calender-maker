@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1764109216,
-    "refreshTimeCH": "2025-11-26 06:20:16",
+    "refreshTimeStamp": 1764195565,
+    "refreshTimeCH": "2025-11-27 06:19:25",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -17,6 +17,22 @@
             "etime": 1764376200,
             "dtime": 336600,
             "link": "https://www.luogu.com.cn/contest/293606"
+        },
+        {
+            "oj": "luogu",
+            "name": "KAIST RUN 2019 FALL Unofficial Mirror",
+            "stime": 1764219600,
+            "etime": 1764237600,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/293901"
+        },
+        {
+            "oj": "luogu",
+            "name": "KAIST RUN 2018 FALL Unofficial Mirror",
+            "stime": 1764306000,
+            "etime": 1764324000,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/293956"
         },
         {
             "oj": "nowcoder",
