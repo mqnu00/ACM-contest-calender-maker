@@ -19,4 +19,11 @@ DTEND:20251129T003500
 UID:Educational Codeforces Round 185 (Rated for Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2170
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round 1067 (Div. 2)
+DTSTART:20251129T223500
+DTEND:20251130T003500
+UID:Codeforces Round 1067 (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2158
+END:VEVENT
 END:VCALENDAR

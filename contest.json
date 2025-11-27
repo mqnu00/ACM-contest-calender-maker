@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1764195565,
-    "refreshTimeCH": "2025-11-27 06:19:25",
+    "refreshTimeStamp": 1764281941,
+    "refreshTimeCH": "2025-11-28 06:19:01",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "NOIP 模板自测赛",
-            "stime": 1764039600,
-            "etime": 1764376200,
-            "dtime": 336600,
-            "link": "https://www.luogu.com.cn/contest/293606"
-        },
-        {
-            "oj": "luogu",
-            "name": "KAIST RUN 2019 FALL Unofficial Mirror",
-            "stime": 1764219600,
-            "etime": 1764237600,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/293901"
-        },
         {
             "oj": "luogu",
             "name": "KAIST RUN 2018 FALL Unofficial Mirror",
@@ -65,6 +49,14 @@
             "etime": 1764423600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc434"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round 1067 (Div. 2)",
+            "stime": 1764426900,
+            "etime": 1764434100,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2158"
         },
         {
             "oj": "leetcode",
