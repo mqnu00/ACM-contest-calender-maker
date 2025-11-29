@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1764368310,
-    "refreshTimeCH": "2025-11-29 06:18:30",
+    "refreshTimeStamp": 1764454723,
+    "refreshTimeCH": "2025-11-30 06:18:43",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,28 +11,12 @@
     ],
     "contests": [
         {
-            "oj": "atcoder",
-            "name": "AtCoder Heuristic Contest 057",
-            "stime": 1764396000,
-            "etime": 1764410400,
-            "dtime": 14400,
-            "link": "https://atcoder.jp/contests/ahc057"
-        },
-        {
-            "oj": "atcoder",
-            "name": "Ｓｋｙ Inc, Programming Contest 2025 (AtCoder Beginner Contest 434)",
-            "stime": 1764417600,
-            "etime": 1764423600,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc434"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1067 (Div. 2)",
-            "stime": 1764426900,
-            "etime": 1764434100,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2158"
+            "oj": "luogu",
+            "name": "NOIP2025 民间自测（民间数据）",
+            "stime": 1764394200,
+            "etime": 1765195200,
+            "dtime": 801000,
+            "link": "https://www.luogu.com.cn/contest/294607"
         },
         {
             "oj": "leetcode",
