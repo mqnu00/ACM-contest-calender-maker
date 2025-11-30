@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1764454723,
-    "refreshTimeCH": "2025-11-30 06:18:43",
+    "refreshTimeStamp": 1764541146,
+    "refreshTimeCH": "2025-12-01 06:19:06",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,46 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "NOIP2025 民间自测（民间数据）",
-            "stime": 1764394200,
-            "etime": 1765195200,
-            "dtime": 801000,
-            "link": "https://www.luogu.com.cn/contest/294607"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 478",
-            "stime": 1764469800,
-            "etime": 1764475200,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-478"
-        },
-        {
-            "oj": "luogu",
-            "name": "OIMO Round 1",
-            "stime": 1764480600,
-            "etime": 1764491400,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/251007"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 120",
-            "stime": 1764500400,
-            "etime": 1764507600,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/123788"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 211 (Div. 2)",
-            "stime": 1764504000,
-            "etime": 1764511200,
-            "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc211"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客挑战赛84",
