@@ -26,4 +26,18 @@ DTEND:20251207T120000
 UID:Weekly Contest 479
 DESCRIPTION:https://leetcode.cn/contest/weekly-contest-479
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Contest 480
+DTSTART:20251214T103000
+DTEND:20251214T120000
+UID:Weekly Contest 480
+DESCRIPTION:https://leetcode.cn/contest/weekly-contest-480
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biweekly Contest 172
+DTSTART:20251220T223000
+DTEND:20251221T000000
+UID:Biweekly Contest 172
+DESCRIPTION:https://leetcode.cn/contest/biweekly-contest-172
+END:VEVENT
 END:VCALENDAR
