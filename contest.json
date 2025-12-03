@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1764713870,
-    "refreshTimeCH": "2025-12-03 06:17:50",
+    "refreshTimeStamp": 1764800430,
+    "refreshTimeCH": "2025-12-04 06:20:30",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -91,6 +91,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/124143"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛125",
+            "stime": 1765537200,
+            "etime": 1765544400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/125080"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 436",
             "stime": 1765627200,
@@ -113,6 +121,22 @@
             "etime": 1765706400,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc058"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 122",
+            "stime": 1765710000,
+            "etime": 1765717200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/125083"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客练习赛147",
+            "stime": 1766228400,
+            "etime": 1766237400,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/125084"
         },
         {
             "oj": "atcoder",
@@ -156,11 +180,27 @@
         },
         {
             "oj": "nowcoder",
+            "name": "牛客2025跨年场",
+            "stime": 1767186000,
+            "etime": 1767197100,
+            "dtime": 11100,
+            "link": "https://ac.nowcoder.com/acm/contest/125085"
+        },
+        {
+            "oj": "nowcoder",
             "name": "2026牛客寒假算法基础集训营1",
             "stime": 1770098400,
             "etime": 1770112800,
             "dtime": 14400,
             "link": "https://ac.nowcoder.com/acm/contest/120561"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2026牛客寒假算法基础集训营2",
+            "stime": 1770271200,
+            "etime": 1770285600,
+            "dtime": 14400,
+            "link": "https://ac.nowcoder.com/acm/contest/120562"
         }
     ]
 }
