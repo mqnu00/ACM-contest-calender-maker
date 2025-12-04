@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1764800430,
-    "refreshTimeCH": "2025-12-04 06:20:30",
+    "refreshTimeStamp": 1764886692,
+    "refreshTimeCH": "2025-12-05 06:18:12",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -36,7 +36,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 1)",
+            "name": "Codeforces Round 1069 (Div. 1)",
             "stime": 1765008900,
             "etime": 1765016100,
             "dtime": 7200,
@@ -44,7 +44,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1069 (Div. 2)",
             "stime": 1765008900,
             "etime": 1765016100,
             "dtime": 7200,
@@ -99,6 +99,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/125080"
         },
         {
+            "oj": "luogu",
+            "name": "GenshinOI Round 6",
+            "stime": 1765605600,
+            "etime": 1765616400,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/261469"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 436",
             "stime": 1765627200,
@@ -113,6 +121,14 @@
             "etime": 1765684800,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-480"
+        },
+        {
+            "oj": "luogu",
+            "name": "GenshinOI Round 7",
+            "stime": 1765690200,
+            "etime": 1765704600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/261472"
         },
         {
             "oj": "atcoder",
