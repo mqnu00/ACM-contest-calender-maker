@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1764973182,
-    "refreshTimeCH": "2025-12-06 06:19:42",
+    "refreshTimeStamp": 1765059529,
+    "refreshTimeCH": "2025-12-07 06:18:49",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,46 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "PhirainEX Round 1",
-            "stime": 1765000800,
-            "etime": 1765015200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/288474"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1069 (Div. 1)",
-            "stime": 1765008900,
-            "etime": 1765016100,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2174"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1069 (Div. 2)",
-            "stime": 1765008900,
-            "etime": 1765016100,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2175"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 435",
-            "stime": 1765022400,
-            "etime": 1765028400,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc435"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 171",
-            "stime": 1765031400,
-            "etime": 1765036800,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-171"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 479",
@@ -73,6 +33,14 @@
             "etime": 1765112400,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/124143"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1765463700,
+            "etime": 1765470900,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2176"
         },
         {
             "oj": "nowcoder",
@@ -113,6 +81,14 @@
             "etime": 1765717200,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/125083"
+        },
+        {
+            "oj": "codeforces",
+            "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
+            "stime": 1766142000,
+            "etime": 1767610800,
+            "dtime": 1468800,
+            "link": "https://codeforces.com/contest/2177"
         },
         {
             "oj": "luogu",
@@ -161,6 +137,14 @@
             "etime": 1766329200,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc075"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 3)",
+            "stime": 1766500500,
+            "etime": 1766509500,
+            "dtime": 9000,
+            "link": "https://codeforces.com/contest/2179"
         },
         {
             "oj": "atcoder",
