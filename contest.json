@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1765059529,
-    "refreshTimeCH": "2025-12-07 06:18:49",
+    "refreshTimeStamp": 1765145910,
+    "refreshTimeCH": "2025-12-08 06:18:30",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 479",
-            "stime": 1765074600,
-            "etime": 1765080000,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-479"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-253-Div.3】洛谷基础赛 #28 & KenOI Round 1",
-            "stime": 1765087200,
-            "etime": 1765099800,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/254710"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 121",
-            "stime": 1765105200,
-            "etime": 1765112400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/124143"
-        },
         {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 2)",
@@ -91,14 +67,6 @@
             "link": "https://codeforces.com/contest/2177"
         },
         {
-            "oj": "luogu",
-            "name": "GenshinOI Round 6",
-            "stime": 1766210400,
-            "etime": 1766221200,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/261469"
-        },
-        {
             "oj": "nowcoder",
             "name": "牛客练习赛147",
             "stime": 1766228400,
@@ -121,14 +89,6 @@
             "etime": 1766246400,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-172"
-        },
-        {
-            "oj": "luogu",
-            "name": "GenshinOI Round 7",
-            "stime": 1766295000,
-            "etime": 1766309400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/261472"
         },
         {
             "oj": "atcoder",
