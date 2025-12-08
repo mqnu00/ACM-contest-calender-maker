@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1765145910,
-    "refreshTimeCH": "2025-12-08 06:18:30",
+    "refreshTimeStamp": 1765232397,
+    "refreshTimeCH": "2025-12-09 06:19:57",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -51,20 +51,28 @@
             "link": "https://atcoder.jp/contests/ahc058"
         },
         {
+            "oj": "luogu",
+            "name": "Opoi 2025 div.1",
+            "stime": 1765693800,
+            "etime": 1765708200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/194086"
+        },
+        {
+            "oj": "luogu",
+            "name": "Opoi 2025 div.2",
+            "stime": 1765693800,
+            "etime": 1765708200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/194087"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 122",
             "stime": 1765710000,
             "etime": 1765717200,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/125083"
-        },
-        {
-            "oj": "codeforces",
-            "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
-            "stime": 1766142000,
-            "etime": 1767610800,
-            "dtime": 1468800,
-            "link": "https://codeforces.com/contest/2177"
         },
         {
             "oj": "nowcoder",
@@ -91,6 +99,14 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-172"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-254-Div.2】洛谷 12 月月赛 I &「菜菜杯」Round 1",
+            "stime": 1766296800,
+            "etime": 1766311200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/276342"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Grand Contest 075",
             "stime": 1766318400,
@@ -105,6 +121,14 @@
             "etime": 1766509500,
             "dtime": 9000,
             "link": "https://codeforces.com/contest/2179"
+        },
+        {
+            "oj": "codeforces",
+            "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
+            "stime": 1766746800,
+            "etime": 1768129200,
+            "dtime": 1382400,
+            "link": "https://codeforces.com/contest/2177"
         },
         {
             "oj": "atcoder",

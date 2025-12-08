@@ -20,17 +20,17 @@ UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2176
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ICPC 2025 Online Winter Challenge powered by Huawei
-DTSTART:20251219T190000
-DTEND:20260105T190000
-UID:ICPC 2025 Online Winter Challenge powered by Huawei
-DESCRIPTION:https://codeforces.com/contest/2177
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 3)
 DTSTART:20251223T223500
 DTEND:20251224T010500
 UID:Codeforces Round (Div. 3)
 DESCRIPTION:https://codeforces.com/contest/2179
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICPC 2025 Online Winter Challenge powered by Huawei
+DTSTART:20251226T190000
+DTEND:20260111T190000
+UID:ICPC 2025 Online Winter Challenge powered by Huawei
+DESCRIPTION:https://codeforces.com/contest/2177
 END:VEVENT
 END:VCALENDAR
