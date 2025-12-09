@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1765232397,
-    "refreshTimeCH": "2025-12-09 06:19:57",
+    "refreshTimeStamp": 1765318828,
+    "refreshTimeCH": "2025-12-10 06:20:28",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -75,6 +75,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/125083"
         },
         {
+            "oj": "codeforces",
+            "name": "Codeforces Global Round 31 (Div. 1 + Div. 2)",
+            "stime": 1766154900,
+            "etime": 1766163900,
+            "dtime": 9000,
+            "link": "https://codeforces.com/contest/2180"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客练习赛147",
             "stime": 1766228400,
@@ -100,7 +108,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【LGR-254-Div.2】洛谷 12 月月赛 I &「菜菜杯」Round 1",
+            "name": "【LGR-255-Div.2】洛谷 12 月月赛 I &「菜菜杯」Round 1",
             "stime": 1766296800,
             "etime": 1766311200,
             "dtime": 14400,
