@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1765405234,
-    "refreshTimeCH": "2025-12-11 06:20:34",
+    "refreshTimeStamp": 1765491640,
+    "refreshTimeCH": "2025-12-12 06:20:40",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1070 (Div. 2)",
-            "stime": 1765463700,
-            "etime": 1765470900,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2176"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客小白月赛125",
@@ -41,6 +33,14 @@
             "etime": 1765684800,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-480"
+        },
+        {
+            "oj": "luogu",
+            "name": "东北大学秦皇岛分校第十三届“图灵杯”程序设计竞赛",
+            "stime": 1765683000,
+            "etime": 1765701000,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/296933"
         },
         {
             "oj": "atcoder",
@@ -73,6 +73,14 @@
             "etime": 1765717200,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/125083"
+        },
+        {
+            "oj": "codeforces",
+            "name": "2025-2026 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+            "stime": 1765958700,
+            "etime": 1765976700,
+            "dtime": 18000,
+            "link": "https://codeforces.com/contest/2181"
         },
         {
             "oj": "codeforces",
