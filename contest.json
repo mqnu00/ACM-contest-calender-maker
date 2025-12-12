@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1765491640,
-    "refreshTimeCH": "2025-12-12 06:20:40",
+    "refreshTimeStamp": 1765578014,
+    "refreshTimeCH": "2025-12-13 06:20:14",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛125",
-            "stime": 1765537200,
-            "etime": 1765544400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/125080"
-        },
         {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 436",
