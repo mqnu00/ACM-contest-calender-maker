@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1765664339,
-    "refreshTimeCH": "2025-12-14 06:18:59",
+    "refreshTimeStamp": 1765750748,
+    "refreshTimeCH": "2025-12-15 06:19:08",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,54 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 480",
-            "stime": 1765679400,
-            "etime": 1765684800,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-480"
-        },
-        {
-            "oj": "luogu",
-            "name": "东北大学秦皇岛分校第十三届“图灵杯”程序设计竞赛",
-            "stime": 1765683000,
-            "etime": 1765701000,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/296933"
-        },
-        {
-            "oj": "atcoder",
-            "name": "ALGO ARTIS Programming Contest 2025 December（AtCoder Heuristic Contest 058）",
-            "stime": 1765692000,
-            "etime": 1765706400,
-            "dtime": 14400,
-            "link": "https://atcoder.jp/contests/ahc058"
-        },
-        {
-            "oj": "luogu",
-            "name": "Opoi 2025 div.1",
-            "stime": 1765693800,
-            "etime": 1765708200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/194086"
-        },
-        {
-            "oj": "luogu",
-            "name": "Opoi 2025 div.2",
-            "stime": 1765693800,
-            "etime": 1765708200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/194087"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 122",
-            "stime": 1765710000,
-            "etime": 1765717200,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/125083"
-        },
         {
             "oj": "codeforces",
             "name": "2025-2026 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
