@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1765750748,
-    "refreshTimeCH": "2025-12-15 06:19:08",
+    "refreshTimeStamp": 1765837271,
+    "refreshTimeCH": "2025-12-16 06:21:11",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,6 +10,14 @@
         "leetcode"
     ],
     "contests": [
+        {
+            "oj": "luogu",
+            "name": "COCI 2025/2026 #3 Unofficial Mirror",
+            "stime": 1765868400,
+            "etime": 1765879200,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/296955"
+        },
         {
             "oj": "codeforces",
             "name": "2025-2026 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
@@ -25,6 +33,14 @@
             "etime": 1766163900,
             "dtime": 9000,
             "link": "https://codeforces.com/contest/2180"
+        },
+        {
+            "oj": "luogu",
+            "name": "[CCPC 2024 Harbin R] CCPC 2024 分站赛哈尔滨站重现赛",
+            "stime": 1766206800,
+            "etime": 1766224800,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/298025"
         },
         {
             "oj": "nowcoder",
@@ -121,6 +137,30 @@
             "etime": 1767447600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc439"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 440",
+            "stime": 1768046400,
+            "etime": 1768052400,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc440"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest 212 (Div. 2)",
+            "stime": 1768132800,
+            "etime": 1768140000,
+            "dtime": 7200,
+            "link": "https://atcoder.jp/contests/arc212"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
+            "stime": 1768651200,
+            "etime": 1768657200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc441"
         },
         {
             "oj": "nowcoder",

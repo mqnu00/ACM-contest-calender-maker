@@ -49,4 +49,25 @@ DTEND:20260103T214000
 UID:AtCoder Beginner Contest 439
 DESCRIPTION:https://atcoder.jp/contests/abc439
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 440
+DTSTART:20260110T200000
+DTEND:20260110T214000
+UID:AtCoder Beginner Contest 440
+DESCRIPTION:https://atcoder.jp/contests/abc440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 212 (Div. 2)
+DTSTART:20260111T200000
+DTEND:20260111T220000
+UID:AtCoder Regular Contest 212 (Div. 2)
+DESCRIPTION:https://atcoder.jp/contests/arc212
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)
+DTSTART:20260117T200000
+DTEND:20260117T214000
+UID:AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)
+DESCRIPTION:https://atcoder.jp/contests/abc441
+END:VEVENT
 END:VCALENDAR
