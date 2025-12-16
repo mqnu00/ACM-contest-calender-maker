@@ -70,4 +70,13 @@ DTEND:20260117T214000
 UID:AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)
 DESCRIPTION:https://atcoder.jp/contests/abc441
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Co
+ ntest 060)
+DTSTART:20260201T180000
+DTEND:20260201T220000
+UID:RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contes
+ t 060)
+DESCRIPTION:https://atcoder.jp/contests/ahc060
+END:VEVENT
 END:VCALENDAR
