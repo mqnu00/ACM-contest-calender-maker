@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1765923587,
-    "refreshTimeCH": "2025-12-17 06:19:47",
+    "refreshTimeStamp": 1766010022,
+    "refreshTimeCH": "2025-12-18 06:20:22",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "COCI 2025/2026 #3 Unofficial Mirror",
-            "stime": 1765954800,
-            "etime": 1765965600,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/296955"
-        },
-        {
-            "oj": "codeforces",
-            "name": "2025-2026 ICPC, NERC, Northern Eurasia Finals (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
-            "stime": 1765958700,
-            "etime": 1765976700,
-            "dtime": 18000,
-            "link": "https://codeforces.com/contest/2181"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客练习赛147",
@@ -139,6 +123,14 @@
             "link": "https://atcoder.jp/contests/abc438"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 482",
+            "stime": 1766889000,
+            "etime": 1766894400,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-482"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Grand Contest 076",
             "stime": 1766923200,
@@ -161,6 +153,14 @@
             "etime": 1767447600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc439"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 173",
+            "stime": 1767450600,
+            "etime": 1767456000,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-173"
         },
         {
             "oj": "atcoder",
