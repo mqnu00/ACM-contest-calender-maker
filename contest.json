@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1766010022,
-    "refreshTimeCH": "2025-12-18 06:20:22",
+    "refreshTimeStamp": 1766096420,
+    "refreshTimeCH": "2025-12-19 06:20:20",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,6 +10,14 @@
         "leetcode"
     ],
     "contests": [
+        {
+            "oj": "luogu",
+            "name": "JOI 2025/2026 二次予選 Unofficial Mirror",
+            "stime": 1766142000,
+            "etime": 1766152800,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/298530"
+        },
         {
             "oj": "nowcoder",
             "name": "牛客练习赛147",
