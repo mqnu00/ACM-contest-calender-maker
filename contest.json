@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1766182851,
-    "refreshTimeCH": "2025-12-20 06:20:51",
+    "refreshTimeStamp": 1766269134,
+    "refreshTimeCH": "2025-12-21 06:18:54",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "[CCPC 2024 哈尔滨站] CCPC 2024 分站赛哈尔滨站重现赛",
-            "stime": 1766206800,
-            "etime": 1766224800,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/298025"
-        },
-        {
-            "oj": "atcoder",
-            "name": "UNIQUE VISION Programming Contest 2025 Christmas (AtCoder Beginner Contest 437)",
-            "stime": 1766232000,
-            "etime": 1766238000,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc437"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 172",
-            "stime": 1766241000,
-            "etime": 1766246400,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-172"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 481",
