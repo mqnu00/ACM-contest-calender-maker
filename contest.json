@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1766269134,
-    "refreshTimeCH": "2025-12-21 06:18:54",
+    "refreshTimeStamp": 1766355588,
+    "refreshTimeCH": "2025-12-22 06:19:48",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 481",
-            "stime": 1766284200,
-            "etime": 1766289600,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-481"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-255-Div.2】洛谷 12 月月赛 I &「菜菜杯」Round 1",
-            "stime": 1766296800,
-            "etime": 1766311200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/276342"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 123",
-            "stime": 1766314800,
-            "etime": 1766322000,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/125954"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Grand Contest 075",
-            "stime": 1766318400,
-            "etime": 1766329200,
-            "dtime": 10800,
-            "link": "https://atcoder.jp/contests/agc075"
-        },
         {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 3)",
@@ -99,6 +67,14 @@
             "link": "https://leetcode.cn/contest/weekly-contest-482"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-256-Div.3】洛谷基础赛 #29 & QFOI Round 3",
+            "stime": 1766901600,
+            "etime": 1766914200,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/256235"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 124",
             "stime": 1766919600,
@@ -113,6 +89,14 @@
             "etime": 1766934000,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc076"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-260-Div.1+2】洛谷 12 月月赛 II & FAOI R10: 2025-2026 跨年赛",
+            "stime": 1767180600,
+            "etime": 1767198600,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/251472"
         },
         {
             "oj": "nowcoder",
