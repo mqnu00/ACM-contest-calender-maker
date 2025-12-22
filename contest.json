@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1766355588,
-    "refreshTimeCH": "2025-12-22 06:19:48",
+    "refreshTimeStamp": 1766442076,
+    "refreshTimeCH": "2025-12-23 06:21:16",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,7 +12,7 @@
     "contests": [
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 1071 (Div. 3)",
             "stime": 1766500500,
             "etime": 1766509500,
             "dtime": 9000,
@@ -137,6 +137,14 @@
             "etime": 1767456000,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-173"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Heuristic Contest 059",
+            "stime": 1768024800,
+            "etime": 1768039200,
+            "dtime": 14400,
+            "link": "https://atcoder.jp/contests/ahc059"
         },
         {
             "oj": "atcoder",
