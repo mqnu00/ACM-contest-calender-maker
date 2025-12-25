@@ -26,4 +26,11 @@ DTEND:20251228T013500
 UID:Good Bye 2025
 DESCRIPTION:https://codeforces.com/contest/2178
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Educational Codeforces Round 186 (Rated for Div. 2)
+DTSTART:20251229T223500
+DTEND:20251230T003500
+UID:Educational Codeforces Round 186 (Rated for Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2182
+END:VEVENT
 END:VCALENDAR

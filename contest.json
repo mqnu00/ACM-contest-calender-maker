@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1766614831,
-    "refreshTimeCH": "2025-12-25 06:20:31",
+    "refreshTimeStamp": 1766701200,
+    "refreshTimeCH": "2025-12-26 06:20:00",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -81,6 +81,14 @@
             "etime": 1766934000,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc076"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Educational Codeforces Round 186 (Rated for Div. 2)",
+            "stime": 1767018900,
+            "etime": 1767026100,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2182"
         },
         {
             "oj": "luogu",
