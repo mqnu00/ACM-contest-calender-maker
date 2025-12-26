@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1766701200,
-    "refreshTimeCH": "2025-12-26 06:20:00",
+    "refreshTimeStamp": 1766787606,
+    "refreshTimeCH": "2025-12-27 06:20:06",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,28 +11,12 @@
     ],
     "contests": [
         {
-            "oj": "luogu",
-            "name": "【LGR-259-Div.4】洛谷入门赛 #42",
-            "stime": 1766746800,
-            "etime": 1766754000,
-            "dtime": 7200,
-            "link": "https://www.luogu.com.cn/contest/298165"
-        },
-        {
             "oj": "codeforces",
             "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
             "stime": 1766746800,
             "etime": 1768129200,
             "dtime": 1382400,
             "link": "https://codeforces.com/contest/2177"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛126",
-            "stime": 1766746800,
-            "etime": 1766754000,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/125955"
         },
         {
             "oj": "atcoder",
@@ -163,6 +147,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/126319"
         },
         {
+            "oj": "codeforces",
+            "name": "Hello 2026",
+            "stime": 1767796500,
+            "etime": 1767807300,
+            "dtime": 10800,
+            "link": "https://codeforces.com/contest/2183"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Heuristic Contest 059",
             "stime": 1768024800,
@@ -201,6 +193,14 @@
             "etime": 1769262000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc442"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）",
+            "stime": 1769860800,
+            "etime": 1769866800,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc443"
         },
         {
             "oj": "atcoder",

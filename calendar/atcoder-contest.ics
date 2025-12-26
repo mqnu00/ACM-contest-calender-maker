@@ -69,6 +69,15 @@ UID:JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)
 DESCRIPTION:https://atcoder.jp/contests/abc442
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Denso Create Programming Contest 2026（AtCoder Beginner Contest 4
+ 43）
+DTSTART:20260131T200000
+DTEND:20260131T214000
+UID:Denso Create Programming Contest 2026（AtCoder Beginner Contest 443
+ ）
+DESCRIPTION:https://atcoder.jp/contests/abc443
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Co
  ntest 060)
 DTSTART:20260201T180000
