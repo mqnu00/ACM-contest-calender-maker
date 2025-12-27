@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1766787606,
-    "refreshTimeCH": "2025-12-27 06:20:06",
+    "refreshTimeStamp": 1766873976,
+    "refreshTimeCH": "2025-12-28 06:19:36",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "ICPC 2025 Online Winter Challenge powered by Huawei",
-            "stime": 1766746800,
-            "etime": 1768129200,
-            "dtime": 1382400,
-            "link": "https://codeforces.com/contest/2177"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 438",
-            "stime": 1766836800,
-            "etime": 1766842800,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc438"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Good Bye 2025",
-            "stime": 1766846100,
-            "etime": 1766856900,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2178"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 482",
