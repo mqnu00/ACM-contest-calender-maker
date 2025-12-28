@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1766873976,
-    "refreshTimeCH": "2025-12-28 06:19:36",
+    "refreshTimeStamp": 1766960435,
+    "refreshTimeCH": "2025-12-29 06:20:35",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 482",
-            "stime": 1766889000,
-            "etime": 1766894400,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-482"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-256-Div.3】洛谷基础赛 #29 & QFOI Round 3",
-            "stime": 1766901600,
-            "etime": 1766914200,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/256235"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 124",
-            "stime": 1766919600,
-            "etime": 1766926800,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/126120"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Grand Contest 076",
-            "stime": 1766923200,
-            "etime": 1766934000,
-            "dtime": 10800,
-            "link": "https://atcoder.jp/contests/agc076"
-        },
         {
             "oj": "codeforces",
             "name": "Educational Codeforces Round 186 (Rated for Div. 2)",
