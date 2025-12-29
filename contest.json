@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1766960435,
-    "refreshTimeCH": "2025-12-29 06:20:35",
+    "refreshTimeStamp": 1767046817,
+    "refreshTimeCH": "2025-12-30 06:20:17",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 186 (Rated for Div. 2)",
-            "stime": 1767018900,
-            "etime": 1767026100,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2182"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-260-Div.1+2】洛谷 12 月月赛 II & FAOI R10: 2025-2026 跨年赛",
@@ -115,6 +107,14 @@
             "link": "https://atcoder.jp/contests/abc440"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 484",
+            "stime": 1768098600,
+            "etime": 1768104000,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-484"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Regular Contest 212 (Div. 2)",
             "stime": 1768132800,
@@ -129,6 +129,14 @@
             "etime": 1768657200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc441"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 174",
+            "stime": 1768660200,
+            "etime": 1768665600,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-174"
         },
         {
             "oj": "atcoder",
