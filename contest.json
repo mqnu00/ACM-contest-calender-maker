@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1767219675,
-    "refreshTimeCH": "2026-01-01 06:21:15",
+    "refreshTimeStamp": 1767306051,
+    "refreshTimeCH": "2026-01-02 06:20:51",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "GenshinOI Round 6",
-            "stime": 1767247200,
-            "etime": 1767258000,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/261469"
-        },
         {
             "oj": "luogu",
             "name": "GenshinOI Round 7",
@@ -137,6 +129,14 @@
             "etime": 1768568400,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/126634"
+        },
+        {
+            "oj": "luogu",
+            "name": "『GTOI』Round 2",
+            "stime": 1768629600,
+            "etime": 1768644000,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/298257"
         },
         {
             "oj": "atcoder",
