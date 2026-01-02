@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1767306051,
-    "refreshTimeCH": "2026-01-02 06:20:51",
+    "refreshTimeStamp": 1767392471,
+    "refreshTimeCH": "2026-01-03 06:21:11",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "GenshinOI Round 7",
-            "stime": 1767331800,
-            "etime": 1767346200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/261472"
-        },
-        {
-            "oj": "luogu",
-            "name": "『LBA-OI』Round 2",
-            "stime": 1767400200,
-            "etime": 1767414600,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/292354"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-257-Div.2】洛谷 1 月月赛 I & ffbb OI round 1",
@@ -97,6 +81,14 @@
             "etime": 1768052400,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc440"
+        },
+        {
+            "oj": "luogu",
+            "name": "『LBA-OI』Round 2",
+            "stime": 1768091400,
+            "etime": 1768105800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/292354"
         },
         {
             "oj": "leetcode",
