@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1767651700,
-    "refreshTimeCH": "2026-01-06 06:21:40",
+    "refreshTimeStamp": 1767738130,
+    "refreshTimeCH": "2026-01-07 06:22:10",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -121,6 +121,14 @@
             "etime": 1768708800,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-485"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 127",
+            "stime": 1768734000,
+            "etime": 1768741200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/126798"
         },
         {
             "oj": "atcoder",
