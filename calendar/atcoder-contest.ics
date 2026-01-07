@@ -65,4 +65,18 @@ UID:RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contes
  t 060)
 DESCRIPTION:https://atcoder.jp/contests/ahc060
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 444
+DTSTART:20260207T200000
+DTEND:20260207T214000
+UID:AtCoder Beginner Contest 444
+DESCRIPTION:https://atcoder.jp/contests/abc444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 3rd Masters Championship-qual-
+DTSTART:20260301T120000
+DTEND:20260301T180000
+UID:The 3rd Masters Championship-qual-
+DESCRIPTION:https://atcoder.jp/contests/masters2026-qual
+END:VEVENT
 END:VCALENDAR

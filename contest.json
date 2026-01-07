@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1767738130,
-    "refreshTimeCH": "2026-01-07 06:22:10",
+    "refreshTimeStamp": 1767824484,
+    "refreshTimeCH": "2026-01-08 06:21:24",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Hello 2026",
-            "stime": 1767796500,
-            "etime": 1767807300,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2183"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客挑战赛85",
@@ -169,6 +161,22 @@
             "etime": 1770285600,
             "dtime": 14400,
             "link": "https://ac.nowcoder.com/acm/contest/120562"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 444",
+            "stime": 1770465600,
+            "etime": 1770471600,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc444"
+        },
+        {
+            "oj": "atcoder",
+            "name": "The 3rd Masters Championship-qual-",
+            "stime": 1772337600,
+            "etime": 1772359200,
+            "dtime": 21600,
+            "link": "https://atcoder.jp/contests/masters2026-qual"
         }
     ]
 }
