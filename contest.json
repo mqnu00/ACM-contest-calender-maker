@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1767910913,
-    "refreshTimeCH": "2026-01-09 06:21:53",
+    "refreshTimeStamp": 1767997304,
+    "refreshTimeCH": "2026-01-10 06:21:44",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客挑战赛85",
-            "stime": 1767956400,
-            "etime": 1767967200,
-            "dtime": 10800,
-            "link": "https://ac.nowcoder.com/acm/contest/126635"
-        },
         {
             "oj": "atcoder",
             "name": "AtCoder Heuristic Contest 059",
@@ -73,6 +65,14 @@
             "etime": 1768140000,
             "dtime": 7200,
             "link": "https://atcoder.jp/contests/arc212"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round 1072 (Div. 3)",
+            "stime": 1768228500,
+            "etime": 1768236600,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2184"
         },
         {
             "oj": "nowcoder",
