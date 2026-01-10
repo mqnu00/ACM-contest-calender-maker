@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1767997304,
-    "refreshTimeCH": "2026-01-10 06:21:44",
+    "refreshTimeStamp": 1768083624,
+    "refreshTimeCH": "2026-01-11 06:20:24",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Heuristic Contest 059",
-            "stime": 1768024800,
-            "etime": 1768039200,
-            "dtime": 14400,
-            "link": "https://atcoder.jp/contests/ahc059"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-258-Div.2】洛谷 1 月月赛 II & KWOI Round 1",
-            "stime": 1768024800,
-            "etime": 1768039200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/280819"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 440",
-            "stime": 1768046400,
-            "etime": 1768052400,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc440"
-        },
         {
             "oj": "luogu",
             "name": "『LBA-OI』Round 2",
@@ -113,6 +89,22 @@
             "etime": 1768708800,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-485"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-262-Div.1】洛谷 1 月月赛 III",
+            "stime": 1768716000,
+            "etime": 1768730400,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/302392"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-262-Div.2】洛谷 1 月月赛 III",
+            "stime": 1768716000,
+            "etime": 1768730400,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/302393"
         },
         {
             "oj": "nowcoder",
