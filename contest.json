@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1768083624,
-    "refreshTimeCH": "2026-01-11 06:20:24",
+    "refreshTimeStamp": 1768170033,
+    "refreshTimeCH": "2026-01-12 06:20:33",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "『LBA-OI』Round 2",
-            "stime": 1768091400,
-            "etime": 1768105800,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/292354"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 484",
-            "stime": 1768098600,
-            "etime": 1768104000,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-484"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 126",
-            "stime": 1768129200,
-            "etime": 1768136400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/126636"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 212 (Div. 2)",
-            "stime": 1768132800,
-            "etime": 1768140000,
-            "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc212"
-        },
         {
             "oj": "codeforces",
             "name": "Codeforces Round 1072 (Div. 3)",
@@ -57,6 +25,14 @@
             "etime": 1768568400,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/126634"
+        },
+        {
+            "oj": "luogu",
+            "name": "『LHB-OI』Round 1",
+            "stime": 1768608000,
+            "etime": 1768622400,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/302723"
         },
         {
             "oj": "luogu",
