@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1768170033,
-    "refreshTimeCH": "2026-01-12 06:20:33",
+    "refreshTimeStamp": 1768256385,
+    "refreshTimeCH": "2026-01-13 06:19:45",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1072 (Div. 3)",
-            "stime": 1768228500,
-            "etime": 1768236600,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2184"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客小白月赛127",
@@ -59,6 +51,22 @@
             "link": "https://leetcode.cn/contest/biweekly-contest-174"
         },
         {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 1)",
+            "stime": 1768660500,
+            "etime": 1768667700,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2190"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1768660500,
+            "etime": 1768667700,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2191"
+        },
+        {
             "oj": "leetcode",
             "name": "Weekly Contest 485",
             "stime": 1768703400,
@@ -91,6 +99,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/126798"
         },
         {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 4)",
+            "stime": 1768746900,
+            "etime": 1768755000,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2185"
+        },
+        {
             "oj": "atcoder",
             "name": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
             "stime": 1769256000,
@@ -99,12 +115,36 @@
             "link": "https://atcoder.jp/contests/abc442"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 486",
+            "stime": 1769308200,
+            "etime": 1769313600,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-486"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1769697300,
+            "etime": 1769704500,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2188"
+        },
+        {
             "oj": "atcoder",
             "name": "Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）",
             "stime": 1769860800,
             "etime": 1769866800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc443"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 175",
+            "stime": 1769869800,
+            "etime": 1769875200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-175"
         },
         {
             "oj": "atcoder",
