@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1768256385,
-    "refreshTimeCH": "2026-01-13 06:19:45",
+    "refreshTimeStamp": 1768342966,
+    "refreshTimeCH": "2026-01-14 06:22:46",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -54,16 +54,16 @@
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 1)",
             "stime": 1768660500,
-            "etime": 1768667700,
-            "dtime": 7200,
+            "etime": 1768671300,
+            "dtime": 10800,
             "link": "https://codeforces.com/contest/2190"
         },
         {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 2)",
             "stime": 1768660500,
-            "etime": 1768667700,
-            "dtime": 7200,
+            "etime": 1768671300,
+            "dtime": 10800,
             "link": "https://codeforces.com/contest/2191"
         },
         {
@@ -107,6 +107,14 @@
             "link": "https://codeforces.com/contest/2185"
         },
         {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1769178900,
+            "etime": 1769186100,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2189"
+        },
+        {
             "oj": "atcoder",
             "name": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
             "stime": 1769256000,
@@ -126,8 +134,8 @@
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 2)",
             "stime": 1769697300,
-            "etime": 1769704500,
-            "dtime": 7200,
+            "etime": 1769706300,
+            "dtime": 9000,
             "link": "https://codeforces.com/contest/2188"
         },
         {
@@ -177,6 +185,14 @@
             "etime": 1770471600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc444"
+        },
+        {
+            "oj": "atcoder",
+            "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
+            "stime": 1770976800,
+            "etime": 1771840800,
+            "dtime": 864000,
+            "link": "https://atcoder.jp/contests/ahc061"
         },
         {
             "oj": "atcoder",
