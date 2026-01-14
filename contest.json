@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1768342966,
-    "refreshTimeCH": "2026-01-14 06:22:46",
+    "refreshTimeStamp": 1768429402,
+    "refreshTimeCH": "2026-01-15 06:23:22",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -115,6 +115,14 @@
             "link": "https://codeforces.com/contest/2189"
         },
         {
+            "oj": "luogu",
+            "name": "【LGR-261-Div.2】洛谷 1 月月赛 Ⅳ & WAOI Round 9",
+            "stime": 1769234400,
+            "etime": 1769248800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/266133"
+        },
+        {
             "oj": "atcoder",
             "name": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
             "stime": 1769256000,
@@ -129,6 +137,14 @@
             "etime": 1769313600,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-486"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest 213 (Div. 1)",
+            "stime": 1769342400,
+            "etime": 1769351400,
+            "dtime": 9000,
+            "link": "https://atcoder.jp/contests/arc213"
         },
         {
             "oj": "codeforces",
