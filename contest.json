@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1768515770,
-    "refreshTimeCH": "2026-01-16 06:22:50",
+    "refreshTimeStamp": 1768602132,
+    "refreshTimeCH": "2026-01-17 06:22:12",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛127",
-            "stime": 1768561200,
-            "etime": 1768568400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/126634"
-        },
         {
             "oj": "luogu",
             "name": "『LHB-OI』Round 1",
@@ -209,6 +201,14 @@
             "etime": 1771840800,
             "dtime": 864000,
             "link": "https://atcoder.jp/contests/ahc061"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客2026年情人节比赛",
+            "stime": 1771066800,
+            "etime": 1771074000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/127094"
         },
         {
             "oj": "atcoder",
