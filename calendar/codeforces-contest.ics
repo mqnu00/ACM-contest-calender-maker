@@ -13,38 +13,24 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Codeforces Round 1073 (Div. 1)
-DTSTART:20260117T223500
-DTEND:20260118T013500
-UID:Codeforces Round 1073 (Div. 1)
-DESCRIPTION:https://codeforces.com/contest/2190
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Codeforces Round 1073 (Div. 2)
-DTSTART:20260117T223500
-DTEND:20260118T013500
-UID:Codeforces Round 1073 (Div. 2)
-DESCRIPTION:https://codeforces.com/contest/2191
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 4)
+SUMMARY:Codeforces Round 1074 (Div. 4)
 DTSTART:20260118T223500
 DTEND:20260119T005000
-UID:Codeforces Round (Div. 4)
+UID:Codeforces Round 1074 (Div. 4)
 DESCRIPTION:https://codeforces.com/contest/2185
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 2)
+SUMMARY:Codeforces Round 1075 (Div. 2)
 DTSTART:20260123T223500
 DTEND:20260124T003500
-UID:Codeforces Round (Div. 2)
+UID:Codeforces Round 1075 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2189
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 2)
+SUMMARY:Codeforces Round 1076 (Div. 2)
 DTSTART:20260129T223500
 DTEND:20260130T010500
-UID:Codeforces Round (Div. 2)
+UID:Codeforces Round 1076 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2188
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1768602132,
-    "refreshTimeCH": "2026-01-17 06:22:12",
+    "refreshTimeStamp": 1768688408,
+    "refreshTimeCH": "2026-01-18 06:20:08",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,54 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "『LHB-OI』Round 1",
-            "stime": 1768608000,
-            "etime": 1768622400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/302723"
-        },
-        {
-            "oj": "luogu",
-            "name": "『GTOI』Round 2",
-            "stime": 1768629600,
-            "etime": 1768644000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/298257"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 441 (Promotion of Engineer Guild Fes)",
-            "stime": 1768651200,
-            "etime": 1768657200,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc441"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 174",
-            "stime": 1768660200,
-            "etime": 1768665600,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-174"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1073 (Div. 1)",
-            "stime": 1768660500,
-            "etime": 1768671300,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2190"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1073 (Div. 2)",
-            "stime": 1768660500,
-            "etime": 1768671300,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2191"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 485",
@@ -92,7 +44,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 4)",
+            "name": "Codeforces Round 1074 (Div. 4)",
             "stime": 1768746900,
             "etime": 1768755000,
             "dtime": 8100,
@@ -100,7 +52,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1075 (Div. 2)",
             "stime": 1769178900,
             "etime": 1769186100,
             "dtime": 7200,
@@ -140,7 +92,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1076 (Div. 2)",
             "stime": 1769697300,
             "etime": 1769706300,
             "dtime": 9000,
