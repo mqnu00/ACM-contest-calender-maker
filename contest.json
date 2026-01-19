@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1768774816,
-    "refreshTimeCH": "2026-01-19 06:20:16",
+    "refreshTimeStamp": 1768861345,
+    "refreshTimeCH": "2026-01-20 06:22:25",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,6 +10,14 @@
         "leetcode"
     ],
     "contests": [
+        {
+            "oj": "nowcoder",
+            "name": "牛客练习赛148",
+            "stime": 1769166000,
+            "etime": 1769175000,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/127263"
+        },
         {
             "oj": "codeforces",
             "name": "Codeforces Round 1075 (Div. 2)",
@@ -41,6 +49,14 @@
             "etime": 1769313600,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-486"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 128",
+            "stime": 1769338800,
+            "etime": 1769346000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/127240"
         },
         {
             "oj": "atcoder",
@@ -83,6 +99,14 @@
             "link": "https://www.luogu.com.cn/contest/304401"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛128",
+            "stime": 1769770800,
+            "etime": 1769778000,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/127265"
+        },
+        {
             "oj": "atcoder",
             "name": "Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）",
             "stime": 1769860800,
@@ -105,6 +129,14 @@
             "etime": 1769954400,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc060"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 129",
+            "stime": 1769943600,
+            "etime": 1769950800,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/127264"
         },
         {
             "oj": "nowcoder",
@@ -145,6 +177,14 @@
             "etime": 1771074000,
             "dtime": 7200,
             "link": "https://ac.nowcoder.com/acm/contest/127094"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 445",
+            "stime": 1771070400,
+            "etime": 1771076400,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc445"
         },
         {
             "oj": "atcoder",

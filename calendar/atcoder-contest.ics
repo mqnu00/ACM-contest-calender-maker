@@ -59,6 +59,13 @@ UID:THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）
 DESCRIPTION:https://atcoder.jp/contests/ahc061
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 445
+DTSTART:20260214T200000
+DTEND:20260214T214000
+UID:AtCoder Beginner Contest 445
+DESCRIPTION:https://atcoder.jp/contests/abc445
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The 3rd Masters Championship-qual-
 DTSTART:20260301T120000
 DTEND:20260301T180000
