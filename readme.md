@@ -12,15 +12,15 @@
 
 可通过以下链接订阅（已使用github加速）：
 
-[atcoder](https://github.moeyy.xyz/https://raw.githubusercontent.com/mqnu00/ACM-contest-calender-maker/refs/heads/main/calendar/atcoder-contest.ics)
+[atcoder](https://gh-proxy.com/https://raw.githubusercontent.com/mqnu00/ACM-contest-calender-maker/refs/heads/main/calendar/atcoder-contest.ics)
 
-[codeforces](https://github.moeyy.xyz/https://raw.githubusercontent.com/mqnu00/ACM-contest-calender-maker/refs/heads/main/calendar/codeforces-contest.ics)
+[codeforces](https://gh-proxy.com/https://raw.githubusercontent.com/mqnu00/ACM-contest-calender-maker/refs/heads/main/calendar/codeforces-contest.ics)
 
-[luogu](https://github.moeyy.xyz/https://raw.githubusercontent.com/mqnu00/ACM-contest-calender-maker/refs/heads/main/calendar/luogu-contest.ics)
+[luogu](https://gh-proxy.com/https://raw.githubusercontent.com/mqnu00/ACM-contest-calender-maker/refs/heads/main/calendar/luogu-contest.ics)
 
-[leetcode](https://github.moeyy.xyz/https://raw.githubusercontent.com/mqnu00/ACM-contest-calender-maker/refs/heads/main/calendar/leetcode-contest.ics)
+[leetcode](https://gh-proxy.com/https://raw.githubusercontent.com/mqnu00/ACM-contest-calender-maker/refs/heads/main/calendar/leetcode-contest.ics)
 
-[nowcoder](https://github.moeyy.xyz/https://raw.githubusercontent.com/mqnu00/ACM-contest-calender-maker/refs/heads/main/calendar/nowcoder-contest.ics)
+[nowcoder](https://gh-proxy.com/https://raw.githubusercontent.com/mqnu00/ACM-contest-calender-maker/refs/heads/main/calendar/nowcoder-contest.ics)
 
 # 注意事项
 
