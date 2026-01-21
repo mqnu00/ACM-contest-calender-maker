@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1768947828,
-    "refreshTimeCH": "2026-01-21 06:23:48",
+    "refreshTimeStamp": 1769034380,
+    "refreshTimeCH": "2026-01-22 06:26:20",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -193,6 +193,14 @@
             "etime": 1771076400,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc445"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 446",
+            "stime": 1771675200,
+            "etime": 1771681200,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc446"
         },
         {
             "oj": "atcoder",

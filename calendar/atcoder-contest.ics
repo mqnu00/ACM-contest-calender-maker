@@ -66,6 +66,13 @@ UID:AtCoder Beginner Contest 445
 DESCRIPTION:https://atcoder.jp/contests/abc445
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Beginner Contest 446
+DTSTART:20260221T200000
+DTEND:20260221T214000
+UID:AtCoder Beginner Contest 446
+DESCRIPTION:https://atcoder.jp/contests/abc446
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The 3rd Masters Championship-qual-
 DTSTART:20260301T120000
 DTEND:20260301T180000
