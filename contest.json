@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1769034380,
-    "refreshTimeCH": "2026-01-22 06:26:20",
+    "refreshTimeStamp": 1769120640,
+    "refreshTimeCH": "2026-01-23 06:24:00",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -51,6 +51,14 @@
             "link": "https://leetcode.cn/contest/weekly-contest-486"
         },
         {
+            "oj": "luogu",
+            "name": "chaynOI Round 2",
+            "stime": 1769320800,
+            "etime": 1769335200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/259953"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 128",
             "stime": 1769338800,
@@ -78,16 +86,16 @@
             "oj": "codeforces",
             "name": "Codeforces Round 1077 (Div. 1)",
             "stime": 1769697300,
-            "etime": 1769706300,
-            "dtime": 9000,
+            "etime": 1769708100,
+            "dtime": 10800,
             "link": "https://codeforces.com/contest/2187"
         },
         {
             "oj": "codeforces",
             "name": "Codeforces Round 1077 (Div. 2)",
             "stime": 1769697300,
-            "etime": 1769706300,
-            "dtime": 9000,
+            "etime": 1769708100,
+            "dtime": 10800,
             "link": "https://codeforces.com/contest/2188"
         },
         {
