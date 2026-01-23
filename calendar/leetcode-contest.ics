@@ -26,4 +26,11 @@ DTEND:20260201T000000
 UID:Biweekly Contest 175
 DESCRIPTION:https://leetcode.cn/contest/biweekly-contest-175
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Contest 487
+DTSTART:20260201T103000
+DTEND:20260201T120000
+UID:Weekly Contest 487
+DESCRIPTION:https://leetcode.cn/contest/weekly-contest-487
+END:VEVENT
 END:VCALENDAR
