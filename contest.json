@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1769206740,
-    "refreshTimeCH": "2026-01-24 06:19:00",
+    "refreshTimeStamp": 1769293222,
+    "refreshTimeCH": "2026-01-25 06:20:22",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,19 +12,11 @@
     "contests": [
         {
             "oj": "luogu",
-            "name": "【LGR-261-Div.2】洛谷 1 月月赛 Ⅳ & WAOI Round 9",
-            "stime": 1769234400,
-            "etime": 1769248800,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/266133"
-        },
-        {
-            "oj": "atcoder",
-            "name": "JPRS Programming Contest 2026#1 (AtCoder Beginner Contest 442)",
-            "stime": 1769256000,
-            "etime": 1769262000,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc442"
+            "name": "洛谷 2025 年度试题推荐选集",
+            "stime": 1769245200,
+            "etime": 1770195600,
+            "dtime": 950400,
+            "link": "https://www.luogu.com.cn/contest/305403"
         },
         {
             "oj": "leetcode",
@@ -67,6 +59,14 @@
             "link": "https://codeforces.com/contest/2193"
         },
         {
+            "oj": "luogu",
+            "name": "[ICPC2024 Chengdu R] ICPC 2024 区域赛成都站重现赛",
+            "stime": 1769403600,
+            "etime": 1769421600,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/305336"
+        },
+        {
             "oj": "codeforces",
             "name": "Codeforces Round 1077 (Div. 1)",
             "stime": 1769697300,
@@ -84,7 +84,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【LGR-263-Div.4】洛谷入门赛 #43 · 洛谷 2026",
+            "name": "【LGR-263-Div.4】洛谷入门赛 #43",
             "stime": 1769770800,
             "etime": 1769778000,
             "dtime": 7200,
@@ -169,6 +169,14 @@
             "etime": 1770482100,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2192"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1770541500,
+            "etime": 1770548700,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2194"
         },
         {
             "oj": "atcoder",
