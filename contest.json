@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1769466202,
-    "refreshTimeCH": "2026-01-27 06:23:22",
+    "refreshTimeStamp": 1769552628,
+    "refreshTimeCH": "2026-01-28 06:23:48",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -137,6 +137,22 @@
             "etime": 1770548700,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2194"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 1)",
+            "stime": 1770820500,
+            "etime": 1770827700,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2196"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1770820500,
+            "etime": 1770827700,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2197"
         },
         {
             "oj": "atcoder",
