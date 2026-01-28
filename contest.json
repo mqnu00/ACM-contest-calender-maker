@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1769552628,
-    "refreshTimeCH": "2026-01-28 06:23:48",
+    "refreshTimeStamp": 1769639268,
+    "refreshTimeCH": "2026-01-29 06:27:48",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -13,8 +13,8 @@
         {
             "oj": "luogu",
             "name": "COCI 2025/2026 #4 Unofficial Mirror",
-            "stime": 1769583600,
-            "etime": 1769594400,
+            "stime": 1769670000,
+            "etime": 1769680800,
             "dtime": 10800,
             "link": "https://www.luogu.com.cn/contest/305806"
         },
