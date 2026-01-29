@@ -38,6 +38,13 @@ UID:AtCoder Beginner Contest 444
 DESCRIPTION:https://atcoder.jp/contests/abc444
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AtCoder Regular Contest 214
+DTSTART:20260208T200000
+DTEND:20260208T220000
+UID:AtCoder Regular Contest 214
+DESCRIPTION:https://atcoder.jp/contests/arc214
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）
 DTSTART:20260213T180000
 DTEND:20260223T180000

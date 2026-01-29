@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1769639268,
-    "refreshTimeCH": "2026-01-29 06:27:48",
+    "refreshTimeStamp": 1769725720,
+    "refreshTimeCH": "2026-01-30 06:28:40",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -13,34 +13,10 @@
         {
             "oj": "luogu",
             "name": "COCI 2025/2026 #4 Unofficial Mirror",
-            "stime": 1769670000,
-            "etime": 1769680800,
+            "stime": 1769756400,
+            "etime": 1769767200,
             "dtime": 10800,
             "link": "https://www.luogu.com.cn/contest/305806"
-        },
-        {
-            "oj": "luogu",
-            "name": "嘟嘟哒哒大作战",
-            "stime": 1769680800,
-            "etime": 1769695200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/304744"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1077 (Div. 1)",
-            "stime": 1769697300,
-            "etime": 1769708100,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2187"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1077 (Div. 2)",
-            "stime": 1769697300,
-            "etime": 1769708100,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2188"
         },
         {
             "oj": "luogu",
@@ -115,6 +91,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/120562"
         },
         {
+            "oj": "nowcoder",
+            "name": "2026牛客寒假算法基础集训营3",
+            "stime": 1770444000,
+            "etime": 1770458400,
+            "dtime": 14400,
+            "link": "https://ac.nowcoder.com/acm/contest/120563"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 444",
             "stime": 1770465600,
@@ -131,12 +115,52 @@
             "link": "https://codeforces.com/contest/2192"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 488",
+            "stime": 1770517800,
+            "etime": 1770523200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-488"
+        },
+        {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 2)",
             "stime": 1770541500,
             "etime": 1770548700,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2194"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 130",
+            "stime": 1770548400,
+            "etime": 1770555600,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/127702"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest 214",
+            "stime": 1770552000,
+            "etime": 1770559200,
+            "dtime": 7200,
+            "link": "https://atcoder.jp/contests/arc214"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2026牛客寒假算法基础集训营4",
+            "stime": 1770616800,
+            "etime": 1770631200,
+            "dtime": 14400,
+            "link": "https://ac.nowcoder.com/acm/contest/120564"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2026牛客寒假算法基础集训营5",
+            "stime": 1770789600,
+            "etime": 1770804000,
+            "dtime": 14400,
+            "link": "https://ac.nowcoder.com/acm/contest/120565"
         },
         {
             "oj": "codeforces",
@@ -153,6 +177,14 @@
             "etime": 1770827700,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2197"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2026牛客寒假算法基础集训营6",
+            "stime": 1770962400,
+            "etime": 1770976800,
+            "dtime": 14400,
+            "link": "https://ac.nowcoder.com/acm/contest/120566"
         },
         {
             "oj": "atcoder",
@@ -177,6 +209,30 @@
             "etime": 1771076400,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc445"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 176",
+            "stime": 1771079400,
+            "etime": 1771084800,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-176"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 131",
+            "stime": 1771153200,
+            "etime": 1771160400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/127703"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客2026年除夕娱乐赛",
+            "stime": 1771254000,
+            "etime": 1771261200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/127676"
         },
         {
             "oj": "atcoder",
