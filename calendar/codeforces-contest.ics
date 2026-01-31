@@ -40,4 +40,18 @@ DTEND:20260212T003500
 UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2197
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 3)
+DTSTART:20260215T223500
+DTEND:20260216T005000
+UID:Codeforces Round (Div. 3)
+DESCRIPTION:https://codeforces.com/contest/2195
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kotlin Heroes: Practice 14
+DTSTART:20260221T223000
+DTEND:20260302T223000
+UID:Kotlin Heroes: Practice 14
+DESCRIPTION:https://codeforces.com/contest/2198
+END:VEVENT
 END:VCALENDAR

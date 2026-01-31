@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1769812017,
-    "refreshTimeCH": "2026-01-31 06:26:57",
+    "refreshTimeStamp": 1769898252,
+    "refreshTimeCH": "2026-02-01 06:24:12",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,36 +11,20 @@
     ],
     "contests": [
         {
-            "oj": "luogu",
-            "name": "COCI 2025/2026 #4 Unofficial Mirror",
-            "stime": 1769842800,
-            "etime": 1769853600,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/305806"
-        },
-        {
-            "oj": "atcoder",
-            "name": "Denso Create Programming Contest 2026（AtCoder Beginner Contest 443）",
-            "stime": 1769860800,
-            "etime": 1769866800,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc443"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 175",
-            "stime": 1769869800,
-            "etime": 1769875200,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-175"
-        },
-        {
             "oj": "leetcode",
             "name": "Weekly Contest 487",
             "stime": 1769913000,
             "etime": 1769918400,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-487"
+        },
+        {
+            "oj": "luogu",
+            "name": "COCI 2025/2026 #4 Unofficial Mirror",
+            "stime": 1769929200,
+            "etime": 1769940000,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/305806"
         },
         {
             "oj": "atcoder",
@@ -219,6 +203,14 @@
             "link": "https://ac.nowcoder.com/acm/contest/127703"
         },
         {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 3)",
+            "stime": 1771166100,
+            "etime": 1771174200,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2195"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客2026年除夕娱乐赛",
             "stime": 1771254000,
@@ -233,6 +225,14 @@
             "etime": 1771681200,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc446"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Kotlin Heroes: Practice 14",
+            "stime": 1771684200,
+            "etime": 1772461800,
+            "dtime": 777600,
+            "link": "https://codeforces.com/contest/2198"
         },
         {
             "oj": "atcoder",
