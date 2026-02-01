@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1769898252,
-    "refreshTimeCH": "2026-02-01 06:24:12",
+    "refreshTimeStamp": 1769984760,
+    "refreshTimeCH": "2026-02-02 06:26:00",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,44 +11,20 @@
     ],
     "contests": [
         {
-            "oj": "leetcode",
-            "name": "Weekly Contest 487",
-            "stime": 1769913000,
-            "etime": 1769918400,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-487"
-        },
-        {
-            "oj": "luogu",
-            "name": "COCI 2025/2026 #4 Unofficial Mirror",
-            "stime": 1769929200,
-            "etime": 1769940000,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/305806"
-        },
-        {
-            "oj": "atcoder",
-            "name": "RECRUIT Nihonbashi Half Marathon 2026 Winter (AtCoder Heuristic Contest 060)",
-            "stime": 1769940000,
-            "etime": 1769954400,
-            "dtime": 14400,
-            "link": "https://atcoder.jp/contests/ahc060"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 129",
-            "stime": 1769943600,
-            "etime": 1769950800,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/127264"
-        },
-        {
             "oj": "nowcoder",
             "name": "2026牛客寒假算法基础集训营1",
             "stime": 1770098400,
             "etime": 1770112800,
             "dtime": 14400,
             "link": "https://ac.nowcoder.com/acm/contest/120561"
+        },
+        {
+            "oj": "luogu",
+            "name": "COCI 2025/2026 #4 Unofficial Mirror",
+            "stime": 1770102000,
+            "etime": 1770112800,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/305806"
         },
         {
             "oj": "nowcoder",
@@ -89,6 +65,14 @@
             "etime": 1770523200,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-488"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-266-Div.2】洛谷 2 月月赛 I &「CROI」Round 3",
+            "stime": 1770530400,
+            "etime": 1770544800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/236252"
         },
         {
             "oj": "codeforces",
