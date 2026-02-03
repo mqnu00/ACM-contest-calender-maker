@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1770108458,
-    "refreshTimeCH": "2026-02-03 16:47:38",
+    "refreshTimeStamp": 1770157828,
+    "refreshTimeCH": "2026-02-04 06:30:28",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "2026牛客寒假算法基础集训营1",
-            "stime": 1770098400,
-            "etime": 1770112800,
-            "dtime": 14400,
-            "link": "https://ac.nowcoder.com/acm/contest/120561"
-        },
         {
             "oj": "nowcoder",
             "name": "2026牛客寒假算法基础集训营2",
@@ -33,6 +25,14 @@
             "etime": 1770372000,
             "dtime": 10800,
             "link": "https://www.luogu.com.cn/contest/305806"
+        },
+        {
+            "oj": "luogu",
+            "name": "「LCOI」Round 1",
+            "stime": 1770444000,
+            "etime": 1770458400,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/274734"
         },
         {
             "oj": "nowcoder",
