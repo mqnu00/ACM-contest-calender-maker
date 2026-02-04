@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1770157828,
-    "refreshTimeCH": "2026-02-04 06:30:28",
+    "refreshTimeStamp": 1770244147,
+    "refreshTimeCH": "2026-02-05 06:29:07",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -97,6 +97,14 @@
             "etime": 1770631200,
             "dtime": 14400,
             "link": "https://ac.nowcoder.com/acm/contest/120564"
+        },
+        {
+            "oj": "luogu",
+            "name": "NOSOI Round 1",
+            "stime": 1770703200,
+            "etime": 1770717600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/303869"
         },
         {
             "oj": "luogu",
