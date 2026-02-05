@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1770244147,
-    "refreshTimeCH": "2026-02-05 06:29:07",
+    "refreshTimeStamp": 1770330489,
+    "refreshTimeCH": "2026-02-06 06:28:09",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "nowcoder",
-            "name": "2026牛客寒假算法基础集训营2",
-            "stime": 1770271200,
-            "etime": 1770285600,
-            "dtime": 14400,
-            "link": "https://ac.nowcoder.com/acm/contest/120562"
-        },
         {
             "oj": "luogu",
             "name": "COCI 2025/2026 #4 Unofficial Mirror",
@@ -185,6 +177,14 @@
             "etime": 1771084800,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-176"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 489",
+            "stime": 1771122600,
+            "etime": 1771128000,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-489"
         },
         {
             "oj": "nowcoder",
