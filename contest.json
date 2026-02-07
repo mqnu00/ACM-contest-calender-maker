@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1770416715,
-    "refreshTimeCH": "2026-02-07 06:25:15",
+    "refreshTimeStamp": 1770503247,
+    "refreshTimeCH": "2026-02-08 06:27:27",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,27 +12,11 @@
     "contests": [
         {
             "oj": "luogu",
-            "name": "「LCOI」Round 1",
-            "stime": 1770444000,
-            "etime": 1770458400,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/274734"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "2026牛客寒假算法基础集训营3",
-            "stime": 1770444000,
-            "etime": 1770458400,
-            "dtime": 14400,
-            "link": "https://ac.nowcoder.com/acm/contest/120563"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 444",
-            "stime": 1770465600,
-            "etime": 1770471600,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc444"
+            "name": "Google HashCode 启发式问题测试 I",
+            "stime": 1770462000,
+            "etime": 1770807600,
+            "dtime": 345600,
+            "link": "https://www.luogu.com.cn/contest/309179"
         },
         {
             "oj": "leetcode",
@@ -241,6 +225,14 @@
             "etime": 1771768800,
             "dtime": 7200,
             "link": "https://atcoder.jp/contests/arc215"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 3)",
+            "stime": 1772202900,
+            "etime": 1772211000,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2200"
         },
         {
             "oj": "atcoder",
