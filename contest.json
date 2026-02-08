@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1770503247,
-    "refreshTimeCH": "2026-02-08 06:27:27",
+    "refreshTimeStamp": 1770589695,
+    "refreshTimeCH": "2026-02-09 06:28:15",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,54 +11,6 @@
     ],
     "contests": [
         {
-            "oj": "luogu",
-            "name": "Google HashCode 启发式问题测试 I",
-            "stime": 1770462000,
-            "etime": 1770807600,
-            "dtime": 345600,
-            "link": "https://www.luogu.com.cn/contest/309179"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 488",
-            "stime": 1770517800,
-            "etime": 1770523200,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-488"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-266-Div.2】洛谷 2 月月赛 I &「CROI」Round 3",
-            "stime": 1770530400,
-            "etime": 1770544800,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/236252"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1078 (Div. 2)",
-            "stime": 1770541500,
-            "etime": 1770548700,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2194"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 130",
-            "stime": 1770548400,
-            "etime": 1770555600,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/127702"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest 214",
-            "stime": 1770552000,
-            "etime": 1770559200,
-            "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc214"
-        },
-        {
             "oj": "nowcoder",
             "name": "2026牛客寒假算法基础集训营4",
             "stime": 1770616800,
@@ -67,12 +19,28 @@
             "link": "https://ac.nowcoder.com/acm/contest/120564"
         },
         {
+            "oj": "atcoder",
+            "name": "AtCoder Weekday Contest 001 Beta",
+            "stime": 1770634800,
+            "etime": 1770640200,
+            "dtime": 5400,
+            "link": "https://atcoder.jp/contests/awc001"
+        },
+        {
             "oj": "luogu",
             "name": "NOSOI Round 1",
             "stime": 1770703200,
             "etime": 1770717600,
             "dtime": 14400,
             "link": "https://www.luogu.com.cn/contest/303869"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Weekday Contest 002 Beta",
+            "stime": 1770721200,
+            "etime": 1770726600,
+            "dtime": 5400,
+            "link": "https://atcoder.jp/contests/awc002"
         },
         {
             "oj": "luogu",
@@ -91,19 +59,27 @@
             "link": "https://ac.nowcoder.com/acm/contest/120565"
         },
         {
+            "oj": "atcoder",
+            "name": "AtCoder Weekday Contest 003 Beta",
+            "stime": 1770807600,
+            "etime": 1770813000,
+            "dtime": 5400,
+            "link": "https://atcoder.jp/contests/awc003"
+        },
+        {
             "oj": "codeforces",
             "name": "Codeforces Round 1079 (Div. 1)",
             "stime": 1770820500,
-            "etime": 1770827700,
-            "dtime": 7200,
+            "etime": 1770831300,
+            "dtime": 10800,
             "link": "https://codeforces.com/contest/2196"
         },
         {
             "oj": "codeforces",
             "name": "Codeforces Round 1079 (Div. 2)",
             "stime": 1770820500,
-            "etime": 1770827700,
-            "dtime": 7200,
+            "etime": 1770831300,
+            "dtime": 10800,
             "link": "https://codeforces.com/contest/2197"
         },
         {
@@ -113,6 +89,14 @@
             "etime": 1770888600,
             "dtime": 12600,
             "link": "https://www.luogu.com.cn/contest/273960"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Weekday Contest 004 Beta",
+            "stime": 1770894000,
+            "etime": 1770899400,
+            "dtime": 5400,
+            "link": "https://atcoder.jp/contests/awc004"
         },
         {
             "oj": "nowcoder",
@@ -129,6 +113,14 @@
             "etime": 1771840800,
             "dtime": 864000,
             "link": "https://atcoder.jp/contests/ahc061"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Weekday Contest 005 Beta",
+            "stime": 1770980400,
+            "etime": 1770985800,
+            "dtime": 5400,
+            "link": "https://atcoder.jp/contests/awc005"
         },
         {
             "oj": "luogu",
@@ -225,6 +217,22 @@
             "etime": 1771768800,
             "dtime": 7200,
             "link": "https://atcoder.jp/contests/arc215"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 1)",
+            "stime": 1771770900,
+            "etime": 1771781700,
+            "dtime": 10800,
+            "link": "https://codeforces.com/contest/2201"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1771770900,
+            "etime": 1771781700,
+            "dtime": 10800,
+            "link": "https://codeforces.com/contest/2202"
         },
         {
             "oj": "codeforces",
