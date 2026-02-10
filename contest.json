@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1770676598,
-    "refreshTimeCH": "2026-02-10 06:36:38",
+    "refreshTimeStamp": 1770763216,
+    "refreshTimeCH": "2026-02-11 06:40:16",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "NOSOI Round 1",
-            "stime": 1770703200,
-            "etime": 1770717600,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/303869"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Weekday Contest 0002 Beta",
-            "stime": 1770721200,
-            "etime": 1770726600,
-            "dtime": 5400,
-            "link": "https://atcoder.jp/contests/awc0002"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-267-Div.2】洛谷 2 月月赛 II & UTOI Round 1",
@@ -116,7 +100,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-X24】梦熊 X 组 · RiOI-7（同步赛）",
+            "name": "【MX-X24】梦熊 X 组 · RiOI Round 7（同步赛）",
             "stime": 1771048800,
             "etime": 1771065000,
             "dtime": 16200,
@@ -164,10 +148,10 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 1080 (Div. 3)",
             "stime": 1771166100,
-            "etime": 1771174200,
-            "dtime": 8100,
+            "etime": 1771175100,
+            "dtime": 9000,
             "link": "https://codeforces.com/contest/2195"
         },
         {
@@ -201,6 +185,14 @@
             "etime": 1772461800,
             "dtime": 777600,
             "link": "https://codeforces.com/contest/2198"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 490",
+            "stime": 1771727400,
+            "etime": 1771732800,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-490"
         },
         {
             "oj": "atcoder",
@@ -241,6 +233,14 @@
             "etime": 1772286000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc447"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 177",
+            "stime": 1772289000,
+            "etime": 1772294400,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-177"
         },
         {
             "oj": "atcoder",
