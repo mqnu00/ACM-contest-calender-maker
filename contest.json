@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1770763216,
-    "refreshTimeCH": "2026-02-11 06:40:16",
+    "refreshTimeStamp": 1770849004,
+    "refreshTimeCH": "2026-02-12 06:30:04",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,46 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-267-Div.2】洛谷 2 月月赛 II & UTOI Round 1",
-            "stime": 1770789600,
-            "etime": 1770804000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/282947"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "2026牛客寒假算法基础集训营5",
-            "stime": 1770789600,
-            "etime": 1770804000,
-            "dtime": 14400,
-            "link": "https://ac.nowcoder.com/acm/contest/120565"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Weekday Contest 0003 Beta",
-            "stime": 1770807600,
-            "etime": 1770813000,
-            "dtime": 5400,
-            "link": "https://atcoder.jp/contests/awc0003"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1079 (Div. 1)",
-            "stime": 1770820500,
-            "etime": 1770831300,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2196"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1079 (Div. 2)",
-            "stime": 1770820500,
-            "etime": 1770831300,
-            "dtime": 10800,
-            "link": "https://codeforces.com/contest/2197"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-264-Div.3】洛谷基础赛 #30 & YLLOI Round 3",
@@ -100,7 +60,7 @@
         },
         {
             "oj": "luogu",
-            "name": "【MX-X24】梦熊 X 组 · RiOI Round 7（同步赛）",
+            "name": "【MX-X24】梦熊 X 组 · 二重身赛 & RiOI Round 7（同步赛）",
             "stime": 1771048800,
             "etime": 1771065000,
             "dtime": 16200,
@@ -155,6 +115,22 @@
             "link": "https://codeforces.com/contest/2195"
         },
         {
+            "oj": "luogu",
+            "name": "「LCOI」Round 2 & 除夕赛",
+            "stime": 1771221600,
+            "etime": 1771230600,
+            "dtime": 9000,
+            "link": "https://www.luogu.com.cn/contest/308153"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-271-Div.3】洛谷基础赛 #31 &「WYZOI」中国新年跨年赛 2025→2026",
+            "stime": 1771245000,
+            "etime": 1771257600,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/300994"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客2026年除夕娱乐赛",
             "stime": 1771254000,
@@ -169,6 +145,14 @@
             "etime": 1771675200,
             "dtime": 216000,
             "link": "https://www.luogu.com.cn/contest/305706"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-272-Div.2】洛谷 2 月月赛 III & 『ICerOI』Round 1",
+            "stime": 1771653600,
+            "etime": 1771669800,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/299754"
         },
         {
             "oj": "atcoder",
