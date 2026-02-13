@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1770935605,
-    "refreshTimeCH": "2026-02-13 06:33:25",
+    "refreshTimeStamp": 1771022064,
+    "refreshTimeCH": "2026-02-14 06:34:24",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,32 +11,8 @@
     ],
     "contests": [
         {
-            "oj": "nowcoder",
-            "name": "2026牛客寒假算法基础集训营6",
-            "stime": 1770962400,
-            "etime": 1770976800,
-            "dtime": 14400,
-            "link": "https://ac.nowcoder.com/acm/contest/120566"
-        },
-        {
-            "oj": "atcoder",
-            "name": "THIRD Programming Contest 2026（AtCoder Heuristic Contest 061）",
-            "stime": 1770976800,
-            "etime": 1771840800,
-            "dtime": 864000,
-            "link": "https://atcoder.jp/contests/ahc061"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Weekday Contest 0005 Beta",
-            "stime": 1770980400,
-            "etime": 1770985800,
-            "dtime": 5400,
-            "link": "https://atcoder.jp/contests/awc0005"
-        },
-        {
             "oj": "luogu",
-            "name": "NFC-OI Round 1",
+            "name": "NFC-OI Round 1 & 情人节赛",
             "stime": 1771029000,
             "etime": 1771041600,
             "dtime": 12600,
@@ -83,6 +59,14 @@
             "link": "https://leetcode.cn/contest/weekly-contest-489"
         },
         {
+            "oj": "luogu",
+            "name": "RedStone OI Round 1 & 送钱赛",
+            "stime": 1771135200,
+            "etime": 1771149600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/222594"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客周赛 Round 131",
             "stime": 1771153200,
@@ -107,6 +91,14 @@
             "link": "https://www.luogu.com.cn/contest/308153"
         },
         {
+            "oj": "atcoder",
+            "name": "AtCoder Weekday Contest 0006 Beta",
+            "stime": 1771239600,
+            "etime": 1771243200,
+            "dtime": 3600,
+            "link": "https://atcoder.jp/contests/awc0006"
+        },
+        {
             "oj": "luogu",
             "name": "【LGR-271-Div.3】洛谷基础赛 #31 &「WYZOI」中国新年跨年赛 2025→2026",
             "stime": 1771245000,
@@ -123,12 +115,44 @@
             "link": "https://ac.nowcoder.com/acm/contest/127676"
         },
         {
+            "oj": "atcoder",
+            "name": "AtCoder Weekday Contest 0007 Beta",
+            "stime": 1771326000,
+            "etime": 1771329600,
+            "dtime": 3600,
+            "link": "https://atcoder.jp/contests/awc0007"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Weekday Contest 0008 Beta",
+            "stime": 1771412400,
+            "etime": 1771416000,
+            "dtime": 3600,
+            "link": "https://atcoder.jp/contests/awc0008"
+        },
+        {
             "oj": "luogu",
             "name": "FeSo4OI Long Round #1 春节欢乐赛",
             "stime": 1771459200,
             "etime": 1771675200,
             "dtime": 216000,
             "link": "https://www.luogu.com.cn/contest/305706"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Weekday Contest 0009 Beta",
+            "stime": 1771498800,
+            "etime": 1771502400,
+            "dtime": 3600,
+            "link": "https://atcoder.jp/contests/awc0009"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Weekday Contest 0010 Beta",
+            "stime": 1771585200,
+            "etime": 1771588800,
+            "dtime": 3600,
+            "link": "https://atcoder.jp/contests/awc0010"
         },
         {
             "oj": "luogu",
