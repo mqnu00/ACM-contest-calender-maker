@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1771194347,
-    "refreshTimeCH": "2026-02-16 06:25:47",
+    "refreshTimeStamp": 1771280975,
+    "refreshTimeCH": "2026-02-17 06:29:35",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "「LCOI」Round 2 & 除夕赛",
-            "stime": 1771221600,
-            "etime": 1771230600,
-            "dtime": 9000,
-            "link": "https://www.luogu.com.cn/contest/308153"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Weekday Contest 0006 Beta",
-            "stime": 1771239600,
-            "etime": 1771243200,
-            "dtime": 3600,
-            "link": "https://atcoder.jp/contests/awc0006"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-271-Div.3】洛谷基础赛 #31 &「WYZOI」中国新年跨年赛 2025→2026",
-            "stime": 1771245000,
-            "etime": 1771257600,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/300994"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客2026年除夕娱乐赛",
-            "stime": 1771254000,
-            "etime": 1771261200,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/127676"
-        },
         {
             "oj": "atcoder",
             "name": "AtCoder Weekday Contest 0007 Beta",
@@ -163,6 +131,14 @@
             "link": "https://codeforces.com/contest/2202"
         },
         {
+            "oj": "luogu",
+            "name": "Construction Masters：yrOI R1",
+            "stime": 1771828200,
+            "etime": 1771842600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/305992"
+        },
+        {
             "oj": "nowcoder",
             "name": "牛客小白月赛129",
             "stime": 1772190000,
@@ -177,6 +153,14 @@
             "etime": 1772211000,
             "dtime": 8100,
             "link": "https://codeforces.com/contest/2200"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-270-Div.2】洛谷 2 月月赛 V & MYCOI-R1",
+            "stime": 1772258400,
+            "etime": 1772272800,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/245434"
         },
         {
             "oj": "atcoder",
@@ -217,6 +201,22 @@
             "etime": 1772890800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc448"
+        },
+        {
+            "oj": "atcoder",
+            "name": "UNIQUE VISION Programming Contest 2026 Spring (AtCoder Heuristic Contest 062)",
+            "stime": 1773468000,
+            "etime": 1773482400,
+            "dtime": 14400,
+            "link": "https://atcoder.jp/contests/ahc062"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 449",
+            "stime": 1773489600,
+            "etime": 1773495600,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc449"
         }
     ]
 }
