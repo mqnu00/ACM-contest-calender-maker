@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1771280975,
-    "refreshTimeCH": "2026-02-17 06:29:35",
+    "refreshTimeStamp": 1771367560,
+    "refreshTimeCH": "2026-02-18 06:32:40",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Weekday Contest 0007 Beta",
-            "stime": 1771326000,
-            "etime": 1771329600,
-            "dtime": 3600,
-            "link": "https://atcoder.jp/contests/awc0007"
-        },
         {
             "oj": "atcoder",
             "name": "AtCoder Weekday Contest 0008 Beta",
