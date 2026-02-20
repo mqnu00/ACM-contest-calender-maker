@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1771454038,
-    "refreshTimeCH": "2026-02-19 06:33:58",
+    "refreshTimeStamp": 1771626436,
+    "refreshTimeCH": "2026-02-21 06:27:16",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -44,7 +44,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1081 (Div. 2)",
             "stime": 1771684500,
             "etime": 1771691700,
             "dtime": 7200,
@@ -107,12 +107,44 @@
             "link": "https://codeforces.com/contest/2202"
         },
         {
+            "oj": "luogu",
+            "name": "「DBOI」Round -1",
+            "stime": 1771909200,
+            "etime": 1771929000,
+            "dtime": 19800,
+            "link": "https://www.luogu.com.cn/contest/273961"
+        },
+        {
             "oj": "codeforces",
             "name": "Educational Codeforces Round 187 (Rated for Div. 2)",
             "stime": 1771943700,
             "etime": 1771950900,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2203"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-269-Div.2】洛谷 2 月月赛 VI & IXOI Round 1",
+            "stime": 1771999200,
+            "etime": 1772013600,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/305773"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1772116500,
+            "etime": 1772125500,
+            "dtime": 9000,
+            "link": "https://codeforces.com/contest/2205"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-275-Div.4】洛谷入门赛 #44",
+            "stime": 1772190000,
+            "etime": 1772197200,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/311027"
         },
         {
             "oj": "nowcoder",
@@ -161,6 +193,22 @@
             "etime": 1772359200,
             "dtime": 21600,
             "link": "https://atcoder.jp/contests/masters2026-qual"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-273-Div.1】洛谷 3 月月赛 I & NtF Round 3",
+            "stime": 1772344800,
+            "etime": 1772359200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/309087"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-273-Div.2】洛谷 3 月月赛 I & NtF Round 3",
+            "stime": 1772344800,
+            "etime": 1772359200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/309086"
         },
         {
             "oj": "nowcoder",
