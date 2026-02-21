@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1771626436,
-    "refreshTimeCH": "2026-02-21 06:27:16",
+    "refreshTimeStamp": 1771712695,
+    "refreshTimeCH": "2026-02-22 06:24:55",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,46 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "FeSo4OI Long Round #1 春节欢乐赛",
-            "stime": 1771459200,
-            "etime": 1771675200,
-            "dtime": 216000,
-            "link": "https://www.luogu.com.cn/contest/305706"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-272-Div.2】洛谷 2 月月赛 III & 『ICerOI』Round 1",
-            "stime": 1771653600,
-            "etime": 1771669800,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/299754"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 446",
-            "stime": 1771675200,
-            "etime": 1771681200,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc446"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Kotlin Heroes: Practice 14",
-            "stime": 1771684200,
-            "etime": 1772461800,
-            "dtime": 777600,
-            "link": "https://codeforces.com/contest/2198"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1081 (Div. 2)",
-            "stime": 1771684500,
-            "etime": 1771691700,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2192"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 490",
@@ -94,16 +54,16 @@
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 1)",
             "stime": 1771857300,
-            "etime": 1771868100,
-            "dtime": 10800,
+            "etime": 1771866300,
+            "dtime": 9000,
             "link": "https://codeforces.com/contest/2201"
         },
         {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 2)",
             "stime": 1771857300,
-            "etime": 1771868100,
-            "dtime": 10800,
+            "etime": 1771866300,
+            "dtime": 9000,
             "link": "https://codeforces.com/contest/2202"
         },
         {
@@ -129,6 +89,14 @@
             "etime": 1772013600,
             "dtime": 14400,
             "link": "https://www.luogu.com.cn/contest/305773"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X25】梦熊 X 组 · 欧尼恩赛 & FeOI Round 5",
+            "stime": 1772085600,
+            "etime": 1772101800,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/311071"
         },
         {
             "oj": "codeforces",
