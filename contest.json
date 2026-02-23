@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1771799132,
-    "refreshTimeCH": "2026-02-23 06:25:32",
+    "refreshTimeStamp": 1771886495,
+    "refreshTimeCH": "2026-02-24 06:41:35",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,43 +12,11 @@
     "contests": [
         {
             "oj": "luogu",
-            "name": "Construction Masters：yrOI R1",
-            "stime": 1771828200,
-            "etime": 1771842600,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/305992"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1082 (Div. 1)",
-            "stime": 1771857300,
-            "etime": 1771866300,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2201"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1082 (Div. 2)",
-            "stime": 1771857300,
-            "etime": 1771866300,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2202"
-        },
-        {
-            "oj": "luogu",
             "name": "「DBOI」Round -1",
             "stime": 1771909200,
             "etime": 1771929000,
             "dtime": 19800,
             "link": "https://www.luogu.com.cn/contest/273961"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 187 (Rated for Div. 2)",
-            "stime": 1771943700,
-            "etime": 1771950900,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2203"
         },
         {
             "oj": "luogu",
@@ -57,6 +25,14 @@
             "etime": 1772013600,
             "dtime": 14400,
             "link": "https://www.luogu.com.cn/contest/305773"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Educational Codeforces Round 187 (Rated for Div. 2)",
+            "stime": 1772030100,
+            "etime": 1772037300,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2203"
         },
         {
             "oj": "luogu",
