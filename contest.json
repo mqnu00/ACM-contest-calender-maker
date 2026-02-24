@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1771886495,
-    "refreshTimeCH": "2026-02-24 06:41:35",
+    "refreshTimeStamp": 1771972476,
+    "refreshTimeCH": "2026-02-25 06:34:36",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "「DBOI」Round -1",
-            "stime": 1771909200,
-            "etime": 1771929000,
-            "dtime": 19800,
-            "link": "https://www.luogu.com.cn/contest/273961"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-269-Div.2】洛谷 2 月月赛 VI & IXOI Round 1",
@@ -44,7 +36,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1083 (Div. 2)",
             "stime": 1772116500,
             "etime": 1772125500,
             "dtime": 9000,
@@ -68,7 +60,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 3)",
+            "name": "Codeforces Round 1084 (Div. 3)",
             "stime": 1772202900,
             "etime": 1772211000,
             "dtime": 8100,
@@ -169,6 +161,22 @@
             "etime": 1773495600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc449"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Beginner Contest 450",
+            "stime": 1774094400,
+            "etime": 1774100400,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc450"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Grand Contest 077",
+            "stime": 1774785600,
+            "etime": 1774796400,
+            "dtime": 10800,
+            "link": "https://atcoder.jp/contests/agc077"
         }
     ]
 }
