@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1771972476,
-    "refreshTimeCH": "2026-02-25 06:34:36",
+    "refreshTimeStamp": 1772058881,
+    "refreshTimeCH": "2026-02-26 06:34:41",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-269-Div.2】洛谷 2 月月赛 VI & IXOI Round 1",
-            "stime": 1771999200,
-            "etime": 1772013600,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/305773"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 187 (Rated for Div. 2)",
-            "stime": 1772030100,
-            "etime": 1772037300,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2203"
-        },
         {
             "oj": "luogu",
             "name": "【MX-X25】梦熊 X 组 · 欧尼恩赛 & FeOI Round 5",
@@ -147,6 +131,22 @@
             "link": "https://atcoder.jp/contests/abc448"
         },
         {
+            "oj": "codeforces",
+            "name": "2026 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
+            "stime": 1772934300,
+            "etime": 1772952300,
+            "dtime": 18000,
+            "link": "https://codeforces.com/contest/2206"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 492",
+            "stime": 1772937000,
+            "etime": 1772942400,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-492"
+        },
+        {
             "oj": "atcoder",
             "name": "UNIQUE VISION Programming Contest 2026 Spring (AtCoder Heuristic Contest 062)",
             "stime": 1773468000,
@@ -161,6 +161,14 @@
             "etime": 1773495600,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc449"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 178",
+            "stime": 1773498600,
+            "etime": 1773504000,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-178"
         },
         {
             "oj": "atcoder",

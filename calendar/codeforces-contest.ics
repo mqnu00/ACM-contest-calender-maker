@@ -13,13 +13,6 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Educational Codeforces Round 187 (Rated for Div. 2)
-DTSTART:20260225T223500
-DTEND:20260226T003500
-UID:Educational Codeforces Round 187 (Rated for Div. 2)
-DESCRIPTION:https://codeforces.com/contest/2203
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Codeforces Round 1083 (Div. 2)
 DTSTART:20260226T223500
 DTEND:20260227T010500
@@ -39,5 +32,14 @@ DTSTART:20260302T223500
 DTEND:20260303T010500
 UID:Kotlin Heroes: Episode 14
 DESCRIPTION:https://codeforces.com/contest/2199
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 ICPC Asia Pacific Championship - Online Mirror (Unrated\, Onl
+ ine Mirror\, ICPC Rules\, Teams Preferred)
+DTSTART:20260308T094500
+DTEND:20260308T144500
+UID:2026 ICPC Asia Pacific Championship - Online Mirror (Unrated\, Online 
+ Mirror\, ICPC Rules\, Teams Preferred)
+DESCRIPTION:https://codeforces.com/contest/2206
 END:VEVENT
 END:VCALENDAR
