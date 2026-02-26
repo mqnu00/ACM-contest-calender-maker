@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1772058881,
-    "refreshTimeCH": "2026-02-26 06:34:41",
+    "refreshTimeStamp": 1772145275,
+    "refreshTimeCH": "2026-02-27 06:34:35",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,22 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【MX-X25】梦熊 X 组 · 欧尼恩赛 & FeOI Round 5",
-            "stime": 1772085600,
-            "etime": 1772101800,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/311071"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1083 (Div. 2)",
-            "stime": 1772116500,
-            "etime": 1772125500,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2205"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-275-Div.4】洛谷入门赛 #44",
@@ -115,12 +99,28 @@
             "link": "https://ac.nowcoder.com/acm/contest/128678"
         },
         {
+            "oj": "luogu",
+            "name": "[CCPC 2025 哈尔滨站] CCPC 2025 分站赛哈尔滨站重现赛",
+            "stime": 1772427600,
+            "etime": 1772445600,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/312041"
+        },
+        {
             "oj": "codeforces",
             "name": "Kotlin Heroes: Episode 14",
             "stime": 1772462100,
             "etime": 1772471100,
             "dtime": 9000,
             "link": "https://codeforces.com/contest/2199"
+        },
+        {
+            "oj": "luogu",
+            "name": "KTSC 2026 R1 Unofficial Mirror",
+            "stime": 1772517600,
+            "etime": 1772535600,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/310905"
         },
         {
             "oj": "atcoder",
@@ -145,6 +145,14 @@
             "etime": 1772942400,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-492"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "stime": 1772980500,
+            "etime": 1772991300,
+            "dtime": 10800,
+            "link": "https://codeforces.com/contest/2207"
         },
         {
             "oj": "atcoder",
