@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1772145275,
-    "refreshTimeCH": "2026-02-27 06:34:35",
+    "refreshTimeStamp": 1772231059,
+    "refreshTimeCH": "2026-02-28 06:24:19",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-275-Div.4】洛谷入门赛 #44",
-            "stime": 1772190000,
-            "etime": 1772197200,
-            "dtime": 7200,
-            "link": "https://www.luogu.com.cn/contest/311027"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛129",
-            "stime": 1772190000,
-            "etime": 1772197200,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/128675"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1084 (Div. 3)",
-            "stime": 1772202900,
-            "etime": 1772211000,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2200"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-270-Div.2】洛谷 2 月月赛 V & MYCOI-R1",
