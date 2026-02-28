@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1772231059,
-    "refreshTimeCH": "2026-02-28 06:24:19",
+    "refreshTimeStamp": 1772317402,
+    "refreshTimeCH": "2026-03-01 06:23:22",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,30 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "【LGR-270-Div.2】洛谷 2 月月赛 V & MYCOI-R1",
-            "stime": 1772258400,
-            "etime": 1772272800,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/245434"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 447",
-            "stime": 1772280000,
-            "etime": 1772286000,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc447"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 177",
-            "stime": 1772289000,
-            "etime": 1772294400,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-177"
-        },
         {
             "oj": "leetcode",
             "name": "Weekly Contest 491",
@@ -99,6 +75,22 @@
             "link": "https://www.luogu.com.cn/contest/310905"
         },
         {
+            "oj": "luogu",
+            "name": "KTSC 2026 R2 Unofficial Mirror",
+            "stime": 1772604000,
+            "etime": 1772622000,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/311761"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客挑战赛86",
+            "stime": 1772794800,
+            "etime": 1772805600,
+            "dtime": 10800,
+            "link": "https://ac.nowcoder.com/acm/contest/129209"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 448",
             "stime": 1772884800,
@@ -123,12 +115,28 @@
             "link": "https://leetcode.cn/contest/weekly-contest-492"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 134",
+            "stime": 1772967600,
+            "etime": 1772974800,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/129231"
+        },
+        {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 1 + Div. 2)",
             "stime": 1772980500,
             "etime": 1772991300,
             "dtime": 10800,
             "link": "https://codeforces.com/contest/2207"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客练习赛149",
+            "stime": 1773399600,
+            "etime": 1773408600,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/129232"
         },
         {
             "oj": "atcoder",
@@ -161,6 +169,14 @@
             "etime": 1774100400,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc450"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest++ 216",
+            "stime": 1774180800,
+            "etime": 1774189800,
+            "dtime": 9000,
+            "link": "https://atcoder.jp/contests/arc216"
         },
         {
             "oj": "atcoder",
