@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1772490468,
-    "refreshTimeCH": "2026-03-03 06:27:48",
+    "refreshTimeStamp": 1772577042,
+    "refreshTimeCH": "2026-03-04 06:30:42",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "KTSC 2026 R1 Unofficial Mirror",
-            "stime": 1772517600,
-            "etime": 1772535600,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/310905"
-        },
         {
             "oj": "luogu",
             "name": "KTSC 2026 R2 Unofficial Mirror",
