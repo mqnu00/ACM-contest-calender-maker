@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1772577042,
-    "refreshTimeCH": "2026-03-04 06:30:42",
+    "refreshTimeStamp": 1772663560,
+    "refreshTimeCH": "2026-03-05 06:32:40",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "KTSC 2026 R2 Unofficial Mirror",
-            "stime": 1772604000,
-            "etime": 1772622000,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/311761"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客挑战赛86",
@@ -105,6 +97,14 @@
             "etime": 1773506100,
             "dtime": 7200,
             "link": "https://codeforces.com/contest/2208"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 493",
+            "stime": 1773541800,
+            "etime": 1773547200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-493"
         },
         {
             "oj": "atcoder",
