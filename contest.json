@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1772836190,
-    "refreshTimeCH": "2026-03-07 06:29:50",
+    "refreshTimeStamp": 1772922250,
+    "refreshTimeCH": "2026-03-08 06:24:10",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 448",
-            "stime": 1772884800,
-            "etime": 1772890800,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc448"
-        },
         {
             "oj": "codeforces",
             "name": "2026 ICPC Asia Pacific Championship - Online Mirror (Unrated, Online Mirror, ICPC Rules, Teams Preferred)",
