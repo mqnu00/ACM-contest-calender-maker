@@ -70,4 +70,13 @@ DTEND:20260404T214000
 UID:AtCoder Beginner Contest 452
 DESCRIPTION:https://atcoder.jp/contests/abc452
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ｓｋｙ Inc\, Programming Contest 2026 (AtCoder Beginner Contest
+  455)
+DTSTART:20260425T200000
+DTEND:20260425T214000
+UID:Ｓｋｙ Inc\, Programming Contest 2026 (AtCoder Beginner Contest 455
+ )
+DESCRIPTION:https://atcoder.jp/contests/abc455
+END:VEVENT
 END:VCALENDAR

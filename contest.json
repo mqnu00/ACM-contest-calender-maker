@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1773181764,
-    "refreshTimeCH": "2026-03-11 06:29:24",
+    "refreshTimeStamp": 1773268050,
+    "refreshTimeCH": "2026-03-12 06:27:30",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -145,6 +145,14 @@
             "etime": 1775310000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc452"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Ｓｋｙ Inc, Programming Contest 2026 (AtCoder Beginner Contest 455)",
+            "stime": 1777118400,
+            "etime": 1777124400,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc455"
         }
     ]
 }
