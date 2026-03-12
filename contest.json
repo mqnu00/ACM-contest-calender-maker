@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1773268050,
-    "refreshTimeCH": "2026-03-12 06:27:30",
+    "refreshTimeStamp": 1773354462,
+    "refreshTimeCH": "2026-03-13 06:27:42",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -65,6 +65,14 @@
             "etime": 1773547200,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-493"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-J25】梦熊 J 组 · 及普赛 & Cfz Round 8（同步赛）",
+            "stime": 1773554400,
+            "etime": 1773567000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/314346"
         },
         {
             "oj": "nowcoder",
