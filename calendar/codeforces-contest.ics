@@ -19,4 +19,11 @@ DTEND:20260315T003500
 UID:Codeforces Round 1086 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2208
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Educational Codeforces Round 188 (Rated for Div. 2)
+DTSTART:20260316T223500
+DTEND:20260317T003500
+UID:Educational Codeforces Round 188 (Rated for Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2204
+END:VEVENT
 END:VCALENDAR
