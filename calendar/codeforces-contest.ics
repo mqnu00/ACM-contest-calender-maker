@@ -19,4 +19,11 @@ DTEND:20260317T003500
 UID:Educational Codeforces Round 188 (Rated for Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2204
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20260321T223500
+DTEND:20260322T003500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2209
+END:VEVENT
 END:VCALENDAR
