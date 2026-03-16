@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1773613761,
-    "refreshTimeCH": "2026-03-16 06:29:21",
+    "refreshTimeStamp": 1773700458,
+    "refreshTimeCH": "2026-03-17 06:34:18",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "codeforces",
-            "name": "Educational Codeforces Round 188 (Rated for Div. 2)",
-            "stime": 1773671700,
-            "etime": 1773678900,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2204"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客小白月赛130",
@@ -75,6 +67,14 @@
             "link": "https://atcoder.jp/contests/arc216"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客练习赛150",
+            "stime": 1774609200,
+            "etime": 1774618200,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/130426"
+        },
+        {
             "oj": "luogu",
             "name": "【LGR-276-Div.3】洛谷蓝桥杯省赛模拟赛 2026",
             "stime": 1774677600,
@@ -105,6 +105,14 @@
             "etime": 1774796400,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc077"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客2026年愚人节比赛",
+            "stime": 1775041200,
+            "etime": 1775048400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/130463"
         },
         {
             "oj": "atcoder",
