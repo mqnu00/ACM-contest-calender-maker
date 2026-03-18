@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1773786863,
-    "refreshTimeCH": "2026-03-18 06:34:23",
+    "refreshTimeStamp": 1773873184,
+    "refreshTimeCH": "2026-03-19 06:33:04",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -73,6 +73,14 @@
             "etime": 1774618200,
             "dtime": 9000,
             "link": "https://ac.nowcoder.com/acm/contest/130426"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-(-28)】2026 年洛谷愚人节比赛",
+            "stime": 1774659600,
+            "etime": 1774778400,
+            "dtime": 118800,
+            "link": "https://www.luogu.com.cn/contest/301325"
         },
         {
             "oj": "luogu",
