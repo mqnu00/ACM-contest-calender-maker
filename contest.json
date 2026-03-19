@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1773873184,
-    "refreshTimeCH": "2026-03-19 06:33:04",
+    "refreshTimeStamp": 1773959405,
+    "refreshTimeCH": "2026-03-20 06:30:05",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -49,6 +49,14 @@
             "etime": 1774152000,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-494"
+        },
+        {
+            "oj": "luogu",
+            "name": "【MX-X26】梦熊 X 组 · 鱼鱼蒸赛 & Cfz Round 7（同步赛）",
+            "stime": 1774159200,
+            "etime": 1774175400,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/315639"
         },
         {
             "oj": "nowcoder",
