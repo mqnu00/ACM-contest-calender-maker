@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1773959405,
-    "refreshTimeCH": "2026-03-20 06:30:05",
+    "refreshTimeStamp": 1774045788,
+    "refreshTimeCH": "2026-03-21 06:29:48",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -11,12 +11,12 @@
     ],
     "contests": [
         {
-            "oj": "nowcoder",
-            "name": "牛客小白月赛130",
-            "stime": 1774004400,
-            "etime": 1774011600,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/129583"
+            "oj": "luogu",
+            "name": "AOIのApril Fools Contest 2026",
+            "stime": 1774022400,
+            "etime": 1775491140,
+            "dtime": 1468740,
+            "link": "https://www.luogu.com.cn/contest/315100"
         },
         {
             "oj": "luogu",
@@ -85,9 +85,9 @@
         {
             "oj": "luogu",
             "name": "【LGR-(-28)】2026 年洛谷愚人节比赛",
-            "stime": 1774659600,
-            "etime": 1774778400,
-            "dtime": 118800,
+            "stime": 1774674000,
+            "etime": 1774782000,
+            "dtime": 108000,
             "link": "https://www.luogu.com.cn/contest/301325"
         },
         {
@@ -123,6 +123,22 @@
             "link": "https://codeforces.com/contest/2211"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 495",
+            "stime": 1774751400,
+            "etime": 1774756800,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-495"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 137",
+            "stime": 1774782000,
+            "etime": 1774789200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/130843"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Grand Contest 077",
             "stime": 1774785600,
@@ -147,6 +163,14 @@
             "link": "https://atcoder.jp/contests/ahc063"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客挑战赛87",
+            "stime": 1775214000,
+            "etime": 1775224800,
+            "dtime": 10800,
+            "link": "https://ac.nowcoder.com/acm/contest/130844"
+        },
+        {
             "oj": "luogu",
             "name": "o.OI Round -1",
             "stime": 1775282400,
@@ -169,6 +193,14 @@
             "etime": 1775914800,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc453"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 180",
+            "stime": 1775917800,
+            "etime": 1775923200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-180"
         },
         {
             "oj": "atcoder",
