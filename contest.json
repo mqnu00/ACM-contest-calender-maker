@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1774045788,
-    "refreshTimeCH": "2026-03-21 06:29:48",
+    "refreshTimeStamp": 1774131997,
+    "refreshTimeCH": "2026-03-22 06:26:37",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,35 +12,11 @@
     "contests": [
         {
             "oj": "luogu",
-            "name": "AOIのApril Fools Contest 2026",
-            "stime": 1774022400,
-            "etime": 1775491140,
-            "dtime": 1468740,
-            "link": "https://www.luogu.com.cn/contest/315100"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-274-Div.2】洛谷 3 月月赛 II & 『LBA-OI』Round 3",
-            "stime": 1774072800,
-            "etime": 1774087200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/293373"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 450",
-            "stime": 1774094400,
-            "etime": 1774100400,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc450"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1087 (Div. 2)",
-            "stime": 1774103700,
-            "etime": 1774110900,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2209"
+            "name": "不是 Ahaer 出题组的 2026 愚人节比赛",
+            "stime": 1774141200,
+            "etime": 1776841200,
+            "dtime": 2700000,
+            "link": "https://www.luogu.com.cn/contest/314899"
         },
         {
             "oj": "leetcode",
@@ -73,6 +49,14 @@
             "etime": 1774189800,
             "dtime": 9000,
             "link": "https://atcoder.jp/contests/arc216"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-278-Div.4】洛谷入门赛 #45",
+            "stime": 1774609200,
+            "etime": 1774616400,
+            "dtime": 7200,
+            "link": "https://www.luogu.com.cn/contest/316038"
         },
         {
             "oj": "nowcoder",
