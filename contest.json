@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1774131997,
-    "refreshTimeCH": "2026-03-22 06:26:37",
+    "refreshTimeStamp": 1774218408,
+    "refreshTimeCH": "2026-03-23 06:26:48",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,46 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "不是 Ahaer 出题组的 2026 愚人节比赛",
-            "stime": 1774141200,
-            "etime": 1776841200,
-            "dtime": 2700000,
-            "link": "https://www.luogu.com.cn/contest/314899"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 494",
-            "stime": 1774146600,
-            "etime": 1774152000,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-494"
-        },
-        {
-            "oj": "luogu",
-            "name": "【MX-X26】梦熊 X 组 · 鱼鱼蒸赛 & Cfz Round 7（同步赛）",
-            "stime": 1774159200,
-            "etime": 1774175400,
-            "dtime": 16200,
-            "link": "https://www.luogu.com.cn/contest/315639"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 136",
-            "stime": 1774177200,
-            "etime": 1774184400,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/130107"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Regular Contest++ 216",
-            "stime": 1774180800,
-            "etime": 1774189800,
-            "dtime": 9000,
-            "link": "https://atcoder.jp/contests/arc216"
-        },
         {
             "oj": "luogu",
             "name": "【LGR-278-Div.4】洛谷入门赛 #45",
@@ -100,7 +60,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 1 + Div. 2)",
+            "name": "Codeforces Round 1088 (Div. 1 + Div. 2)",
             "stime": 1774708500,
             "etime": 1774717500,
             "dtime": 9000,
@@ -113,6 +73,14 @@
             "etime": 1774756800,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-495"
+        },
+        {
+            "oj": "luogu",
+            "name": "RedStone OI Round 10",
+            "stime": 1774764000,
+            "etime": 1774774800,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/307651"
         },
         {
             "oj": "nowcoder",
@@ -169,6 +137,14 @@
             "etime": 1775310000,
             "dtime": 6000,
             "link": "https://atcoder.jp/contests/abc452"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-277-Div.2】洛谷 4 月月赛 I &『LBA-OI』Round 1",
+            "stime": 1775368800,
+            "etime": 1775383200,
+            "dtime": 14400,
+            "link": "https://www.luogu.com.cn/contest/278013"
         },
         {
             "oj": "atcoder",
