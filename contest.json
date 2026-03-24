@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1774305222,
-    "refreshTimeCH": "2026-03-24 06:33:42",
+    "refreshTimeStamp": 1774391582,
+    "refreshTimeCH": "2026-03-25 06:33:02",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -60,7 +60,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round 1088 (Div. 1 + Div. 2)",
+            "name": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
             "stime": 1774708500,
             "etime": 1774717500,
             "dtime": 9000,
@@ -185,6 +185,14 @@
             "etime": 1775923200,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-180"
+        },
+        {
+            "oj": "atcoder",
+            "name": "Keysight Technologies Programming Contest（AtCoder Beginner Contest 454）",
+            "stime": 1776513600,
+            "etime": 1776519600,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc454"
         },
         {
             "oj": "atcoder",

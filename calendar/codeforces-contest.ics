@@ -13,10 +13,10 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Codeforces Round 1088 (Div. 1 + Div. 2)
+SUMMARY:Nebius Round 2 (Codeforces Round 1088\, Div. 1 + Div. 2)
 DTSTART:20260328T223500
 DTEND:20260329T010500
-UID:Codeforces Round 1088 (Div. 1 + Div. 2)
+UID:Nebius Round 2 (Codeforces Round 1088\, Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2211
 END:VEVENT
 END:VCALENDAR
