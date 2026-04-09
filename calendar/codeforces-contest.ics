@@ -13,18 +13,25 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Codeforces Round 1092 (Div. 1)
+SUMMARY:Codeforces Round 1092 (Div. 1\, Based on THUPC 2026 — Finals)
 DTSTART:20260412T133500
 DTEND:20260412T163500
-UID:Codeforces Round 1092 (Div. 1)
+UID:Codeforces Round 1092 (Div. 1\, Based on THUPC 2026 — Finals)
 DESCRIPTION:https://codeforces.com/contest/2215
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round 1092 (Div. 2)
+SUMMARY:Codeforces Round 1092 (Div. 2\, Based on THUPC 2026 — Finals)
 DTSTART:20260412T133500
 DTEND:20260412T163500
-UID:Codeforces Round 1092 (Div. 2)
+UID:Codeforces Round 1092 (Div. 2\, Based on THUPC 2026 — Finals)
 DESCRIPTION:https://codeforces.com/contest/2216
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round 1093 (Div. 1)
+DTSTART:20260413T223500
+DTEND:20260414T003500
+UID:Codeforces Round 1093 (Div. 1)
+DESCRIPTION:https://codeforces.com/contest/2219
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Codeforces Round 1093 (Div. 2)
