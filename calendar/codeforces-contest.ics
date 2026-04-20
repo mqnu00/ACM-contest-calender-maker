@@ -20,17 +20,11 @@ UID:Educational Codeforces Round 189 (Rated for Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 2)
-DTSTART:20260423T223500
-DTEND:20260424T003500
-UID:Codeforces Round (Div. 2)
-DESCRIPTION:https://codeforces.com/contest/2213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 1 + Div. 2)
+SUMMARY:Spectral::Cup 2026 Round 1 (Codeforces Round 1094\, Div. 1 + Div. 
+ 2)
 DTSTART:20260425T223500
 DTEND:20260426T010500
-UID:Codeforces Round (Div. 1 + Div. 2)
+UID:Spectral::Cup 2026 Round 1 (Codeforces Round 1094\, Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2222
 END:VEVENT
 BEGIN:VEVENT
