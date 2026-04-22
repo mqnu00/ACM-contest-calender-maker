@@ -28,10 +28,17 @@ UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2226
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 2)
+SUMMARY:Codeforces Round (Div. 3)
+DTSTART:20260430T223500
+DTEND:20260501T010500
+UID:Codeforces Round (Div. 3)
+DESCRIPTION:https://codeforces.com/contest/2227
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2\,  Based on Zhili Cup 2026)
 DTSTART:20260506T140500
 DTEND:20260506T163500
-UID:Codeforces Round (Div. 2)
+UID:Codeforces Round (Div. 2\,  Based on Zhili Cup 2026)
 DESCRIPTION:https://codeforces.com/contest/2224
 END:VEVENT
 END:VCALENDAR
