@@ -13,17 +13,17 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 1\,  Based on Zhili Cup 2026)
+SUMMARY:Codeforces Round 1097 (Div. 1\,  Based on Zhili Cup 2026)
 DTSTART:20260506T140500
 DTEND:20260506T163500
-UID:Codeforces Round (Div. 1\,  Based on Zhili Cup 2026)
+UID:Codeforces Round 1097 (Div. 1\,  Based on Zhili Cup 2026)
 DESCRIPTION:https://codeforces.com/contest/2223
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 2\,  Based on Zhili Cup 2026)
+SUMMARY:Codeforces Round 1097 (Div. 2\,  Based on Zhili Cup 2026)
 DTSTART:20260506T140500
 DTEND:20260506T163500
-UID:Codeforces Round (Div. 2\,  Based on Zhili Cup 2026)
+UID:Codeforces Round 1097 (Div. 2\,  Based on Zhili Cup 2026)
 DESCRIPTION:https://codeforces.com/contest/2224
 END:VEVENT
 BEGIN:VEVENT
