@@ -26,4 +26,11 @@ DTEND:20260628T010500
 UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2240
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20260628T223500
+DTEND:20260629T003500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2238
+END:VEVENT
 END:VCALENDAR
