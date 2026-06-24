@@ -40,4 +40,11 @@ DTEND:20260701T005000
 UID:Codeforces Round (Div. 3)
 DESCRIPTION:https://codeforces.com/contest/2241
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Educational Codeforces Round 192 (Rated for Div. 2)
+DTSTART:20260706T223500
+DTEND:20260707T003500
+UID:Educational Codeforces Round 192 (Rated for Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2242
+END:VEVENT
 END:VCALENDAR
