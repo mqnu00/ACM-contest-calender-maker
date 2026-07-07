@@ -26,4 +26,11 @@ DTEND:20260715T005000
 UID:Codeforces Round (Div. 3)
 DESCRIPTION:https://codeforces.com/contest/2244
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spectral::Cup 2026 Round 3 (Codeforces Round\, Div. 1 + Div. 2)
+DTSTART:20260716T223500
+DTEND:20260717T013500
+UID:Spectral::Cup 2026 Round 3 (Codeforces Round\, Div. 1 + Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2245
+END:VEVENT
 END:VCALENDAR
