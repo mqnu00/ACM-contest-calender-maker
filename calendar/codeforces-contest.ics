@@ -26,4 +26,11 @@ DTEND:20260810T010500
 UID:Codeforces Round 1116 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2256
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICPC 2026 Online Challenge 1 powered by Huawei
+DTSTART:20260814T190000
+DTEND:20260828T190000
+UID:ICPC 2026 Online Challenge 1 powered by Huawei
+DESCRIPTION:https://codeforces.com/contest/2251
+END:VEVENT
 END:VCALENDAR
