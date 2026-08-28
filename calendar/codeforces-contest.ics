@@ -26,4 +26,11 @@ DTEND:20260906T005000
 UID:Codeforces Round (Div. 3)
 DESCRIPTION:https://codeforces.com/contest/2259
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Educational Codeforces Round 194 (Rated for Div. 2)
+DTSTART:20260908T223500
+DTEND:20260909T003500
+UID:Educational Codeforces Round 194 (Rated for Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2260
+END:VEVENT
 END:VCALENDAR
