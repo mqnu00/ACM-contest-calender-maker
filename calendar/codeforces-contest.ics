@@ -20,32 +20,25 @@ UID:Codeforces Round 1123 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2267
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 1)
+SUMMARY:Codeforces Round 1124 (Div. 1)
 DTSTART:20260926T223500
 DTEND:20260927T010500
-UID:Codeforces Round (Div. 1)
+UID:Codeforces Round 1124 (Div. 1)
 DESCRIPTION:https://codeforces.com/contest/2268
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 2)
+SUMMARY:Codeforces Round 1124 (Div. 2)
 DTSTART:20260926T223500
 DTEND:20260927T010500
-UID:Codeforces Round (Div. 2)
+UID:Codeforces Round 1124 (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2269
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 1)
+SUMMARY:Codeforces Round (Div. 1 + Div. 2)
 DTSTART:20261010T230500
 DTEND:20261011T020500
-UID:Codeforces Round (Div. 1)
+UID:Codeforces Round (Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2271
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 2)
-DTSTART:20261010T230500
-DTEND:20261011T020500
-UID:Codeforces Round (Div. 2)
-DESCRIPTION:https://codeforces.com/contest/2272
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 1)
