@@ -13,10 +13,10 @@ TZOFFSETFROM:+0800
 TZOFFSETTO:+0800
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Codeforces Round (Div. 1 + Div. 2)
+SUMMARY:DeepInfra Round 1 (Codeforces Round\, Div. 1 + Div. 2)
 DTSTART:20261010T230500
 DTEND:20261011T020500
-UID:Codeforces Round (Div. 1 + Div. 2)
+UID:DeepInfra Round 1 (Codeforces Round\, Div. 1 + Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2271
 END:VEVENT
 BEGIN:VEVENT
