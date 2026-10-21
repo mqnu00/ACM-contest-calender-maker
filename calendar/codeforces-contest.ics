@@ -26,4 +26,25 @@ DTEND:20261027T005000
 UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2272
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 3)
+DTSTART:20261031T223500
+DTEND:20261101T005000
+UID:Codeforces Round (Div. 3)
+DESCRIPTION:https://codeforces.com/contest/2278
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ICPC 2026 Online Challenge 2 powered by Huawei
+DTSTART:20261105T190000
+DTEND:20261119T190000
+UID:ICPC 2026 Online Challenge 2 powered by Huawei
+DESCRIPTION:https://codeforces.com/contest/2281
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20261107T223500
+DTEND:20261108T010500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2280
+END:VEVENT
 END:VCALENDAR
