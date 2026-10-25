@@ -34,6 +34,13 @@ UID:ICPC 2026 Online Challenge 2 powered by Huawei
 DESCRIPTION:https://codeforces.com/contest/2281
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 1)
+DTSTART:20261107T223500
+DTEND:20261108T010500
+UID:Codeforces Round (Div. 1)
+DESCRIPTION:https://codeforces.com/contest/2279
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Codeforces Round (Div. 2)
 DTSTART:20261107T223500
 DTEND:20261108T010500
