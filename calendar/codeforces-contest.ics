@@ -61,4 +61,11 @@ DTEND:20261116T003500
 UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2285
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kotlin Heroes: Practice 15
+DTSTART:20261120T223000
+DTEND:20261127T223000
+UID:Kotlin Heroes: Practice 15
+DESCRIPTION:https://codeforces.com/contest/2286
+END:VEVENT
 END:VCALENDAR
