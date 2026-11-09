@@ -1,12 +1,18 @@
 name: 'GitHub Actions Contest Info'
- 
+
 on:
   schedule:
-  # 定时任务，在每天的22点生成比赛信息
+  # 定时任务，在每天的22点(UTC)生成比赛信息，即北京时间次日 06:00
     - cron: '0 22 * * *'
   watch:
     types: [started]
   workflow_dispatch:
+
+env:
+  # 不生成 __pycache__/*.pyc：pyc 里记录了源码 mtime，checkout 后每天都不同，
+  # 会被 git 当成“有改动”提交上去（这就是之前那些 +0/-0 的“空提交”的来源）
+  PYTHONDONTWRITEBYTECODE: '1'
+  TZ: 'CST-8'
 
 jobs:
   contest:
@@ -14,36 +20,47 @@ jobs:
     steps:
       # 首先copy git仓库到虚拟机上
       - name: Checkout codes
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: install python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.x
+          # 保持 3.x：Python 小版本升级不再导致仓库里堆 pyc（见上面的 PYTHONDONTWRITEBYTECODE）
+          python-version: '3.x'
       - name: install requirements
         run: pip3 install -r requirements.txt
       - name: main
-        env:
-          TZ: 'CST-8'
         run: |
              python3 contest_getter.py
              python3 calendar_maker.py
-      # 获取格式化的日期并存入GitHub内置的环境变量中
-      - name: 'Get Date'
-        run: echo "REPORT_DATE=$(TZ=':Asia/Shanghai' date '+%Y-%m-%d %T')" >> $GITHUB_ENV
+      # 抓取失败时退出码仍然是 0（各个源都被 try 包住了），所以这里显式检查数据新鲜度，
+      # 让“静默失败”变成一个红色的 job，而不是又一条空提交
+      - name: check freshness
+        run: |
+             python3 - <<'PY'
+             import json, sys, time
+             with open('contest.json', encoding='utf-8') as fh:
+                 data = json.load(fh)
+             age = time.time() - int(data.get('refreshTimeStamp') or 0)
+             print('refreshTimeCH = %s，距今 %.1f 小时' % (data.get('refreshTimeCH'), age / 3600))
+             if age > 26 * 3600:
+                 sys.exit('contest.json 超过 26 小时没有刷新，抓取管线又静默失败了')
+             PY
       - name: commit
         env:
-          TZ: 'CST-8'
           emails: ${{ secrets.GITHUB_EMAIL }}
         run: |
           sudo timedatectl set-timezone Asia/Shanghai
-          git config --global user.email emails
+          git config --global user.email "${emails:-41898282+github-actions[bot]@users.noreply.github.com}"
           git config --global user.name GithubActionBot
           datime=$(date "+%Y年%m月%d日 %H:%M")
-          echo "git commit: push something, $datime"
-          if [ -n "$(git status -s)" ];then
-              git add .
-              git commit -m "make: action push $datime" -a
+          # 只提交真正的产物，且用“暂存区是否有差异”来判断，
+          # 不再用 git add . + git status -s（那会把无关文件也卷进来）
+          git add calendar contest.json
+          if git diff --cached --quiet; then
+              echo "没有真实变化，跳过提交"
+              exit 0
           fi
+          git commit -m "make: action push $datime"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

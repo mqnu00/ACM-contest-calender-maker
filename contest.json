@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1774478252,
-    "refreshTimeCH": "2026-03-26 06:37:32",
+    "refreshTimeStamp": 1794210518,
+    "refreshTimeCH": "2026-11-09 15:48:38",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,211 +12,211 @@
     "contests": [
         {
             "oj": "luogu",
-            "name": "【LGR-278-Div.4】洛谷入门赛 #45",
-            "stime": 1774609200,
-            "etime": 1774616400,
-            "dtime": 7200,
-            "link": "https://www.luogu.com.cn/contest/316038"
+            "name": "CSP-J 2026 自测（官方数据）",
+            "stime": 1793420100,
+            "etime": 1794304800,
+            "dtime": 884700,
+            "link": "https://www.luogu.com.cn/contest/369911"
+        },
+        {
+            "oj": "luogu",
+            "name": "CSP-S 2026 自测（官方数据）",
+            "stime": 1793444400,
+            "etime": 1794304800,
+            "dtime": 860400,
+            "link": "https://www.luogu.com.cn/contest/369912"
         },
         {
             "oj": "nowcoder",
-            "name": "牛客练习赛150",
-            "stime": 1774609200,
-            "etime": 1774618200,
-            "dtime": 9000,
-            "link": "https://ac.nowcoder.com/acm/contest/130426"
+            "name": "交互、通信新题型测试比赛",
+            "stime": 1794308400,
+            "etime": 1794315600,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/143824"
         },
         {
             "oj": "luogu",
-            "name": "【LGR-(-28)】2026 年洛谷愚人节比赛",
-            "stime": 1774674000,
-            "etime": 1774782000,
-            "dtime": 108000,
-            "link": "https://www.luogu.com.cn/contest/301325"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-276-Div.3】洛谷蓝桥杯省赛模拟赛 2026",
-            "stime": 1774677600,
-            "etime": 1774692000,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/314564"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 451",
-            "stime": 1774699200,
-            "etime": 1774705200,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc451"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 179",
-            "stime": 1774708200,
-            "etime": 1774713600,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-179"
+            "name": "[FJCPC 2026] 2026 年福建省大学生程序设计竞赛重现赛",
+            "stime": 1794459600,
+            "etime": 1794477600,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/371093"
         },
         {
             "oj": "codeforces",
-            "name": "Nebius Round 2 (Codeforces Round 1088, Div. 1 + Div. 2)",
-            "stime": 1774708500,
-            "etime": 1774717500,
-            "dtime": 9000,
-            "link": "https://codeforces.com/contest/2211"
-        },
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 495",
-            "stime": 1774751400,
-            "etime": 1774756800,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-495"
-        },
-        {
-            "oj": "luogu",
-            "name": "RedStone OI Round 10",
-            "stime": 1774764000,
-            "etime": 1774774800,
-            "dtime": 10800,
-            "link": "https://www.luogu.com.cn/contest/307651"
+            "name": "Codeforces Round 1134 (Div. 4)",
+            "stime": 1794494100,
+            "etime": 1794502200,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2290"
         },
         {
             "oj": "nowcoder",
-            "name": "牛客周赛 Round 137",
-            "stime": 1774782000,
-            "etime": 1774789200,
+            "name": "牛客小白月赛140",
+            "stime": 1794567600,
+            "etime": 1794574800,
             "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/130843"
+            "link": "https://ac.nowcoder.com/acm/contest/143195"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-314】洛谷 NOIP 2026 模拟赛",
+            "stime": 1794616200,
+            "etime": 1794632400,
+            "dtime": 16200,
+            "link": "https://www.luogu.com.cn/contest/370700"
         },
         {
             "oj": "atcoder",
-            "name": "AtCoder Grand Contest 077",
-            "stime": 1774785600,
-            "etime": 1774796400,
-            "dtime": 10800,
-            "link": "https://atcoder.jp/contests/agc077"
+            "name": "AtCoder Beginner Contest 484",
+            "stime": 1794657600,
+            "etime": 1794663600,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc484"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 528",
+            "stime": 1794709800,
+            "etime": 1794715200,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-528"
+        },
+        {
+            "oj": "luogu",
+            "name": "【LGR-315-Div.3】洛谷基础赛 #42 & IXOI Round 4",
+            "stime": 1794722400,
+            "etime": 1794735000,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/311136"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 170",
+            "stime": 1794740400,
+            "etime": 1794747600,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/143406"
         },
         {
             "oj": "codeforces",
             "name": "Codeforces Round (Div. 2)",
-            "stime": 1774794900,
-            "etime": 1774803000,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2210"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客2026年愚人节比赛",
-            "stime": 1775041200,
-            "etime": 1775048400,
+            "stime": 1794753300,
+            "etime": 1794760500,
             "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/130463"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Heuristic Contest 063",
-            "stime": 1775210400,
-            "etime": 1776074400,
-            "dtime": 864000,
-            "link": "https://atcoder.jp/contests/ahc063"
+            "link": "https://codeforces.com/contest/2285"
         },
         {
             "oj": "nowcoder",
-            "name": "牛客挑战赛87",
-            "stime": 1775214000,
-            "etime": 1775224800,
+            "name": "牛客挑战赛94",
+            "stime": 1795172400,
+            "etime": 1795183200,
             "dtime": 10800,
-            "link": "https://ac.nowcoder.com/acm/contest/130844"
+            "link": "https://ac.nowcoder.com/acm/contest/143407"
         },
         {
             "oj": "luogu",
-            "name": "o.OI Round -1",
-            "stime": 1775282400,
-            "etime": 1775287800,
-            "dtime": 5400,
-            "link": "https://www.luogu.com.cn/contest/296386"
+            "name": "【LGR-317-Div.2】洛谷 11 月月赛 II & P.A.TASKS S1",
+            "stime": 1795240800,
+            "etime": 1795258800,
+            "dtime": 18000,
+            "link": "https://www.luogu.com.cn/contest/365827"
         },
         {
             "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 452",
-            "stime": 1775304000,
-            "etime": 1775310000,
+            "name": "AtCoder Beginner Contest 485",
+            "stime": 1795262400,
+            "etime": 1795268400,
             "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc452"
+            "link": "https://atcoder.jp/contests/abc485"
         },
         {
             "oj": "leetcode",
-            "name": "Weekly Contest 496",
-            "stime": 1775356200,
-            "etime": 1775361600,
+            "name": "Biweekly Contest 196",
+            "stime": 1795271400,
+            "etime": 1795276800,
             "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-496"
+            "link": "https://leetcode.cn/contest/biweekly-contest-196"
         },
         {
-            "oj": "luogu",
-            "name": "【LGR-277-Div.2】洛谷 4 月月赛 I &『LBA-OI』Round 1",
-            "stime": 1775368800,
-            "etime": 1775383200,
-            "dtime": 14400,
-            "link": "https://www.luogu.com.cn/contest/278013"
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 1)",
+            "stime": 1795271700,
+            "etime": 1795278900,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2287"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round (Div. 2)",
+            "stime": 1795271700,
+            "etime": 1795278900,
+            "dtime": 7200,
+            "link": "https://codeforces.com/contest/2288"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Regular Contest++ 234",
+            "stime": 1795348800,
+            "etime": 1795357800,
+            "dtime": 9000,
+            "link": "https://atcoder.jp/contests/arc234"
         },
         {
             "oj": "nowcoder",
-            "name": "牛客周赛 Round 138",
-            "stime": 1775386800,
-            "etime": 1775394000,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/131111"
+            "name": "牛客练习赛160",
+            "stime": 1795777200,
+            "etime": 1795786200,
+            "dtime": 9000,
+            "link": "https://ac.nowcoder.com/acm/contest/143482"
         },
         {
             "oj": "atcoder",
-            "name": "AtCoder Regular Contest 217",
-            "stime": 1775390400,
-            "etime": 1775397600,
-            "dtime": 7200,
-            "link": "https://atcoder.jp/contests/arc217"
-        },
-        {
-            "oj": "atcoder",
-            "name": "AtCoder Beginner Contest 453",
-            "stime": 1775908800,
-            "etime": 1775914800,
+            "name": "AtCoder Beginner Contest 486",
+            "stime": 1795867200,
+            "etime": 1795873200,
             "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc453"
+            "link": "https://atcoder.jp/contests/abc486"
         },
         {
-            "oj": "leetcode",
-            "name": "Biweekly Contest 180",
-            "stime": 1775917800,
-            "etime": 1775923200,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/biweekly-contest-180"
+            "oj": "codeforces",
+            "name": "Kotlin Heroes: Practice 15",
+            "stime": 1796135400,
+            "etime": 1796740200,
+            "dtime": 604800,
+            "link": "https://codeforces.com/contest/2286"
         },
         {
-            "oj": "atcoder",
-            "name": "Keysight Technologies Programming Contest（AtCoder Beginner Contest 454）",
-            "stime": 1776513600,
-            "etime": 1776519600,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc454"
-        },
-        {
-            "oj": "atcoder",
-            "name": "Ｓｋｙ Inc, Programming Contest 2026 (AtCoder Beginner Contest 455)",
-            "stime": 1777118400,
-            "etime": 1777124400,
-            "dtime": 6000,
-            "link": "https://atcoder.jp/contests/abc455"
+            "oj": "luogu",
+            "name": "【LGR-320-Div.3】洛谷基础赛 #43 & Kobe OI Round Ⅰ",
+            "stime": 1796536800,
+            "etime": 1796549400,
+            "dtime": 12600,
+            "link": "https://www.luogu.com.cn/contest/368856"
         },
         {
             "oj": "atcoder",
-            "name": "JR WEST and ALGO ARTIS Programming Contest  (AtCoder Heuristic Contest 064)",
-            "stime": 1777183200,
-            "etime": 1777197600,
+            "name": "AtCoder Grand Contest 080",
+            "stime": 1797163200,
+            "etime": 1797174000,
+            "dtime": 10800,
+            "link": "https://atcoder.jp/contests/agc080"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Grand Contest 081",
+            "stime": 1798372800,
+            "etime": 1798383600,
+            "dtime": 10800,
+            "link": "https://atcoder.jp/contests/agc081"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2027牛客寒假算法基础集训营1",
+            "stime": 1801029600,
+            "etime": 1801044000,
             "dtime": 14400,
-            "link": "https://atcoder.jp/contests/ahc064"
+            "link": "https://ac.nowcoder.com/acm/contest/143814"
         }
     ]
 }

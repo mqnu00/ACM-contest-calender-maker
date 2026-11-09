@@ -33,6 +33,9 @@ def calender_maker(contest_method, calendar_name):
 
     # 获取竞赛信息
     content = contest_method()
+    if not content:
+        # 抓取结果为空时保留旧日历，绝不把它覆盖成一个空文件
+        raise RuntimeError(f'{calendar_name}: 抓取结果为 0 场，保留旧日历')
     # 保存目录
     direct = Path.cwd()
     direct = direct / "calendar"
@@ -61,19 +64,40 @@ def calender_maker(contest_method, calendar_name):
     else:
         print("Folder was created")
 
-    f = open(os.path.join(direct, calendar_name + '.ics'), 'wb')
-    f.write(cal.to_ical())
-    f.close()
+    data = cal.to_ical()
+    target = os.path.join(direct, calendar_name + '.ics')
+    if os.path.exists(target):
+        with open(target, 'rb') as old:
+            if old.read() == data:
+                print(f'{calendar_name}: 内容无变化，跳过写入')
+                return
+    # 先写临时文件再改名，避免订阅端读到只写了一半的日历
+    tmp = target + '.tmp'
+    with open(tmp, 'wb') as f:
+        f.write(data)
+    os.replace(tmp, target)
+    print(f'{calendar_name}: 已更新 {len(content)} 场比赛')
 
+
+CALENDARS = [
+    (contest_getter.fetch_cf_contest, 'codeforces-contest'),
+    (contest_getter.fetch_luogu_contest, 'luogu-contest'),
+    (contest_getter.fetch_atcoder_contest, 'atcoder-contest'),
+    (contest_getter.fetch_nowcoder_contest, 'nowcoder-contest'),
+    (contest_getter.fetch_leetcode_contest, 'leetcode-contest'),
+]
 
 if __name__ == '__main__':
-    try:
-        calender_maker(contest_getter.fetch_cf_contest, 'codeforces-contest')
-        calender_maker(contest_getter.fetch_luogu_contest, 'luogu-contest')
-        calender_maker(contest_getter.fetch_atcoder_contest, 'atcoder-contest')
-        calender_maker(contest_getter.fetch_nowcoder_contest, 'nowcoder-contest')
-        calender_maker(contest_getter.fetch_leetcode_contest, 'leetcode-contest')
-    except Exception as e:
-        traceback.print_exc()
-    finally:
-        pass
+    failed = []
+    for contest_method, calendar_name in CALENDARS:
+        # 各平台互不影响：某个源挂了只跳过它，其余日历照常更新
+        try:
+            calender_maker(contest_method, calendar_name)
+        except Exception:
+            failed.append(calendar_name)
+            print(f'::warning::{calendar_name} 生成失败，已保留旧文件')
+            traceback.print_exc()
+    if len(failed) == len(CALENDARS):
+        raise SystemExit('所有日历都生成失败')
+    if failed:
+        print('本次失败的日历: ' + ', '.join(failed))
