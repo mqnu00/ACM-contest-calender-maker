@@ -27,11 +27,11 @@ UID:AtCoder Beginner Contest 485
 DESCRIPTION:https://atcoder.jp/contests/abc485
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AtCoder Regular Contest++ 234
+SUMMARY:AtCoder Grand Contest 080
 DTSTART:20261122T200000
-DTEND:20261122T223000
-UID:AtCoder Regular Contest++ 234
-DESCRIPTION:https://atcoder.jp/contests/arc234
+DTEND:20261122T230000
+UID:AtCoder Grand Contest 080
+DESCRIPTION:https://atcoder.jp/contests/agc080
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AtCoder Beginner Contest 486
@@ -41,17 +41,24 @@ UID:AtCoder Beginner Contest 486
 DESCRIPTION:https://atcoder.jp/contests/abc486
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:AtCoder Grand Contest 080
-DTSTART:20261213T200000
-DTEND:20261213T230000
-UID:AtCoder Grand Contest 080
-DESCRIPTION:https://atcoder.jp/contests/agc080
+SUMMARY:AtCoder Beginner Contest 487
+DTSTART:20261205T200000
+DTEND:20261205T214000
+UID:AtCoder Beginner Contest 487
+DESCRIPTION:https://atcoder.jp/contests/abc487
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:AtCoder Grand Contest 081
-DTSTART:20261227T200000
-DTEND:20261227T230000
+DTSTART:20261213T200000
+DTEND:20261213T230000
 UID:AtCoder Grand Contest 081
 DESCRIPTION:https://atcoder.jp/contests/agc081
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AtCoder Grand Contest 082
+DTSTART:20261227T200000
+DTEND:20261227T230000
+UID:AtCoder Grand Contest 082
+DESCRIPTION:https://atcoder.jp/contests/agc082
 END:VEVENT
 END:VCALENDAR
