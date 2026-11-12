@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1794361410,
-    "refreshTimeCH": "2026-11-11 09:43:30",
+    "refreshTimeStamp": 1794451395,
+    "refreshTimeCH": "2026-11-12 10:43:15",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -172,11 +172,11 @@
         },
         {
             "oj": "atcoder",
-            "name": "AtCoder Grand Contest 080",
+            "name": "AtCoder Regular Contest++ 234",
             "stime": 1795348800,
-            "etime": 1795359600,
-            "dtime": 10800,
-            "link": "https://atcoder.jp/contests/agc080"
+            "etime": 1795357800,
+            "dtime": 9000,
+            "link": "https://atcoder.jp/contests/arc234"
         },
         {
             "oj": "luogu",
@@ -228,19 +228,19 @@
         },
         {
             "oj": "atcoder",
-            "name": "AtCoder Grand Contest 081",
+            "name": "AtCoder Grand Contest 080",
             "stime": 1797163200,
             "etime": 1797174000,
             "dtime": 10800,
-            "link": "https://atcoder.jp/contests/agc081"
+            "link": "https://atcoder.jp/contests/agc080"
         },
         {
             "oj": "atcoder",
-            "name": "AtCoder Grand Contest 082",
+            "name": "AtCoder Grand Contest 081",
             "stime": 1798372800,
             "etime": 1798383600,
             "dtime": 10800,
-            "link": "https://atcoder.jp/contests/agc082"
+            "link": "https://atcoder.jp/contests/agc081"
         },
         {
             "oj": "nowcoder",
