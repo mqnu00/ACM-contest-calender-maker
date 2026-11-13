@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1794451395,
-    "refreshTimeCH": "2026-11-12 10:43:15",
+    "refreshTimeStamp": 1794536773,
+    "refreshTimeCH": "2026-11-13 10:26:13",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -25,22 +25,6 @@
             "etime": 1794564000,
             "dtime": 1119600,
             "link": "https://www.luogu.com.cn/contest/369912"
-        },
-        {
-            "oj": "luogu",
-            "name": "[FJCPC 2026] 2026 年福建省大学生程序设计竞赛重现赛",
-            "stime": 1794459600,
-            "etime": 1794477600,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/371093"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1134 (Div. 4)",
-            "stime": 1794494100,
-            "etime": 1794502200,
-            "dtime": 8100,
-            "link": "https://codeforces.com/contest/2290"
         },
         {
             "oj": "nowcoder",
@@ -92,7 +76,7 @@
         },
         {
             "oj": "codeforces",
-            "name": "Codeforces Round (Div. 2)",
+            "name": "Codeforces Round 1135 (Div. 2)",
             "stime": 1794753300,
             "etime": 1794760500,
             "dtime": 7200,
@@ -203,6 +187,14 @@
             "link": "https://atcoder.jp/contests/abc486"
         },
         {
+            "oj": "atcoder",
+            "name": "AtCoder Heuristic Contest 075",
+            "stime": 1795946400,
+            "etime": 1795960800,
+            "dtime": 14400,
+            "link": "https://atcoder.jp/contests/ahc075"
+        },
+        {
             "oj": "codeforces",
             "name": "Kotlin Heroes: Practice 15",
             "stime": 1796135400,
@@ -241,6 +233,22 @@
             "etime": 1798383600,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc081"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Grand Contest 082",
+            "stime": 1800187200,
+            "etime": 1800198000,
+            "dtime": 10800,
+            "link": "https://atcoder.jp/contests/agc082"
+        },
+        {
+            "oj": "atcoder",
+            "name": "AtCoder Grand Contest 083",
+            "stime": 1800792000,
+            "etime": 1800802800,
+            "dtime": 10800,
+            "link": "https://atcoder.jp/contests/agc083"
         },
         {
             "oj": "nowcoder",
