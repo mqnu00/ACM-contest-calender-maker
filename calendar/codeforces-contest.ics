@@ -34,6 +34,13 @@ UID:Codeforces Round (Div. 2)
 DESCRIPTION:https://codeforces.com/contest/2288
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Codeforces Round (Div. 2)
+DTSTART:20261122T170500
+DTEND:20261122T190500
+UID:Codeforces Round (Div. 2)
+DESCRIPTION:https://codeforces.com/contest/2289
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kotlin Heroes: Practice 15
 DTSTART:20261201T223000
 DTEND:20261208T223000
