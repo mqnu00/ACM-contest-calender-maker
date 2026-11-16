@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1794706256,
-    "refreshTimeCH": "2026-11-15 09:30:56",
+    "refreshTimeStamp": 1794792944,
+    "refreshTimeCH": "2026-11-16 09:35:44",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,38 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "leetcode",
-            "name": "Weekly Contest 528",
-            "stime": 1794709800,
-            "etime": 1794715200,
-            "dtime": 5400,
-            "link": "https://leetcode.cn/contest/weekly-contest-528"
-        },
-        {
-            "oj": "luogu",
-            "name": "【LGR-315-Div.3】洛谷基础赛 #42 & IXOI Round 4",
-            "stime": 1794722400,
-            "etime": 1794735000,
-            "dtime": 12600,
-            "link": "https://www.luogu.com.cn/contest/311136"
-        },
-        {
-            "oj": "nowcoder",
-            "name": "牛客周赛 Round 170",
-            "stime": 1794740400,
-            "etime": 1794747600,
-            "dtime": 7200,
-            "link": "https://ac.nowcoder.com/acm/contest/143406"
-        },
-        {
-            "oj": "codeforces",
-            "name": "Codeforces Round 1135 (Div. 2)",
-            "stime": 1794753300,
-            "etime": 1794760500,
-            "dtime": 7200,
-            "link": "https://codeforces.com/contest/2285"
-        },
         {
             "oj": "luogu",
             "name": "[ICPC2026 Nanchang I] ICPC 2026 邀请赛南昌站重现赛",
