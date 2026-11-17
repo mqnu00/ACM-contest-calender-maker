@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1794792944,
-    "refreshTimeCH": "2026-11-16 09:35:44",
+    "refreshTimeStamp": 1794889200,
+    "refreshTimeCH": "2026-11-17 12:20:00",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -91,6 +91,14 @@
             "link": "https://codeforces.com/contest/2289"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 171",
+            "stime": 1795345200,
+            "etime": 1795352400,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/144189"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Regular Contest++ 234",
             "stime": 1795348800,
@@ -129,6 +137,14 @@
             "etime": 1795960800,
             "dtime": 14400,
             "link": "https://atcoder.jp/contests/ahc075"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "牛客周赛 Round 172",
+            "stime": 1795950000,
+            "etime": 1795957200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/144191"
         },
         {
             "oj": "codeforces",
