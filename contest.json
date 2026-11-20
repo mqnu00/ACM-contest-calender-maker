@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1795056996,
-    "refreshTimeCH": "2026-11-19 10:56:36",
+    "refreshTimeStamp": 1795143101,
+    "refreshTimeCH": "2026-11-20 10:51:41",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -10,14 +10,6 @@
         "leetcode"
     ],
     "contests": [
-        {
-            "oj": "luogu",
-            "name": "[ICPC2026 Nanchang I] ICPC 2026 邀请赛南昌站重现赛",
-            "stime": 1795064400,
-            "etime": 1795082400,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/372198"
-        },
         {
             "oj": "nowcoder",
             "name": "牛客挑战赛94",
@@ -139,6 +131,14 @@
             "link": "https://atcoder.jp/contests/abc486"
         },
         {
+            "oj": "leetcode",
+            "name": "Weekly Contest 530",
+            "stime": 1795919400,
+            "etime": 1795924800,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-530"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Heuristic Contest 075",
             "stime": 1795946400,
@@ -171,6 +171,14 @@
             "link": "https://atcoder.jp/contests/abc487"
         },
         {
+            "oj": "leetcode",
+            "name": "Biweekly Contest 197",
+            "stime": 1796481000,
+            "etime": 1796486400,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/biweekly-contest-197"
+        },
+        {
             "oj": "luogu",
             "name": "【LGR-320-Div.3】洛谷基础赛 #43 & Kobe OI Round Ⅰ",
             "stime": 1796536800,
@@ -193,6 +201,14 @@
             "etime": 1797174000,
             "dtime": 10800,
             "link": "https://atcoder.jp/contests/agc080"
+        },
+        {
+            "oj": "atcoder",
+            "name": "UNIQUE VISION Programming Contest 2026 (ChristmasAtCoder Beginner Contest 489)",
+            "stime": 1797768000,
+            "etime": 1797774000,
+            "dtime": 6000,
+            "link": "https://atcoder.jp/contests/abc489"
         },
         {
             "oj": "atcoder",

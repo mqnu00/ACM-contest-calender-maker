@@ -62,6 +62,15 @@ UID:AtCoder Grand Contest 080
 DESCRIPTION:https://atcoder.jp/contests/agc080
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:UNIQUE VISION Programming Contest 2026 (ChristmasAtCoder Beginner 
+ Contest 489)
+DTSTART:20261220T200000
+DTEND:20261220T214000
+UID:UNIQUE VISION Programming Contest 2026 (ChristmasAtCoder Beginner Cont
+ est 489)
+DESCRIPTION:https://atcoder.jp/contests/abc489
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AtCoder Grand Contest 081
 DTSTART:20261227T200000
 DTEND:20261227T230000
