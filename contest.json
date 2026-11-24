@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1795400295,
-    "refreshTimeCH": "2026-11-23 10:18:15",
+    "refreshTimeStamp": 1795499099,
+    "refreshTimeCH": "2026-11-24 13:44:59",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -33,6 +33,14 @@
             "etime": 1795786200,
             "dtime": 9000,
             "link": "https://ac.nowcoder.com/acm/contest/143482"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Codeforces Round 1138 (Div. 3)",
+            "stime": 1795790100,
+            "etime": 1795798200,
+            "dtime": 8100,
+            "link": "https://codeforces.com/contest/2292"
         },
         {
             "oj": "atcoder",
@@ -75,6 +83,14 @@
             "link": "https://codeforces.com/contest/2286"
         },
         {
+            "oj": "nowcoder",
+            "name": "牛客小白月赛141",
+            "stime": 1796382000,
+            "etime": 1796389200,
+            "dtime": 7200,
+            "link": "https://ac.nowcoder.com/acm/contest/144700"
+        },
+        {
             "oj": "atcoder",
             "name": "AtCoder Beginner Contest 487",
             "stime": 1796472000,
@@ -105,6 +121,14 @@
             "etime": 1797937200,
             "dtime": 1209600,
             "link": "https://codeforces.com/contest/2291"
+        },
+        {
+            "oj": "codeforces",
+            "name": "Kotlin Heroes: Episode 15",
+            "stime": 1796740500,
+            "etime": 1796749500,
+            "dtime": 9000,
+            "link": "https://codeforces.com/contest/2282"
         },
         {
             "oj": "atcoder",
