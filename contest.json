@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1795582026,
-    "refreshTimeCH": "2026-11-25 12:47:06",
+    "refreshTimeStamp": 1795665482,
+    "refreshTimeCH": "2026-11-26 11:58:02",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -57,6 +57,14 @@
             "etime": 1795924800,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/weekly-contest-530"
+        },
+        {
+            "oj": "nowcoder",
+            "name": "2026年CCPC新疆维吾尔自治区大学生程序设计竞赛",
+            "stime": 1795924800,
+            "etime": 1795942800,
+            "dtime": 18000,
+            "link": "https://ac.nowcoder.com/acm/contest/142934"
         },
         {
             "oj": "atcoder",
