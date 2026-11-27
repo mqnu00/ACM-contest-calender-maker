@@ -1,6 +1,6 @@
 {
-    "refreshTimeStamp": 1795665482,
-    "refreshTimeCH": "2026-11-26 11:58:02",
+    "refreshTimeStamp": 1795751801,
+    "refreshTimeCH": "2026-11-27 11:56:41",
     "timezone": "utc+8",
     "OJType": [
         "codeforces",
@@ -12,11 +12,11 @@
     "contests": [
         {
             "oj": "luogu",
-            "name": "[CCPC 2026 长春站] CCPC 2026 长春站重现赛",
-            "stime": 1795669200,
-            "etime": 1795687200,
-            "dtime": 18000,
-            "link": "https://www.luogu.com.cn/contest/372200"
+            "name": "COCI 2026/2027 #2 Unofficial Mirror",
+            "stime": 1795759200,
+            "etime": 1795770000,
+            "dtime": 10800,
+            "link": "https://www.luogu.com.cn/contest/375975"
         },
         {
             "oj": "luogu",
@@ -113,6 +113,14 @@
             "etime": 1796486400,
             "dtime": 5400,
             "link": "https://leetcode.cn/contest/biweekly-contest-197"
+        },
+        {
+            "oj": "leetcode",
+            "name": "Weekly Contest 531",
+            "stime": 1796524200,
+            "etime": 1796529600,
+            "dtime": 5400,
+            "link": "https://leetcode.cn/contest/weekly-contest-531"
         },
         {
             "oj": "luogu",

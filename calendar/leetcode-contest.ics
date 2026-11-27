@@ -26,4 +26,11 @@ DTEND:20261206T000000
 UID:Biweekly Contest 197
 DESCRIPTION:https://leetcode.cn/contest/biweekly-contest-197
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weekly Contest 531
+DTSTART:20261206T103000
+DTEND:20261206T120000
+UID:Weekly Contest 531
+DESCRIPTION:https://leetcode.cn/contest/weekly-contest-531
+END:VEVENT
 END:VCALENDAR
